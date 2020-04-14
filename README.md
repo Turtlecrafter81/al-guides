@@ -13,17 +13,34 @@ Other useful resources:
  - [MajorProcrastinator's eHP calculator](https://github.com/MajorProcrastinator/Auto-eHP-Calc)
  - [Bazzra's airstrike cooldown calculator](https://bazzra.github.io/)
  - [Enbayft's AL Repository](https://github.com/Enbayft/Random-AL-Stuff)
- - [Binary102's decompiled AL client source](https://github.com/Binary102/AzurLane_ClientSource)
+ - [Dimbreath's decompiled AL client source code](https://github.com/Dimbreath/AzurLaneScripts)
+ - [Meowrin's Commonly used Nickname album](https://imgur.com/a/4wEvTQo)
  - [Azur Lane Wiki](https://azurlane.koumakan.jp/Azur_Lane_Wiki)
  - [Azur Lane Enemy Data](https://al-data.github.io/enemies)
  
-If you have any questions or comments, feel free to post an issue on github, or contact me on discord. I can be found on the Azur Lane English Community server.
+Credits:
+ - The original creator of the guide: [guroteske](https://github.com/guroteske/al-guides)
+ - Various source images exported from the game files from: [Dimbreath](https://github.com/Dimbreath) 
+ - Various opinions and support from the ALEC and ALO discord
+
+If you have any questions or comments, feel free to ~~post an issue on github,~~ (I'm bad at github, send help) contact me on discord. I can be found on the Azur Lane English Community discord server and the Azur Lane Official discord server.
 
 ```
 CHANGELOG
 ---------
+2020-04-12
+  copied over al-guides repo from guroteske's github
+  added equipemnt from various recent events and added an ASW section to the Auxiliary guide:
+    Microlayer Medley: Consolidated PBY-5A Catalina
+    Northern Overture: Intel Report-Arctic Stronghold
+    Scherzo of Iron and Blood: Flettner Fl 282 Kolibri
+    Crosswave: VH Armor
+    Looking Glass of Fact and Fiction: Team Emblem and Gamer's Mark
+  minor link/wording changes
+  changed binary102's client source to Dimbreath's automatically updated client source
+  added Meowrin's Nickname album
 2020-01-27
-  added equipment from royal maid notrerun to equipment guide.md:
+  added equipment from royal maid server event to equipment guide.md:
     130mm single, 134mm twin high-angle
   added equipment from core data to auxiliary guide.md and core data guide.md:
     ocean soul camo
