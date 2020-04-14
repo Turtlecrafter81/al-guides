@@ -162,7 +162,7 @@ As a general rule of thumb, for standard maps, your fleet will always contain at
  
  - As ramming damage cannot be evaded, a ship's eHP might be higher with an HP-focused loadout in maps whose spawn patterns lead to heavy ramming damage even on a heavy cruiser who might typically gain more eHP for other maps with a non-HP loadout. Additionally, bosses in EX stages cannot miss their attacks. While these stages are generally designed for manual play under the assumption that you will manually dodge enemy shelling patterns, HP-boosting aux will provide a safety net evasion-boosting aux cannot.
 
-**Anti-Submarine Auxiliaries**<br/>
+##**Anti-Submarine Auxiliaries**<br/>
 [![Improved Sonar](/resources/Improved%20Sonar.png)](https://azurlane.koumakan.jp/Improved_Sonar#Type_3)
 [![Depth Charge](/resources/Depth%20Charge.png)](https://azurlane.koumakan.jp/Improved_Depth_Charge#Type_3)
 [![TBM-3 Avenger (ASW)](/resources/TBM%20ASW.png)](https://azurlane.koumakan.jp/General_Motors_TBM-3_Avenger_(ASW)#Type_3)
@@ -176,7 +176,7 @@ As a general rule of thumb, for standard maps, your fleet will always contain at
 
  - **[Swordfish (ASW)](https://azurlane.koumakan.jp/Fairey_Swordfish_Mk_II-ASV_(ASW)#Type_3)** is also an ASW plane while it reloads slightly slower than the TBM-3 Avenger, it also does more damage in a smaller area.
  
-## Anti-submarine Auxiliaries Selection Guidelines:
+### Anti-submarine Auxiliaries Selection Guidelines:
 **[Rescue Missions](https://azurlane.koumakan.jp/Anti-Submarine_Warfare)** are the only currently permanently available way to obtain submarine and ASW equipment. Clearing 3-4 the first time will reward you with some starter ASW equipment (a Blue Basic Sonar and a Blue Basic Depth Charge) which are enough to clear all the way to chapter 10 with enough level advantage. Should you want more equipment to challenge higher maps with less leveled ships, you can also buy ASW boxes in [medal exchange](https://azurlane.koumakan.jp/Building#Exchange), while these boxes do not give higher rarity ASW gears, they are proficient enough for the job at hand. Due to the increasing presence of submarines in event maps, having ASW gears will allow you to prevent damage to your backline from enemy submarines during submarine siren fights (note: most event (except Ashen Simulacrum) submarine sirens do not move so you can avoid fighting them entirely).
  
  - Your fleet will want a way to spot submarine (Sonar, Koln Kai, Cooper, Chaser, etc) and a couple damage dealing equipment (Depth Charges and ASW planes) to do burst damage when the submarines are revealed.
