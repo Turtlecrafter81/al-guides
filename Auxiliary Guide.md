@@ -162,7 +162,7 @@ As a general rule of thumb, for standard maps, your fleet will always contain at
  
  - As ramming damage cannot be evaded, a ship's eHP might be higher with an HP-focused loadout in maps whose spawn patterns lead to heavy ramming damage even on a heavy cruiser who might typically gain more eHP for other maps with a non-HP loadout. Additionally, bosses in EX stages cannot miss their attacks. While these stages are generally designed for manual play under the assumption that you will manually dodge enemy shelling patterns, HP-boosting aux will provide a safety net evasion-boosting aux cannot.
 
-##**Anti-Submarine Auxiliaries**<br/>
+## **Anti-Submarine Auxiliaries**<br/>
 [![Improved Sonar](/resources/Improved%20Sonar.png)](https://azurlane.koumakan.jp/Improved_Sonar#Type_3)
 [![Depth Charge](/resources/Depth%20Charge.png)](https://azurlane.koumakan.jp/Improved_Depth_Charge#Type_3)
 [![TBM-3 Avenger (ASW)](/resources/TBM%20ASW.png)](https://azurlane.koumakan.jp/General_Motors_TBM-3_Avenger_(ASW)#Type_3)
