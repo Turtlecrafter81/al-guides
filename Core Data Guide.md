@@ -12,7 +12,7 @@ Cognition chips are a well-justified value proposition. Their core data cost is 
 
 ## Recommended Primary Equipment
 [![Prototype 203mm Twin No.3](/resources/pr203mm%20mounted%20no3%20no_gr.png)](https://azurlane.koumakan.jp/Twin_203mm_(3rd_Year_Type_No._3_Prototype))
-[![VF-17 Corsair](/resources/VF-17%20no_gr.png)](https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron)
+[![VF-17 Corsair](/resources/VF-17%20no_gr.png)](https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron))
 [![Fairey Firefly](/resources/firefly%20no_gr.png)](https://azurlane.koumakan.jp/Fairey_Firefly)
 [![Swordfish (818 Squadron)](/resources/swordfish%20818%20no_gr.png)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))
 [![Seiran](/resources/seiran%20no_gr.png)](https://azurlane.koumakan.jp/Aichi_M6A_Seiran)
