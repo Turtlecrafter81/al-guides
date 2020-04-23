@@ -248,7 +248,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![40mm Quad Bofors](/resources/40mm%20quad%20bofors%20gr_s.png)](https://azurlane.koumakan.jp/Quadruple_40mm_L60_Mk2_Bofors)
 [![40mm 8x Pom-Pom](/resources/40mm%208x%20pom-pom%20gr_s.png)](https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom)
 [![113mm Twin](/resources/113mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_113mm_(4.5%22/45_QF_Mk_I))
-[![134mm Twin High-Angle](/resources/134mm%20twin%20high-angle%20gr_a.png)](https://azurlane.koumakan.jp/Twin_134mm_High-Angle_(QF_Mk_I))
+[![134mm Twin High-Angle](/resources/134mm%20high-angle%20gr_a.png)](https://azurlane.koumakan.jp/Twin_134mm_High-Angle_(QF_Mk_I))
 [![100mm Twin High-Angle](/resources/100mm%20twin%20high-angle%20gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_(Type_98))
 [![105mm Twin SKC](/resources/105mm%20twin%20skc%20gr_a.png)](https://azurlane.koumakan.jp/Twin_105mm_(SK_C/33))
 
