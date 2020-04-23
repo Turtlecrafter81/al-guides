@@ -88,7 +88,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 **Main Fleet Auxiliaries** <br/>
 [![pr152mm Triple AP](/resources/pr152mm%20triple%20ap%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
 [![152mm Triple HE](/resources/152mm%20triple%20he%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16)#Type_3)
-[![152mm Triple (MK-5)](/resources/152mm%20triple%20MK-5.png)](https://azurlane.koumakan.jp/Triple_152mm_(MK-5)#Type_3)
+[![152mm Triple (MK-5)](/resources/152mm%20triple%20MK-5%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(MK-5)#Type_3)
 [![155mm Triple](/resources/155mm%20triple%20gr_s.png)](https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3)
 [![152mm Twin AP](/resources/152mm%20twin%20ap%20gr_a.png)](https://azurlane.koumakan.jp/Twin_152mm_(BL_6%22_Mk_XXII)#Type_3)
 [![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_a.png)](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
