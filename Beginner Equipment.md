@@ -59,6 +59,8 @@ An often overlooked aspect of equipment performance, ballistics refers to the ph
 - Assuming a target (any target, even if it is not the intended target) is hit, the bomb will explode and deal damage in the pink circle corresponding to its weight.
 - The image below reflects a bomb which has hit its triggering target dead-center in its black circle and hence dealt damage to its intended target and the surrounding pink area.
 
+![](/resources/Bombs%20Graph.png)
+
 ## Shops
 There are five main shops of note in Azur Lane:
  - **[General Munitions](https://azurlane.koumakan.jp/Shops#General_Shop)** - Exchange gold for various supplies. While equipment boxes may seem tempting, they're practically never worth buying. Even on a deep discount, the price of equipment boxes is still too steep given their rng nature. More cost-efficient purchases from this shop are: *T3 Skill Books* and *T3 Upgrade Parts*.
