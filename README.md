@@ -34,6 +34,7 @@ CHANGELOG
     Triple 152mm (MK-5)
     Twin 457mm (Mark A Prototype)
     Douglas SBD Dauntless (McClusky)
+  various images and wiki links updated
 2020-04-12
   updated Core Data Guide with recent Core Data Shop additions and changes recommendations with:
     Vought F4U Corsair (VF-17 Squadron)
