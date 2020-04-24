@@ -28,9 +28,22 @@ If you have any questions or comments, feel free to ~~post an issue on github,~~
 ```
 CHANGELOG
 ---------
+2020-04-23
+  added equipment from Northern Overture event to Equipment Guide with additions and changes to:
+    Twin 130mm (B-2LM)
+    Triple 152mm (MK-5)
+    Twin 457mm (Mark A Prototype)
+    Douglas SBD Dauntless (McClusky)
+2020-04-12
+  updated Core Data Guide with recent Core Data Shop additions and changes recommendations with:
+    Vought F4U Corsair (VF-17 Squadron)
+    Hawker Sea Fury
+    Blackburn Firebrand
+    Douglas SBD Dauntless (McClusky)
+    Seal of the Four Gods
 2020-04-12
   copied over al-guides repo from guroteske's github
-  added equipemnt from various recent events and added an ASW section to the Auxiliary guide:
+  added equipemnt from various recent events and added an ASW section to the Auxiliary Guide:
     Microlayer Medley: Consolidated PBY-5A Catalina
     Northern Overture: Intel Report-Arctic Stronghold
     Scherzo of Iron and Blood: Flettner Fl 282 Kolibri
