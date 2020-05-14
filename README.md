@@ -10,6 +10,7 @@ Current recommended reading order for newbies:
  
 Other useful resources:
  - [Kawaii Five-O's ship tier guide](https://github.com/YourWaifuIsShip/Azur-Lane-Guides)
+ - [pootatoast's dedicated submarine and ASW guide](https://azurlane.koumakan.jp/User:Itsfyh/Submarines)
  - [MajorProcrastinator's eHP calculator](https://github.com/MajorProcrastinator/Auto-eHP-Calc)
  - [Bazzra's airstrike cooldown calculator](https://bazzra.github.io/)
  - [Enbayft's AL Repository](https://github.com/Enbayft/Random-AL-Stuff)
@@ -28,6 +29,10 @@ If you have any questions or comments, feel free to ~~post an issue on github,~~
 ```
 CHANGELOG
 ---------
+2020-05-14
+  changes the wording for SBD McClusky in Equipment Guide
+  updated 138mm icon
+  added a dedicated submarine guide made by pootatoast in useful resources
 2020-04-23
   added equipment from Northern Overture event to Equipment Guide with additions and changes to:
     Twin 130mm (B-2LM)
