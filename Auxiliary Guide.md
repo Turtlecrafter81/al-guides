@@ -119,9 +119,12 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  - **[Type 94 High-Angle Director](https://azurlane.koumakan.jp/Type_94_High_Angle_Director)** has a moderate boost to anti-air and a mild boost to accuracy. Generally not useful as a more dedicated piece of equipment will provide a far more potent boost to either of those stats while also bringing a bonus skill effect.
 
 **Submarine Auxiliaries**<br/>
+[![Oxytorp](/resources/oxytorp%20no_gr.png)](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)
 [![Snorkel](/resources/snorkel%20no_gr.png)](https://azurlane.koumakan.jp/Improved_Snorkel)
 [![Battery](/resources/battery%20no_gr.png)](https://azurlane.koumakan.jp/Improved_Storage_Battery)
 
+ - **[Type 93 Oxygen Torpedo](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)** is the only torpedo boosting auxiliary equipment coupled with a moderate reload boost. It is a given at all submarines should be equipped with at least one oxytorp. It is also rainbow rarity which means it provides a higher CP boost than gold rarity equipment which affect the submarine passive map damage.
+ 
  - **[Improved Snorkel](https://azurlane.koumakan.jp/Improved_Snorkel)** boosts the O2 stat of the equipped submarine, increasing the amount of time they can stay submerged. While not directly offensive, it enables certain submarines to fire off an extra volley with their equipped torpedoes, which provides a greater increase in damage than the large torpedo stat boost of an oxytorp. Only one oxygen-increasing aux can be equipped per submarine.
  
  - **[Improved Storage Battery](https://azurlane.koumakan.jp/Improved_Storage_Battery)** provides a mild evasion boost and increases a submarine's hunting range by up to 2 levels. Only functions when equipped to the submarine fleet flagship. As meowficers can provide the same increase in hunting range while also boosting stats and not coming with the opportunity cost of occupying an aux slot, the battery is generally not worth investing in but is useful in one specific instance where you can run a 0LB sub as flag to have the best possible range while costing very little for leveling other subs.
