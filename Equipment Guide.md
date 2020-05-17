@@ -132,7 +132,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - Due to the burst-damage nature of battleship main guns, they're grouped together based on their expected reload speeds. The highest direct damage guns tend to have firing timers longer than 20s, while the fastest guns have firing timers shorter than 18s and are generally best suited for use on ships with powerful skills that proc on main gun fire. This leaves a select handful of guns that fall into the 18-20s band. These guns have the potential to outdamage the slower guns under the right circumstances, while also still being fast enough to function well on ships with proc-on-fire skills.<br/><br/>In general, battleships used for trash clearing will also prefer a gun with a faster fire rate due to their more smooth damage curve and the tendency for higher damage guns to overkill trash mobs.
 
 **>20s** <br/>
-[![406mm Triple Mk6](/resources/406mm%20triple%20mk6%20gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_caliber_Mark_6)#Type_3)
+[![406mm Triple Mk6](/resources/406mm%20triple%20mk6%20gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_Mk_6)#Type_3)
 [![pr381mm Triple](/resources/pr381mm%20triple%20gr_a.png)](https://azurlane.koumakan.jp/Triple_381mm_Prototype_(BL_15%22_Mk_III))
 [![380mm Quad](/resources/380mm%20quad%20gr_a.png)](https://azurlane.koumakan.jp/Quadruple_380mm_(Mle_1935)#Type_3)
 [![pr410mm Triple](/resources/pr410mm%20triple%20gr_a.png)](https://azurlane.koumakan.jp/Triple_410mm_Prototype_(10th_Year_Type))
@@ -140,7 +140,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![406mm Triple MkI](/resources/406mm%20triple%20mki%20gr_b.png)](https://azurlane.koumakan.jp/Triple_406mm_(BL_16%22_Mk_I)#Type_3)
 [![356mm Quad](/resources/356mm%20quad%20gr_b.png)](https://azurlane.koumakan.jp/Quadruple_356mm_(BL_14%22_Mk_VII)#Type_3)
 
- - **[406mm Triple Mk6](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_caliber_Mark_6)#Type_3)** has the strongest overall shelling output of any battleship main gun. The de facto standard damage-focused battleship gun.
+ - **[406mm Triple Mk6](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_Mk_6)#Type_3)** has the strongest overall shelling output of any battleship main gun. The de facto standard damage-focused battleship gun.
  - **[Prototype 381mm Triple BL MkIII](https://azurlane.koumakan.jp/Triple_381mm_Prototype_(BL_15%22_Mk_III))** sacrifices some shelling damage compared to the Mk6 for a faster reload speed and higher firepower bonus. Useful on ships who value the firepower boost more than the raw damage output, or for battleships that need to fire before other battleships in order to make use of proc-on-fire buffs, debuffs, or other effects.
  - **[380mm Quad Mle1935](https://azurlane.koumakan.jp/Quadruple_380mm_(Mle_1935)#Type_3)** is the signature gun of Jean Bart and the only gun she uses. Its high alpha damage and volume of fire give it potential use on other ships, especially for clearing fleets, but its non-zero volley time drastically reduces its efficacy against non-stationary bosses.
  - **[Prototype 410mm Triple](https://azurlane.koumakan.jp/Triple_410mm_Prototype_(10th_Year_Type))** has comparable base stats to the Mk6, but fires AP shells. While this reduces its value as a general-use gun, it's a potent gun when fighting bosses with medium or heavy armour.
