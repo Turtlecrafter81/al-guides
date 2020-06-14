@@ -112,7 +112,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 **General Primaries** <br/>
 [![pr203mm Triple SKC](/resources/pr203mm%20triple%20skc%20gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(SK_C/34))
 [![203mm Twin M1927](/resources/203mm%20m1927%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_(Model_1927)#Type_3)
-[![203mm Twin Mle1924][/resources/203mm%201924%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_(Mle_1924)#Type_3)
+[![203mm Twin Mle1924](/resources/203mm%201924%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_(Mle_1924)#Type_3)
 [![pr203mm Triple HE](/resources/pr203mm%20triple%20he%20gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(Mle_1934))
 [![pr203mm Mounted no.3](/resources/pr203mm%20mounted%20no3%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_Prototype_(No._3))
 [![203mm Mounted](/resources/203mm%20mounted%20gr_a.png)](https://azurlane.koumakan.jp/Twin_203mm_(3rd_Year_Type)#Type_3)
