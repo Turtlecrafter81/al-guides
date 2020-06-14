@@ -20,7 +20,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![138mm Single HE](/resources/138mm%20single%20gr_s.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3)
 [![130mm Twin](/resources/130mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3)
 [![130mm Single](/resources/130mm%20single%20gr_s.png)](https://azurlane.koumakan.jp/Single_130mm_(B13_Pattern_1936)#Type_3)
-[![138mm Single Mle1927](/resources/138mm27%20%gr_a+.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1927)#Type_3)
+[![138mm Single Mle1927](/resources/138mm27%20gr_a.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1927)#Type_3)
 [![120mm Twin](/resources/120mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)
 [![127mm Single](/resources/127mm%20single%20gr_a.png)](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30)#Type_3)
 [![127mm Twin](/resources/127mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38)#Type_3)
@@ -45,7 +45,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 [![100mm Twin](/resources/100mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)
 [![130mm Single](/resources/130mm%20single%20gr_a.png)](https://azurlane.koumakan.jp/Single_130mm_(B13_Pattern_1936)#Type_3)
 [![120mm Twin](/resources/120mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)
-[![138mm Single Mle1927](/resources/138mm27%20%gr_a.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1927)#Type_3)
+[![138mm Single Mle1927](/resources/138mm27%20gr_a.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1927)#Type_3)
 [![127mm Single](/resources/127mm%20single%20gr_a.png)](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30)#Type_3)
 [![127mm Twin](/resources/127mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38)#Type_3)
  
