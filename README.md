@@ -2,6 +2,8 @@
 
 This repository contains a number of guides aimed at breaking down certain conceptual aspects in order to teach players how to make informed decisions about how to tackle content within the game Azur Lane. All guide content is intended to be viewed in your browser. Downloading the repository can give you access to offline, plain-text copies, but all images, links, and formatting will fail to render.
 
+Here's my favorite reading music to help you read through these: [Cafe de Touhou albums 1-8](https://youtu.be/Aq6I6LK01Q0)
+
 Current recommended reading order for newbies:
  - [Beginner Equipment Guide](/Beginner%20Equipment.md)
  - [Limit Break Guide](/Limit%20Break%20Guide.md)
@@ -29,9 +31,12 @@ If you have any questions or comments, feel free to ~~post an issue on github,~~
 ```
 CHANGELOG
 ---------
+2020-06-17 
+  added single 138mm mle 1927 and twin 203mm mle 1924 to the Equipment Guide
+  added a reading music youtube link 
 2020-05-14
   changes the wording for SBD McClusky in Equipment Guide
-  updated 138mm icon
+  updated single 138mm mle 1929 icon
   added a dedicated submarine guide made by pootatoast in useful resources
 2020-04-23
   added equipment from Northern Overture event to Equipment Guide with additions and changes to:
