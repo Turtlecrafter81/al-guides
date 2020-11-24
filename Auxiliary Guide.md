@@ -8,25 +8,29 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![Improved Hydraulic Rudder](/resources/improved%20hydraulic%20rudder%20no_gr.png)](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)
 [![Beaver Badge](/resources/beaver%20badge%20no_gr.png)](https://azurlane.koumakan.jp/Little_Beaver_Squadron_Tag)
 [![Repair Kit](/resources/repair%20kit%20no_gr.png)](https://azurlane.koumakan.jp/Repair_Toolkit#Type_3)
+[![Cosmic Kicks](/resources/Cosmic%20Kicks%20no_gr.png)](https://azurlane.koumakan.jp/Cosmic_Kicks)
 [![Pyoko-Pyoko](/resources/pyoko-pyoko%20no_gr.png)](https://azurlane.koumakan.jp/Pyoko-Pyoko)
-[![Gamer's Mark](/resources/Gamers%20Mark.png)](https://azurlane.koumakan.jp/Gamers_Mark)
 [![Seal of the Four Gods](/resources/Seal%20of%20the%20Four%20Gods.png)](https://azurlane.koumakan.jp/Seal_of_the_Four_Gods)
+[![Gamer's Mark](/resources/Gamers%20Mark.png)](https://azurlane.koumakan.jp/Gamers_Mark)
+[![Celestial Body](/resources/Celestial%20Body%20no_gr.png)](https://azurlane.koumakan.jp/Celestial_Body)
 [![Fuel Filter](/resources/fuel%20filter%20no_gr.png)](https://azurlane.koumakan.jp/Fuel_Filter#Type_3)
 [![Naval Camo](/resources/naval%20camo%20no_gr.png)](https://azurlane.koumakan.jp/Naval_Camouflage)
 [![Hydraulic Rudder](/resources/hydraulic%20rudder%20no_gr.png)](https://azurlane.koumakan.jp/Hydraulic_Steering_Gear)
 [![Shimapan Camo](/resources/Shimapan%20Camo.png)](https://azurlane.koumakan.jp/Ocean_Soul_Camouflage)
 
- - **[Improved Hydraulic Rudder](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)** is the strongest evasion-focused aux. In addition to having the strongest raw stats boost from a defensive standpoint, this rudder has a 30% chance every 20s to evade all attacks for 2 seconds. Limited to one per ship.
+ - **[Improved Hydraulic Rudder](https://azurlane.koumakan.jp/Improved_Hydraulic_Rudder)** is the strongest evasion-focused aux. In addition to having the strongest raw stats boost from a defensive standpoint, this rudder has a 30% chance every 20s to evade all attacks for 2 seconds. **Limited to one per ship.**
  
- - **[Beaver Squadron Badge](https://azurlane.koumakan.jp/Little_Beaver_Squadron_Tag)** provides a similar, but slightly weaker stats boost to the improved rudder. However, it trades the rudder's emergency evasion skill for a permanent fleet-wide speed boost. While the speed boost is only relevant for the vanguard, the boost is active regardless of where the badge is equipped.
+ - **[Beaver Squadron Badge](https://azurlane.koumakan.jp/Little_Beaver_Squadron_Tag)** provides a similar, but slightly weaker stats boost to the improved rudder. However, it trades the rudder's emergency evasion skill for a permanent fleet-wide speed boost. While the speed boost is only relevant for the vanguard, the boost is active regardless of where the badge is equipped. Due to the one Rudder limits on ship, it makes this is the 2nd best evasion gear on units that desperately needs it (e.g most CAs, BBs in PvP).
 
  - **[Repair Kit/Toolbox](https://azurlane.koumakan.jp/Repair_Toolkit#Type_3)** has the 2nd highest raw HP boost and slowly restores the equipped ship's HP over time. The heal-over-time from the repair kit can, in certain scenarios, make up for the repair kit providing a weaker raw eHP boost. While the repair kit is not limited per ship, the heal from only a single repair kit can be in effect.
 
+ - **[Cosmic Kicks/Heels](https://azurlane.koumakan.jp/Cosmic_Kicks)** has the 3rd highest evasion stat boost in the game and has a 5 speed as a side bonus. Used as such on evasion hungry units (e.g CAs)
+ 
  - **[Pyoko-Pyoko/Headband](https://azurlane.koumakan.jp/Pyoko-Pyoko)** provides the same HP boost as the repair kit, but trades the heal-over-time for a minor luck boost. While the luck boost is incredibly small, because the heal from multiple repair kits cannot stack, Headband becomes an optimal replacement for a repair kit when equipped to a ship who would otherwise gain the highest eHP boost from equipping two auxiliary equips that give this level of HP boost.
  
  - **[Seal of the Four Gods](https://azurlane.koumakan.jp/Seal_of_the_Four_Gods)** has the highest raw HP boost for Destroyers in the game and increases the barrage damage of the four ROC DDs by 50% as well as changes the barrage color. Limited to only Destroyers. While the HP difference is small, it is relevant nonetheless due to the same reason as Headband.
  
- - **[Gamer's Mark](https://azurlane.koumakan.jp/Gamers_Mark)** provides the same raw HP boost as Seal of the Four Gods but is not limited to only Destroyers which means ships that may value the HP boost (e.g Ryuuhou, CL/CAs in specific situations) can also make use of it.
+ - **[Gamer's Mark](https://azurlane.koumakan.jp/Gamers_Mark)** and **[Celestial Body](https://azurlane.koumakan.jp/Celestial_Body)** provides the same raw HP boost as Seal of the Four Gods but is not limited to only Destroyers which means ships that may value the HP boost (e.g Ryuuhou, CL/CAs in specific situations, 0LB ships) can also make use of it.
  
  - **[Fuel Filter](https://azurlane.koumakan.jp/Fuel_Filter#Type_3)** gives a moderate boost to HP and a small boost to evasion, while also having no bonus skill effect. While it is suboptimal in nearly every situation, it is still useful as transitional equipment.
  
@@ -46,7 +50,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![Repair Crane](/resources/repair%20crane%20no_gr.png)](https://azurlane.koumakan.jp/Ship_Maintenance_Crane#Type_3)
 [![Torpedo Bulge](/resources/torpedo%20bulge%20no_gr.png)](https://azurlane.koumakan.jp/Anti-Torpedo_Bulge#Type_3)
 [![Pearl Tears](/resources/pearl%20tears%20no_gr.png)](https://azurlane.koumakan.jp/Pearl_Tears)
-[![VH Armor](/resources/VH%20Armor.png)](https://azurlane.koumakan.jp/VH_Armor_Plating)
+[![VH Armor Plating](/resources/VH%20Armor%20Plating%20no_gr.png)](https://azurlane.koumakan.jp/VH_Armor_Plating)
 
  - **[Fire Extinguisher](https://azurlane.koumakan.jp/Fire_Extinguisher)** provides a moderate boost to HP and reduces the chances of a ship catching fire, reduces damage received when on fire, and reduces the duration of burn effects.
  
@@ -58,7 +62,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  
  - **[Pearl Tears](https://azurlane.koumakan.jp/Pearl_Tears)** provide an equivalent HP boost to the repair kit, but trade the heal-over-time for a fleet-wide heal when the equipped ship sinks. Useful when powerleveling low-level ships and especially useful in PVP.
 
- - **[VH Armor](https://azurlane.koumakan.jp/VH_Armor_Plating)** provide the highest raw HP boost in the game for Battleships, Battlecruisers, Aviation Battleships, Aircraft Carriers and Large Cruiser(s) as well as reduces damage taken from all ammo type on a Heavy armored ship OR changes their armor type to Heavy if the ship armor isn't Heavy. Useful for specific backliners with %HP self-healing capabilities or paired with Vestal against AP damage source in event maps, or on a particular frontline Large Cruiser. Limited usage in normal maps due to backline ships have either more appropiate defensive equipment for the situation or simply prefer offensive options.
+ - **[VH Armor Plating](https://azurlane.koumakan.jp/VH_Armor_Plating)** provide the highest raw HP boost in the game for Battleships, Battlecruisers, Aviation Battleships, Aircraft Carriers and Large Cruiser(s) as well as reduces damage taken from all ammo type on a Heavy armored ship OR changes their armor type to Heavy if the ship armor isn't Heavy. Useful for specific backliners with %HP self-healing capabilities or paired with Vestal against AP damage source in event maps, or on a particular frontline Large Cruiser. Limited usage in normal maps due to backline ships have either more appropiate defensive equipment for the situation or simply prefer offensive options.
 
 ## Offensive Auxiliary Equipment
 **Vanguard Auxiliaries**<br/>
@@ -108,13 +112,18 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 ## Miscellaneous Auxiliary Equipment
 **Accuracy Boosting Auxiliaries**<br/>
 [![SG Radar](/resources/sg%20radar%20no_gr.png)](https://azurlane.koumakan.jp/SG_Radar#Type_3)
+[![Resplendent Astrum](/resources/Resplendent%20Astrum%20no_gr.png)](https://azurlane.koumakan.jp/Resplendent_Astrum)
+[![Sacred Lumière](/resources/Sacred%20Lumière%20no_gr.png)](https://azurlane.koumakan.jp/Sacred_Lumi%C3%A8re)
+[![White-Hot Verheerender](/resources/White-Hot%20Verheerender%20no_gr.png)](https://azurlane.koumakan.jp/White-Hot_Verheerender)
 [![RWG](/resources/rwg%20no_gr.png)](https://azurlane.koumakan.jp/Random_Word_Generator)
 [![Team Emblem](/resources/Team%20Emblem.png)](https://azurlane.koumakan.jp/Team_Emblem)
 [![T94 Director](/resources/t94%20director%20no_gr.png)](https://azurlane.koumakan.jp/Type_94_High_Angle_Director)
 
  - **[SG Radar](https://azurlane.koumakan.jp/SG_Radar#Type_3)** is a core auxiliary equip for any fleet. It has a split of evasion and accuracy making it the only true hybrid offensive/defensive aux. More importantly, the SG radar improves your chances of evading ambushes as well as decrease the encounter rate; does not stack with the high-performance AA radar (see above) and Catalina (see below). While slightly weaker than the naval camo in terms of raw eHP, the accuracy boost and ambush evasion make SG radars a generally more useful aux.
  
- - **[Random Word Generator](https://azurlane.koumakan.jp/Random_Word_Generator)** and **[Team Emblem](https://azurlane.koumakan.jp/Team_Emblem)** provides a similar statline to the SG radar, but with a slightly lower accuracy boost and without the ambush evasion effect. They are currently the strongest accuracy-boosting piece of equipment for carriers, as they cannot equip the SG Radar or Gyroscope.
+ - **[Resplendent Astrum](https://azurlane.koumakan.jp/Resplendent_Astrum)**, **[Sacred Lumière](https://azurlane.koumakan.jp/Sacred_Lumi%C3%A8re)** and **[White-Hot Verheerender](https://azurlane.koumakan.jp/White-Hot_Verheerender)** are the 3 mics, identically giving 30 accuracy and 35 anti-air. They are currently the strongest accuracy-boosting auxiliary equipment for carriers but how useful is that stat boost is still left for debate.
+ 
+ - **[Random Word Generator](https://azurlane.koumakan.jp/Random_Word_Generator)** and **[Team Emblem](https://azurlane.koumakan.jp/Team_Emblem)** provides a similar statline to the SG radar, but with a slightly lower accuracy boost and without the ambush evasion effect. They are currently the 2nd strongest accuracy-boosting piece of equipment for carriers, as they cannot equip the SG Radar or Gyroscope.
  
  - **[Type 94 High-Angle Director](https://azurlane.koumakan.jp/Type_94_High_Angle_Director)** has a moderate boost to anti-air and a mild boost to accuracy. Generally not useful as a more dedicated piece of equipment will provide a far more potent boost to either of those stats while also bringing a bonus skill effect.
 
