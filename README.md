@@ -31,6 +31,9 @@ If you have any questions or comments, feel free to ~~post an issue on github,~~
 ```
 CHANGELOG
 ---------
+2020-11-23
+  added PR3 research equipments to the Equipment Guide
+  added Universe in Unison and some other misc Auxiliary Equipment to the Auxiliary Guide
 2020-06-17 
   added single 138mm mle 1927 and twin 203mm mle 1924 to the Equipment Guide
   added a reading music youtube link 
