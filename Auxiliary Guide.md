@@ -67,11 +67,14 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 ## Offensive Auxiliary Equipment
 **Vanguard Auxiliaries**<br/>
 [![Oxytorp](/resources/oxytorp%20no_gr.png)](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)
+[![533mm Magnetic Torpedo](/resources/533mm%20Magnetic%20Torpedo%20no_gr.png)](https://azurlane.koumakan.jp/533mm_Magnetic_Torpedo)
 [![Autoloader](/resources/autoloader%20no_gr.png)](https://azurlane.koumakan.jp/Autoloader#Type_3)
 [![FCR](/resources/fcr%20no_gr.png)](https://azurlane.koumakan.jp/Fire_Control_Radar#Type_3)
 [![FP Report](/resources/FP%20Report.png)](https://azurlane.koumakan.jp/Intel_Report-Arctic_Stronghold)
 
  - **[Type 93 Oxygen Torpedo](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)** has a very high torpedo boost with a moderate reload boost. For most ships equipped with torpedoes, it will provide a higher DPM boost than any other aux. However, as this is reliant on your torpedoes actively hitting targets, other auxiliaries may provide a superior effective DPM boost.
+ 
+ - **[533mm Magnetic Torpedo](https://azurlane.koumakan.jp/533mm_Magnetic_Torpedo)** has a decently high torpedo boost with an average accuracy boost coupled with a unique skill to make the 1st torps salvo every fight to have a homing effect as well as increase its damage by 5%. Very potent in PvP torpedo vanguards and great for Siren nuking since most ships come equipped with a preloaded torp salvo to enable them to use the best nuking torp mount without worrying about manual gameplay.
  
  - **[Automated Reloader](https://azurlane.koumakan.jp/Autoloader#Type_3)** has a very high reload boost with a mild firepower boost. It is the only available offensive aux for gunboat light cruisers and generally the strongest offensive aux for gunboat heavy cruisers.
  
@@ -131,12 +134,15 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![Oxytorp](/resources/oxytorp%20no_gr.png)](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)
 [![Snorkel](/resources/snorkel%20no_gr.png)](https://azurlane.koumakan.jp/Improved_Snorkel)
 [![Battery](/resources/battery%20no_gr.png)](https://azurlane.koumakan.jp/Improved_Storage_Battery)
+[![Pressure-Resistant Hull Design](/resources/Sub%20Hull%20no_gr.png)](https://azurlane.koumakan.jp/Pressure-Resistant_Hull_Design)
 
  - **[Type 93 Oxygen Torpedo](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)** is the only torpedo boosting auxiliary equipment coupled with a moderate reload boost. It is a given at all submarines should be equipped with at least one oxytorp. It is also rainbow rarity which means it provides a higher CP boost than gold rarity equipment which affect the submarine passive map damage.
  
  - **[Improved Snorkel](https://azurlane.koumakan.jp/Improved_Snorkel)** boosts the O2 stat of the equipped submarine, increasing the amount of time they can stay submerged. While not directly offensive, it enables certain submarines to fire off an extra volley with their equipped torpedoes, which provides a greater increase in damage than the large torpedo stat boost of an oxytorp. Only one oxygen-increasing aux can be equipped per submarine.
  
  - **[Improved Storage Battery](https://azurlane.koumakan.jp/Improved_Storage_Battery)** provides a mild evasion boost and increases a submarine's hunting range by up to 2 levels. Only functions when equipped to the submarine fleet flagship. As meowficers can provide the same increase in hunting range while also boosting stats and not coming with the opportunity cost of occupying an aux slot, the battery is generally not worth investing in but is useful in one specific instance where you can run a 0LB sub as flag to have the best possible range while costing very little for leveling other subs.
+ 
+ - **[Pressure-Resistant Hull Design](https://azurlane.koumakan.jp/Pressure-Resistant_Hull_Design)** provides a small torpedo boost and a small hp boost, nothing that makes it worth using but what is special is its skill "Increases a submarine's Speed by 20% and moves it forward another 8 units after it enters battle". The 20% speed increase makes the sub gets into its position at about the same time as usualy and the 8 units forward makes it so the subs are always in range to shoot at high priority targets on screen which is a direct damage increase compared to when they were hanging back much further and can't seems to get a lock on anything.
 
 **Ship-Specific Auxiliaries**<br/>
 [![Z Flag](/resources/z%20flag%20no_gr.png)](https://azurlane.koumakan.jp/Z_Flag)
