@@ -22,9 +22,10 @@ Other useful resources:
  - [Azur Lane Enemy Data](https://al-data.github.io/enemies)
  
 Credits:
+ - Current manager: Moe#4063 and Straws#3361
  - The original creator of the guide: [guroteske](https://github.com/guroteske/al-guides)
  - Various source images exported from the game files from: [Dimbreath](https://github.com/Dimbreath) 
- - Various opinions and support from the ALEC and ALO discord
+ - Various opinions and support from the ALEC and ALO discord. Most notably: ʝimmy#8049, Bluerendar#2640 and monchables#3352
 
 If you have any questions or comments, feel free to ~~post an issue on github,~~ (I'm bad at github, send help) contact me on discord (Moe#4063). I can be found on the Azur Lane English Community discord server and the Azur Lane Official discord server, just ping me.
 
@@ -32,7 +33,7 @@ If you have any questions or comments, feel free to ~~post an issue on github,~~
 CHANGELOG
 ---------
 2020-11-23
-  added PR3 research equipments to the Equipment Guide
+  added PR3 research equipments to the Equipment Guide:
   added Universe in Unison and some other misc Auxiliary Equipment to the Auxiliary Guide
 2020-06-17 
   added single 138mm mle 1927 and twin 203mm mle 1924 to the Equipment Guide
