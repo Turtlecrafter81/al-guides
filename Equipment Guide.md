@@ -215,17 +215,21 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
 ## Carrier (CV/CVL) Aircraft
 
 **Fighters** <br/>
+[![Sea Hornet](/resources/Hornet%20gr_s.png)](https://azurlane.koumakan.jp/De_Havilland_Sea_Hornet)
 [![F4U Corsair (VF-17)](/resources/f4u%20corsair%20vf-17%20gr_s.png)](https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron))
 [![F6F Hellcat](/resources/f6f%20hellcat%20gr_s.png)](https://azurlane.koumakan.jp/Grumman_F6F_Hellcat#Type_3)
+[![Shiden Kai Ni](/resources/Shiden%20gr_s.png)](https://azurlane.koumakan.jp/Kawanishi_N1K3-A_Shiden_Kai_2)
 [![Sea Fury](/resources/sea%20fury%20gr_s.png)](https://azurlane.koumakan.jp/Hawker_Sea_Fury)
 [![Reppuu](/resources/reppuu%20gr_a.png)](https://azurlane.koumakan.jp/Mitsubishi_A7M_Reppuu#Type_3)
 [![Seafang](/resources/seafang%20gr_a.png)](https://azurlane.koumakan.jp/Supermarine_Seafang#Type_3)
 [![Me-155](/resources/me-155%20gr_b.png)](https://azurlane.koumakan.jp/Messerschmitt_Me-155A#Type_3)
 [![Zero M52](/resources/zero%20m52%20gr_b.png)](https://azurlane.koumakan.jp/Mitsubishi_A6M5_Zero#Type_3)
 
- - For fighters, the damage stat displayed in-game is the anti-air damage dealt by the fighter's equipped guns and is not indicative of the amount of surface damage it will deal. For that, you will need to look at a given plane's loadout to see what bombs, if any, it is equipped with. For general use, fighter-bombers are preferred due to their ability to contribute surface damage to the fight, and the strongest payload for any fighter is 2x 500lb bombs.
+ - For fighters, the damage stat displayed in-game is the anti-air damage dealt by the fighter's equipped guns and is not indicative of the amount of surface damage it will deal. For that, you will need to look at a given plane's loadout to see what bombs, if any, it is equipped with. For general use, fighter-bombers are preferred due to their ability to contribute surface damage to the fight.
+ - **[Sea Hornet](https://azurlane.koumakan.jp/De_Havilland_Sea_Hornet)** is currently the strongest surface damage fighter owing to their unique 2x1000lb T0 bombs which does more damage while only being 0.4s slower than the previous strongest fighter, the VF-17 Squadron.
  - **[F4U Corsair (VF-17 Squadron)](https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron))** is the fastest fighter-bomber, and has unique bombs with slightly increased base damage. It has relatively weaker anti-air guns, but gives a fleet-wide anti-air boost upon airstrike launch to make up for it.
  - **[F6F Hellcat](https://azurlane.koumakan.jp/Grumman_F6F_Hellcat#Type_3)** has the strongest interception capabilities of any fighter-bomber. While it is relatively slow to launch, the difference between it and other fighters with the same payload is relatively small and unlikely to have any real impact, making it the strongest general-use fighter.
+ - **[Shiden Kai Ni](https://azurlane.koumakan.jp/Kawanishi_N1K3-A_Shiden_Kai_2)** is the upgraded Reppuu with a higher AA interception capability albeit still can't get out more than one cycle of AA damage due to its high speed.
  - **[Hawker Sea Fury](https://azurlane.koumakan.jp/Hawker_Sea_Fury)** has comparable interception to the Hellcat and reloads slightly faster. Its autocannons have a more narrow firing angle and longer reload speed than the Hellcat's machine guns, but deal slightly increased burst damage.
  - **[A7M Reppuu](https://azurlane.koumakan.jp/Mitsubishi_A7M_Reppuu#Type_3)** is the fastest permanently available fighter-bomber, both in its reload speed and flight speed. While its bomb loadout makes it perfectly serviceable for PVE, it has certain characteristics that make it predominantly worth using in PVP: its fast speed allows it to bait out enemy anti-air fire, and it deals high kamikaze damage.
  - **[Supermarine Seafang](https://azurlane.koumakan.jp/Supermarine_Seafang#Type_3)** is the last gold rarity fighter with the 2x 500lb payload. While it's more than strong enough for general use, it falls behind the other listed planes in certain respects, making it weaker overall. Worth upgrading if lacking other gold rarity fighters.
