@@ -35,6 +35,7 @@ Cognition chips are a well-justified value proposition. Their core data cost is 
  - **[Improved Snorkel](https://azurlane.koumakan.jp/Improved_Snorkel)** - A strong offensive aux for calling submarines into combat. Its usefulness will depend on the submarines you're using and the torpedoes they're equipped with. Purchase only if you already understand submarine mechanics and purchase no more than 3.
  - **[Seal of the Four Gods](https://azurlane.koumakan.jp/Seal_of_the_Four_Gods)** - Boosts main gun and barrage damage when equipped to the An Shan class DDs. Given their weak torpedoes, this auxiliary equip easily overtakes the oxytorp as the strongest offensive aux for them specifically. Obviously required for them but other perk of this auxiliary equipment is that it provides 550 hp to DDs. Therefore that makes it better than a second toolbox for DDs that might benefit from a double toolbox setup since the heal doesn't stack.
  - **[Homing Beacon](https://azurlane.koumakan.jp/Homing_Beacon)** - Incredibly useful aux for carriers. Should be considered default equipment for trash clearing fleets, PVP and reload tuning carriers. Purchase accordingly.
+  - **[Pressure-Resistant Hull Design](https://azurlane.koumakan.jp/Pressure-Resistant_Hull_Design)** - A deceptively useful offensive aux for calling submarines into combat as its effects make firing slower torpedo types accurately easier for the side subs.
 
 ## Questionable Equipment
 [![Seafury](/resources/Seafury%20no_gr.png)](https://azurlane.koumakan.jp/Hawker_Sea_Fury)
