@@ -90,9 +90,9 @@ Basically boss fleets. Have specialized modules that buff/debuff stats/defense m
 #### TL;DR:
 - Only unlocks after clearing chapter 1 of the OpSi story
 - Do maps, kill stuffs, collect chests/loot spawns and you will get some coordinate points
-- Get 100 coordinate points and you can host/summon your META boss (they are kinda easy ngl, level 3 boss are only level 78, their danmaku are pretty tho) 
-- The boss gets killed very very fast generally, Host don't need to do anything, supporters will kill it for you. Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets some amount of points, hard to tell (36 for level 3 is all I know). You get 2 host per day and 3 support per day.
-- The strat is: if you host then go in, change your fleet to your best boss slayer fleet (torp front will nuke the boss in 5s flat if crits), save your fleet, get out, ignore it for 3 mins, it'll die soon, dw about it. Now you get 2 host per day and 3 support per day. To use your support entries: sit there, spam refresh button and click attack till you get a fight and get your 30 something points. Have fun~~~
+- Get 100 coordinate points and you can host/summon your META boss (they are really easy until like level 10+, a single person can solo it) 
+- The boss gets killed very very fast generally, host don't need to do anything but send out invites, supporters will kill it for you. Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets some amount of points, hard to tell (36 for level 3 is all I know). You get 2 host per day and 3 support per day.
+- The strat is: if you host then go in, change your fleet to your best boss slayer fleet (torp front will nuke the boss in 5s flat), save your fleet, get out and invite people, ignore it for a min and do your support attempts while waiting. Now you get 2 host per day and 3 support per day. To use your support entries: sit in chat, wait till someone post and spam to get in OR spam refresh button on boss list and click attack till you get a fight and get your 30 something points. Have fun~~~
 
 #### Patch Note that explains this in a long-winded way:
 You can obtain Analysis Points by defeating the META boss in Ashes Showdown.
