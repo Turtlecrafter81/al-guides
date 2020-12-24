@@ -42,6 +42,9 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - Every fleet has their movement restricted in turns (much like event maps where you have limited movement tiles). Same concept here but turns actually have an effect on the map. The map is semi-dynamic in that mobs might spawn in over time, cat salvages overtime, discovering elite fleets (enhanced enemies with modules and more drops) when you meet them on the map
 - Recon reveal the entire map so scanning mode will reveal hidden cache easier.
 - Retreating from a region requires a fleet at the edge of the map if you haven't cleared it. If you have, just click outside.
+- The hardest currently available regions are: Strongholds and High Corrosion Coordinate
+- Strongholds reset in a month and some day, they have level 128 multi-staged boss which are really hard, it's literally the thesis of "your fleet sux" even for end-game player with proper module count to compete.
+- High Corrosion Coordinate region (I just call it C6 maps/boss) has decently high level boss and mobs, they also contain puzzles and are highly detailed map. Caution is advised.
 
 #### Modules
 Offense, Defense, Healing modules all either buff or debuff your fleet in battle depends on the enemy module and your own. You can increase it with items (they are perma so just use it as you get them) or modules collected in the map. The difference will make up the modifier. Offense and Defense is 70%-130%, Tactics (healing) is 70-100%.
