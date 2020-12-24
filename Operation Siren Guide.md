@@ -1,6 +1,6 @@
 # Operation Siren Guide
 
-A massive new game mode has just been introduced, this is a basic beginner guide for people who skimmed through the tutorial along with some quick advices/basic answers from someone who no-lifed this for 6 hours. This is very new so everything is new and unknown, please be patient while this gets updated.
+A massive new game mode has just been introduced, this is a basic beginner guide for people who skimmed through the tutorial along with some quick advices/basic answers from someone who no-lifed this coupled with info from other no-lifers. This is very new so everything is new and unknown, please be patient while this gets updated.
 
 ## FAQ and TL;DR/Most important advices:
 - **READ THE TUTORIAL**. A lot of questions are answered in the tutorial, remember it, the game won't repeat it.
