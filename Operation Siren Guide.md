@@ -6,10 +6,10 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - **READ THE TUTORIAL**. A lot of questions are answered in the tutorial, remember it, the game won't repeat it.
 - (Optional) **Read the patch note**. This is a link to the ALEC (Azur Lane English Community/Azur Knights) JP patch note: https://discord.com/channels/321283108122918924/362997422018002944/790860232594817034
 - **__PAY ATTENTION WHEN SETTING UP YOUR 1ST 2 FLEETS__**. Use your **Strongest** ships AND cats, current equipped gears doesn't matter, you can change after and it will apply.  My personal ideal clear comp is one fleet is Richi JB Percy and a torp front line (Naganami Noshiro Jintsuu) and this will solve almost all your mob fights. And the other is triple CVs, tanky high gun damage CA. This will be with you until you unlock 4 fleets which is about an hour of story maps. Which leads me to my next point.
-- **__DO STORY UNTIL YOU UNLOCK 4 FLEETS__**: This fleet change is almost mandatory if you want to keep progressing story afterwards. This is where your 1st free fleet change comes in. Changing fleets and cats cost a lot of AP. 100 AP each. The cost get reduced down to 0 over time but it takes roughly 24? hours for it. My personal recommendation is as before, while your fleet 3 and 4 should be mimicking fleet 2 in a sense that it has 2 out of 3 damage type (Shelling/Torp/Plane) to counter the bosses.
+- **__DO STORY UNTIL YOU UNLOCK 4 FLEETS__**: This fleet change is mandatory if you want to exit the port. This is where your 1st free fleet change comes in. Changing fleets and cats cost a lot of AP, up to 100 AP each. The cost get reduced down to 0 over time but it takes roughly 24 hours for it. My personal recommendation is as before, while your fleet 3 and 4 should be mimicking fleet 2 in a sense that it has 2 out of 3 damage type (Shelling/Torp/Plane) to counter the bosses.
 - **"Everything is so confusing, what do?"** This is content that is permanent for the most part (the META ships are seasonal). Don't worry too much. But it will take a lot of time and consistent game time to grind. AP has a soft cap of 100, regen 1 point per 10 mins.
-- **Do story, seriously I'm not joking, do it, it helps a lot**. The story marker are the red and green exclamation mark on the map. If you are not end-game or fucked up your fleet set up, don't stray from the path cause high AP entry maps are hard, like W12/W13 level of hard and entering cost AP. Especially so since you do not have enough modules to compete with the enemy so you get extra debuffed. (+/-30% on every facets, offense, defense, healing).
-- **Restart a.k.a leaving and retrying battles liberally.** There's no morale or oil cost. There's actually no downsides to retrying fights. If you missed your torp preload on the Nevada and it burns your flag to hell and back, just restart.
+- **Do story, seriously I'm not joking, do it, it helps a lot**. The story marker are the red exclamation mark on the map. Why I say this is because story regions rewards a lot of modules allowing you to fight on par and above par against higher level enemies. If you are not end-game or fucked up your fleet set up, don't stray from the path cause high AP entry maps are hard, like W12/W13 lethal level of hard and entering cost AP. Especially so since you do not have enough modules to compete with the enemy so you get extra debuffed. (+/-30% on every facets, offense, defense, healing). 
+- **Restart a.k.a leaving and retrying battles liberally.** There's no morale or oil cost. There's actually no downsides to retrying fights. If you missed your torp preload on the BB spawn and it burns your flag to hell and back, just restart.
 - "How do I get out of the map when I finished clearing?" Click outside of the map to go to the overworld view. If you haven't cleared the region, you'll need a fleet at the edge so if you can't exit, move a fleet to the edge. (The back button is a quick way to get to the overworld map view but won't exit your fleets from the current region unless it's a port)
 - "How to change fleet and cats?" You will need to go to Order -> Fleet Redeployment to change your fleet and cats. The precise condition is unknown (possibly safe/cleared region) but the button is always available in a port.
 - "What to buy with Supply Coin and Item Tokens?" Don't know yet, they will be exchanged for some kind of voucher ticket every season anyways so use them liberally.
@@ -33,12 +33,12 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 
 #### Overworld map:
 
-- Ports: currently USS, HMS ports are known, they have their own shop that refresh every 3 days approx. There's 2 kind of currency: Operation Supply Coins and Special Item Tokens. We currently don't know much but using the supply coins liberally is fine, they are pretty abundant.
+- Ports: currently 4 ports are known (one of them are a side port that won't be unlocked during story but has to be cleared through a star level 6 region), they have their own shop that refresh every 3 days approx. There's 2 kind of currency: Operation Supply Coins and Special Item Tokens. Using the supply coins liberally is fine, they are pretty abundant. The token can cost a lot and there's not much way to replenish them so I'd say be a bit more cautious on what you buy with them (Gold and Rainbow plates and Designs are good purchases, Coordinate purchase depends on your fleet power, if you can't kill a 128 abyss stronghold, don't bother). Akashi random event sell these tokens for coins so always buy them if possible.
 - Regions that cost AP to enter (story regions (has red/green exclamation mark on it cost 0 AP to enter and 0 AP to scan if they allow you). After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately.
 
 ### Regional maps and effects/point of interest:
 
-- Think of it as normal maps in every chapter in main campaign (and AP as the 10 oil cost to enter). Harder region cost more AP (80 AP region has level 114 mobs and 118 boss, 60 AP has level 103-104, 108 boss)
+- Think of it as normal maps in every chapter in main campaign (and AP as the 10 oil cost to enter). Harder region cost more AP (80 AP region has level 114 mobs and 118 boss, 60 AP has level 103-104, 108 boss, Abyss cost up to 100 AP and spawn 128 boss)
 - Every fleet has their movement restricted in turns (much like event maps where you have limited movement tiles). Same concept here but turns actually have an effect on the map. The map is semi-dynamic in that mobs might spawn in over time, cat salvages overtime, discovering elite fleets (enhanced enemies with modules and more drops) when you meet them on the map
 - Recon reveal the entire map so scanning mode will reveal hidden cache easier.
 - Retreating from a region requires a fleet at the edge of the map if you haven't cleared it. If you have, just click outside.
@@ -69,7 +69,7 @@ Upon entering the tile you will be asked whether or not you want to deploy Meowf
 Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned eating your moevement, meaning that reinforcements can spawn and move closer. Movement out of the Whirlpool is restricted to 1 tile.
 
 #### Siren Rally Points
-Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which might force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point.
+Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which might force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets spawn in infinitely and they don't drop any loot, avoid them if possible.
 
 #### Fog
 Movement in fog is restricted to 1 tile. Normally there will be a Fog generator that you can go to and remove all fog on the map.
@@ -84,10 +84,13 @@ Go there, use the Energy Storage device and you get loot, if it fails, just smas
 Looks like a oil rig, moving on it and you will be ambushed twice and gain access to the device (up to 3-4 times). You can either spend one Energy Storage to spawn a mob fleet (that might drop modules) or 2 item tokens to spawn an Energy Cache event (that rewards modules and some other loot) or just a "Sparkle" loot which doesn't disappear but doesn't drop anything lucrative either.
 
 #### Ice tiles
-Ice tiles block movement entirely and can only be removed by destroying the corresponding Siren Control Tower
+Ice tiles block movement entirely and can only be removed by destroying the corresponding Siren Control Tower.
 
 #### Maelstrom
-Hazier than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Sire Control Tower
+Hazier than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Sire Control Tower.
+
+#### Blockade
+Square-shaped formation that locks your fleet in when you step in to them as well as spawn 3 moduled buffed mob fleet. Defeating all the moduled fleet lift the blockade.
 
 ## Enemies
 
