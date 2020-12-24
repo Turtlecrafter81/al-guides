@@ -19,6 +19,7 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - "Refills? Should I do that?" The oil:AP ratio is 10:1. You can refill up to 5 times a **WEEK**, the game has typo, go figure. It's 1000/1000/2000/2000/4000 oil in that order. You can also buy AP packs in port shop with Supply Coins.
 - "What is Meta Lab?" It's detailed in the [META Lab section](Operation%20Siren%20Guide.md#ashes-coordinate-and-hiryuu-meta)
 - "Why are 5 or 6 star level regions so hard?" Because your current module count is low, your module count will be compared to the enemy, every point difference is 1% in your or the enemy favor (Offense and Defense is 70%-130%, Tactics (healing) is 70-100%)
+- "What are 4th and 5th stars in region, why are they all ???" Because they are hidden requirement and sometimes RNG to boot. [Here's a datamined spreadsheet of all starring requirements](https://docs.google.com/spreadsheets/d/1XvXwQ1MUvIbRe44G0eAfo9rnMGm6BflHbjGcbwIcNrE/edit?usp=sharing)
 
 ## General Gameplay and Maps:
 
@@ -51,7 +52,9 @@ First time you enter an area for the story it costs no AP, it will cost AP after
 #### Map stars
 - Each map has 5 stars you can get. Star 4 and 5 are for now "???" meaning locked and can't be obtained so just ignore it.
 Press information -> exploration progress to show the  objectives for the current area. 3 objectives are revealed on the first time you enter an area. [Intel] can spawn [randomly(?)] revealing an additional star requirement.
-- Star rewards can be claimed at ports. (there's like over 50 regions so dw about rushing this content)
+- Star rewards can be claimed at ports. (there are 75 regions so dw about rushing this content)
+- Some starring requirement are RNG
+- [Here's a datamined spreadsheet of all starring requirements](https://docs.google.com/spreadsheets/d/1XvXwQ1MUvIbRe44G0eAfo9rnMGm6BflHbjGcbwIcNrE/edit?usp=sharing)
 
 #### Siren floating rewards
 Seems to spawn 5 interest points, you can only collect up to 3, 2 will always sink regardless of turns taken.
@@ -75,23 +78,35 @@ Movement in fog is restricted to 1 tile. Normally there will be a Fog generator 
 Collect the Matrix on the map and deliver it to the platform to get rewards.
 
 #### Energy Cache: (Place where you use the Energy storage device)
-Go there, use the Energy Storage device and you get loot, simple
+Go there, use the Energy Storage device and you get loot, if it fails, just smash it. If you don't want to spend the Storage for w.e reason, smashing is fine. No known difference between the 2 options.
+
+#### Siren Coordinate Logger
+Looks like a oil rig, moving on it and you will be ambushed twice and gain access to the device (up to 3-4 times). You can either spend one Energy Storage to spawn a mob fleet (that might drop modules) or 2 item tokens to spawn an Energy Cache event (that rewards modules and some other loot) or just a "Sparkle" loot which doesn't disappear but doesn't drop anything lucrative either.
+
+#### Ice tiles
+Ice tiles block movement entirely and can only be removed by destroying the corresponding Siren Control Tower
+
+#### Maelstrom
+Hazier than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Sire Control Tower
 
 ## Enemies
 
 #### Sirens
-Sirens move whenever you move three times, and unlike events they move 5 tiles at once instead of 2, so plan ahead if you want to avoid them with your fleets.
+Sirens move whenever you move three times, and unlike events they move 5 tiles at once instead of 2, so plan ahead if you want to avoid them with your fleets. You can also just retreat when they caught up, not much reason to fight them if they are just reinforcement that drop no loot.
 
 #### Dangerous enemies (Mixed Recon Fleets)
 Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type. I did notice that "bosses that have a zombie type module that heals after a certain hp% threshold" tend to be accompanied by a +% damage taken which makes theem easy to burst down.
+
+#### Stronghold Bosses
+Big bad highly leveled Siren boss that has powerful accompanying modules that can seriously wreck fleets. They are also multi-staged boss fight so having multiple leveled fleet is nearly mandatory to beating them.
 
 ## Ashes Coordinate and Hiryuu META
 
 #### TL;DR:
 - Only unlocks after clearing chapter 1 of the OpSi story
-- Do maps, kill stuffs, collect chests/loot spawns and you will get some coordinate points
-- Get 100 coordinate points and you can host/summon your META boss (they are really easy until like level 10+, a single person can solo it) 
-- The boss gets killed very very fast generally, host don't need to do anything but send out invites, supporters will kill it for you. Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets some amount of points, hard to tell (36 for level 3 is all I know). You get 2 host per day and 3 support per day.
+- Do maps, kill bosses, collect chests/loot spawns and you will get some coordinate points.
+- Get 100 coordinate points and you can host/summon your META boss up to twice a day (they are really easy until like level 10+, a single person can solo it) 
+- The boss gets killed very very fast generally, host don't need to do anything but send out invites, supporters will kill it for you. Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets 27 + 3 per level Analysis Points (30 for level 1, 33 for level 2, etc). You get 2 host per day and 3 support per day. Host counter is above your Analysis point count, if it's greyed out, you will stop accumulating coordinate points. Support counter is on the top right of the Ashes Showdown interfact.
 - The strat is: if you host then go in, change your fleet to your best boss slayer fleet (torp front will nuke the boss in 5s flat), save your fleet, get out and invite people, ignore it for a min and do your support attempts while waiting. Now you get 2 host per day and 3 support per day. To use your support entries: sit in chat, wait till someone post and spam to get in OR spam refresh button on boss list and click attack till you get a fight and get your 30 something points. Have fun~~~
 
 #### Patch Note that explains this in a long-winded way:
