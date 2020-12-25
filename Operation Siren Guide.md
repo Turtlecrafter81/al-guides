@@ -1,6 +1,6 @@
 # Operation Siren Guide
 
-A massive new game mode has just been introduced, this is a basic beginner guide for people who skimmed through the tutorial along with some quick advices/basic answers from someone who no-lifed this coupled with info from other no-lifers. This is very new so everything is new and unknown, please be patient while this gets updated.
+A massive new game mode has just been introduced, this is a basic beginner guide for people who skimmed through the tutorial along with some quick advices/basic answers from someone who no-lifed this coupled with info from other no-lifers. Please be patient while this gets updated.
 
 ## FAQ and TL;DR/Most important advices:
 - **READ THE TUTORIAL**. A lot of questions are answered in the tutorial, remember it, the game won't repeat it.
@@ -46,8 +46,8 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - Strongholds reset in a month and some day, they have level 128 multi-staged boss which are really hard, it's literally the thesis of "your fleet sux" even for end-game player with proper module count to compete.
 - High Corrosion Coordinate region (I just call it C6 maps/boss) has decently high level boss and mobs, they also contain puzzles and are highly detailed map. Caution is advised.
 
-#### Modules
-Offense, Defense, Healing modules all either buff or debuff your fleet in battle depends on the enemy module and your own. You can increase it with items (they are perma so just use it as you get them) or modules collected in the map. The difference will make up the modifier. Offense and Defense is 70%-130%, Tactics (healing) is 70-100%.
+#### Adaptability Stat:
+Offense, Survivability, Tactic Adaptability all either buff or debuff the enemy depends on the enemy's count and your own. You can increase it with Tuning items (they are perma until reset so just use them as you get them) or Adaptability modules collected in the map. The difference will make up the modifier with Offense affect the enemy's damage dealt, Survivability affect their hp and Tactics affect YOUR fleet healing capability. With Offense and Survivability ranging from 70%-130% and Tactics (healing) is 70-100% so you can have your Tactics stat below the other 2 by a margin of 30-40 points. Early abyssal zones only have 60 and then 90, it increases the more zones you do up to the level 128 boss with 140 stat so to max out you need ~180 across the board with Tactic at 140-150.
 
 #### Main OpSiren Story
 First time you enter an area for the story it costs no AP, it will cost AP after that. They also do not give EXP except the boss fight iirc.
