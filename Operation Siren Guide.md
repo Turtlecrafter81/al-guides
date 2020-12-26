@@ -41,8 +41,8 @@ A massive new game mode has just been introduced, this is a basic beginner guide
    - Yellow chests = Fracture Sea (alternate zone that will have you clear some rally points for loot, using the teleporter will move you back to the region b4 you enter)
    - Gold coins = just rewards markers for AP chest/healing boxes/coins (mostly shown as rewards for regions you haven't controlled)
    - Adaptive stat icons = respective Adaptive stat boost (shown as rewards for regions you haven't controlled)
-   - Red boss icons = One time entry Abyssal Zones (depending on Corrosion level boss with a massive hp pool and requires multiple fleets to tackle). If you leave, the boss will disappear.
-   - Swirling Abyss = Strongholds (level 128 enemies with 144/144/144 stat) cost 100 AP ONCE to enter and can be retreated freely for repairs. Only spawn after finishing story. Drops high quality loot (rainbow mats)
+   - Red boss icons = One time entry Abyssal Zones (depending on Corrosion level boss with a massive hp pool and requires multiple fleets to tackle). If you leave, the boss will disappear. Can drops high quality loot (rainbow mats) from Corrosion level 4 and above.
+   - Swirling Abyss = Strongholds (level 128 enemies with 144/144/144 stat) cost 100 AP ONCE to enter and can be retreated freely for repairs. Only spawn after finishing story. Can drops high quality loot (rainbow mats).
 
 ### Regional maps and effects/point of interest:
 
@@ -50,12 +50,13 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - Every fleet has their movement restricted in turns (much like event maps where you have limited movement tiles). Same concept here but turns actually have an effect on the map. The map is semi-dynamic in that mobs might spawn in over time, cat salvages overtime, discovering elite fleets (enhanced enemies with modules and more drops) when you meet them on the map
 - Recon reveal the entire map so scanning mode will reveal hidden cache easier.
 - Retreating from a region requires a fleet at the edge of the map if you haven't cleared it. If you have, just click outside.
-- The hardest currently available regions are: Strongholds and High Corrosion Coordinate
-- Strongholds reset in a month and some day, they have level 128 multi-staged boss which are really hard, it's literally the thesis of "your fleet sux" even for end-game player with proper module count to compete.
-- High Corrosion Coordinate region (I just call it C6 maps/boss) has decently high level boss and mobs, they also contain puzzles and are highly detailed map. Caution is advised.
+- The hardest currently available regions are: Strongholds and High Corrosion Abyss Coordinates.
+- Strongholds reset once a week (likely monday) to a cap of 3, they have level 128 bosses and mobs which can be hard if under adaptive stats
+- Abyssal zones spawn when using Coordinates in Storage. Have level 128 multi-stage bosses who will show a weakness after a certain hp threshold.
+- Reinforcements (colored blue rather than red) drops no exp or loot.
 
 #### Adaptability Stat:
-Offense, Survivability, Tactic Adaptability all either buff or debuff the enemy depends on the enemy's count and your own. You can increase it with Tuning items (they are perma until reset so just use them as you get them) or Adaptability modules collected in the map. The difference will make up the modifier with Offense affect the enemy's damage dealt, Survivability affect their hp and Tactics affect YOUR fleet healing capability. With Offense and Survivability ranging from 70%-130% and Tactics (healing) is 70-100% so you can have your Tactics stat below the other 2 by a margin of 30-40 points. Early abyssal zones only have 60 and then 90, it increases the more zones you do up to the level 128 boss with 140 stat so to max out you need ~180 across the board with Tactic at 140-150.
+Offense, Survivability, Tactic Adaptability all either buff or debuff the enemy depends on the enemy's count and your own. You can increase it with Tuning items (they are perma until reset so just use them as you get them) or Adaptability modules collected in the map. The difference will make up the modifier with Offense affect the enemy's damage dealt, Survivability affect their hp and Tactics affect YOUR fleet healing capability. With Offense and Survivability ranging from 70%-130% and Tactics (healing) is 70-100% so you can have your Tactics stat below the other 2 by a margin of 30-40 points. Early abyssal zones only have 60 and then 90, it increases the more zones you do up to the level 128 boss with 144 stat so to max out you need ~180 of Offense and Survival with Tactic at 140-150.
 
 #### Main OpSiren Story
 First time you enter an area for the story it costs no AP, it will cost AP after that. They also do not give EXP except the boss fight iirc.
@@ -67,52 +68,76 @@ Press information -> exploration progress to show the  objectives for the curren
 - Some starring requirement are RNG
 - [Here's a datamined spreadsheet of all starring requirements](https://docs.google.com/spreadsheets/d/1XvXwQ1MUvIbRe44G0eAfo9rnMGm6BflHbjGcbwIcNrE/edit?usp=sharing)
 
+#### Anomaly weather zone:
+RNG Starring condition, there's a loot marker in it coupled with some weather tiles (currents, windstorms, etc) that rewards adaptive stat.
+
 #### Siren floating rewards
-Seems to spawn 5 interest points, you can only collect up to 3, 2 will always sink regardless of turns taken.
+Seems to spawn 5 interest points, you can only collect up to 3, 2 will always sink regardless of turns taken. Sometimes can spawn an ambush fleet that drops next to nothing or a Siren warning that sinks all other points.
 
 #### Siren Jamming 
-Occasionally on collecting an item you will be jammed, reducing that fleet movement to 1 tile for the next 5 moves.
+Box that spawn after defeating a boss. Collecting it will jam your fleet, reducing that fleet movement to 1 tile for the next 5 moves. In Fractured Sea, there exist a variation that will spawn a bunch of weather tiles on loot.
 
 #### Meowficers Node
-Upon entering the tile you will be asked whether or not you want to deploy Meowficers to gather resources. If you choose to, your meowficcer skills will be disabled for an amount (about 7-10) of turns, then they will return with rewards. Rewards are based on Meowficcer levels and rarity.
-
-#### Whirlpool
-Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned eating your moevement, meaning that reinforcements can spawn and move closer. Movement out of the Whirlpool is restricted to 1 tile.
-
-#### Siren Rally Points
-Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which might force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets spawn in infinitely and they don't drop any loot, avoid them if possible.
-
-#### Fog
-Movement in fog is restricted to 1 tile. Normally there will be a Fog generator that you can go to and remove all fog on the map.
+Upon entering the tile you will be asked whether or not you want to deploy Meowficers to gather resources. If you choose to, your meowficcer skills will be disabled for an amount (about 10) of turns, then they will return with rewards. Rewards are based on Meowficcer levels and rarity.
 
 #### Energy matrix:
-Collect the Matrix on the map and deliver it to the platform to get rewards.
+Collect the Matrix on the map and deliver it to the platform to get rewards. There's a variation of this in Fractured Sea that has 4 Matrixes, move close to it will spawn 4 hidden matrix on the map which can be revealed with scanning mode.
 
-#### Energy Cache: (Place where you use the Energy storage device)
-Go there, use the Energy Storage device and you get loot, if it fails, just smash it. If you don't want to spend the Storage for w.e reason, smashing is fine. No known difference between the 2 options.
+#### Energy Cache: (Place where you use the Energy Storage Device or ESD)
+Go there, use the Energy Storage Device and you get loot, if it fails, just smash it. Spending the ESD will rewards with adaptive stat. Smashing seems to never give adaptive stat.
 
 #### Siren Coordinate Logger
-Looks like a oil rig, moving on it and you will be ambushed twice and gain access to the device (up to 3-4 times). You can either spend one Energy Storage to spawn a mob fleet (that might drop modules) or 2 item tokens to spawn an Energy Cache event (that rewards modules and some other loot) or just a "Sparkle" loot which doesn't disappear but doesn't drop anything lucrative either.
-
-#### Ice tiles
-Ice tiles block movement entirely and can only be removed by destroying the corresponding Siren Control Tower.
-
-#### Maelstrom
-Hazier than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Sire Control Tower.
+Looks like a oil rig, moving on it and you will be ambushed twice and gain access to the device (up to 3-4 times). You can either spend one Energy Storage to spawn a mob fleet (that doesn't drop modules) or 2 item tokens to spawn an Energy Cache event (that rewards modules and some other loot) or just a "Sparkle" loot which doesn't disappear but doesn't drop anything lucrative either.
 
 #### Blockade
-Square-shaped formation that locks your fleet in when you step in to them as well as spawn 3 moduled buffed mob fleet. Defeating all the moduled fleet lift the blockade.
+Square-shaped formation that locks your fleet in when you step in to them as well as spawn 3 moduled buffed mob fleet. Defeating all the moduled fleet lift the blockade. In fractured sea, there's also a variation where it will spawn 3 blockades looking tile and one outside of the 5x5 tiles. Moving a fleet to the one spawn outside will destroy the hologram in the zone.
+
+#### Light house:
+Light house zone seems to always spawn on massive Fractured sea on the South most square (30x30 map, divided into 9 5x5 square shaped zone with its own RNG spawn and 3 Siren Rally points). Using a ESD will perform a free recon. If one has already used the recon using AP, ignore this zone.
+
+#### Siren Rally Points
+Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which might force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue in color) spawn in infinitely and they don't drop any loot, avoid them if possible. Clearing all Rally points spawn a Teleporter and some chests in Fractured Sea.
+
+#### Siren Data Center(?)
+A plus formation of sort, with obstacle constructs that spawn in Fractured Sea that spawn with a couple EMP tiles. After stepping on all of the (usually 3) weather anomalies, it will spawn 2 hidden Meowfficer search nodes which can be revealed with scanning mode.
+
+#### EMP tiles:
+Cause random movement of your fleet for 1-2 turns when stepped on.
+
+#### Ice pillars and ice floes:
+Ice pillars block movement entirely and sometimes can be removed by destroying the corresponding Siren Control Tower. Ice floes looks like ice tiles that will continue your fleet momentum till it's next to an obstacle or another fleet.
+
+#### Fog
+Movement in fog is restricted to 1 tile. Sometimes there's a Fog control tower that you can go to and remove all fog on the map.
+
+#### Maelstrom
+Hazier and redder in color than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Siren Control Tower.
+
+#### Whirlpool
+Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned, eating your moevement, meaning that reinforcements can spawn and move closer. Movement out of the Whirlpool is restricted to 1 tile.
+
+#### Directional Wind Storms:
+Will launch your fleet a set number of tiles over all obstacles when stepped on.
+
+#### Ocean Currents:
+Direct your fleet to the tile it points to.
+
+#### Flaming Sea:
+Do a %hp damage to all unit in the fleet and persist a turn.
+
+#### Colored blockers:
+Only in Puzzle maps, using the corresponding control tower will turn pebbles into movement blocking contructs and vice versa. 
 
 ## Enemies
 
 #### Sirens
-Sirens move whenever you move three times, and unlike events they move 5 tiles at once instead of 2, so plan ahead if you want to avoid them with your fleets. You can also just retreat when they caught up, not much reason to fight them if they are just reinforcement that drop no loot.
+Sirens move whenever you move three times, and unlike events they move 5 tiles at once instead of 2, so plan ahead if you want to avoid them with your fleets. You can also just retreat when they caught up, not much reason to fight them if they are just blue reinforcement that drop no loot.
 
 #### Dangerous enemies (Mixed Recon Fleets)
-Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type. I did notice that "bosses that have a zombie type module that heals after a certain hp% threshold" tend to be accompanied by a +% damage taken which makes theem easy to burst down.
+Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type.
 
-#### Stronghold Bosses
-Big bad highly leveled Siren boss that has powerful accompanying modules that can seriously wreck fleets. They are also multi-staged boss fight so having multiple leveled fleet is nearly mandatory to beating them.
+#### Stronghold Bosses and Abyssal Bosses
+Big bad highly leveled Siren boss that has powerful accompanying modules that can seriously wreck fleets. They are also multi-staged boss fight so having multiple leveled fleets is nearly mandatory to beating them. Abyssal bosses reveal their weakness after a certain point.
 
 ## Ashes Coordinate and Hiryuu META
 
