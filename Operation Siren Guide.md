@@ -51,8 +51,8 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - Recon reveal the entire map so scanning mode will reveal hidden cache easier.
 - Retreating from a region requires a fleet at the edge of the map if you haven't cleared it. If you have, just click outside.
 - The hardest currently available regions are: Strongholds and High Corrosion Abyss Coordinates.
-- Strongholds reset once a week (likely monday) to a cap of 3, they have level 128 bosses and mobs which can be hard if under adaptive stats
-- Abyssal zones spawn when using Coordinates in Storage. Have level 128 multi-stage bosses who will show a weakness after a certain hp threshold.
+- Strongholds reset once a week (likely monday) to a cap of 3, they have level 128 bosses and mobs which can be hard if under adaptive stats.
+- Abyssal zones spawn when using Coordinates in Storage. Can have multi-stage bosses (ranging from 108 to 128) who will show a weakness after a certain hp threshold.
 - Reinforcements (colored blue rather than red) drops no exp or loot.
 
 #### Adaptability Stat:
