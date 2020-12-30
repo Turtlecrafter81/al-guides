@@ -58,7 +58,7 @@ A massive new game mode has just been introduced, this is a basic beginner guide
    - Yellow chests = Fracture Sea/Obscured Zone/Treasure Map from blue coordinates in storage (alternate zone that will have you clear some rally points for loot, using the teleporter will move you back to the region b4 you enter)
    - Gold coin icon = just rewards markers for AP chest/healing boxes/coins (mostly shown as rewards for regions you haven't controlled)
    - Blue Hexagon icon = respective Adaptive stat boost, click on it to see details on which stat if you aren't familiar with adaptive stat icon(shown as rewards for regions you haven't controlled)
-   - Red boss icon = One time entry Abyssal Zones from Red coordinates (depending on Corrosion level boss with a massive hp pool and requires multiple fleets to tackle). If you leave after unlocking the gate to spawn the boss, the boss will disappear. Can drops high quality loot (up to rainbow mats) from Corrosion level 4 and above. They don't hit as hard as Stronghold bosses however. There's 2 mob fleet on the bottom right of the screen shrouded in fog, to get there and get a win to cleaar your t
+   - Red boss icon = One time entry Abyssal Zones from Red coordinates. If you leave after unlocking the gate to spawn the boss, the boss will disappear. Can drops high quality loot (up to rainbow mats). Detailed description is in the [Abyss Zone section](#abyssal-zones)
    - Swirling Abyss = Strongholds (level 128 enemies with 144/144/144 stat) cost 100 AP ONCE to enter and can be retreated freely for repairs. Only spawn after finishing story. Can drops high quality loot (rainbow mats).
 
 ## Shop Guide:
@@ -137,6 +137,10 @@ Calls in reinforcement every 3 turns. Disabled when stepping on them.
 Usually fogs or some directional currents spawn around the fleet in a 5x5 square. Look at the radar, go into the fog, destroy the Weather Control Tower marked with a "?" and get some loot.
 
 ### Random event that happens in Obscured Zone/Fractured Sea/Treasure Map (they are all names to the Yellow Icon on the map):
+Treasure maps are generated peusdo-randomly like in roguelites with specific patterns with each "room" is a 5x5 square roughly making up the map dotted with some chests:
+- Small map has one room: the rally point
+- Medium map has 4 rooms: 2 rally points + 2 random events
+- Big map has 9 rooms: 1 light house + 3 rally points + 2 Weather control devices + 3 random events
 
 #### Siren Rally Points
 Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which will force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue in color) spawn in infinitely and they don't drop any loot, avoid them if possible. Clearing all Rally points spawn a Teleporter and some chests. In big maps (9x9) clearing 2 rally points will spawn a siren fleet which will chase your fleet down but doesn't drop any loot.
@@ -148,26 +152,32 @@ Does what it said on the tin, go to it to disable whatever weather anomaly surro
 A plus formation of obstacle constructs that spawn with a couple EMP tiles and possibly 2 hidden Meowfficer nodes. If scanning mode doesn't reveal the meowfficer nodes, stepping on all of 3 EMP tiles will spawn them.
 
 #### Paired switches: 
-Putting a fleet on both of the switches automatically will spawn loot and destroy all the surrounding rocks.
+Putting a fleet on both of the switches automatically will spawn loot and destroy the surrounding rocks.
 
 #### Chest surrounded by rocks:
 Rocks will be removed after clearing all Siren Rally points. 
 
 #### Anomaly Chest:
-Inconspicuous chest which fill the entire 5x5 area with a random weather event (Flaming Sea, Frigid Waters, etc) which will also hide any other event (e.g 4 Matrix event tile). So it is recommended to do this zone last.
+Inconspicuous chest which fill the entire 5x5 area with a random weather event when opened (Flaming Sea or Frigid Waters) which will also hide scanning mode from other event (e.g 4 Matrix event's hidden matrix tile). So it is recommended to do this room last.
 
-#### 4 Matrix Box:
+#### 4 Matrix Cache:
 4 Matrix deposits surround a cache, move into the 5x5 zone of it will spawn the 4 matrixes hidden on the map (revealed with scanning mode). Putting matrix in will upgrade the cache content. The cache can only be opened after returning at least 2 matrixes.
 
 #### Blockade
-If the 5x5 Square has nothing in it, expect it to be this event. Walking into the zone will lock your fleet in and either spawn 3 module buffed fleets OR 3 gate typed devices. Defeating all the module fleets OR choosing the right gate will lift the blockade (note the wrong gate will have an ambush fleet). In the gate version, there will also be another gate outside of the 5x5 zone. Moving a fleet to the one spawn outside will destroy the fake gates in the zone. Cannot use scanning mode to bypass the gate holograms.
+If the 5x5 Square has nothing in it, expect it to be this type of room. Walking into the 5x5 zone will lock your fleet in and either spawn 3 module buffed fleets OR 3 gate typed devices. Defeating all the module fleets OR choosing the right gate will lift the blockade (note the wrong gate will have an ambush fleet). In the gate version, there will also be another gate outside of the 5x5 zone. Moving a fleet to the one spawn outside will destroy the fake gates in the zone. Cannot use scanning mode to bypass the gate holograms.
 
 #### Light house:
-Light house zone seems to always spawn on the Bottom square, 6 o'clock position ONLY on big maps (9 5x5 square shaped zone with its own event, 3 of which are Siren Rally points and 2 of them are protected by a Siren Weather Control device). Using a ESD here will perform a free recon. If one has already used the recon using AP, ignore this event.
+Light house zone seems to always spawn on the Bottom square, 6 o'clock position ONLY on big maps. Using an ESD here will perform a map recon. If one has already used the recon using the Order -> Recon, ignore this event.
 
 #### Akashi's Shop: same as above
 
 ### Weather Anomalies:
+
+#### Ocean Current:
+Moves your fleet to the next tile following the direction of the arrow when stepped on.
+
+#### Directional Wind Vortex:
+Will launch your fleet a set number of tiles over all obstacles when stepped on. The number of tiles travelled depends on the side of the vortex (1-4 tiles)
 
 #### EMP tiles:
 Cause random movement of your fleet for 1-2 turns when stepped on.
@@ -176,16 +186,10 @@ Cause random movement of your fleet for 1-2 turns when stepped on.
 Ice pillars block movement entirely and sometimes can be removed by destroying the corresponding Siren Control Tower. Ice floes are ice tiles that will continue your fleet momentum till they come in contact with an obstacle or another fleet.
 
 #### Fog
-Movement in fog is restricted to 1 tile. Sometimes there's a Fog control tower that you can go to and remove all fog on the map.
+Movement in fog is restricted to 1 tile and you can only see up to one tile around you. There's a Fog control tower only that you can go to and remove all fog on the map.
 
 #### Whirlpool
 Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned, eating your moevement, meaning that reinforcements can spawn and move closer. Movement out of the Whirlpool is restricted to 1 tile.
-
-#### Directional Wind Storms:
-Will launch your fleet a set number of tiles over all obstacles when stepped on.
-
-#### Ocean Currents:
-Direct your fleet to the tile it points to.
 
 #### Flaming Sea:
 Do a %hp damage to all unit in the fleet and persist a turn.
@@ -228,11 +232,11 @@ First time you enter an area for the story it costs no AP, it will cost AP after
 
 #### TL;DR:
 - Only unlocks after clearing chapter 1 of the OpSi story
-- Do maps, kill bosses, collect chests/loot spawns and you will get some coordinate points.
-- Get 100 coordinate points and you can host/summon your META boss up to twice a day.
+- Doing daily missions, kill bosses, collect chests/loot spawns and you will accumulate coordinate points.
+- Get 100 coordinate points and you can host/summon your META boss up to twice a day. To level up your META boss, just defeat it, the cap is level 15.
 - Host don't need to do anything but send out invites, supporters will kill it for you. Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets 27 + 3 per level Analysis Points (30 for level 1, 33 for level 2, etc). **Except for level 15 which you gets 71 points**. You get 2 host per day and 3 support per day. Host counter is above your Analysis point count, if it's greyed out, you will stop accumulating coordinate points (you will start at 0 the next day). Support counter is on the top right of the Ashes Showdown interface.
 - The fight last 60s, the boss kinda does damage and it cost no oil, AP, morale to do and gives no exp or affection either.
-- The strat is: if you host then go in, change your fleet to your best boss slayer fleet (the fight last 60s), save your fleet, get out and invite people, ignore it and do your 3 support attempts while waiting. To use your support entries: sit in chat room, wait till someone post an invite and click to join in OR choose one on boss list and click attack till you get a fight (If the game pops up an expired, it means the boss already dies). Have fun~~~
+- The strat is: if you host then go in, change your fleet to your best boss slayer fleet, ships available in Ashes Showdown are only selectable from OpSi current fleet setup (the Change button is on the bottom left), save your fleet, get out and invite people, ignore it and do your 3 support attempts while waiting. To use your support entries: sit in chat room, wait till someone post an invite and click to join in OR choose one on boss list and click attack till you get in (If the game pops up an expired coordinate, it means the boss already died). Have fun~~~
 
 #### Patch Note that explains this in a long-winded way:
 You can obtain Analysis Points by defeating the META boss in Ashes Showdown.
