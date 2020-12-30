@@ -2,6 +2,15 @@
 
 A massive new game mode has just been introduced, this is a basic beginner guide for people who skimmed through the tutorial along with some quick advices/basic answers from someone who no-lifed this coupled with info from other no-lifers. Please be patient while this gets updated.
 
+
+## Table of content:
+- [TL;DR and Tips](#faq-and-TL;DR/Most-important-advices:)
+- [General Gameplay](#general-gameplay)
+- [Overworld Map](#overworld-map)
+- [Region Map](#region-map)
+- [Treasure Map](#treasure-map)
+- [Ashes Showdown](#ashes-showdown)
+
 ## FAQ and TL;DR/Most important advices:
 - **READ THE TUTORIAL**. A lot of questions are answered in the tutorial, remember it, the game won't repeat it.
 - (Optional) **Read the patch note**. This is a link to the ALEC (Azur Lane English Community/Azur Knights) JP patch note: https://discord.com/channels/321283108122918924/362997422018002944/790860232594817034
@@ -21,30 +30,30 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - "Why are 5 or 6 star level regions so hard?" Because your current module count is low, your module count will be compared to the enemy, every point difference is 1% in your or the enemy favor (Offense and Defense is 70%-130%, Tactics (healing) is 70-100%)
 - "What are 4th and 5th stars in region, why are they all ???" Because they are hidden requirement and sometimes RNG to boot. [Here's a datamined spreadsheet of all starring requirements](https://docs.google.com/spreadsheets/d/1XvXwQ1MUvIbRe44G0eAfo9rnMGm6BflHbjGcbwIcNrE/edit?usp=sharing)
 
-## General Gameplay and Maps:
-
-#### General Gameplay:
+## General Gameplay:
 - There's 3 important things 1st: 
    - Fleet swapping is bottom left now cause you will eventually get access to up to 4 fleet simultanously. 
-   - Order tab: on the radar on the right side of the screen. Change fleet, resting to heal up and remove fatigue, recon, submarine call-ins all cost AP. Change fleet cost up to 100 AP, slowly drain to 0 over time. Rest cost a static 50. recon cost up to 12? drain to 0 over 15-30 mins.
-   - Scanning mode: clunky piece of shit but important to locate hidden cache. If you do not have the entire map reveal through recon, you gonna need to go here often to locate hidden cache that will not show up on the map.
+   - Order tab: on the radar on the right side of the screen. Change fleet, resting to heal up and remove fatigue, recon, submarine call-ins all cost AP. Change fleet cost up to 99 AP, slowly drain to 0 over 24 hrs. Rest cost a static 50 and has a cooldown of 24 hrs as well. Recon cost up to 9 AP drain to 0 over 10-15 mins. Submarine support cost up to 39 AP and reset to 0 over 30 mins.
+   - Scanning mode: clunky toggle but crucial to locate hidden cache and scan loot tiles. More details will be given in the Tile section below.
+- Sinking: any sunk ships will be revived with 10% of their hp and given the "damaged" debuff (red wrench icon on the hp bar). This disables **ALL** skills and can only be removed by using the Regroup and Rest and Fleet Redeployment in the "Navigational Order" tab or repairing your ships at a port. __Healing a ship to full with repairkits will not remove the debuff.__
+- Losing in combat: Most major boss fights (Abyss and Stronghold) are multi-staged, meaning the damage you dealt will remains. When a fleet lose in combat (via timing out or flag ship sinking or all vanguard dies), it is given the "Low Resolve X" debuff (can stack up to 3 times) indicated by a triangle (the more broken it is the stronger the debuff effect. Low resolve lowers FP, TRP, ASW, AVI, AA and EVA by 10% per stack. Low Resolve can be removed by winning battles (if done by other fleet it still counts) or using the Regroup and Rest and Fleet Deploy Navigational Orders. (Crucial for Abyss fights if your fleet is struggling)
 - Change fleet and cats by going to Order (on the Radar to the right) then Fleet Redeployment.
-- Don't be afraid of retreating or restarting, you don't have morale or oil cost to worry about, restart as much as you want to get the outcome that you want.
+- Don't be afraid of retreating or restarting, you don't have morale or oil cost to worry about, restart as much as you want to get the outcome that you want. Also **AVOID** ship sinking in Abyssal Zone cause you cannot recover from the "Damaged" debuff without using Rest and Regroup lest you want to give up on the boss.
 
-#### Overworld map:
+## Overworld Map
 
-- Ports: currently 4 ports are important (they are all blue colored: NYC, Liverpool, Gibraltar, St. Pete), they have their own shop that refresh every 3 days and have daily missions when you finished story. There's 2 kind of currency: Operation Supply Coins and Special Item Tokens. Using the supply coins liberally is fine, they are too abundant. The token can cost a lot (depending on your shop refresh and grind level) and there's not much way to replenish them so I'd say be a bit more cautious on what you buy with them (Gold and Rainbow Plates and Designs are good purchases, Coordinate purchase depends on your fleet power, if you can't kill a 128 abyss boss, don't bother). Akashi random event sell these tokens for coins so always buy them if possible.
+- Ports: currently 4 ports are important (they are all blue colored: NYC, Liverpool, Gibraltar, St. Pete), they have their own shop that refresh every 3 days and have daily missions **after you finished story**. There's 2 kind of currency: Operation Supply Coins and Special Item Tokens. Using the supply coins liberally is fine, they are too abundant. The token can cost a lot (depending on your shop refresh and grind) and there's not much way to replenish them so I'd say be a bit more cautious on what you buy with them (Gold and Rainbow Plates and Designs are good purchases, Coordinate purchase depends on your fleet power, if you can't kill a 128 abyss boss consistently, don't bother). Akashi random event and Port shops sell these tokens for coins so always buy them if possible. More detailed Shop purchase guide below.
 - Regions that cost AP to enter (story regions has red exclamation mark on it cost 0 AP to enter and 0 AP to scan if they allow you). After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately.
 - Explanations of on screen markers:
    - Red exclamation marks: Main story markers, follow this until you finish the story. Finishing story (4-6) will unlock daily missions and weekly strongholds
    - Green clipboards = Puzzle Portals and Daily Quest markers (any side missions that show up in the Information tab will be marked as such)
-   - Yellow chests = Fracture Sea (alternate zone that will have you clear some rally points for loot, using the teleporter will move you back to the region b4 you enter)
-   - Gold coins = just rewards markers for AP chest/healing boxes/coins (mostly shown as rewards for regions you haven't controlled)
-   - Adaptive stat icons = respective Adaptive stat boost (shown as rewards for regions you haven't controlled)
-   - Red boss icons = One time entry Abyssal Zones (depending on Corrosion level boss with a massive hp pool and requires multiple fleets to tackle). If you leave, the boss will disappear. Can drops high quality loot (rainbow mats) from Corrosion level 4 and above.
+   - Yellow chests = Fracture Sea/Obscured Zone from blue coordinates in storage (alternate zone that will have you clear some rally points for loot, using the teleporter will move you back to the region b4 you enter)
+   - Gold coin icon = just rewards markers for AP chest/healing boxes/coins (mostly shown as rewards for regions you haven't controlled)
+   - Blue Hexagon icon = respective Adaptive stat boost, click on it to see details on which stat if you aren't familiar with adaptive stat icon(shown as rewards for regions you haven't controlled)
+   - Red boss icon = One time entry Abyssal Zones from Red coordinates (depending on Corrosion level boss with a massive hp pool and requires multiple fleets to tackle). If you leave after unlocking the gate to spawn the boss, the boss will disappear. Can drops high quality loot (up to rainbow mats) from Corrosion level 4 and above. They don't hit as hard as Stronghold bosses however. There's 2 mob fleet on the bottom right of the screen shrouded in fog, to get there and get a win to cleaar your t
    - Swirling Abyss = Strongholds (level 128 enemies with 144/144/144 stat) cost 100 AP ONCE to enter and can be retreated freely for repairs. Only spawn after finishing story. Can drops high quality loot (rainbow mats).
 
-### Regional maps and effects/point of interest:
+## Regional Map
 
 - Think of it as normal maps in every chapter in main campaign (and AP as the 10 oil cost to enter). Harder region cost more AP (80 AP region has level 114 mobs and 118 boss, 60 AP has level 103-104, 108 boss, Abyss cost up to 100 AP and spawn 128 boss)
 - Every fleet has their movement restricted in turns (much like event maps where you have limited movement tiles). Same concept here but turns actually have an effect on the map. The map is semi-dynamic in that mobs might spawn in over time, cat salvages overtime, discovering elite fleets (enhanced enemies with modules and more drops) when you meet them on the map
@@ -133,20 +142,21 @@ Only in Puzzle maps, using the corresponding control tower will turn pebbles int
 #### Sirens
 Sirens move whenever you move three times, and unlike events they move 5 tiles at once instead of 2, so plan ahead if you want to avoid them with your fleets. You can also just retreat when they caught up, not much reason to fight them if they are just blue reinforcement that drop no loot.
 
-#### Dangerous enemies (Mixed Recon Fleets)
-Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type.
+#### Dangerous enemies (Mixed Recon/Main/Aviation Fleets)
+Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](
 
 #### Stronghold Bosses and Abyssal Bosses
 Big bad highly leveled Siren boss that has powerful accompanying modules that can seriously wreck fleets. They are also multi-staged boss fight so having multiple leveled fleets is nearly mandatory to beating them. Abyssal bosses reveal their weakness after a certain point.
 
-## Ashes Coordinate and Hiryuu META
+## Ashes Showdown
 
 #### TL;DR:
 - Only unlocks after clearing chapter 1 of the OpSi story
 - Do maps, kill bosses, collect chests/loot spawns and you will get some coordinate points.
-- Get 100 coordinate points and you can host/summon your META boss up to twice a day (they are really easy until like level 10+, a single person can solo it) 
-- The boss gets killed very very fast generally, host don't need to do anything but send out invites, supporters will kill it for you. Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets 27 + 3 per level Analysis Points (30 for level 1, 33 for level 2, etc). You get 2 host per day and 3 support per day. Host counter is above your Analysis point count, if it's greyed out, you will stop accumulating coordinate points. Support counter is on the top right of the Ashes Showdown interfact.
-- The strat is: if you host then go in, change your fleet to your best boss slayer fleet (torp front will nuke the boss in 5s flat), save your fleet, get out and invite people, ignore it for a min and do your support attempts while waiting. Now you get 2 host per day and 3 support per day. To use your support entries: sit in chat, wait till someone post and spam to get in OR spam refresh button on boss list and click attack till you get a fight and get your 30 something points. Have fun~~~
+- Get 100 coordinate points and you can host/summon your META boss up to twice a day.
+- Host don't need to do anything but send out invites, supporters will kill it for you. Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets 27 + 3 per level Analysis Points (30 for level 1, 33 for level 2, etc). **Except for level 15 which you gets 71 points**. You get 2 host per day and 3 support per day. Host counter is above your Analysis point count, if it's greyed out, you will stop accumulating coordinate points (you will start at 0 the next day). Support counter is on the top right of the Ashes Showdown interface.
+- The fight last 60s, the boss kinda does damage and it cost no oil, AP, morale to do and gives no exp or affection either.
+- The strat is: if you host then go in, change your fleet to your best boss slayer fleet (the fight last 60s), save your fleet, get out and invite people, ignore it and do your 3 support attempts while waiting. To use your support entries: sit in chat room, wait till someone post an invite and click to join in OR choose one on boss list and click attack till you get a fight (If the game pops up an expired, it means the boss already dies). Have fun~~~
 
 #### Patch Note that explains this in a long-winded way:
 You can obtain Analysis Points by defeating the META boss in Ashes Showdown.
