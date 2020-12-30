@@ -10,7 +10,7 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - [Shop Guide](#shop-guide)
 - [Region Map](#region-map)
 - [List Of Random Event](#list-of-random-event)
-- [Treasure Map](#treasure-map)
+- [Treasure Map](#obscured-zonefractured-seatreasure-map-yellow-chests-on-map)
 - [Ashes Showdown](#ashes-showdown)
 
 ## FAQ and TL;DR/Most important advices:
