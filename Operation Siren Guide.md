@@ -40,14 +40,22 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - Change fleet and cats by going to Order (on the Radar to the right) then Fleet Redeployment.
 - Don't be afraid of retreating or restarting, you don't have morale or oil cost to worry about, restart as much as you want to get the outcome that you want. Also **AVOID** ship sinking in Abyssal Zone cause you cannot recover from the "Damaged" debuff without using Rest and Regroup lest you want to give up on the boss.
 
+#### Adaptability Stat:
+- Offense, Survivability, Tactic Adaptability all either buff or debuff the enemy depends on the enemy's count and your own. Shown on the top right in region maps above your cats and fleet buffs OR to the right of the overworld map.
+- Increase it with Tuning Samples (they are perma until every other cycle reset so just use them as you get them) or Adaptability modules (Hexagon on maps) collected in the map.
+- The difference will make up the modifier with Offense affect the enemy's damage dealt, Survivability affect their hp and Tactics affect YOUR fleet healing capability. With Offense and Survivability ranging from 70%-130% and Tactics (healing) is 70-100% so you can have your Tactics stat below the other 2 by a margin of 30-50 points. 
+- C4 and C5 abyssal zones only have 60 and then 90 adaptive stat, with C6 Abyss level 120 boss with 120 stat. 
+- Stronghold have around 140-144 adaptive stats.
+- To max out on your adaptive stat advantage you need ~195 of Offense and Survival with Tactic at 140-150 but the simpler advice is **aim 200/200/150**.
+
 ## Overworld Map
 
-- Ports: currently 4 ports are important (they are all blue colored: NYC, Liverpool, Gibraltar, St. Pete), they have their own shop that refresh every 3 days and have daily missions **after you finished story**. There's 2 kind of currency: Operation Supply Coins and Special Item Tokens. Using the supply coins liberally is fine, they are too abundant. The token can cost a lot (depending on your shop refresh and grind) and there's not much way to replenish them so I'd say be a bit more cautious on what you buy with them (Gold and Rainbow Plates and Designs are good purchases, Coordinate purchase depends on your fleet power, if you can't kill a 128 abyss boss consistently, don't bother). Akashi random event and Port shops sell these tokens for coins so always buy them if possible. More detailed Shop purchase guide below.
-- Regions that cost AP to enter (story regions has red exclamation mark on it cost 0 AP to enter and 0 AP to scan if they allow you). After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately.
+- Ports: currently 4 ports are important (they are all blue colored: NYC, Liverpool, Gibraltar, St. Pete), they have their own shop that refresh every 3 days and have daily missions **after you finished story**. It is recommended to unlock all of them after you finish story ASAP. 
+- Comprises of regions which cost AP to enter (story regions has red exclamation mark on it cost 0 AP to enter and 0 AP to scan if they allow you). After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately.
 - Explanations of on screen markers:
-   - Red exclamation marks: Main story markers, follow this until you finish the story. Finishing story (4-6) will unlock daily missions and weekly strongholds
+   - Red exclamation marks: Main story markers, follow this until you finish the story. Finishing story (4-6) will unlock daily missions and weekly strongholds. More details are in the [Story Guide section](#story-guide)
    - Green clipboards = Puzzle Portals and Daily Quest markers (any side missions that show up in the Information tab will be marked as such)
-   - Yellow chests = Fracture Sea/Obscured Zone from blue coordinates in storage (alternate zone that will have you clear some rally points for loot, using the teleporter will move you back to the region b4 you enter)
+   - Yellow chests = Fracture Sea/Obscured Zone/Treasure Map from blue coordinates in storage (alternate zone that will have you clear some rally points for loot, using the teleporter will move you back to the region b4 you enter)
    - Gold coin icon = just rewards markers for AP chest/healing boxes/coins (mostly shown as rewards for regions you haven't controlled)
    - Blue Hexagon icon = respective Adaptive stat boost, click on it to see details on which stat if you aren't familiar with adaptive stat icon(shown as rewards for regions you haven't controlled)
    - Red boss icon = One time entry Abyssal Zones from Red coordinates (depending on Corrosion level boss with a massive hp pool and requires multiple fleets to tackle). If you leave after unlocking the gate to spawn the boss, the boss will disappear. Can drops high quality loot (up to rainbow mats) from Corrosion level 4 and above. They don't hit as hard as Stronghold bosses however. There's 2 mob fleet on the bottom right of the screen shrouded in fog, to get there and get a win to cleaar your t
@@ -73,64 +81,89 @@ A massive new game mode has just been introduced, this is a basic beginner guide
    
 ## Regional Map
 
-- Think of it as normal maps in every chapter in main campaign (and AP as the 10 oil cost to enter). Harder region cost more AP (80 AP region has level 114 mobs and 118 boss, 60 AP has level 103-104, 108 boss, Abyss cost up to 100 AP and spawn 128 boss)
-- Every fleet has their movement restricted in turns (much like event maps where you have limited movement tiles). Same concept here but turns actually have an effect on the map. The map is semi-dynamic in that mobs might spawn in over time, cat salvages overtime, discovering elite fleets (enhanced enemies with modules and more drops) when you meet them on the map
-- Recon reveal the entire map so scanning mode will reveal hidden cache easier.
+- Think of it as normal maps in every chapter in main campaign (and AP as the 10 oil cost to enter). Region's difficulty is based on star/corrosion level which scale up the AP cost (80 AP region has level 114 mobs and 118 boss, 60 AP has level 103-104, 108 boss. Abyss cost up to 60/80/100 AP and spawn 102/114/120 boss, Stronghold cost 200 AP fixed and have 122 mobs to 128 boss)
+- Every fleet has their movement restricted in turns (much like event maps where you have limited movement tiles). Same concept here but turns actually have an effect on the map. The map is semi-dynamic in that mobs might spawn in over time (like in Obscured Zone), cat salvages overtime (10 turns), discovering elite fleets (enhanced enemies with modules and more drops as well as spawn a random event when defeated) when you meet them on the map.
+- Recon reveal the entire map so scanning mode will reveal hidden cache/read cache descriptions easier.
 - Retreating from a region requires a fleet at the edge of the map if you haven't cleared it. If you have, just click outside.
-- The hardest currently available regions are: Strongholds and High Corrosion Abyss Coordinates.
+- The hardest currently available regions are: Strongholds and High Corrosion 6 Abyss Coordinates.
 - Strongholds reset once a week (likely monday) to a cap of 3, they have level 128 bosses and mobs which can be hard if under adaptive stats.
-- Abyssal zones spawn when using Coordinates in Storage. Can have multi-stage bosses (ranging from 108 to 128) who will show a weakness after a certain hp threshold.
+- Abyssal zones spawn when using Coordinates Loggers in Storage. Can have multi-stage bosses (ranging from 108 to 120) who will show a weakness after a certain hp threshold.
 - Reinforcements (colored blue rather than red) drops no exp or loot.
 
-#### Adaptability Stat:
-Offense, Survivability, Tactic Adaptability all either buff or debuff the enemy depends on the enemy's count and your own. You can increase it with Tuning items (they are perma until reset so just use them as you get them) or Adaptability modules collected in the map. The difference will make up the modifier with Offense affect the enemy's damage dealt, Survivability affect their hp and Tactics affect YOUR fleet healing capability. With Offense and Survivability ranging from 70%-130% and Tactics (healing) is 70-100% so you can have your Tactics stat below the other 2 by a margin of 30-40 points. Early abyssal zones only have 60 and then 90, it increases the more zones you do up to the level 128 boss with 144 stat so to max out you need ~180 of Offense and Survival with Tactic at 140-150.
-
-#### Main OpSiren Story
-First time you enter an area for the story it costs no AP, it will cost AP after that. They also do not give EXP except the boss fight iirc.
-
-#### Map stars
-- Each map has 5 stars you can get. Star 4 and 5 are for now "???" meaning locked and can't be obtained so just ignore it.
-Press information -> exploration progress to show the  objectives for the current area. 3 objectives are revealed on the first time you enter an area. [Intel] can spawn [randomly(?)] revealing an additional star requirement.
+## Map stars
+- Each map has 5 stars you can get. Star 4 and 5 are for now "???" meaning the condition is hidden, you will see what it is when you get stars 3 and 4 respectively.
+- Press information -> exploration progress to show the  objectives for the current area. 3 objectives are revealed on the first time you enter an area.
 - Star rewards can be claimed at ports. (there are 75 regions so dw about rushing this content)
-- Some starring requirement are RNG
-- [Here's a datamined spreadsheet of all starring requirements](https://docs.google.com/spreadsheets/d/1XvXwQ1MUvIbRe44G0eAfo9rnMGm6BflHbjGcbwIcNrE/edit?usp=sharing)
+- Some starring requirement are RNG. Most notable are Promoted Pawns spawn, Logger random event and Anomaly Weather node.
+- [Here's the wiki table of all starring requirements and their respective rewards](https://azurlane.koumakan.jp/Operation_Siren_Exploration)
+- Starring conditions always relates to random events generated on entry and not on Promoted Pawns/boss kills.
 
+### Random event that happen on entry:
 #### Anomaly weather zone:
-RNG Starring condition, there's a loot marker in it coupled with some weather tiles (currents, windstorms, etc) that rewards adaptive stat.
-
-#### Siren floating rewards
-Seems to spawn 5 interest points, you can only collect up to 3, 2 will always sink regardless of turns taken. Sometimes can spawn an ambush fleet that drops next to nothing or a Siren warning that sinks all other points.
-
-#### Siren Jamming 
-Box that spawn after defeating a boss. Collecting it will jam your fleet, reducing that fleet movement to 1 tile for the next 5 moves. In Fractured Sea, there exist a variation that will spawn a bunch of weather tiles on loot.
+RNG Starring condition, there's a hidden loot marker in its vicinity (revealed with scanning mode) coupled with some weather tiles (currents, windstorms, weird towers etc) that rewards adaptive stats.
 
 #### Meowficers Node
-Upon entering the tile you will be asked whether or not you want to deploy Meowficers to gather resources. If you choose to, your meowficcer skills will be disabled for an amount (about 10) of turns, then they will return with rewards. Rewards are based on Meowficcer levels and rarity.
-
-#### Energy matrix:
-Collect the Matrix on the map and deliver it to the platform to get rewards. There's a variation of this in Fractured Sea that has 4 Matrixes, move close to it will spawn 4 hidden matrix on the map which can be revealed with scanning mode.
-
-#### Energy Cache: (Place where you use the Energy Storage Device or ESD)
-Go there, use the Energy Storage Device and you get loot, if it fails, just smash it. Spending the ESD will rewards with adaptive stat. Smashing seems to never give adaptive stat.
+Upon entering the tile you will be asked whether or not you want to deploy Meowficers to gather resources. If you choose to, your meowficcer skills will be disabled for 10 turns, then they will return with rewards. **Rewards are based on the Command Meowficcer levels and rarity.**
 
 #### Siren Coordinate Logger
-Looks like a oil rig, moving on it and you will be ambushed twice and gain access to the device (up to 3-4 times). You can either spend one Energy Storage to spawn a mob fleet (that doesn't drop modules) or 2 item tokens to spawn an Energy Cache event (that rewards modules and some other loot) or just a "Sparkle" loot which doesn't disappear but doesn't drop anything lucrative either.
+Looks like a oil rig with some cranes, moving on it and you will be ambushed twice and gain access to the device (usable 2-4 times). You can either spend 1 ESD to spawn a mob fleet (that doesn't drop modules) or 2 Tokens to spawn an [Energy Cache event](#energy-cache) or just a "Sparkle" loot which doesn't disappear but doesn't drop anything lucrative either.
 
-#### Blockade
-Square-shaped formation that locks your fleet in when you step in to them as well as spawn 3 moduled buffed mob fleet. Defeating all the moduled fleet lift the blockade. In fractured sea, there's also a variation where it will spawn 3 blockades looking tile and one outside of the 5x5 tiles. Moving a fleet to the one spawn outside will destroy the hologram in the zone.
+#### General Loot:
+Indicated by a "sparkle", a chest or a hidden (shown on radar and can be seen through scanning mode)
 
-#### Light house:
-Light house zone seems to always spawn on massive Fractured sea on the South most square (30x30 map, divided into 9 5x5 square shaped zone with its own RNG spawn and 3 Siren Rally points). Using a ESD will perform a free recon. If one has already used the recon using AP, ignore this zone.
+### Random event that happen after killing a boss node:
+#### Siren floating rewards
+Spawn 5 "sparkle" tiles, use scanning mode and click on individual tiles to know what will happen. List of events include: Loot, Ambush and Warning Device. You can only collect up to 3 Loot and the other 2 will disappear, Ambush fleet drops no rewards so skip is fine, Warning Device will deletes all remaining tiles.
+
+#### Siren Jamming 
+Box that spawn after defeating a boss. Scanning will show whether it will jam your fleet or not. Either reducing that fleet movement to 1 tile for the next 5 turns or make your fleet move twice in random direction after the next move. 
+
+#### Energy Matrix:
+Collect the Matrix on the map and deliver it to the platform to get rewards.
+
+#### Energy Cache:
+Go there, use the Energy Storage Device and you get some adaptive stat, if it fails, just smash it. Smashing seems to never give adaptive stat.
+
+#### Siren Ambush:
+Straight forward a Siren mob spawn right on top of your fleet. Killing it drop some loot.
+
+#### Siren Rally Point:
+Calls in reinforcement every 3 turns. Disabled when stepping on them.
+
+### Random event that happens in Obscured Zone/Fractured Sea/Treasure Map (they are all names to the Yellow Icon on the map):
 
 #### Siren Rally Points
-Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which might force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue in color) spawn in infinitely and they don't drop any loot, avoid them if possible. Clearing all Rally points spawn a Teleporter and some chests in Fractured Sea.
+Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which will force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue in color) spawn in infinitely and they don't drop any loot, avoid them if possible. Clearing all Rally points spawn a Teleporter and some chests. In big maps (9x9) clearing 2 rally points will spawn a siren fleet which will chase your fleet down but don't drop any loot.
+
+#### Siren Weather Control Device:
+Does what it said on the tin, go to it to disable whatever weather anomaly surrounding the Rally Points. Doesn't have any ambush fleet on it apparently.
 
 #### Siren Data Center(?)
-A plus formation of sort, with obstacle constructs that spawn in Fractured Sea that spawn with a couple EMP tiles. After stepping on all of the (usually 3) weather anomalies, it will spawn 2 hidden Meowfficer search nodes which can be revealed with scanning mode.
+A plus formation of obstacle constructs that spawn in Fractured Sea that spawn with a couple EMP tiles and possibly 2 hidden Meowfficer nodes. If scanning mode doesn't reveal the meowfficer nodes, stepping on all of 3 weather anomalies will spawn them.
+
+#### Paired switches: 
+Putting a fleet on both of the switches automatically will spawn loot.
+
+#### Chest surrounded by rocks:
+Rocks will be removed after clearing all Siren Rally points. 
+
+#### Anomaly Chest:
+Inconspicuous chest which fill the entire 5x5 area with a random weather event (Flaming Sea, Frigid Waters, etc) which will also hide any other event (e.g 4 Matrix event tile). So it is recommended to do this zone last.
+
+#### 4 Matrix Box:
+4 Matrixes deposit points surround a chest, move into the 5x5 zone of it will spawn the 4 matrix hidden on the map (revealed with scanning mod). Putting matrix in will upgrade the box content.
+
+#### Blockade
+If the 5x5 Square has nothing in it, expect it to be this event. Walking into the zone will lock your fleet in and either spawn 3 moduled buffed mob fleet OR 3 gate typed devices. Defeating all the moduled fleets OR choosing the right gate will lift the blockade. In gate version, there will also be a fractured sea, there's also a variation where it will spawn 3 blockades looking tile and one outside of the 5x5 tiles. Moving a fleet to the one spawn outside will destroy the hologram in the zone.
+
+#### Light house:
+Light house zone seems to always spawn on massive Fractured sea on the Bottom square, 6 o'clock position (9 5x5 square shaped zone with its own event, 3 of which are Siren Rally points and 2 of them are protected by a Siren Weather Control device). Using a ESD here will perform a free recon. If one has already used the recon using AP, ignore this event.
+
 
 #### EMP tiles:
 Cause random movement of your fleet for 1-2 turns when stepped on.
-
+In Fractured Sea, there exist a variation that will spawn a bunch of weather tiles on loot.
+There's a variation of this in Fractured Sea that has 4 Matrixes, move close to it will spawn 4 hidden matrix on the map which can be revealed with scanning mode.
 #### Ice pillars and ice floes:
 Ice pillars block movement entirely and sometimes can be removed by destroying the corresponding Siren Control Tower. Ice floes looks like ice tiles that will continue your fleet momentum till it's next to an obstacle or another fleet.
 
@@ -152,10 +185,12 @@ Direct your fleet to the tile it points to.
 #### Flaming Sea:
 Do a %hp damage to all unit in the fleet and persist a turn.
 
+#### Corrosive Sea:
+
 #### Colored blockers:
 Only in Puzzle maps, using the corresponding control tower will turn pebbles into movement blocking contructs and vice versa. 
 
-## Enemies
+## Enemies and Special Zones explanation:
 
 #### Sirens
 Sirens move whenever you move three times, and unlike events they move 5 tiles at once instead of 2, so plan ahead if you want to avoid them with your fleets. You can also just retreat when they caught up, not much reason to fight them if they are just blue reinforcement that drop no loot.
@@ -165,6 +200,13 @@ Basically boss fleets. Have specialized modules that buff/debuff stats/defense m
 
 #### Stronghold Bosses and Abyssal Bosses
 Big bad highly leveled Siren boss that has powerful accompanying modules that can seriously wreck fleets. They are also multi-staged boss fight so having multiple leveled fleets is nearly mandatory to beating them. Abyssal bosses reveal their weakness after a certain point.
+
+## Story Guide
+First time you enter an area for the story it costs no AP, it will cost AP after that. They also do not give EXP except the boss fight iirc.
+- Chapter 1: Enemy around level 62-68. After finishing all red markers, it will ask you to clear 6 regions in the NW section, just clear whatever lowest star level to unlock Chapter 2, Fleet 3 and 4, Ashes Showdown as well as the next region via Liverpool port. The game also forces you to do a Fleet Redeployment and have a fleet 3 and 4 else you are soft locked at Liverpool and can't leave.
+- Chapter 2: Enemy around 72-78. Same concept, now you need to clear 7-8 region in this Liverpool region to unlock the next region. Unlocks Submarine fleet but doesn't soft lock you to the port.
+- Chapter 3: Enemy around 82-88. Same concept, unlocks the last region and port Dakar (a red port).
+- Chapter 4: Enemy around 92-98. Same concept but unlocks daily missions and Strongholds spawn.
 
 ## Ashes Showdown
 
