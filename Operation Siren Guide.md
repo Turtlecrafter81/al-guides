@@ -7,7 +7,9 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - [TL;DR and Tips](#faq-and-tldrmost-important-advices)
 - [General Gameplay](#general-gameplay)
 - [Overworld Map](#overworld-map)
+- [Shop Guide](#shop-guide)
 - [Region Map](#region-map)
+- [List Of Random Event](#list-of-random-event)
 - [Treasure Map](#treasure-map)
 - [Ashes Showdown](#ashes-showdown)
 
@@ -97,6 +99,14 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - Some starring requirement are RNG. Most notable are Promoted Pawns spawn, Logger random event and Anomaly Weather node.
 - [Here's the wiki table of all starring requirements and their respective rewards](https://azurlane.koumakan.jp/Operation_Siren_Exploration)
 - Starring conditions always relates to random events generated on entry and not on Promoted Pawns/boss kills.
+- **Bug workaround for "Take control of 1 region" star requirement"**:
+   - Requirements: One uncompleted Fractured or Abyssal node. (Those are the treasure chests and red boss icons on the map.)
+   - Step 1: Enter the safe zone map you already completed, the one whose "complete this map" star is missing. Clear it again. (The second time around, it will be quite easy cause there will be only two enemies and no hazards.) Make sure TB tells you not to forget to pick up your loot.
+   - Step 2: Go directly to the Fractured or Abyssal map. Do not pass GO. Do not collect 200 dollars. Most importantly, do not return to port to heal or dillydally first. Go directly there. Then, of course, clear the Fractured or Abyssal map.
+   - Step 3: When you leave the completed fractured map, leave through the teleporter that you get upon successful clear. Do not push "exit" in the lower right. Use the teleporter.
+   - Step 4: It will dump you back out in the bugged map you came from, but this time there will be a spoils of war box in the middle of it. Collect it, and it will award you the completion star you never got.
+   
+## List of random event:
 
 ### Random event that happen on entry:
 #### Anomaly weather zone:
@@ -136,9 +146,9 @@ Calls in reinforcement every 3 turns. Disabled when stepping on them.
 #### Weather Anomaly:
 Usually fogs or some directional currents spawn around the fleet in a 5x5 square. Look at the radar, go into the fog, destroy the Weather Control Tower marked with a "?" and get some loot.
 
-### Random event that happens in Obscured Zone/Fractured Sea/Treasure Map (they are all names to the Yellow Icon on the map):
+## Obscured Zone/Fractured Sea/Treasure Map (Yellow Chests on map):
 Treasure maps are generated peusdo-randomly like in roguelites with specific patterns with each "room" is a 5x5 square roughly making up the map dotted with some chests:
-- Small map has one room: the rally point
+- Small map has only one slightly bigger room which has the rally point
 - Medium map has 4 rooms: 2 rally points + 2 random events
 - Big map has 9 rooms: 1 light house + 3 rally points + 2 Weather control devices + 3 random events
 
@@ -188,6 +198,9 @@ Ice pillars block movement entirely and sometimes can be removed by destroying t
 #### Fog
 Movement in fog is restricted to 1 tile and you can only see up to one tile around you. There's a Fog control tower only that you can go to and remove all fog on the map.
 
+#### Maelstrom
+Hazier and redder in color than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Siren Control Tower.
+
 #### Whirlpool
 Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned, eating your moevement, meaning that reinforcements can spawn and move closer. Movement out of the Whirlpool is restricted to 1 tile.
 
@@ -201,9 +214,6 @@ Does %hp damage to all unit in the fleet.
 Decrease combat efficiency of the fleet (unclear on how much, best to avoid combat while affected by the debuff). Last up to 5 turns.
 
 ### Other notable tile type:
-#### Maelstrom
-Hazier and redder in color than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Siren Control Tower.
-
 #### Colored blockers:
 Present in Puzzle maps, using the corresponding colored control tower will turn pebbles into movement blocking contructs and vice versa. 
 
@@ -216,7 +226,7 @@ Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with you
 Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/Operation_Siren#Additional_effects)
 
 #### Stronghold:
-There are 7 zones. You spawn with 2 controled zones and siren has 5 zones. There will always be an Invader Siren reinforcement that spawn after you clear 3 zones which will steal one of your zone after 3 turns. The final Stronghold Siren boss are strong, they are not as tanky but they hit very hard even before taking account of their module buffs. They are supposedly multi-staged boss but you can do it with just 2 fleets. You can always retreat out of strongholds to return to Port to heal. So stronghold isn't as hard, just takes a bit of time to clear.
+There are 7 zones present in a stronghold. You spawn with 2 controled zones and siren has 5 zones. There will always be an Invader CL Siren reinforcement that spawn after you clear 3 zones which will steal one of your zone after 3 turns (This reinforcement will drop loot like a boss fight and has a chest spawn afterwards). The final Stronghold Siren boss are strong, they are not as tanky as Abyssal bosses but they hit very hard even before taking account of their module buffs. They are supposedly multi-staged boss and you can retreat to ports while keeping your damage dealt to the boss. __**Remember that you can always retreat out of strongholds to return to Port to heal.**__ So stronghold isn't as hard, just takes a bit of time to clear.
 
 #### Abyssal Zones:
 Currently only have 4 types of bosses: DD, CL, CA and BB. Abyssal bosses reveal their weakness after certain hp thresholds. They all have below average AA stat making them susceptible to CV damage. They also have an uncanny weakness to Airstrikes a lot of the time. They hit not as hard but they are twice as tanky compared to Stronghold bosses. The key to beating these Abyss bosses are to bring a well-equipped CV fleet. Also try to avoid any ship sinking because it will apply an debuff (red wrench on the hp bar) that disable skills to the ship that sunk which can only be removed with the Rest and Regroup in the Order Tab. Failing battle apply a "Low Resolve" debuff (triangle on the fleet on the map) that debuff all stats by 10% up to 3 times which can be removed by winning against the mobs hidden in the fog. To get to them look at the 2 side of the map, there will be ways to get to the lanes in the side and travel to the fog and fight them. Other fleets also removed their "Low Resolve" if any fleet wins a battle.
@@ -227,7 +237,7 @@ First time you enter an area for the story it costs no AP, it will cost AP after
 - Chapter 2: Enemy around 72-78. Same concept, now you need to clear 7-8 region in this Liverpool region to unlock the next region. Unlocks Submarine fleet but doesn't soft lock you to the port.
 - Chapter 3: Enemy around 82-88. Same concept, unlocks the last region and port Dakar (a red port).
 - Chapter 4: Enemy around 92-98. Same concept but unlocks daily missions and Strongholds spawn.
-
+- **Notable bug, unclear if it's fixed or not but is important to mention:** Finishing chapter 1-6 b4 clearing 6 regions in NW. THEN clearing 6 regions might result in a soft lock that the player will not be able to unlock Liverpool port. It is recommended to stray from the Red marker for a bit to clear 6 regions (some low level regions are fine, don't have to clear star level 6 regions) before continuing the story
 ## Ashes Showdown
 
 #### TL;DR:
