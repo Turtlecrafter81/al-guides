@@ -8,7 +8,7 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - [General Gameplay](#general-gameplay)
 - [Overworld Map](#overworld-map)
 - [Shop Guide](#shop-guide)
-- [Region Map](#region-map)
+- [Region Map](#regional-map)
 - [List Of Random Event](#list-of-random-event)
 - [Treasure Map](#obscured-zonefractured-seatreasure-map-yellow-chests-on-map)
 - [Ashes Showdown](#ashes-showdown)
