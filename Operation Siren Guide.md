@@ -4,7 +4,7 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 
 
 ## Table of content:
-- [TL;DR and Tips](#faq-and-TL;DR/Most-important-advices:)
+- [TL;DR and Tips](#faq-and-tldrmost-important-advices)
 - [General Gameplay](#general-gameplay)
 - [Overworld Map](#overworld-map)
 - [Region Map](#region-map)
@@ -18,17 +18,17 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - **__DO STORY UNTIL YOU UNLOCK 4 FLEETS__**: This fleet change is mandatory if you want to exit the port. This is where your 1st free fleet change comes in. Changing fleets and cats cost a lot of AP, up to 100 AP each. The cost get reduced down to 0 over time but it takes roughly 24 hours for it. My personal recommendation is as before, while your fleet 3 and 4 should be mimicking fleet 2 in a sense that it has 2 out of 3 damage type (Shelling/Torp/Plane) to counter the bosses.
 - **"Everything is so confusing, what do?"** This is content that is permanent for the most part (the META ships are seasonal). Don't worry too much. But it will take a lot of time and consistent game time to grind. AP has a soft cap of 100, regen 1 point per 10 mins.
 - **Do story, seriously I'm not joking, do it, a lot is gated behind story**. The story marker are the red exclamation mark on the map. Why I say this is because story regions rewards a lot of modules allowing you to fight on par and above par against higher level enemies. If you are not end-game or fucked up your fleet set up, don't stray from the path cause high AP entry maps are hard, like W12/W13 lethal level of hard and entering cost AP. Especially so since you do not have enough modules to compete with the enemy so you get extra debuffed. (+/-30% on every facets, offense, defense, healing). Moreover, story unlocks essential daily/weekly rewards such as missions and strongholds.
-- **Restart a.k.a leaving and retrying battles liberally.** There's no morale or oil cost. There's actually no downsides to retrying fights. If you missed your torp preload on the BB spawn and it burns your flag to hell and back, just restart.
+- **Restart a.k.a leaving and retrying battles liberally.** There's no morale or oil cost. There's actually no downsides to retrying fights. If you missed your torp preload on the BB spawn and it burns your flag to hell and back or your frontline ship sunk on Abyss fight, just restart.
 - "How do I get out of the map when I finished clearing?" Click outside of the map to go to the overworld view. If you haven't cleared the region, you'll need a fleet at the edge so if you can't exit, move a fleet to the edge. (The back button is a quick way to get to the overworld map view but won't exit your fleets from the current region unless it's a port)
 - "How to change fleet and cats?" You will need to go to Order -> Fleet Redeployment to change your fleet and cats. The precise condition is unknown (possibly safe/cleared region) but the button is always available in a port.
-- "What to buy with Supply Coin and Item Tokens?" Don't know yet, they will be exchanged for some kind of voucher ticket every 1st of every month (except Jan 1st) anyways so use them liberally.
-- "Wait, what season?" The META ship season. This season ends on March 18.
+- "What to buy with Supply Coin, Item Tokens and Energy Storage Device?" Refer to the [Shop Guide](#Shop-Guide). But TL;DR: Buy everything cost coins is fine. Buy adaptive stat with Tokens/Coins and ESDs if you are below 195/195/145. Only buy Gold and Rainbow Plates, gear designs and Coordinates with Tokens. Coins and Tokens will be exchanged for exchange shop vouchers every 1st of every month (except Jan 1st). **Every OTHER monthly reset will also reset your adaptive stat and starring rewards.**
+- "Wait, what META season?" The META ship season. This season ends on March 18. 
 - "Why do some region drop no EXP, what gives?" Story region gives no exp whatsoever, all maps do not give affection as well. After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately so don't be alarmed when you run out of AP and the game keeps asking you to refill.
 - "What do the bosses here mean, why are they keep warning me?" Warning just means you are hitting a boss fleet, it's a typical one but do take note of the buffs they get (+50% AA and -50% shelling damage taken means you will need torp to do effective damage to the boss for example). They are level appropiate tho so do be careful cause you don't have enough modules early on to compete with theirs and you will get massively debuffed.
 - "Refills? Should I do that?" The oil:AP ratio is 10:1. You can refill up to 5 times a **WEEK**, the game has typo, go figure. It's 1000/1000/2000/2000/4000 oil in that order. You can also buy AP packs in port shop with Supply Coins.
 - "What is Meta Lab?" It's detailed in the [META Lab section](Operation%20Siren%20Guide.md#ashes-coordinate-and-hiryuu-meta)
-- "Why are 5 or 6 star level regions so hard?" Because your current module count is low, your module count will be compared to the enemy, every point difference is 1% in your or the enemy favor (Offense and Defense is 70%-130%, Tactics (healing) is 70-100%)
-- "What are 4th and 5th stars in region, why are they all ???" Because they are hidden requirement and sometimes RNG to boot. [Here's a datamined spreadsheet of all starring requirements](https://docs.google.com/spreadsheets/d/1XvXwQ1MUvIbRe44G0eAfo9rnMGm6BflHbjGcbwIcNrE/edit?usp=sharing)
+- "Why are 5 or 6 star level regions so hard?" Because your current adaptive stat is low, your module count will be compared to the enemy, every point difference is 1% in your or the enemy favor (Offense and Defense is 70%-130%, Tactics (healing) is 70-100%)
+- "What are 4th and 5th stars in region, why are they all ???" Because they are hidden requirement and sometimes RNG to boot. Shown when you repeatedly do the region. [Here's a datamined spreadsheet of all starring requirements](https://docs.google.com/spreadsheets/d/1XvXwQ1MUvIbRe44G0eAfo9rnMGm6BflHbjGcbwIcNrE/edit?usp=sharing)
 
 ## General Gameplay:
 - There's 3 important things 1st: 
@@ -53,6 +53,24 @@ A massive new game mode has just been introduced, this is a basic beginner guide
    - Red boss icon = One time entry Abyssal Zones from Red coordinates (depending on Corrosion level boss with a massive hp pool and requires multiple fleets to tackle). If you leave after unlocking the gate to spawn the boss, the boss will disappear. Can drops high quality loot (up to rainbow mats) from Corrosion level 4 and above. They don't hit as hard as Stronghold bosses however. There's 2 mob fleet on the bottom right of the screen shrouded in fog, to get there and get a win to cleaar your t
    - Swirling Abyss = Strongholds (level 128 enemies with 144/144/144 stat) cost 100 AP ONCE to enter and can be retreated freely for repairs. Only spawn after finishing story. Can drops high quality loot (rainbow mats).
 
+## Shop Guide:
+- There are 3 main currency: Supply Coins, Item Tokens and Energy Storage Device (ESDs). Tokens and ESDs are used in some events.
+- Akashi shop (random event in region maps) sells the following:
+   - Tokens packs: for coins. Buy these always.
+   - AP boxes: for coins. Buy these always
+   - Healing kits: for coins. Buy these if you are short on it, mostly not needed.
+   - Tuning samples: increases their respective stat for ESDs. Only buy when below the Adaptive stat break point above (200/200/150)
+- Port shops (refresh every half week-ish or twice a week):
+   - Plates: Rainbow and Gold plates for Tokens. Buy these always
+   - Gold Design blueprints for Tokens. Buy these always
+   - Blue and Red Coordinates for Tokens. Blue leads to Obscured Zone/Treasure Maps. Red leads to Abyssal Zone. Buy these always
+   - Tokens packs: for coins. Buy these always.
+   - AP boxes: for coins. Buy these always
+   - Tuning samples: for Tokens/Coins. Same as above (only when below 200/200/150)
+   - The 4 META ship enhancement materials: Ignore is fine. Only buy if you are swimming in Tokens/Coins.
+   - ESDs for tokens: buy if you are really short on them
+   - Gear materials: Skip, buy gold boxes 1st if any.
+   
 ## Regional Map
 
 - Think of it as normal maps in every chapter in main campaign (and AP as the 10 oil cost to enter). Harder region cost more AP (80 AP region has level 114 mobs and 118 boss, 60 AP has level 103-104, 108 boss, Abyss cost up to 100 AP and spawn 128 boss)
