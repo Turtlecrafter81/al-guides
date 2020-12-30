@@ -108,6 +108,9 @@ Upon entering the tile you will be asked whether or not you want to deploy Meowf
 #### Siren Coordinate Logger
 Looks like a oil rig with some cranes, moving on it and you will be ambushed twice and gain access to the device (usable 2-4 times). You can either spend 1 ESD to spawn a mob fleet (that doesn't drop modules) or 2 Tokens to spawn an [Energy Cache event](#energy-cache) or just a "Sparkle" loot which doesn't disappear but doesn't drop anything lucrative either.
 
+#### Akashi's Shop:
+She spawns upon entry to the map, shopping recommendation is in the [Shop Guide](#shop-guide)
+
 #### General Loot:
 Indicated by a "sparkle", a chest or a hidden (shown on radar and can be seen through scanning mode)
 
@@ -130,19 +133,22 @@ Straight forward a Siren mob spawn right on top of your fleet. Killing it drop s
 #### Siren Rally Point:
 Calls in reinforcement every 3 turns. Disabled when stepping on them.
 
+#### Weather Anomaly:
+Usually fogs or some directional currents spawn around the fleet in a 5x5 square. Look at the radar, go into the fog, destroy the Weather Control Tower marked with a "?" and get some loot.
+
 ### Random event that happens in Obscured Zone/Fractured Sea/Treasure Map (they are all names to the Yellow Icon on the map):
 
 #### Siren Rally Points
-Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which will force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue in color) spawn in infinitely and they don't drop any loot, avoid them if possible. Clearing all Rally points spawn a Teleporter and some chests. In big maps (9x9) clearing 2 rally points will spawn a siren fleet which will chase your fleet down but don't drop any loot.
+Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which will force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue in color) spawn in infinitely and they don't drop any loot, avoid them if possible. Clearing all Rally points spawn a Teleporter and some chests. In big maps (9x9) clearing 2 rally points will spawn a siren fleet which will chase your fleet down but doesn't drop any loot.
 
 #### Siren Weather Control Device:
 Does what it said on the tin, go to it to disable whatever weather anomaly surrounding the Rally Points. Doesn't have any ambush fleet on it apparently.
 
 #### Siren Data Center(?)
-A plus formation of obstacle constructs that spawn in Fractured Sea that spawn with a couple EMP tiles and possibly 2 hidden Meowfficer nodes. If scanning mode doesn't reveal the meowfficer nodes, stepping on all of 3 weather anomalies will spawn them.
+A plus formation of obstacle constructs that spawn with a couple EMP tiles and possibly 2 hidden Meowfficer nodes. If scanning mode doesn't reveal the meowfficer nodes, stepping on all of 3 EMP tiles will spawn them.
 
 #### Paired switches: 
-Putting a fleet on both of the switches automatically will spawn loot.
+Putting a fleet on both of the switches automatically will spawn loot and destroy all the surrounding rocks.
 
 #### Chest surrounded by rocks:
 Rocks will be removed after clearing all Siren Rally points. 
@@ -151,27 +157,26 @@ Rocks will be removed after clearing all Siren Rally points.
 Inconspicuous chest which fill the entire 5x5 area with a random weather event (Flaming Sea, Frigid Waters, etc) which will also hide any other event (e.g 4 Matrix event tile). So it is recommended to do this zone last.
 
 #### 4 Matrix Box:
-4 Matrixes deposit points surround a chest, move into the 5x5 zone of it will spawn the 4 matrix hidden on the map (revealed with scanning mod). Putting matrix in will upgrade the box content.
+4 Matrix deposits surround a cache, move into the 5x5 zone of it will spawn the 4 matrixes hidden on the map (revealed with scanning mode). Putting matrix in will upgrade the cache content. The cache can only be opened after returning at least 2 matrixes.
 
 #### Blockade
-If the 5x5 Square has nothing in it, expect it to be this event. Walking into the zone will lock your fleet in and either spawn 3 moduled buffed mob fleet OR 3 gate typed devices. Defeating all the moduled fleets OR choosing the right gate will lift the blockade. In gate version, there will also be a fractured sea, there's also a variation where it will spawn 3 blockades looking tile and one outside of the 5x5 tiles. Moving a fleet to the one spawn outside will destroy the hologram in the zone.
+If the 5x5 Square has nothing in it, expect it to be this event. Walking into the zone will lock your fleet in and either spawn 3 module buffed fleets OR 3 gate typed devices. Defeating all the module fleets OR choosing the right gate will lift the blockade (note the wrong gate will have an ambush fleet). In the gate version, there will also be another gate outside of the 5x5 zone. Moving a fleet to the one spawn outside will destroy the fake gates in the zone. Cannot use scanning mode to bypass the gate holograms.
 
 #### Light house:
-Light house zone seems to always spawn on massive Fractured sea on the Bottom square, 6 o'clock position (9 5x5 square shaped zone with its own event, 3 of which are Siren Rally points and 2 of them are protected by a Siren Weather Control device). Using a ESD here will perform a free recon. If one has already used the recon using AP, ignore this event.
+Light house zone seems to always spawn on the Bottom square, 6 o'clock position ONLY on big maps (9 5x5 square shaped zone with its own event, 3 of which are Siren Rally points and 2 of them are protected by a Siren Weather Control device). Using a ESD here will perform a free recon. If one has already used the recon using AP, ignore this event.
 
+#### Akashi's Shop: same as above
+
+### Weather Anomalies:
 
 #### EMP tiles:
 Cause random movement of your fleet for 1-2 turns when stepped on.
-In Fractured Sea, there exist a variation that will spawn a bunch of weather tiles on loot.
-There's a variation of this in Fractured Sea that has 4 Matrixes, move close to it will spawn 4 hidden matrix on the map which can be revealed with scanning mode.
+
 #### Ice pillars and ice floes:
-Ice pillars block movement entirely and sometimes can be removed by destroying the corresponding Siren Control Tower. Ice floes looks like ice tiles that will continue your fleet momentum till it's next to an obstacle or another fleet.
+Ice pillars block movement entirely and sometimes can be removed by destroying the corresponding Siren Control Tower. Ice floes are ice tiles that will continue your fleet momentum till they come in contact with an obstacle or another fleet.
 
 #### Fog
 Movement in fog is restricted to 1 tile. Sometimes there's a Fog control tower that you can go to and remove all fog on the map.
-
-#### Maelstrom
-Hazier and redder in color than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Siren Control Tower.
 
 #### Whirlpool
 Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned, eating your moevement, meaning that reinforcements can spawn and move closer. Movement out of the Whirlpool is restricted to 1 tile.
@@ -186,20 +191,31 @@ Direct your fleet to the tile it points to.
 Do a %hp damage to all unit in the fleet and persist a turn.
 
 #### Corrosive Sea:
+Does %hp damage to all unit in the fleet.
+
+#### Frigid Sea:
+Decrease combat efficiency of the fleet (unclear on how much, best to avoid combat while affected by the debuff). Last up to 5 turns.
+
+### Other notable tile type:
+#### Maelstrom
+Hazier and redder in color than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Siren Control Tower.
 
 #### Colored blockers:
-Only in Puzzle maps, using the corresponding control tower will turn pebbles into movement blocking contructs and vice versa. 
+Present in Puzzle maps, using the corresponding colored control tower will turn pebbles into movement blocking contructs and vice versa. 
 
 ## Enemies and Special Zones explanation:
 
 #### Sirens
-Sirens move whenever you move three times, and unlike events they move 5 tiles at once instead of 2, so plan ahead if you want to avoid them with your fleets. You can also just retreat when they caught up, not much reason to fight them if they are just blue reinforcement that drop no loot.
+Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with your fleets. You can also just retreat when they caught up, not much reason to fight them if they are just blue reinforcement that drop no loot.
 
 #### Dangerous enemies (Mixed Recon/Main/Aviation Fleets)
-Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](
+Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/Operation_Siren#Additional_effects)
 
-#### Stronghold Bosses and Abyssal Bosses
-Big bad highly leveled Siren boss that has powerful accompanying modules that can seriously wreck fleets. They are also multi-staged boss fight so having multiple leveled fleets is nearly mandatory to beating them. Abyssal bosses reveal their weakness after a certain point.
+#### Stronghold:
+There are 7 zones. You spawn with 2 controled zones and siren has 5 zones. There will always be an Invader Siren reinforcement that spawn after you clear 3 zones which will steal one of your zone after 3 turns. The final Stronghold Siren boss are strong, they are not as tanky but they hit very hard even before taking account of their module buffs. They are supposedly multi-staged boss but you can do it with just 2 fleets. You can always retreat out of strongholds to return to Port to heal. So stronghold isn't as hard, just takes a bit of time to clear.
+
+#### Abyssal Zones:
+Currently only have 4 types of bosses: DD, CL, CA and BB. Abyssal bosses reveal their weakness after certain hp thresholds. They all have below average AA stat making them susceptible to CV damage. They also have an uncanny weakness to Airstrikes a lot of the time. They hit not as hard but they are twice as tanky compared to Stronghold bosses. The key to beating these Abyss bosses are to bring a well-equipped CV fleet. Also try to avoid any ship sinking because it will apply an debuff (red wrench on the hp bar) that disable skills to the ship that sunk which can only be removed with the Rest and Regroup in the Order Tab. Failing battle apply a "Low Resolve" debuff (triangle on the fleet on the map) that debuff all stats by 10% up to 3 times which can be removed by winning against the mobs hidden in the fog. To get to them look at the 2 side of the map, there will be ways to get to the lanes in the side and travel to the fog and fight them. Other fleets also removed their "Low Resolve" if any fleet wins a battle.
 
 ## Story Guide
 First time you enter an area for the story it costs no AP, it will cost AP after that. They also do not give EXP except the boss fight iirc.
