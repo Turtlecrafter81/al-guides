@@ -177,7 +177,7 @@ Inconspicuous chest which MIGHT fill the entire 5x5 area with a random weather e
 ![](https://i.imgur.com/w6krEyF.png)
 
 #### 4 Matrix Cache:
-4 Matrix deposits surround a cache, move into the 5x5 zone of it will spawn the 4 matrixes hidden on the map (revealed with scanning mode). Putting matrix in will upgrade the cache content. The cache can only be opened after returning at least 2 matrixes.
+4 Matrix deposits surround a cache, move into the 5x5 zone of it will spawn the 4 matrixes hidden on the map (revealed with scanning mode). Putting matrix in will upgrade the cache content.
 ![](https://i.imgur.com/i4DGdgz.png)
 
 #### Blockade
