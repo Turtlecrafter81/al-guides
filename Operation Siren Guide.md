@@ -148,38 +148,50 @@ Usually fogs or some directional currents spawn around the fleet in a 5x5 square
 
 ## Obscured Zone/Fractured Sea/Treasure Map (Yellow Chests on map):
 Treasure maps are generated peusdo-randomly like in roguelites with specific patterns with each "room" is a 5x5 square roughly making up the map dotted with some chests:
-- Small map has only one slightly bigger room which has the rally point
-- Medium map has 4 rooms: 2 rally points + 2 random events
-- Big map has 9 rooms: 1 light house + 3 rally points + 2 Weather control devices + 3 random events
+- Small map has only one slightly bigger room which has the rally point. (Sometimes have Akashi too)
+- Medium map has 4 rooms: 2 rally points + 0-1 Weather control device + the rest are random events.
+- Big map has 9 rooms: 1 light house + 3 rally points + 1-2 Weather control devices + the rest are random events.
 
 #### Siren Rally Points
-Siren rally points will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which will force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue in color) spawn in infinitely and they don't drop any loot, avoid them if possible. Clearing all Rally points spawn a Teleporter and some chests. In big maps (9x9) clearing 2 rally points will spawn a siren fleet which will chase your fleet down but doesn't drop any loot.
+Siren rally points (Red Sparkles) will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which will force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue in color) spawn in infinitely and they don't drop any loot, they do give META ship skill exp however. Clearing all Rally points spawn the Teleporter and some chests (The clearing box usually have high tier loot). In big maps (9 rooms) clearing 2 rally points will spawn a siren fleet which will chase your fleet down but doesn't drop any loot.
 
 #### Siren Weather Control Device:
-Does what it said on the tin, go to it to disable whatever weather anomaly surrounding the Rally Points. Doesn't have any ambush fleet on it apparently.
+Does what it said on the tin, go to it to disable whatever weather anomaly surrounding the Rally Points (water currents, windstorms, ice floes, fog, etc). Doesn't have any defensive ambush fleet on it.
 
-#### Siren Data Center(?)
-A plus formation of obstacle constructs that spawn with a couple EMP tiles and possibly 2 hidden Meowfficer nodes. If scanning mode doesn't reveal the meowfficer nodes, stepping on all of 3 EMP tiles will spawn them.
+#### Siren Data Center
+A plus formation of obstacle constructs that spawn with a couple EMP tiles and 2 hidden Meowfficer nodes. If scanning mode doesn't reveal the meowfficer nodes right away, moving into the 5x5 room and (maybe) stepping on all of 3 EMP tiles will spawn them.
+![](https://i.imgur.com/lWk3HpC.png)
 
 #### Paired switches: 
 Putting a fleet on both of the switches automatically will spawn loot and destroy the surrounding rocks.
+![](https://i.imgur.com/EEtQWQq.png)
+![](https://i.imgur.com/COr0s2Y.png)
 
 #### Chest surrounded by rocks:
-Rocks will be removed after clearing all Siren Rally points. 
+The rocks will be removed after clearing all Siren Rally points. 
+![](https://i.imgur.com/SEGUhsJ.png)
 
 #### Anomaly Chest:
-Inconspicuous chest which fill the entire 5x5 area with a random weather event when opened (Flaming Sea or Frigid Waters) which will also hide scanning mode from other event (e.g 4 Matrix event's hidden matrix tile). So it is recommended to do this room last.
+Inconspicuous chest which MIGHT fill the entire 5x5 area with a random weather event when opened (Flaming Sea, Frigid Waters or Mealstrom) which will also hide scanning mode from other event (e.g 4 Matrix event's hidden matrix tile). So it is recommended to open the chest last.
+![](https://i.imgur.com/jUhDs4v.png)
+![](https://i.imgur.com/w6krEyF.png)
 
 #### 4 Matrix Cache:
 4 Matrix deposits surround a cache, move into the 5x5 zone of it will spawn the 4 matrixes hidden on the map (revealed with scanning mode). Putting matrix in will upgrade the cache content. The cache can only be opened after returning at least 2 matrixes.
+![](https://i.imgur.com/i4DGdgz.png)
 
 #### Blockade
-If the 5x5 Square has nothing in it, expect it to be this type of room. Walking into the 5x5 zone will lock your fleet in and either spawn 3 module buffed fleets OR 3 gate typed devices. Defeating all the module fleets OR choosing the right gate will lift the blockade (note the wrong gate will have an ambush fleet). In the gate version, there will also be another gate outside of the 5x5 zone. Moving a fleet to the one spawn outside will destroy the fake gates in the zone. Cannot use scanning mode to bypass the gate holograms.
+If the 5x5 Square has nothing in it, expect it to be this type of room. Walking into the 5x5 zone will lock your fleet in and either spawn 3 module buffed fleets OR 3 gate typed devices. Defeating all the module fleets OR choosing the right gate will lift the blockade (the wrong gate will have an ambush fleet). In the gate version, there will also be another gate outside of the 5x5 zone. Moving a fleet to the one spawn outside will destroy the fake gates in the zone. Cannot use scanning mode to bypass the gate holograms.
+![](https://i.imgur.com/mdiH5FQ.png)
+![](https://i.imgur.com/eyJuggC.png)
+![](https://i.imgur.com/JOCPghx.png)
 
 #### Light house:
-Light house zone seems to always spawn on the Bottom square, 6 o'clock position ONLY on big maps. Using an ESD here will perform a map recon. If one has already used the recon using the Order -> Recon, ignore this event.
+ONLY spawn on big maps (9 rooms). Using an ESD here will perform a map recon. If one has already used the recon using the Order -> Recon, ignore this event.
+![](https://i.imgur.com/FIL9rMc.png)
 
 #### Akashi's Shop: same as above
+![](https://i.imgur.com/H78OHXq.png)
 
 ### Weather Anomalies:
 
