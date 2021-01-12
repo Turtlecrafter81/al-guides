@@ -257,7 +257,7 @@ First time you enter an area for the story it costs no AP, it will cost AP after
 - Doing daily missions, kill bosses, collect chests/loot spawns and you will accumulate coordinate points.
 - You can enter the Ashes Showdown interface via the bottom right button in the overworld view (
 - Get 100 coordinate points and you can host/summon your META boss up to twice a day. Level up your META boss by defeating it, the cap is level 15.
-- Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets 27 + 3 per level Analysis Points (30 for level 1, 33 for level 2, etc). **Note for level 15: You get 67 points for doing less than 355k, 71 points for doing 355k and 600k-ish and 73 points for doing more than 600k-ish boss damage)**. 
+- Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets 27 + 3 per level Analysis Points (30 for level 1, 33 for level 2, etc). **Note for level 15: You get 67 points for doing less than 355k, 71 points for doing 355k and 650k and 73 points for doing more than 650k boss damage)**. 
 - The fight last 60s, the boss does quite a bit of damage. 1st entry cost no oil, 2nd cost 40 and from the 3rd onwards will cost 20 each. It does NOT cost AP, morale nor gives any exp or affection.
 - If the game pops up an expired coordinate error, it means the boss already died.
 - You get 2 host per day and 3 support per day. Host counter is above your Analysis point count, if it's greyed out, you will stop accumulating coordinate points (you will start at 0 the next day). Support counter is on the top right of the Ashes Showdown interface.
