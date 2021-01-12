@@ -172,7 +172,7 @@ The rocks will be removed after clearing all Siren Rally points.
 ![](https://i.imgur.com/SEGUhsJ.png)
 
 #### Anomaly Chest:
-Inconspicuous chest which MIGHT fill the entire 5x5 area with a random weather event when opened (Flaming Sea, Frigid Waters or Mealstrom) which will also hide scanning mode from other event (e.g 4 Matrix event's hidden matrix tile). So it is recommended to open the chest last.
+Inconspicuous chest which MIGHT fill the entire 5x5 area with a random weather event when opened (Flaming Sea, Frigid Waters or Whirlpools) which will also hide scanning mode from other event (e.g 4 Matrix event's hidden matrix tile). So it is recommended to open the chest last.
 ![](https://i.imgur.com/jUhDs4v.png)
 ![](https://i.imgur.com/w6krEyF.png)
 
@@ -211,19 +211,19 @@ Ice pillars block movement entirely and sometimes can be removed by destroying t
 Movement in fog is restricted to 1 tile and you can only see up to one tile around you. There's a Fog control tower only that you can go to and remove all fog on the map.
 
 #### Maelstrom
-Hazier and redder in color than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Siren Control Tower.
+Hazier and redder in color than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Siren Control Tower. (Don't exist outside of story region)
 
 #### Whirlpool
 Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned, eating your moevement, meaning that reinforcements can spawn and move closer. Movement out of the Whirlpool is restricted to 1 tile.
 
 #### Flaming Sea:
-Do a %hp damage to all unit in the fleet and persist a turn.
+Stop your movemnt, do a %hp damage to all unit in the fleet and persist for a turn. Can NOT kill off your ships so you can swim through it and heal up with repair kits after.
 
 #### Corrosive Sea:
-Does %hp damage to all unit in the fleet.
+Same as Flaming Sea above
 
 #### Frigid Sea:
-Decrease combat efficiency of the fleet (unclear on how much, best to avoid combat while affected by the debuff). Last up to 5 turns.
+Decrease combat efficiency of the fleet (unclear on how much, best to avoid combat while affected by the debuff). Last up to 5 turns. And disable chained movement.
 
 ### Other notable tile type:
 #### Colored blockers:
@@ -255,43 +255,12 @@ First time you enter an area for the story it costs no AP, it will cost AP after
 #### TL;DR:
 - Only unlocks after clearing chapter 1 of the OpSi story
 - Doing daily missions, kill bosses, collect chests/loot spawns and you will accumulate coordinate points.
-- Get 100 coordinate points and you can host/summon your META boss up to twice a day. To level up your META boss, just defeat it, the cap is level 15.
-- Host don't need to do anything but send out invites, supporters will kill it for you. Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets 27 + 3 per level Analysis Points (30 for level 1, 33 for level 2, etc). **Except for level 15 which you gets 71 points**. You get 2 host per day and 3 support per day. Host counter is above your Analysis point count, if it's greyed out, you will stop accumulating coordinate points (you will start at 0 the next day). Support counter is on the top right of the Ashes Showdown interface.
-- The fight last 60s, the boss kinda does damage and it cost no oil, AP, morale to do and gives no exp or affection either.
-- The strat is: if you host then go in, change your fleet to your best boss slayer fleet, ships available in Ashes Showdown are only selectable from OpSi current fleet setup (the Change button is on the bottom left), save your fleet, get out and invite people, ignore it and do your 3 support attempts while waiting. To use your support entries: sit in chat room, wait till someone post an invite and click to join in OR choose one on boss list and click attack till you get in (If the game pops up an expired coordinate, it means the boss already died). Have fun~~~
-
-#### Patch Note that explains this in a long-winded way:
-You can obtain Analysis Points by defeating the META boss in Ashes Showdown.
-Achieve Analysis Point milestones to obtain META ships and other rewards.
-
-Ashes Showdown involves the following 2 elements,
-1) Ashes Coordinate Analysis (unlocking the boss fight)
-2) Fighting the META boss
-
-※ Ashes Showdown is unlocked after clearing chapter 1 of the Operation Siren story campaign.
-
-★ Ashes Coordinate Analysis
-You can obtain Ashes Coordinates from a number of ways including defeating enemies.
-The number of Ashes Coordinates is displayed on the upper right corner of the sea region map.
-
-Once you have obtained the max number of Ashes Coordinates, you can unlock the META boss fight by performing Coordinate Analysis using all of your Coordinates.
-You can only perform Coordinate Analysis twice per day.
-After daily reset, you will be able to perform Coordinate Analysis again, but the number of your Ashes Coordinates will be reset back to the starting number.
-
-★ Fighting the META boss
-You can access the fight from the button on the lower right corner of the sea region map.
-The META boss fight involves,
-1) The fight that you yourself unlock
-2) Any requests for backup that you accept from other commanders.
-
-Fleets sortied for Operation Siren can be used for the boss fight. Meowfficers and submarines cannot be used.
-Once you complete a META boss fight that you unlocked yourself, the next META boss will be harder (a level increase).
-Requesting for backup allows other commanders to access your META boss fight.
-
-Defeating the boss rewards Analysis Points. If it was a coop fight, all commanders who participated will receive Analysis Points.
-
-※ A META boss fight will be open for 24 hours.
-※ You may spend Fuel and attempt the META boss fight which you unlocked yourself as many times as you would like until the boss is defeated.
-※ There is a limit on how many backup requests you can accept per day.
-※ A maximum of 30 commanders can participate in 1 Ashes Showdown. The boss fight will become unable to join once full.
-※ Ashes Showdown does not give any ship EXP nor does it affect ship morale and affection.
+- You can enter the Ashes Showdown interface via the bottom right button in the overworld view (
+- Get 100 coordinate points and you can host/summon your META boss up to twice a day. Level up your META boss by defeating it, the cap is level 15.
+- Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets 27 + 3 per level Analysis Points (30 for level 1, 33 for level 2, etc). **Note for level 15: You get 67 points for doing less than 355k, 71 points for doing 355k and 600k-ish and 73 points for doing more than 600k-ish boss damage)**. 
+- The fight last 60s, the boss does quite a bit of damage. 1st entry cost no oil, 2nd cost 40 and from the 3rd onwards will cost 20 each. It does NOT cost AP, morale nor gives any exp or affection.
+- If the game pops up an expired coordinate error, it means the boss already died.
+- You get 2 host per day and 3 support per day. Host counter is above your Analysis point count, if it's greyed out, you will stop accumulating coordinate points (you will start at 0 the next day). Support counter is on the top right of the Ashes Showdown interface.
+- The strat for now is: 
+   - Host: Invite everyone and hope they do some damage if any. You can change your fleet with ships in your 4 fleets presently in Operation Siren (the Change button is on the bottom left). Go in and do as much damage as possible to kill it and claim your rewards.
+   - Support: Go to boss list or scroll in your chat room for level 15 invites. Join in and do your part.
