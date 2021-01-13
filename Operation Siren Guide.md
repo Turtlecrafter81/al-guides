@@ -229,6 +229,14 @@ Hazier and redder in color than Fog and also seems to block movement through it 
 #### Colored blockers:
 Present in Puzzle maps, using the corresponding colored control tower will turn pebbles into movement blocking contructs and vice versa. 
 
+## Story Guide
+First time you enter an area for the story it costs no AP, it will cost AP after that. They also do not give EXP except the boss fight iirc.
+- Chapter 1: Enemy around level 62-68. After finishing all red markers, it will ask you to clear 6 regions in the NW section, just clear whatever lowest star level to unlock Chapter 2, Fleet 3 and 4, Ashes Showdown as well as the next region via Liverpool port. The game also forces you to do a Fleet Redeployment and have a fleet 3 and 4 else you are soft locked at Liverpool and can't leave.
+- Chapter 2: Enemy around 72-78. Same concept, now you need to clear 7-8 region in this Liverpool region to unlock the next region. Unlocks Submarine fleet but doesn't soft lock you to the port.
+- Chapter 3: Enemy around 82-88. Same concept, unlocks the last region and port Dakar (a red port).
+- Chapter 4: Enemy around 92-98. Same concept but unlocks daily missions and Strongholds spawn.
+- **Notable bug, unclear if it's fixed or not but is important to mention:** Finishing chapter 1-6 b4 clearing 6 regions in NW. THEN clearing 6 regions might result in a soft lock that the player will not be able to unlock Liverpool port. It is recommended to stray from the Red marker for a bit to clear 6 regions (some low level regions are fine, don't have to clear star level 6 regions) before continuing the story
+
 ## Enemies and Special Zones explanation:
 
 #### Sirens
@@ -237,19 +245,14 @@ Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with you
 #### Dangerous enemies (Mixed Recon/Main/Aviation Fleets)
 Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/Operation_Siren#Additional_effects)
 
+#### Stat Table for Stronghold/Abyssal/META boss: ![](https://i.imgur.com/r0YyKLk.png)
+
 #### Stronghold:
-There are 7 zones present in a stronghold. You spawn with 2 controled zones and siren has 5 zones. There will always be an Invader CL Siren reinforcement that spawn after you clear 3 zones which will steal one of your zone after 3 turns (This reinforcement will drop loot like a boss fight and has a chest spawn afterwards). The final Stronghold Siren boss are strong, they are not as tanky as Abyssal bosses but they hit very hard even before taking account of their module buffs. They are supposedly multi-staged boss and you can retreat to ports while keeping your damage dealt to the boss. __**Remember that you can always retreat out of strongholds to return to Port to heal.**__ So stronghold isn't as hard, just takes a bit of time to clear.
+There are 7 zones present in a stronghold. You spawn with 2 controled zones and siren has 5 zones. There will always be an Invader CL Siren reinforcement that spawn in one of the 2 zones you initially control after you clear 2-3 zones which will steal that zone after 1-5 turns (This reinforcement will spawn chest spawn afterwards which total up to a zone rewards). The final Stronghold Siren boss are strong, they are not as tanky as Abyssal bosses but they hit very hard even before taking account of their module buffs. They are supposedly multi-staged boss. __**Remember that you can always retreat out of strongholds to return to Port to heal.**__ So stronghold isn't as hard in the sense that Abyss are, you will clear it eventually even if it takes a bit of time.
 
 #### Abyssal Zones:
-Currently only have 4 types of bosses: DD, CL, CA and BB. Abyssal bosses reveal their weakness after certain hp thresholds. They all have below average AA stat making them susceptible to CV damage. They also have an uncanny weakness to Airstrikes a lot of the time. They hit not as hard but they are twice as tanky compared to Stronghold bosses. The key to beating these Abyss bosses are to bring a well-equipped CV fleet. Also try to avoid any ship sinking because it will apply an debuff (red wrench on the hp bar) that disable skills to the ship that sunk which can only be removed with the Rest and Regroup in the Order Tab. Failing battle apply a "Low Resolve" debuff (triangle on the fleet on the map) that debuff all stats by 10% up to 3 times which can be removed by winning against the mobs hidden in the fog. To get to them look at the 2 side of the map, there will be ways to get to the lanes in the side and travel to the fog and fight them. Other fleets also removed their "Low Resolve" if any fleet wins a battle.
+Currently only have 3 types of bosses: DD, CA and BB. Abyssal bosses reveal their weakness after certain hp thresholds. They all have below average AA stat making them susceptible to CV damage. CA and BB also have an uncanny weakness to Airstrikes while DD has weakness to shellings. They hit not as hard but they are twice to thrice as tanky compared to Stronghold bosses. The key to beating these Abyss bosses are to bring one well-equipped CV and BB fleet each. Also try to avoid any ship sinking because it will apply the "Damaged" debuff (red wrench on the hp bar) that disable skills to the ship that sunk which can only be removed with the Rest and Regroup in the Order Tab. Failing battle apply a "Low Resolve" debuff (triangle on the fleet chibi) that debuff all stats by 10% up to 3 times which can be removed by using a fleet to win against the mobs hidden in the fog which clear this debuff from ALL fleets. To get to them look at the 2 side of the map, there will be ways to get to the lanes in the side and travel to the fog and fight them.
 
-## Story Guide
-First time you enter an area for the story it costs no AP, it will cost AP after that. They also do not give EXP except the boss fight iirc.
-- Chapter 1: Enemy around level 62-68. After finishing all red markers, it will ask you to clear 6 regions in the NW section, just clear whatever lowest star level to unlock Chapter 2, Fleet 3 and 4, Ashes Showdown as well as the next region via Liverpool port. The game also forces you to do a Fleet Redeployment and have a fleet 3 and 4 else you are soft locked at Liverpool and can't leave.
-- Chapter 2: Enemy around 72-78. Same concept, now you need to clear 7-8 region in this Liverpool region to unlock the next region. Unlocks Submarine fleet but doesn't soft lock you to the port.
-- Chapter 3: Enemy around 82-88. Same concept, unlocks the last region and port Dakar (a red port).
-- Chapter 4: Enemy around 92-98. Same concept but unlocks daily missions and Strongholds spawn.
-- **Notable bug, unclear if it's fixed or not but is important to mention:** Finishing chapter 1-6 b4 clearing 6 regions in NW. THEN clearing 6 regions might result in a soft lock that the player will not be able to unlock Liverpool port. It is recommended to stray from the Red marker for a bit to clear 6 regions (some low level regions are fine, don't have to clear star level 6 regions) before continuing the story
 ## Ashes Showdown
 
 #### TL;DR:
