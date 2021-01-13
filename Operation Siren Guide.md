@@ -202,28 +202,28 @@ Moves your fleet to the next tile following the direction of the arrow when step
 Will launch your fleet a set number of tiles over all obstacles when stepped on. The number of tiles travelled depends on the side of the vortex (1-4 tiles)
 
 #### EMP tiles:
-Cause random movement of your fleet for 1-2 turns when stepped on.
+Cause random movement of your fleet for 1-2 turns when stepped on. Also disable chained movement.
 
 #### Ice pillars and ice floes:
 Ice pillars block movement entirely and sometimes can be removed by destroying the corresponding Siren Control Tower. Ice floes are ice tiles that will continue your fleet momentum till they come in contact with an obstacle or another fleet.
 
 #### Fog
-Movement in fog is restricted to 1 tile and you can only see up to one tile around you. There's a Fog control tower only that you can go to and remove all fog on the map.
+Movement in fog is restricted to 1 tile and you can only see up to one tile around you. Stronghold Fog allows 2 tiles of visibility. Sometimes there are Fog control tower that you can go to and remove the fog in the region.
 
 #### Maelstrom
-Hazier and redder in color than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Siren Control Tower. (Don't exist outside of story region)
-
-#### Whirlpool
-Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned, eating your moevement, meaning that reinforcements can spawn and move closer. Movement out of the Whirlpool is restricted to 1 tile.
+Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned, eating your moevement, giving time for potential reinforcements spawns and Siren to move closer. Movement out of the Whirlpool is restricted to 1 tile.
 
 #### Flaming Sea:
-Stop your movemnt, do a %hp damage to all unit in the fleet and persist for a turn. Can NOT kill off your ships so you can swim through it and heal up with repair kits after.
+Stop your movemnt, do a %hp damage to all unit in the fleet and persist for a turn. Can NOT kill off your ships so you can swim through it and heal up with repair kits after if needed.
 
 #### Corrosive Sea:
 Same as Flaming Sea above
 
 #### Frigid Sea:
-Decrease combat efficiency of the fleet (unclear on how much, best to avoid combat while affected by the debuff). Last up to 5 turns. And disable chained movement.
+Decrease combat efficiency of the fleet (unclear on how much, best to avoid combat while affected by the debuff). Last up to 5 turns. Also disable chained movement.
+
+#### Red Fog
+Hazier and redder in color than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Siren Control Tower. (Don't exist outside of story region)
 
 ### Other notable tile type:
 #### Colored blockers:
