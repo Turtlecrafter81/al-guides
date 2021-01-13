@@ -67,19 +67,19 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - There are 3 main currency: Supply Coins, Item Tokens and Energy Storage Device (ESDs). Tokens and ESDs are used in some events.
 - Akashi shop (random event in region maps) sells the following:
    - Tokens packs: for coins. Buy these always.
-   - AP boxes: for coins. Buy these always
-   - Healing kits: for coins. Buy these if you are short on it, mostly not needed.
+   - AP boxes: for coins. Buy these if you want to grind more. Highly recommended but not mandatory since they do not get converted to vouchers.
+   - Healing kits: for coins. Don't buy these if you aren't short on it, mostly not needed since you get more than enough of it from drops. They also don't get converted to vouchers
    - Tuning samples: increases their respective stat for ESDs. Only buy when below the Adaptive stat break point above (200/200/150)
-- Port shops (refresh every half week-ish or twice a week):
-   - Plates: Rainbow and Gold plates for Tokens. Buy these always
-   - Gold Design blueprints for Tokens. Buy these always
-   - Blue and Red Coordinates for Tokens. Blue leads to Obscured Zone/Treasure Maps. Red leads to Abyssal Zone. Buy these always
-   - Tokens packs: for coins. Buy these always.
-   - AP boxes: for coins. Buy these always
-   - Tuning samples: for Tokens/Coins. Same as above (only when below 200/200/150)
-   - The 4 META ship enhancement materials: Ignore is fine. Only buy if you are swimming in Tokens/Coins.
-   - ESDs for tokens: buy if you are really short on them
-   - Gear materials: Skip, buy gold boxes 1st if any.
+- Port shops (refresh every 3 days, all 4 ports share the same 150 items pool that are fixed every cycle):
+   - Plates: Rainbow and Gold plates for Tokens. Buy these always. **(Highest Priority)**
+   - Gold and Rainbow Design blueprints for Tokens. Buy these always. **(Highest Priority)**
+   - Blue and Red Coordinates for Tokens. Blue leads to Obscured Zone/Treasure Maps. Red leads to Abyssal Zone. Buy these always. Rainbow colored Coords leads to C6 Abyss zones which drop high tier quality loot which are **Highest Priority** should the player are able to clear it (the boss is level 128).
+   - Tokens packs: for coins. Buy these if short of tokens. You get more than enough if you do your strongholds consistently.
+   - AP boxes: for coins. Buy these if you want to grind more.
+   - Tuning samples: for Tokens/Coins. Buy only when below 200/200/150.
+   - The 4 META ship enhancement materials: Ignore these are fine. Only buy if you are swimming in Tokens/Coins. It helps for enhancing META ships but you 
+   - ESDs for tokens: buy if you are really short on them to do random events. Bad conversion rate to vouchers so keep about 5-8 in storage is good enough since you will drop more eventually.
+   - Gear materials: Skip blue and purple, you'll be swimming in it soon enough. **Buy gold gear mat boxes are medium-high priority since some mats are heavily used (Gold Electronics)**.
    
 ## Regional Map
 
