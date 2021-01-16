@@ -150,7 +150,7 @@ Usually fogs or some directional currents spawn around the fleet in a 5x5 square
 Treasure maps are generated peusdo-randomly like in roguelites with specific patterns with each "room" is a 5x5 square roughly making up the map dotted with some chests:
 - Small map has only one slightly bigger room which has the rally point. (Sometimes have Akashi too)
 - Medium map has 4 rooms: 2 rally points + 0-1 Weather control device + the rest are random events.
-- Big map has 9 rooms: 1 light house + 3 rally points + 1-2 Weather control devices + the rest are random events.
+- Big map has 9 rooms: 1 light house + 3 rally points + 0-2 Weather control devices + the rest are random events.
 
 #### Siren Rally Points
 Siren rally points (Red Sparkles) will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which will force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue in color) spawn in infinitely and they don't drop any loot, they do give META ship skill exp however. Clearing all Rally points spawn the Teleporter and some chests (The clearing box usually have high tier loot). In big maps (9 rooms) clearing 2 rally points will spawn a siren fleet which will chase your fleet down but doesn't drop any loot.
