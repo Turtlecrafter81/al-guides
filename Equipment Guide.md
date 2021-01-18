@@ -303,5 +303,16 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **[90mm High-Angle M1939](https://azurlane.koumakan.jp/Single_90mm_High-Angle_(Model_1939)#Type_3)** is to the Hazemeyer what the Hazemeyer is to the STAAG. While a technically functional anti-air gun, it completely lacks the accuracy boost of the late-war British Bofors guns, while also failing to match the speed of the Japanese Bofors or the 37mm ACAD.
  - **[20mm Twin Oerlikon](https://azurlane.koumakan.jp/Twin_20mm_AA_Oerlikon#Type_3)** and **[25mm Triple T96](https://azurlane.koumakan.jp/Triple_25mm_AA_Type_96#Type_3)** are purple rarity accelerator guns that should only be used for manual play. They both cut into range and tick damage by a very significant margin and are only worth using in order to push your reload speed below the threshold required to gain an extra tick of damage.
 
+# Gear Lab
+Gear lab is the newest way to get some event limited and new exclusive equipment following a tech tree via materials obtained in Operation Siren. This section of the guide is mainly concerned about opportunity cost (e.g if you choose to make one equipment, you might not have enough material to make another type due to them using the same material). This section will NOT include **equipment that are also in tech boxes** (due to their ease of acquisition) and **MOST** purple equipment unless they are specificallly good as transitional equipment. 
+
+## Destroyer (DD) Guns:
+[![Twin 120mm (QF Mark XI)](/resources/twin%20120mm%20QF%20Mark%20XI.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI))
+[![Twin 128mm/45 SKC)](/resources/twin128mm/45%20SKC.png)](https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41#Type_0)
+ - **[Twin 120mm (QF Mark XI)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI))** is the gold version of the tried and true **[120mm Twin QF Mark XII](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)** from the HMS tech tree which is by far the most accessible and overperforming gun of its rarity. While it is easy to just dismiss the gold version as expensive but easily replaceable (due to it being a sidegrade to the PR3 **[Twin 114mm (QF Mk IV Prototype)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))**), the material cost for it is not as high as one might expect (SR Main Gun Designs, Elastomers and HBX), out of which only HBX are in high demands for Torpedoes in general.
+ - **[Twin 128mm/45 SK C/41](https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41#Type_0)** is by all means **the best bang for your buck craft** with regards to __SR Main Gun Designs__ due to a lack of viable Main Gun in all factions' tech tree currently. While costing Elastomers (which are only used for DD guns) and HBX (which are in a slightly higher demands due to Torpedoes), it is by far the best AP DD gun in the game and is viable even on mobbing DDs and gunbotes CLs due to AP piercing nature.
+
+## Light Cruiser (CL) Guns:
+
 ## Auxiliary Equipment
  - More in-depth guide to auxiliary equipment can be found [here.](/Auxiliary%20Guide.md)
