@@ -56,7 +56,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![114mm Twin](/resources/114mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))
 [![120mm Twin MkXI]()](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI)#Type_0)(GEAR LAB)
 [![128mm Twin]()](https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41)(GEAR LAB)
-[![100mm Twin](/resources/100mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)
+[![100mm Twin](/resources/100mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)
 [![120mm Twin](/resources/120mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)
 [![127mm Twin](/resources/127mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38)#Type_3)
 [![127mm Single](/resources/127mm%20single%20gr_a.png)](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30)#Type_3)
@@ -75,9 +75,9 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
  **Main Fleet Secondaries** <br/>
  [![128mm Twin]()](https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41)(GEAR LAB)
  [![120mm Twin MkXI]()](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI)#Type_0)(GEAR LAB)
- [![114mm Twin](/resources/114mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))
  [![120mm Twin](/resources/120mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)
  [![130mm Twin](/resources/130mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3)
+ [![114mm Twin](/resources/114mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))
  [![127mm Twin](/resources/127mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38)#Type_3)
  [![100mm Twin](/resources/100mm%20twin%20gr_b.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)
  [![138mm Single](/resources/138mm%20single%20gr_b.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3)
@@ -85,9 +85,9 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
   While DD guns can typically deal with solo suicide boats, their interception capability is much lower compared to CL guns - especially when attempting to intercept a high density of suicide boats coming in for your backline. DD guns have an inherently shorter range and lower alpha damage compared to CL guns, and the most valuable stats for interception are range and alpha damage. Consider using battleships that can mount CL secondary guns whenever suicide boats are an active concern.
   - **[Twin 128mm/45 SK C/41](https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41)** | **[GEAR LAB EXCLUSIVE EQUIPMENT]** While its damage output as a main gun is generally sub-par outside of Medium target-rich environments, it finds its niche as an secondary gun - AP shells give it the fastest interception times of any guns in its class. The gun also provides a hefty +30 FP boost together with +15 AA, making it the best all-round secondary gun for main fleet ships locked to using DD guns as secondaries.
   - **[Twin 120mm (QF Mk XI)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI)#Type_0)** | **[GEAR LAB EXCLUSIVE EQUIPMENT]** As it was for vanguard interception, this gun's high alpha allows it to intercept fireboats when used as a main fleet secondary with more reliability than its predecessor and the Twin 114mm. Do note that this gun gives up +5 FP for +20 AA compared to the Twin 120mm QF Mk XII, for when stat gains are more of a concern than interception. 
-  - **[Twin 114mm (QF Mk IV Prototype)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))** | Rather surprisingly to some, this gun is not a good candidate for use as a main fleet secondary owing to its reduced target acquisition range. This often hampers its ability to reliably take out suicide boats that're off to the flank(s) of the ship it's equipped on. 
   - **[Twin 120mm QF Mark XII](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)** | Has weaker interception capabilities than the Twin 128mm/45, but its high damage per shot allows it to get kills when equipped on ships that might struggle otherwise. 
   - **[Twin 130mm B-2LM](https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3)** | Similar to the Twin 120mm QF Mk XII in practice but also gives the highest FP boost. Due to limited availability, there are better ships that might benefit from this gun more than using it as a main fleet secondary gun.
+  - **[Twin 114mm (QF Mk IV Prototype)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))** | Rather surprisingly to some, this gun is not a good candidate for use as a main fleet secondary owing to its reduced target acquisition range. This often hampers its ability to reliably take out suicide boats that're off to the flank(s) of the ship it's equipped on. 
   - **[Twin 127mm Mk38](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38)#Type_3)** | Has comparable performance to the Twin 120mm QF Mk XII. However, the lower velocity of its HE shells cause it to struggle slightly when firing off to the flanks, and it has a lower FP boost in return for some additional AA.
   - **[Twin 100mm Type 98](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)** and **[Single 138.6mm Mle1929](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3)** | The former provides the highest boost to AA, while the latter provides the highest FP boost. Worth using when interception is a non-concern and the stat boost is preferred.
  
