@@ -25,7 +25,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 
 
 ## Destroyer (DD) Guns
-**Primary Guns** <br/>
+**Vanguard Primary Guns** <br/>
 [![138mm Single HE](/resources/138mm%20single%20gr_s.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3)
 [![130mm Twin](/resources/130mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3)
 [![114mm Twin](/resources/114mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))
@@ -92,7 +92,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
   - **[Twin 100mm Type 98](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)** and **[Single 138.6mm Mle1929](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3)** | The former provides the highest boost to AA, while the latter provides the highest FP boost. Worth using when interception is a non-concern and the stat boost is preferred.
  
  ## Light Cruiser (CL) Guns
-**Primary Guns** <br/>
+**Vanguard Primary Guns** <br/>
 [![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
 [![152mm Triple (MK-5)](/resources/152mm%20triple%20MK-5%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(MK-5)#Type_3)
 [![pr152mm Triple AP](/resources/pr152mm%20triple%20ap%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
@@ -101,12 +101,13 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 
  ##### For any vanguard ship that can choose between equipping a DD or CL gun, always equip them with a DD gun. DD calibre guns have higher damage per second, and their faster fire rate leads to faster barrages and/or skill procs.
  - **[Triple 152mm Mk17 DP Prototype](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))** | Addresses the primary issue holding back HE light cruiser guns: their wide spread. The Mk17 DP has damage stats that give it theoretical DPM comparable to the next strongest HE gun, but its lack of any dead zone and preferable targeted shell pattern allows it to reach its theoretical DPM in practice. True to its name, it also provides a split between boosting FP and AA, making it the only CL gun to do so. 
- - **[Triple 152mm (MK-5)](https://azurlane.koumakan.jp/Triple_152mm_(MK-5)#Type_3)** | Comes with theoretical stats comparable to the Mk17 DP, with only a smidge less DPM while providing the highest firepower bonus. The major flaws of this weapon are its slightly higher spread and a large deadzone despite having a target acquisiton range equivalent to the Mk17 DP. This might compromise its practical hit rate at longer ranges and a very slightly slower barrage.
- - **[Triple 152mm BL Mark XXV Prototype](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** | The strongest AP CL gun. It has an incredibly fast fire rate, the longest range of any CL gun and high base damage. However, its relatively wide spread for an AP gun may give it slight accuracy issues at the extremeties of its target acquisition range. Preferable if one lacks either of the two CL HE options above.
+ - **[Triple 152mm (MK-5)](https://azurlane.koumakan.jp/Triple_152mm_(MK-5)#Type_3)** | Comes with theoretical stats comparable to the Triple 152mm Mk17 DP, with only a smidge less DPM while providing the highest firepower bonus. The major flaws of this weapon are its slightly higher spread and a large deadzone despite having a target acquisition range equivalent to the Mk17 DP. This might compromise its practical hit rate at longer ranges and a very slightly slower barrage.
+ - **[Triple 152mm BL Mark XXV Prototype](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** | The strongest AP CL gun. It has an incredibly fast fire rate, the longest range of any CL gun and high base damage. However, its relatively wide spread for an AP gun may give it slight accuracy issues at the extremities of its target acquisition range. Preferable if one lacks either of the two CL HE options above.
  - **[Twin 150mm TbtsK C/36](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)#Type_3)** | Its stats may not look impressive on paper with the low base damage per volley compared to most alternatives. However, it has a hyper-accurate shell pattern and is one of the only CL guns in the game capable of actually dealing its theoretical DPM, and that's without accounting for AP shells' penetration capabilities. The premier budget option.
  - **[Single 150 SK C/28](https://azurlane.koumakan.jp/Single_150mm_(SK_C/28)#Type_3)** | The fastest firing CL gun. Sees use on CLs who have exceptionally strong barrages when manual play is involved.
 
-**Main Fleet Auxiliaries** <br/>
+
+**Main Fleet Secondaries** <br/>
 [![pr152mm Triple AP](/resources/pr152mm%20triple%20ap%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
 [![152mm Triple HE](/resources/152mm%20triple%20he%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16)#Type_3)
 [![152mm Triple (MK-5)](/resources/152mm%20triple%20MK-5%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(MK-5)#Type_3)
@@ -115,16 +116,16 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_a.png)](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
 [![150mm Twin TbtsK](/resources/150mm%20twin%20tbtsk%20gr_b.png)](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)#Type_3)
 
- - **[Prototype 152mm Triple BL Mark XXV](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** has the longest range of any CL gun, coupled with a high firepower bonus, making it the best auxiliary gun for general-use. However, it has a random pattern, which can potentially cause issues with interception. Similarly, its exceptionally long range also means it has a high likelihood of being on cooldown from firing at production types, further impacting its interception capabilities.
- - **[152mm Triple Mk16](https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16)#Type_3)** is exceptional at interception thanks to its high damage per shell, wide spread, and zero second volley time
- - **[152mm Triple (MK-5)](https://azurlane.koumakan.jp/Triple_152mm_(MK-5)#Type_3)** while has a non-zero volley time, it has the longest range, high shell density and high damage per shell, coupled with the high firepower bonus making it one of the better non-zero volley time interception gun.
- - **[155mm Triple](https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3)** is relatively weak at interception, thanks to its short range, non-zero volley time, and low shell density. However, it's a very accessible gun with a high firepower boost, making it a useful gun in any situation where interception is non-concern, or the gun itself is capable of handling any incoming threats.
- - **[152mm Twin BL Mark XXII](https://azurlane.koumakan.jp/Twin_152mm_(BL_6%22_Mk_XXII)#Type_3)** has comparable interception capabilities to the 152mm Mk16, but it trades raw volume of fire for AP shells, and is useful in certain situations where the penetration capabilities of AP shells is desirable.
- - **[Prototype 152mm Triple DP Mk17](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))** gives a split of anti-air and firepower. Similar to the 155mm, it has a non-zero volley time, which impacts its interception capabilities, but it has a longer range, improving its reaction times, and its tighter spread increases its bullet density. Given its rarity and relatively weak interception, it's not the most useful choice for an aux gun, but it is also the only CL gun that provides a boost to anti-air.
- - **[150mm Twin TbtsK C/36](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)#Type_3)** has a few advantages for interception in specific niche scenarios, but is generally poorly suited for general use. Its hyper-accurate firing pattern allows a ship to pump more concentrated damage into a single target than any other available aux gun. Additionally, its AP shells can penetrate, allowing it to deal with certain patterns of suicide boats that other, non-AP guns might struggle with.
+ - **[Triple 152mm BL Mark XXV Prototype](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** | Has the longest range of any CL gun, coupled with a high firepower bonus that make it the best auxiliary gun for general use. 
+ - **[Triple 152mm Mk16](https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16)#Type_3)** | Exceptional at interception thanks to its high alpha damage per shell, wide spread, and zero second volley time. Exceptionally easy to acquire as well.
+ - **[Triple 152mm (MK-5)](https://azurlane.koumakan.jp/Triple_152mm_(MK-5)#Type_3)** | While this gun has a non-zero volley time, its high shell density and damage per volley coupled with the high FP bonus makes it one of the better non-zero volley time interception guns.
+ - **[Triple 155mm (3rd Year Type)](https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3)** | Relatively weak at interception, thanks to its short range, non-zero volley time, and low shell density. However, it's a very accessible gun with a high FP boost, making it a useful gun in any situation where interception is non-concern, or the gun itself is capable of handling any incoming threats. In most situations, it is.
+ - **[Twin 152mm BL Mark XXII](https://azurlane.koumakan.jp/Twin_152mm_(BL_6%22_Mk_XXII)#Type_3)** | Comes with comparable interception capabilities to the Triple 152mm Mk16, but trades raw volume of fire for AP shells. Useful in certain situations where the penetration capabilities of AP shells is desirable.
+ - **[Triple 152mm Mk17 DP Prototype](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))** | Another gun with non-zero volley time which impacts its interception capabilities. Gives a split of FP and AA as well, further hampering its ability to contribute to FP which is often the more important stat for main fleet ships. Given its rarity and relatively weak interception qualities, it is better suited to its role as the premier CL main gun instead.
+ - **[Twin 150mm TbtsK C/36](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)#Type_3)** | Has a few advantages for interception in specific niche scenarios, but is generally poorly suited for general use. Its hyper-accurate firing pattern allows a ship to pump more concentrated damage into a single target than any other available CL gun. Additionally, its AP shells can penetrate - allowing it to deal with certain patterns of suicide boats that other non-AP guns might struggle with.
 
 ## Heavy Cruiser (CA) Guns
- - Unlike other vanguard calibre guns where no one ammo type is strictly superior, or if one appears to be superior it's due to characteristics aside from ammo type alone, the armour modifiers on heavy cruiser guns are drastically different enough that you will always want to use HE shells when fighting light armour enemies and AP shells when fighting medium and heavy armour enemies. For clearing fleets, the mixed armour types of the enemies encountered means either ammo type can be viable.
+ #### Unlike other vanguard calibre guns where no one ammo type is strictly superior (or if one appears to be superior it's due to characteristics aside from ammo type), the armour modifiers on heavy cruiser guns are drastically different. Enough to warrant the use of different guns when engaging Light, Medium or Heavy targets. 
 
 **General Primaries** <br/>
 [![pr234mm triple](/resources/234mm%20triple%20gr_s.png)](https://azurlane.koumakan.jp/Triple_234mm_(BL_9.2%22_Mk_XII_Prototype))
