@@ -217,6 +217,10 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 ## Torpedoes
 
 **Surface Torpedoes** <br/>
+
+[![533mm Quint Mk IX]()](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_IX)(GEAR LAB)
+[![533mm Quint Mk 17]()](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_17)(GEAR LAB)
+[![610mm Quad Kai]()](https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount_Kai)(GEAR LAB)
 [![533mm Quint](/resources/533mm%20quint%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3)
 [![610mm Quad](/resources/610mm%20quad%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3)
 [![533mm Quint Homing](/resources/533mm%20quint%20homing%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Homing_Torpedo_Mount#Type_3)
@@ -224,7 +228,10 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![533mm Quad Homing](/resources/533mm%20quad%20homing%20torpedoes%20gr_a.png)](https://azurlane.koumakan.jp/533mm_Quadruple_Homing_Torpedo_Mount#Type_3)
 [![550mm Triple](/resources/550mm%20triple%20torpedoes%20gr_b.png)](https://azurlane.koumakan.jp/550mm_Triple_Torpedo_Launcher#Type_3)
 
- - **[533mm Quintuple Torpedoes](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3)** have the highest volume of fire, average reload speed, and high alpha damage, making them the strongest torpedoes for general use on both auto and manual play.
+ - **[533mm Quintuple Torpedo Mount Mk IX](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_IX)** | **[GEAR LAB EXCLUSIVE EQUIPMENT]** By far the best torpedoes for manual play due to its unique linear launch pattern.  This allows for torpedoes to be launched at range and still reliably land on target, a feat no other torpedo launcher can match. It also lays claim to the highest total damage per torpedo spread amongst all torpedoes. Highly recommended.
+ - **[533mm Quintuple Torpedo Mount Mk 17](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_17)** | **[GEAR LAB EXCLUSIVE EQUIPMENT]** A direct upgrade to everything the standard 533mm Quintuple Torpedo offers - slightly more damage per torp and a reload that's a fraction of a second faster. Inexpensive to craft material-wise as well, and is considered an Eagle Union equipment which can prove useful for ships that require factional equipment for skills.
+ - **[610mm Quadruple Torpedo Mount Kai](https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount_Kai)** | **[GEAR LAB EXCLUSIVE EQUIPMENT]** A direct upgrade to its predecessor. Both have been superceded in their former niche of having the highest per-salvo torp damage possible, but 
+ - **[533mm Quintuple Torpedo Mount](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3)** have the highest volume of fire, average reload speed, and high alpha damage, making them the strongest torpedoes for general use on both auto and manual play.
  - **[610mm Quadruple Torpedoes](https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3)** have the highest alpha damage of all torpedoes. Their long reload speed and low volume of fire makes missing with these torpedoes incredibly punishing, and as such, they're poorly suited for auto play, but are ideal for killing bosses on manual play.
  - **[533mm Quint Homing Torpedoes](https://azurlane.koumakan.jp/533mm_Quintuple_Homing_Torpedo_Mount#Type_3)** sacrifice reload speed and damage for a mild homing effect and give the highest torpedo bonus. They have solid performance on auto and have niche use on manual, when either the homing effect or stat boost are desired.
  - **[533mm Quadruple Torpedoes](https://azurlane.koumakan.jp/533mm_Quadruple_Torpedo_Mount#Type_3)** have the same base torpedo damage as their quintuple counterpart and a significantly faster reload speed, but have a lower stat bonus and only launch four torpedoes per volley. Mostly used to stagger torpedo volleys on auto, or as a transitional equip until stronger torpedo mounts can be acquired.
