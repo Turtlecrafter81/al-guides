@@ -208,13 +208,11 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 **<18s** <br/>
 [![pr381mm Twin Kai](/resources/pr381mm%20twin%20kai%20gr_s.png)](https://azurlane.koumakan.jp/Twin_381mm_(BL_15%22_Mk_II))
 [![305mm triple SKC39](/resources/305mm%20triple%20SKC39%20gr_a.png)](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype))
-[![380mm Twin SKC](/resources/380mm%20twin%20skc%20gr_b.png)](https://azurlane.koumakan.jp/Twin_380mm_(SK_C/34)#Type_3)
 [![283mm Triple](/resources/283mm%20triple%20gr_b.png)](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/34)#Type_3)
 
  - **[Twin Prototype 381mm BL MkII](https://azurlane.koumakan.jp/Twin_381mm_(BL_15%22_Mk_II))** | The fastest firing BB HE main gun. It shines on ships with strong proc-on-fire skills but low efficiency and/or baseline FP stats, and in mob clearing fleets where gun damage isn't a concern.
  - **[Triple 305mm (SK C/39 Prototype)](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype))** | The middle child between the Twin 381mm Prototype BL  and Twin Prototype 406mm Drh LC/34 in both reload time and alpha damage per volley. It has low alpha damage per shell which makes its burn damage lower than the other two, is slower than the Twin 381mm BL but also doesn’t hit as hard as the Twin 406mm Drh, making it rarely better than either gun. Nevertheless, it has its niche in situations where the increased spread of the triple pattern is desired, in the absence of the other two choices, or on a barrage boat that is not going to be your fire starter.
- - **[380mm Twin SK C/34](https://azurlane.koumakan.jp/Twin_380mm_(SK_C/34)#Type_3)** | A slower, AP variant of the Twin 381mm BL. A weaker choice for general use given the already limited applications of AP shells. With the advent of the Twin 406mm Mk 8 being added to the game, this gun has no real reason to exist unless its marginally faster reload time is needed. 
- - **[283mm Triple SK C/34](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/34)#Type_3)** is the absolute fastest firing battleship main gun in the game, with the cost of sub-100 base damage and normal shells. Worthless for general use, but has some niche applications where the increase in fire rate is significant enough to make up for its shortcomings, such as when your ships significantly outlevel a given map.
+ - **[Triple 283mm SK C/34](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/34)#Type_3)** | The absolute fastest firing BB main gun in the game, at the cost of sub-100 alpha damage per shell and BB Normal armour modifiers. Worthless for general use, but has some niche applications where the increase in fire rate is significant enough to make up for its shortcomings, such as when your ships significantly outlevel a given map and clear time is of more importance.
 
 ## Torpedoes
 
