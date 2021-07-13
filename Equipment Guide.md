@@ -352,7 +352,7 @@ Sakura Empire and Iron Blood Aerial Torpedoes are instead dropped in a convergin
 
 **Accelerator AA Guns** <br/>
 [![40mm Twin Bofors STAAG](/resources/40mm%20twin%20bofors%20staag%20gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG_Mk_II)
-[![25mm Triple T96]()](https://azurlane.koumakan.jp/List_of_AA_Guns#Max_Rarity)(GEAR LAB)
+[![25mm Triple T96]()](https://azurlane.koumakan.jp/Triple_25mm_AA_(Type_96_Blast_Shield))(GEAR LAB)
 [![76mm Twin Mk 27]()](https://azurlane.koumakan.jp/Twin_76mm_AA_(Mk_27_Mount))(GEAR LAB)
 [![40mm Twin Bofors T98](/resources/40mm%20twin%20bofors%20t98%20gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_High-Angle_Type_98)
 [![40mm Twin Bofors Hazemeyer](/resources/40mm%20twin%20bofors%20hazemeyer%20gr_a.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_Hazemeyer_Mount_Mk_IV)
