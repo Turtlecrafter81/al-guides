@@ -305,7 +305,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 **Torpedo Bombers (TBs)** <br/>
 [![Ryuusei](/resources/ryuusei%20gr_s.png)](https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei#Type_3)
 [![Ju-87 D-4]()](https://azurlane.koumakan.jp/Junkers_Ju-87_D-4)(GEAR LAB)
-[![Wyvern]()]](https://azurlane.koumakan.jp/Westland_Wyvern)(GEAR LAB)
+[![Wyvern]()](https://azurlane.koumakan.jp/Westland_Wyvern)(GEAR LAB)
 [![Skypirate]()](https://azurlane.koumakan.jp/Douglas_XTB2D-1_Skypirate)(GEAR LAB)
 [![Swordfish (818)](/resources/swordfish%20818%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))
 [![VT-18 Squadron](/resources/VT-18%20gr_s.png)](https://azurlane.koumakan.jp/TBM_Avenger_(VT-18_Squadron))
