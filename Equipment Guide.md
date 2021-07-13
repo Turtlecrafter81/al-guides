@@ -261,8 +261,8 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![Reppuu](/resources/reppuu%20gr_a.png)](https://azurlane.koumakan.jp/Mitsubishi_A7M_Reppuu#Type_3)
 [![Seafang](/resources/seafang%20gr_a.png)](https://azurlane.koumakan.jp/Supermarine_Seafang#Type_3)
 [![Me-155](/resources/me-155%20gr_b.png)](https://azurlane.koumakan.jp/Messerschmitt_Me-155A#Type_3)
-[![Fw 190]()](https://azurlane.koumakan.jp/Focke-Wulf_Fw_190_A-5_(Carrier-based_Prototype))(GEAR LAB)
-[![F8F Bearcat}()](https://azurlane.koumakan.jp/Grumman_F8F_Bearcat)(GEAR LAB)
+[![Fw 190]()](https://azurlane.koumakan.jp/Focke-Wulf_Fw_190_A-5_(Carrier-based_Prototype))(GEAR LAB) 
+[![F8F Bearcat]()](https://azurlane.koumakan.jp/Grumman_F8F_Bearcat)(GEAR LAB)
 [![Zero M52](/resources/zero%20m52%20gr_b.png)](https://azurlane.koumakan.jp/Mitsubishi_A6M5_Zero#Type_3)
 
 **About Fighters:** For fighters, their armaments are split into both their equipped AA guns and any payload that they may have. One will therefore need to look at a given plane's loadout to see what bombs, if any, it is equipped with. For general use, fighters with bomb payloads are preferred due to their ability to contribute surface damage to the fight. The vast majority of preferable fighters are equipped with either 2x 500lb bombs or 2x 1000lb bombs.
