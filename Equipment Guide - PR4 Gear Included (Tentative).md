@@ -59,8 +59,8 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![138mm Single](/resources/138mm%20single%20gr_s.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3)
 [![130mm Twin](/resources/130mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3)
 [![114mm Twin](/resources/114mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))
-[![120mm Twin MkXI]()](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI)#Type_0)(GEAR LAB)
-[![128mm Twin]()](https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41)(GEAR LAB)
+[![120mm Twin MkXI](/resources/Twin-120-QF-Mk-XI-gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI)#Type_0)
+[![128mm Twin](/resources/Twin-128mm-gr_a.png)](https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41)
 [![100mm Twin](/resources/100mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)
 [![120mm Twin](/resources/120mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)
 [![127mm Twin](/resources/127mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38)#Type_3)
@@ -78,8 +78,8 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 
  
  **Main Fleet Secondaries** <br/>
- [![128mm Twin]()](https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41)(GEAR LAB)
- [![120mm Twin MkXI]()](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI)#Type_0)(GEAR LAB)
+[![128mm Twin](/resources/Twin-128mm-gr_s.png)](https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41)
+[![120mm Twin MkXI](/resources/Twin-120-QF-Mk-XI-gr_s.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI)#Type_0)
  [![120mm Twin](/resources/120mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)
  [![130mm Twin](/resources/130mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3)
  [![114mm Twin](/resources/114mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))
@@ -93,7 +93,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
   - **[Twin 120mm (QF Mk XI)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI)#Type_0)** | **[GEAR LAB EXCLUSIVE EQUIPMENT]** As it was for vanguard interception, this gun's high alpha allows it to intercept fireboats when used as a main fleet secondary with more reliability than its predecessor and the Twin 114mm. Do note that this gun gives up +5 FP for +20 AA compared to the Twin 120mm QF Mk XII, for when stat gains are more of a concern than interception. 
   - **[Twin 120mm QF Mark XII](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)** | Has weaker interception capabilities than the Twin 128mm/45, but its high damage per shot allows it to get kills when equipped on ships that might struggle otherwise. 
   - **[Twin 130mm B-2LM](https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3)** | Similar to the Twin 120mm QF Mk XII in practice but also gives the highest FP boost. Due to limited availability, there are better ships that might benefit from this gun more than using it as a main fleet secondary gun.
-  - **[Twin 114mm (QF Mk IV Prototype)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))** | Rather surprisingly to some, this gun is not a good candidate for use as a main fleet secondary owing to its reduced target acquisition range. This often hampers its ability to reliably take out suicide boats that are off to the flank(s) of the ship it's equipped on. 
+  - **[Twin 114mm (QF Mk IV Prototype)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))** | A poor candidate for use as a main fleet secondary owing to its reduced target acquisition range. This often hampers its ability to reliably take out suicide boats that are off to the flanks of the ship it's equipped on. 
   - **[Twin 127mm Mk38](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38)#Type_3)** | Has comparable performance to the Twin 120mm QF Mk XII. However, the lower velocity of its HE shells cause it to struggle slightly when firing off to the flanks, and it has a lower FP boost in return for some additional AA.
   - **[Twin 100mm Type 98](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)** and **[Single 138.6mm Mle1929](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3)** | The former provides the highest boost to AA, while the latter provides the highest FP boost. Worth using when interception is a non-concern and the stat boost is preferred.
  
@@ -137,10 +137,10 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![pr234mm triple](/resources/234mm%20triple%20gr_s.png)](https://azurlane.koumakan.jp/Triple_234mm_(BL_9.2%22_Mk_XII_Prototype))
 [![pr234mm twin](/resources/234mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_234mm_(BL_9.2%22_Mk_XII_Prototype))
 [![pr203mm Triple SKC](/resources/pr203mm%20triple%20skc%20gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(SK_C/34))
-[![gl203mm Triple SHS]()](https://azurlane.koumakan.jp/Triple_203mm_(8%22/55_Mk_15_SHS))(GEAR LAB)
+[![gl203mm Triple SHS](/resources/Triple-203mm-SHS-gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_(8%22/55_Mk_15_SHS))
 [![203mm Twin M1927](/resources/203mm%20m1927%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_(Model_1927)#Type_3)
 [![203mm Twin Mle1924](/resources/203mm%201924%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_(Mle_1924)#Type_3)
-[![203mm Triple BL Mk IX]()](https://azurlane.koumakan.jp/Triple_203mm_(BL_Mk_IX_Prototype))(GEAR LAB)
+[![203mm Triple BL Mk IX](/resources/Triple-203mm-BL-Mk-IX-gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_(BL_Mk_IX_Prototype))
 [![pr203mm Triple HE](/resources/pr203mm%20triple%20he%20gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(Mle_1934))
 [![pr203mm Mounted no.3](/resources/pr203mm%20mounted%20no3%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_Prototype_(No._3))
 [![203mm Mounted](/resources/203mm%20mounted%20gr_a.png)](https://azurlane.koumakan.jp/Twin_203mm_(3rd_Year_Type)#Type_3)
@@ -162,7 +162,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 **Large Cruiser and Miscellaneous Primary Guns** <br/>
 [![Submarine 203mm Twin](/resources/sub%20203mm%20twin.png)](https://azurlane.koumakan.jp/Submarine-mounted_Twin_203mm_Cannon_Mle1924)
 [![310mm Triple](/resources/pr310mm%20triple.png)](https://azurlane.koumakan.jp/Triple_310mm_(Type_0_Prototype))
-[![305mm Triple SKC 39](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)#CB_Variant)]()
+[![305mm Triple SKC 39(/resources/Triple-305-SK-C39-CB-var-gr_s.png)](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)#CB_Variant)]
 [![283mm Triple](/resources/283mm%20triple.png)](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/28)#Type_3)
 
 **About this section:** Found here are guns that only a select few ships can equip, and are therefore mentioned separately from the rest of the CA calibre guns. It's worth noting that Azuma in particular always wants to have her gun equipped due to the synergy it has with her skills.
