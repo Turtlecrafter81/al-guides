@@ -318,14 +318,14 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 
 **Torpedo Bombers (TBs)** <br/>
 [![Ryuusei](/resources/ryuusei%20gr_s.png)](https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei#Type_3)
-[![Ju-87 D-4]()](https://azurlane.koumakan.jp/Junkers_Ju-87_D-4)(GEAR LAB)
-[![Wyvern]()]](https://azurlane.koumakan.jp/Westland_Wyvern)(GEAR LAB)
-[![Skypirate]()](https://azurlane.koumakan.jp/Douglas_XTB2D-1_Skypirate)(GEAR LAB)
+[![Ju-87 D-4](/resources/Ju-87-D-4-gr_s.png)](https://azurlane.koumakan.jp/Junkers_Ju-87_D-4)(GEAR LAB)
+[![Wyvern](/resources/Westland-Wyvern-gr_s.png)]](https://azurlane.koumakan.jp/Westland_Wyvern)
+[![Skypirate](/resources/Skypirate-gr_s.png)](https://azurlane.koumakan.jp/Douglas_XTB2D-1_Skypirate)
 [![Swordfish (818)](/resources/swordfish%20818%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))
 [![VT-18 Squadron](/resources/VT-18%20gr_s.png)](https://azurlane.koumakan.jp/TBM_Avenger_(VT-18_Squadron))
-[![Tenzan Kai]()](https://azurlane.koumakan.jp/Nakajima_B6N2_Tenzan_Model_12A)(GEAR LAB)
+[![Tenzan Kai](/resources/Tenzan-Kai-gr_a.png)](https://azurlane.koumakan.jp/Nakajima_B6N2_Tenzan_Model_12A)
 [![Tenzan](/resources/tenzan%20gr_a.png)](https://azurlane.koumakan.jp/Nakajima_B6N_Tenzan#Type_3)
-[![C6N Saiun]()](https://azurlane.koumakan.jp/Nakajima_C6N_Saiun_(Model_21_Prototype))
+[![C6N Saiun](/resources/Saiun-gr_a.png)](https://azurlane.koumakan.jp/Nakajima_C6N_Saiun_(Model_21_Prototype))
 [![Barracuda](/resources/barracuda%20gr_a.png)](https://azurlane.koumakan.jp/Fairey_Barracuda#Type_3)
 [![Torpedo Squadron 8](/resources/vt-8%20gr_a.png)](https://azurlane.koumakan.jp/Torpedo_Squadron_8_(VT-8))
 [![Albacore](/resources/albacore%20gr_b.png)](https://azurlane.koumakan.jp/Fairey_Albacore#Type_3)
@@ -351,11 +351,11 @@ Sakura Empire and Iron Blood Aerial Torpedoes are instead dropped in a convergin
 
 **Damage AA Guns** <br/>
 [![Sextuple 40mm Bofors](/resources/Sextuple%20Bofors%20gr_s.png)](https://azurlane.koumakan.jp/Sextuple_40mm_Bofors)
-[![90mm Twin]()](https://azurlane.koumakan.jp/Twin_90mm_AA_(Model_1939_Prototype))
+[![90mm Twin](Twin-90mm-AA-gr_s.png)](https://azurlane.koumakan.jp/Twin_90mm_AA_(Model_1939_Prototype))
 [![40mm Quad Bofors](/resources/40mm%20quad%20bofors%20gr_s.png)](https://azurlane.koumakan.jp/Quadruple_40mm_L60_Mk2_Bofors#Type_3)
 [![40mm 8x Pom-Pom](/resources/40mm%208x%20pom-pom%20gr_s.png)](https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom#Type_3)
 [![113mm Twin](/resources/113mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_113mm_(4.5%22/45_QF_Mk_I)#Type_3)
-[![134mm Twin High-Angle](/resources/134mm%20high-angle%20gr_a.png)](https://azurlane.koumakan.jp/Twin_134mm_High-Angle_(QF_Mk_I))(GEAR LAB)
+[![134mm Twin High-Angle](/resources/Twin-134mm-AA-gr_a.png)](https://azurlane.koumakan.jp/Twin_134mm_High-Angle_(QF_Mk_I))
 [![100mm Twin High-Angle](/resources/100mm%20twin%20high-angle%20gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_(Type_98))
 [![105mm Twin SKC](/resources/105mm%20twin%20skc%20gr_a.png)](https://azurlane.koumakan.jp/Twin_105mm_(SK_C/33)#Type_3)
 
@@ -371,8 +371,8 @@ Sakura Empire and Iron Blood Aerial Torpedoes are instead dropped in a convergin
 
 **Accelerator AA Guns** <br/>
 [![40mm Twin Bofors STAAG](/resources/40mm%20twin%20bofors%20staag%20gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG_Mk_II)
-[![25mm Triple T96]()](https://azurlane.koumakan.jp/List_of_AA_Guns#Max_Rarity)(GEAR LAB)
-[![76mm Twin Mk 27]()](https://azurlane.koumakan.jp/Twin_76mm_AA_(Mk_27_Mount))(GEAR LAB)
+[![25mm Triple T96](/resources/Triple-25mm-Blast-Shield-gr_s.png)](https://azurlane.koumakan.jp/List_of_AA_Guns#Max_Rarity)
+[![76mm Twin Mk 27](/resources/Twin-76mm-Mk-27-AA-gr_s.png)](https://azurlane.koumakan.jp/Twin_76mm_AA_(Mk_27_Mount))
 [![40mm Twin Bofors T98](/resources/40mm%20twin%20bofors%20t98%20gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_High-Angle_Type_98)
 [![40mm Twin Bofors Hazemeyer](/resources/40mm%20twin%20bofors%20hazemeyer%20gr_a.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_Hazemeyer_Mount_Mk_IV)
 [![37mm Twin ACAD](/resources/37mm%20twin%20acad%20gr_a.png)](https://azurlane.koumakan.jp/Twin_37mm_ACAD_Mle_1936)
