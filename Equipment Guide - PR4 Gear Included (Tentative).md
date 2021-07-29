@@ -162,7 +162,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 **Large Cruiser and Miscellaneous Primary Guns** <br/>
 [![Submarine 203mm Twin](/resources/sub%20203mm%20twin.png)](https://azurlane.koumakan.jp/Submarine-mounted_Twin_203mm_Cannon_Mle1924)
 [![310mm Triple](/resources/pr310mm%20triple.png)](https://azurlane.koumakan.jp/Triple_310mm_(Type_0_Prototype))
-[![305mm Triple SKC 39(/resources/Triple-305-SK-C39-CB-var-gr_s.png)](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)#CB_Variant)]
+[![305mm Triple SKC 39](/resources/Triple-305-SK-C39-CB-var-gr_s.png)](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)#CB_Variant)]
 [![283mm Triple](/resources/283mm%20triple.png)](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/28)#Type_3)
 
 **About this section:** Found here are guns that only a select few ships can equip, and are therefore mentioned separately from the rest of the CA calibre guns. It's worth noting that Azuma in particular always wants to have her gun equipped due to the synergy it has with her skills.
@@ -182,7 +182,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![406mm Triple Mk7](/resources/Triple-406mm-Mk-7-gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(16%22/50_Mk_7))
 [![406mm Triple Mk6](/resources/406mm%20triple%20mk6%20gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_Mk_6)#Type_3)
 [![406mm Triple (Mle 1938)](/resources/406mm%20triple%20Mle%201938%20gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(Mle_1938_Prototype))
-[![406mm Triple Model 1940 Prototype)](https://azurlane.koumakan.jp/Triple_406mm_(Model_1940_Prototype))
+[![406mm Triple Model 1940 Prototype)](/resources/Triple-406-Model-1940-gr_a.png)](https://azurlane.koumakan.jp/Triple_406mm_(Model_1940_Prototype))
 [![pr381mm Triple](/resources/pr381mm%20triple%20gr_a.png)](https://azurlane.koumakan.jp/Triple_381mm_Prototype_(BL_15%22_Mk_III))
 [![380mm Quad](/resources/380mm%20quad%20gr_a.png)](https://azurlane.koumakan.jp/Quadruple_380mm_(Mle_1935)#Type_3)
 [![pr410mm Triple](/resources/pr410mm%20triple%20gr_a.png)](https://azurlane.koumakan.jp/Triple_410mm_Prototype_(10th_Year_Type))
@@ -273,7 +273,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![Seafang](/resources/seafang%20gr_a.png)](https://azurlane.koumakan.jp/Supermarine_Seafang#Type_3)
 [![Me-155](/resources/me-155%20gr_b.png)](https://azurlane.koumakan.jp/Messerschmitt_Me-155A#Type_3)
 [![Fw 190](/resources/Fw-190-gr_b.png)](https://azurlane.koumakan.jp/Focke-Wulf_Fw_190_A-5_(Carrier-based_Prototype))
-[![F8F Bearcat}(/resources/F8F-Bearcat-gr_b.png)](https://azurlane.koumakan.jp/Grumman_F8F_Bearcat)
+[![F8F Bearcat](/resources/F8F-Bearcat-gr_b.png)](https://azurlane.koumakan.jp/Grumman_F8F_Bearcat)
 [![Zero M52](/resources/zero%20m52%20gr_b.png)](https://azurlane.koumakan.jp/Mitsubishi_A6M5_Zero#Type_3)
 
 **About Fighters:** For fighters, their armaments are split into both their equipped AA guns and any payload that they may have. One will therefore need to look at a given plane's loadout to see what bombs, if any, it is equipped with. For general use, fighters with bomb payloads are preferred due to their ability to contribute surface damage to the fight. The vast majority of preferable fighters are equipped with either 2x 500lb bombs or 2x 1000lb bombs.
@@ -318,8 +318,8 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 
 **Torpedo Bombers (TBs)** <br/>
 [![Ryuusei](/resources/ryuusei%20gr_s.png)](https://azurlane.koumakan.jp/Aichi_B7A_Ryuusei#Type_3)
-[![Ju-87 D-4](/resources/Ju-87-D-4-gr_s.png)](https://azurlane.koumakan.jp/Junkers_Ju-87_D-4)(GEAR LAB)
-[![Wyvern](/resources/Westland-Wyvern-gr_s.png)]](https://azurlane.koumakan.jp/Westland_Wyvern)
+[![Ju-87 D-4](/resources/Ju-87-D-4-gr_s.png)](https://azurlane.koumakan.jp/Junkers_Ju-87_D-4)
+[![Wyvern](/resources/Westland-Wyvern-gr_s.png)](https://azurlane.koumakan.jp/Westland_Wyvern)
 [![Skypirate](/resources/Skypirate-gr_s.png)](https://azurlane.koumakan.jp/Douglas_XTB2D-1_Skypirate)
 [![Swordfish (818)](/resources/swordfish%20818%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Swordfish_(818_Squadron))
 [![VT-18 Squadron](/resources/VT-18%20gr_s.png)](https://azurlane.koumakan.jp/TBM_Avenger_(VT-18_Squadron))
@@ -351,7 +351,7 @@ Sakura Empire and Iron Blood Aerial Torpedoes are instead dropped in a convergin
 
 **Damage AA Guns** <br/>
 [![Sextuple 40mm Bofors](/resources/Sextuple%20Bofors%20gr_s.png)](https://azurlane.koumakan.jp/Sextuple_40mm_Bofors)
-[![90mm Twin](Twin-90mm-AA-gr_s.png)](https://azurlane.koumakan.jp/Twin_90mm_AA_(Model_1939_Prototype))
+[![90mm Twin](/resources/Twin-90mm-AA-gr_s.png)](https://azurlane.koumakan.jp/Twin_90mm_AA_(Model_1939_Prototype))
 [![40mm Quad Bofors](/resources/40mm%20quad%20bofors%20gr_s.png)](https://azurlane.koumakan.jp/Quadruple_40mm_L60_Mk2_Bofors#Type_3)
 [![40mm 8x Pom-Pom](/resources/40mm%208x%20pom-pom%20gr_s.png)](https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom#Type_3)
 [![113mm Twin](/resources/113mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_113mm_(4.5%22/45_QF_Mk_I)#Type_3)
