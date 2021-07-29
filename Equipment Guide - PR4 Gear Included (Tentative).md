@@ -162,7 +162,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 **Large Cruiser and Miscellaneous Primary Guns** <br/>
 [![Submarine 203mm Twin](/resources/sub%20203mm%20twin.png)](https://azurlane.koumakan.jp/Submarine-mounted_Twin_203mm_Cannon_Mle1924)
 [![310mm Triple](/resources/pr310mm%20triple.png)](https://azurlane.koumakan.jp/Triple_310mm_(Type_0_Prototype))
-[![305mm Triple SKC 39](/resources/Triple-305-SK-C39-CB-var-gr_s.png)](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)#CB_Variant)]
+[![305mm Triple SKC 39](/resources/Triple-305-SK-C39-CB-var-gr_s.png)](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)#CB_Variant)
 [![283mm Triple](/resources/283mm%20triple.png)](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/28)#Type_3)
 
 **About this section:** Found here are guns that only a select few ships can equip, and are therefore mentioned separately from the rest of the CA calibre guns. It's worth noting that Azuma in particular always wants to have her gun equipped due to the synergy it has with her skills.
