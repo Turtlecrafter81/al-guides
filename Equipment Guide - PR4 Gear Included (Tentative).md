@@ -179,7 +179,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 **About BB Guns:** Due to the burst-damage nature of battleship main guns, they're grouped together based on their expected reload speeds. The highest direct damage guns tend to have firing timers longer than 20s, while the fastest guns have firing timers shorter than 18s and are generally best suited for use on ships with powerful skills that proc on main gun fire. This leaves a select handful of guns that fall into the 18-20s band. These guns have the potential to outdamage the slower guns under the right circumstances, while also still being fast enough to function well on ships with proc-on-fire skills.<br/><br/>In general, battleships used for mob clearing will also prefer a gun with a faster rate of fire due to their damage output coming out more often and the tendency for higher damage guns to overkill mob units.
 
 **~20s** <br/>
-[![406mm Triple Mk7]()](https://azurlane.koumakan.jp/Triple_406mm_(16%22/50_Mk_7))
+[![406mm Triple Mk7](/resources/Triple-406mm-Mk-7-gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(16%22/50_Mk_7))
 [![406mm Triple Mk6](/resources/406mm%20triple%20mk6%20gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_Mk_6)#Type_3)
 [![406mm Triple (Mle 1938)](/resources/406mm%20triple%20Mle%201938%20gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(Mle_1938_Prototype))
 [![406mm Triple Model 1940 Prototype)](https://azurlane.koumakan.jp/Triple_406mm_(Model_1940_Prototype))
@@ -203,8 +203,8 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 **18-20s** <br/>
 [![pr406mm Twin SKC](/resources/pr406mm%20twin%20skc%20gr_s.png)](https://azurlane.koumakan.jp/Twin_406mm_(L/52_Drh_LC/34_Prototype))
 [![pr457mm Twin](/resources/pr457mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_457mm_(Mark_A_Prototype))
-[![406mm Twin Mk8]()](https://azurlane.koumakan.jp/Twin_406mm_(16%22/45_Mk_8))(GEAR LAB)
-[![410mm Twin Kai]()](https://azurlane.koumakan.jp/Twin_410mm_(3rd_Year_Type)_Kai)(GEAR LAB)
+[![406mm Twin Mk8](/resources/Twin-406mm-Mk-8-gr_a.png)](https://azurlane.koumakan.jp/Twin_406mm_(16%22/45_Mk_8))
+[![410mm Twin Kai](/resources/Twin-410mm-Kai-gr_a.png)](https://azurlane.koumakan.jp/Twin_410mm_(3rd_Year_Type)_Kai)
 [![410mm Twin](/resources/410mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_410mm_(3rd_Year_Type)#Type_3)
 
  - **[Twin 406mm Drh LC/34 Prototype](https://azurlane.koumakan.jp/Twin_406mm_(L/52_Drh_LC/34_Prototype))** | Shoots HE shells, uncharacteristic for an Iron Blood gun. It has the highest damage per shell of any HE BB gun, meaning it inflicts the most damaging burn effects on enemies while having a near optimal reload timer in order to maximise burn uptime. It performs well on: battleships with exceptionally high gun efficiencies in order to best take advantage of this burn damage, and battleships who have both strong shelling output and a strong proc-on-fire ability. For fleets that take advantage of timed damage buffs however, this gun's reload timer works against it - as is the case for all guns in this reload bracket.
@@ -226,9 +226,9 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 
 **Surface Torpedoes** <br/>
 
-[![533mm Quint Mk IX]()](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_IX)(GEAR LAB)
-[![533mm Quint Mk 17]()](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_17)(GEAR LAB)
-[![610mm Quad Kai]()](https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount_Kai)(GEAR LAB)
+[![533mm Quint Mk IX](/resources/Quint-533mm-Mk-IX-gr_s.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_IX)
+[![533mm Quint Mk 17](/resources/Quint-533mm-Mk-17-gr_s.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_17)
+[![610mm Quad Kai](/resources/Quad-610mm-Kai-gr_s.png)](https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount_Kai)
 [![533mm Quint](/resources/533mm%20quint%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3)
 [![610mm Quad](/resources/610mm%20quad%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3)
 [![533mm Quint Homing](/resources/533mm%20quint%20homing%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Homing_Torpedo_Mount#Type_3)
@@ -247,7 +247,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
  - **[550mm Triple Torpedo Mount](https://azurlane.koumakan.jp/550mm_Triple_Torpedo_Launcher#Type_3)** | Occupy the unique niche of having the fastest reload speed of any relevant torpedo launcher. However, while they have high base damage, the fact that they only launch three torpedoes per volley cuts significantly into both alpha damage and volume of fire, on top of being exceedingly difficult to acquire.
 
 **Submarine Torpedoes** <br/>
-[![Mk 20S Bidder Torpedoes]()](https://azurlane.koumakan.jp/Submarine-mounted_Mark_20S_%22Bidder%22_Torpedo)(GEAR LAB)
+[![Mk 20S Bidder Torpedoes](/resources/Mk-20S-Bidder-gr_s.png)](https://azurlane.koumakan.jp/Submarine-mounted_Mark_20S_%22Bidder%22_Torpedo)
 [![G7e Acoustic Torpedoes](/resources/g7e%20acoustic%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/Submarine-mounted_G7e_Acoustic_Homing_Torpedo#Type_3)
 [![Mk16 Torpedoes](/resources/mk16%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/Submarine-mounted_Mark_16_Torpedo#Type_3)
 [![T95 Oxygen Torpedoes](/resources/t95%20oxygen%20torpedoes%20gr_a.png)](https://azurlane.koumakan.jp/Submarine-mounted_Type_95_Oxygen_Torpedo#Type_3)
@@ -262,9 +262,9 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 ## Carrier (CV/CVL) Aircraft
 
 **Fighters** <br/>
-[![F7F Tigercat]()](https://azurlane.koumakan.jp/Grumman_F7F_Tigercat)(GEAR LAB)
-[![Sea Hornet](/resources/Hornet%20gr_s.png)](https://azurlane.koumakan.jp/De_Havilland_Sea_Hornet)(GEAR LAB)
-[![Bf 109G]()](https://azurlane.koumakan.jp/Messerschmitt_Bf_109G_(Carrier-based_Prototype))
+[![F7F Tigercat](/resources/F7F-Tigercat-gr_s.png)](https://azurlane.koumakan.jp/Grumman_F7F_Tigercat)
+[![Sea Hornet](/resources/Sea-Hornet-gr_s.png)](https://azurlane.koumakan.jp/De_Havilland_Sea_Hornet)
+[![Bf 109G](/resources/Bf-109G-gr_s.png)](https://azurlane.koumakan.jp/Messerschmitt_Bf_109G_(Carrier-based_Prototype))
 [![F4U Corsair (VF-17)](/resources/f4u%20corsair%20vf-17%20gr_s.png)](https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron))
 [![F6F Hellcat](/resources/f6f%20hellcat%20gr_s.png)](https://azurlane.koumakan.jp/Grumman_F6F_Hellcat#Type_3)
 [![Shiden Kai Ni](/resources/Shiden%20gr_s.png)](https://azurlane.koumakan.jp/Kawanishi_N1K3-A_Shiden_Kai_2)
@@ -272,8 +272,8 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![Reppuu](/resources/reppuu%20gr_a.png)](https://azurlane.koumakan.jp/Mitsubishi_A7M_Reppuu#Type_3)
 [![Seafang](/resources/seafang%20gr_a.png)](https://azurlane.koumakan.jp/Supermarine_Seafang#Type_3)
 [![Me-155](/resources/me-155%20gr_b.png)](https://azurlane.koumakan.jp/Messerschmitt_Me-155A#Type_3)
-[![Fw 190]()](https://azurlane.koumakan.jp/Focke-Wulf_Fw_190_A-5_(Carrier-based_Prototype))(GEAR LAB)
-[![F8F Bearcat}()](https://azurlane.koumakan.jp/Grumman_F8F_Bearcat)(GEAR LAB)
+[![Fw 190](/resources/Fw-190-gr_b.png)](https://azurlane.koumakan.jp/Focke-Wulf_Fw_190_A-5_(Carrier-based_Prototype))
+[![F8F Bearcat}(/resources/F8F-Bearcat-gr_b.png)](https://azurlane.koumakan.jp/Grumman_F8F_Bearcat)
 [![Zero M52](/resources/zero%20m52%20gr_b.png)](https://azurlane.koumakan.jp/Mitsubishi_A6M5_Zero#Type_3)
 
 **About Fighters:** For fighters, their armaments are split into both their equipped AA guns and any payload that they may have. One will therefore need to look at a given plane's loadout to see what bombs, if any, it is equipped with. For general use, fighters with bomb payloads are preferred due to their ability to contribute surface damage to the fight. The vast majority of preferable fighters are equipped with either 2x 500lb bombs or 2x 1000lb bombs.
@@ -293,15 +293,15 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
  - **[Zero Fighter Model 52](https://azurlane.koumakan.jp/Mitsubishi_A6M5_Zero#Type_3)** | A relatively fast reloading fighter that still has *some* form of bomb payload, although its 2x 100lb payload has under half the base damage of the usual 2x 500lb payload and a significantly smaller blast radius. Mostly used for very specific reload tuning setups, similar to the Bearcat above.
 
 **Dive Bombers (DBs)** <br/>
-[![Tenrai]()](https://azurlane.koumakan.jp/Nakajima_J5N_Tenrai_(Dive_Bomber_Prototype))
-[![XSB3C]()](https://azurlane.koumakan.jp/Curtiss_XSB3C_(Experimental))(GEAR LAB)
+[![Tenrai](/resources/Tenrai-gr_s.png)](https://azurlane.koumakan.jp/Nakajima_J5N_Tenrai_(Dive_Bomber_Prototype))
+[![XSB3C](/resources/XSB3C-gr_s.png)](https://azurlane.koumakan.jp/Curtiss_XSB3C_(Experimental))
 [![SB2C Helldiver](/resources/sb2c%20helldiver%20gr_s.png)](https://azurlane.koumakan.jp/Curtiss_SB2C_Helldiver#Type_3)
 [![Ju-87c](/resources/ju-87c%20gr_a.png)](https://azurlane.koumakan.jp/Junkers_Ju-87C#Type_3)
 [![Firefly](/resources/firefly%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Firefly)
-[![Suisei Model 12A]()](https://azurlane.koumakan.jp/Yokosuka_Suisei_Model_12A)(GEAR LAB)
+[![Suisei Model 12A](/resources/Suisei-Kai-gr_s.png)](https://azurlane.koumakan.jp/Yokosuka_Suisei_Model_12A)
 [![Suisei](/resources/suisei%20gr_a.png)](https://azurlane.koumakan.jp/Yokosuka_D4Y_Suisei#Type_3)
 [![SBD Dauntless (McClusky)](/resources/dauntless%20mcclusky%20gr_b.png)](https://azurlane.koumakan.jp/Douglas_SBD_Dauntless_(McClusky))
-[![Fairey Fulmar]()](https://azurlane.koumakan.jp/Fairey_Fulmar#Type_3)
+[![Fairey Fulmar](/resources/Fairey-Fulmar-gr_b.png)](https://azurlane.koumakan.jp/Fairey_Fulmar#Type_3)
 
  **About Dive Bombers:** Bomb damage does not scale linearly with payload weight, all bomb drops are beholden to the same RNG drop point, and larger bombs only provide a small increase in damage. As such, quantity of bombs is generally preferred to quality of bombs. 
  
