@@ -99,11 +99,11 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
  
  ## Light Cruiser (CL) Guns
 **Vanguard Primary Guns** <br/>
-[![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
+[![pr152mm Triple HE](/resources/Triple-152mm-Mk-17-DP-gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
 [![152mm Triple (MK-5)](/resources/152mm%20triple%20MK-5%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(MK-5)#Type_3)
-[![pr152mm Triple AP](/resources/pr152mm%20triple%20ap%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
-[![150mm Twin TbtsK](/resources/150mm%20twin%20tbtsk%20gr_a.png)](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)#Type_3)
-[![150mm Single SKC](/resources/150mm%20single%20skc%20gr_b.png)](https://azurlane.koumakan.jp/Single_150mm_(SK_C/28)#Type_3)
+[![pr152mm Triple AP](/resources/Triple-152mm-BL-Mk-XXV-gr_a.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
+[![150mm Twin TbtsK](/resources/Twin-150mm-TbtsK-gr_a.png)](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)#Type_3)
+[![150mm Single SKC](/resources/Single-150mm-SK-C28-gr_b.png)](https://azurlane.koumakan.jp/Single_150mm_(SK_C/28)#Type_3)
 
   **Preface about CL guns as Vanguard Primaries:** For any vanguard ship that can choose between equipping a DD or CL gun, always equip them with a DD gun. DD calibre guns have higher damage per second, and their faster fire rate leads to faster barrages and/or skill procs. Refer to the DD section above.
   
@@ -115,13 +115,13 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 
 
 **Main Fleet Secondaries** <br/>
-[![pr152mm Triple AP](/resources/pr152mm%20triple%20ap%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
-[![152mm Triple HE](/resources/152mm%20triple%20he%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16)#Type_3)
+[![pr152mm Triple AP](/resources/Triple-152mm-BL-Mk-XXV-gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
+[![152mm Triple HE](/resources/Triple-152mm-Mk-16-gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16)#Type_3)
 [![152mm Triple (MK-5)](/resources/152mm%20triple%20MK-5%20gr_s.png)](https://azurlane.koumakan.jp/Triple_152mm_(MK-5)#Type_3)
-[![155mm Triple](/resources/155mm%20triple%20gr_s.png)](https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3)
-[![152mm Twin AP](/resources/152mm%20twin%20ap%20gr_a.png)](https://azurlane.koumakan.jp/Twin_152mm_(BL_6%22_Mk_XXIII)#Type_3)
-[![pr152mm Triple HE](/resources/pr152mm%20triple%20he%20gr_a.png)](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
-[![150mm Twin TbtsK](/resources/150mm%20twin%20tbtsk%20gr_b.png)](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)#Type_3)
+[![155mm Triple](/resources/Triple-155mm-gr_s.png)](https://azurlane.koumakan.jp/Triple_155mm_(3rd_Year_Type)#Type_3)
+[![152mm Twin AP](/resources/Twin-152mm-BL-Mk-XXII-gr_a.png)](https://azurlane.koumakan.jp/Twin_152mm_(BL_6%22_Mk_XXIII)#Type_3)
+[![pr152mm Triple HE](/resources/Triple-152mm-Mk-17-DP-gr_a.png)](https://azurlane.koumakan.jp/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
+[![150mm Twin TbtsK](/resources/Twin-150mm-TbtsK-gr_b.png)](https://azurlane.koumakan.jp/Twin_150mm_(TbtsK_C/36)#Type_3)
 
  - **[Triple 152mm BL Mark XXV Prototype](https://azurlane.koumakan.jp/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** | Has the longest range of any CL gun, coupled with a high firepower bonus that makes it the best auxiliary gun for general use. 
  - **[Triple 152mm Mk16](https://azurlane.koumakan.jp/Triple_152mm_(6%22/47_Mk_16)#Type_3)** | Exceptional at interception thanks to its high alpha damage per shell, wide spread, and zero second volley time. Exceptionally easy to acquire as well.
