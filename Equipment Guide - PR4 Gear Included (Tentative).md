@@ -352,12 +352,12 @@ Sakura Empire and Iron Blood Aerial Torpedoes are instead dropped in a convergin
 **Damage AA Guns** <br/>
 [![Sextuple 40mm Bofors](/resources/Sextuple%20Bofors%20gr_s.png)](https://azurlane.koumakan.jp/Sextuple_40mm_Bofors)
 [![90mm Twin](/resources/Twin-90mm-AA-gr_s.png)](https://azurlane.koumakan.jp/Twin_90mm_AA_(Model_1939_Prototype))
-[![40mm Quad Bofors](/resources/40mm%20quad%20bofors%20gr_s.png)](https://azurlane.koumakan.jp/Quadruple_40mm_L60_Mk2_Bofors#Type_3)
-[![40mm 8x Pom-Pom](/resources/40mm%208x%20pom-pom%20gr_s.png)](https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom#Type_3)
-[![113mm Twin](/resources/113mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_113mm_(4.5%22/45_QF_Mk_I)#Type_3)
+[![40mm Quad Bofors](/resources/Quad-Bofors-gr_s.png)](https://azurlane.koumakan.jp/Quadruple_40mm_L60_Mk2_Bofors#Type_3)
+[![40mm 8x Pom-Pom](/resources/Octuple-Pom-Pom-gr_s.png)](https://azurlane.koumakan.jp/Octuple_40mm_Pom-Pom#Type_3)
+[![113mm Twin](/resources/Twin-113mm-AA-gr_s.png)](https://azurlane.koumakan.jp/Twin_113mm_(4.5%22/45_QF_Mk_I)#Type_3)
 [![134mm Twin High-Angle](/resources/Twin-134mm-AA-gr_a.png)](https://azurlane.koumakan.jp/Twin_134mm_High-Angle_(QF_Mk_I))
-[![100mm Twin High-Angle](/resources/100mm%20twin%20high-angle%20gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_(Type_98))
-[![105mm Twin SKC](/resources/105mm%20twin%20skc%20gr_a.png)](https://azurlane.koumakan.jp/Twin_105mm_(SK_C/33)#Type_3)
+[![100mm Twin High-Angle](/resources/Twin-100mm-AA-gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_High-Angle_(Type_98))
+[![105mm Twin SKC](/resources/Twin-105mm-gr_a.png)](https://azurlane.koumakan.jp/Twin_105mm_(SK_C/33)#Type_3)
 
  - **[Sextuple 40mm Bofors](https://azurlane.koumakan.jp/Sextuple_40mm_Bofors)** | The strongest AA gun the game presently has by a *wide* margin. The go-to damage centric AA gun, the only demerit to which is its shorter range compared to alternatives - a problem easily resolved by mixing other guns with a larger range into the fleet where necessary. There is *no* reason not to give this to the ship with the highest effective AA in your fleet.
  - **[Twin 90mm AA (Model 1939 Prototype)](https://azurlane.koumakan.jp/Twin_90mm_AA_(Model_1939_Prototype))** | A direct upgrade to the Quadruple 40mm Bofors below. Same base damage, same effective reload speed, more range. Supersedes the Quadruple Bofors as the superior mono-gun AA choice.
@@ -370,12 +370,12 @@ Sakura Empire and Iron Blood Aerial Torpedoes are instead dropped in a convergin
  
 
 **Accelerator AA Guns** <br/>
-[![40mm Twin Bofors STAAG](/resources/40mm%20twin%20bofors%20staag%20gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG_Mk_II)
+[![40mm Twin Bofors STAAG](/resources/STAAG-gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG_Mk_II)
 [![25mm Triple T96](/resources/Triple-25mm-Blast-Shield-gr_s.png)](https://azurlane.koumakan.jp/List_of_AA_Guns#Max_Rarity)
 [![76mm Twin Mk 27](/resources/Twin-76mm-Mk-27-AA-gr_s.png)](https://azurlane.koumakan.jp/Twin_76mm_AA_(Mk_27_Mount))
-[![40mm Twin Bofors T98](/resources/40mm%20twin%20bofors%20t98%20gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_High-Angle_Type_98)
-[![40mm Twin Bofors Hazemeyer](/resources/40mm%20twin%20bofors%20hazemeyer%20gr_a.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_Hazemeyer_Mount_Mk_IV)
-[![37mm Twin ACAD](/resources/37mm%20twin%20acad%20gr_a.png)](https://azurlane.koumakan.jp/Twin_37mm_ACAD_Mle_1936)
+[![40mm Twin Bofors T98](/resources/IJN-Bofors-gr_s.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_High-Angle_Type_98)
+[![40mm Twin Bofors Hazemeyer](/resources/Hazemeyer-gr_a.png)](https://azurlane.koumakan.jp/Twin_40mm_Bofors_Hazemeyer_Mount_Mk_IV)
+[![37mm Twin ACAD](/resources/Twin-37mm-ACAD-gr_a.png)](https://azurlane.koumakan.jp/Twin_37mm_ACAD_Mle_1936)
 
  - **[Twin 40mm Bofors STAAG](https://azurlane.koumakan.jp/Twin_40mm_Bofors_STAAG_Mk_II)** | Relatively slow for an accelerator gun, but it brings high base damage and long range. The STAAG also gives a bonus to HIT, making it the de facto strongest AA gun for ships with lower base HIT (and therefore lowered accuracy) when actual AA damage is a non-concern. Generally speaking, battleships have higher priority for this gun than others owing to how well they can utilise the extra HIT stat.
  - **[Triple 25mm AA (Type 96 Blast Shield)](https://azurlane.koumakan.jp/Triple_25mm_AA_(Type_96_Blast_Shield))** | **[GEAR LAB EXCLUSIVE EQUIPMENT]** *The* fastest gold AA gun in the game, but with the poorest range among its gold accelerator peers as well. Best used on ships with incredibly poor AA but high RLD to take full advantage of its strengths, especially where an additional AA tick can be achieved on a given wave of planes.
