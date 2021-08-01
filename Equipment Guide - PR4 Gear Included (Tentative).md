@@ -295,11 +295,11 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 **Dive Bombers (DBs)** <br/>
 [![Tenrai](/resources/Tenrai-gr_s.png)](https://azurlane.koumakan.jp/Nakajima_J5N_Tenrai_(Dive_Bomber_Prototype))
 [![XSB3C](/resources/XSB3C-gr_s.png)](https://azurlane.koumakan.jp/Curtiss_XSB3C_(Experimental))
-[![SB2C Helldiver](/resources/sb2c%20helldiver%20gr_s.png)](https://azurlane.koumakan.jp/Curtiss_SB2C_Helldiver#Type_3)
-[![Ju-87c](/resources/ju-87c%20gr_a.png)](https://azurlane.koumakan.jp/Junkers_Ju-87C#Type_3)
-[![Firefly](/resources/firefly%20gr_s.png)](https://azurlane.koumakan.jp/Fairey_Firefly)
+[![SB2C Helldiver](/resources/SB2C-Helldiver-gr_s.png)](https://azurlane.koumakan.jp/Curtiss_SB2C_Helldiver#Type_3)
+[![Ju-87c](/resources/Ju-87-gr_a.png)](https://azurlane.koumakan.jp/Junkers_Ju-87C#Type_3)
+[![Firefly](/resources/Fairey-Firefly-gr_s.png)](https://azurlane.koumakan.jp/Fairey_Firefly)
 [![Suisei Model 12A](/resources/Suisei-Kai-gr_s.png)](https://azurlane.koumakan.jp/Yokosuka_Suisei_Model_12A)
-[![Suisei](/resources/suisei%20gr_a.png)](https://azurlane.koumakan.jp/Yokosuka_D4Y_Suisei#Type_3)
+[![Suisei](/resources/Suisei-gr_a.png)](https://azurlane.koumakan.jp/Yokosuka_D4Y_Suisei#Type_3)
 [![SBD Dauntless (McClusky)](/resources/dauntless%20mcclusky%20gr_b.png)](https://azurlane.koumakan.jp/Douglas_SBD_Dauntless_(McClusky))
 [![Fairey Fulmar](/resources/Fairey-Fulmar-gr_b.png)](https://azurlane.koumakan.jp/Fairey_Fulmar#Type_3)
 
