@@ -161,8 +161,8 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 
 **Large Cruiser and Miscellaneous Primary Guns** <br/>
 [![Submarine 203mm Twin](/resources/Twin-203mm-Model-1924-SUB.png)](https://azurlane.koumakan.jp/Submarine-mounted_Twin_203mm_Cannon_Mle1924)
-[![310mm Triple](/resources/Triple-310mm-Type-0-gr_s.png)](https://azurlane.koumakan.jp/Triple_310mm_(Type_0_Prototype))
-[![305mm Triple SKC 39](/resources/Triple-305-SK-C39-CB-var-gr_s.png)](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)#CB_Variant)
+[![310mm Triple](/resources/Triple-310mm-Type-0.png)](https://azurlane.koumakan.jp/Triple_310mm_(Type_0_Prototype))
+[![305mm Triple SKC 39](/resources/Triple-305-SK-C39-CB-var.png)](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)#CB_Variant)
 [![283mm Triple](/resources/Triple-283mm-SK-C28.png)](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/28)#Type_3)
 
 **About this section:** Found here are guns that only a select few ships can equip, and are therefore mentioned separately from the rest of the CA calibre guns. It's worth noting that Azuma in particular always wants to have her gun equipped due to the synergy it has with her skills.
@@ -173,21 +173,21 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
  
  - **[Triple 310mm (Type 0 Prototype)](https://azurlane.koumakan.jp/Triple_310mm_(Type_0_Prototype))** | The only HE CB gun presently in the game. Due to its synergy with Azuma's skills, its foremost use is as the premier gun to equip her with.
  - **[Triple 305mm SK C/39 Prototype](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)#CB_Variant)** | An improved AP CB gun compared to the Triple 283mm SK C/28 found below. Usable by both Agir and Azuma, albeit that Agir is the only one with preferable skill synergy with this gun. 
- - **[Triple 283mm SK C/28](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/28)#Type_3)** | A CB gun with a unique quirk - it's equippable by select CAs. Namely, the Deutschland-class and Prinz Heinrich - albeit that the 283mm's CA AP armour modifiers stand at odds with the Deutschland-class' niche of doing more damage to Light targets. Prinz Heinrich can theoretically make good use of the 283mm in shield-rich environments, but she performs just as well following the usual CA gun selection guidelines.
+ - **[Triple 283mm SK C/28](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/28)#Type_3)** | A CB gun with a unique quirk - it's equipable by select CAs. Namely, the Deutschland-class and Prinz Heinrich - albeit that the 283mm's CA AP armour modifiers stand at odds with the Deutschland-class' niche of doing more damage to Light targets. Prinz Heinrich can theoretically make good use of the 283mm in shield-rich environments, but she performs just as well following the usual CA gun selection guidelines.
 
 ## Main Fleet (BB/BC/BM/BBV) Guns
 **About BB Guns:** Due to the burst-damage nature of battleship main guns, they're grouped together based on their expected reload speeds. The highest direct damage guns tend to have firing timers longer than 20s, while the fastest guns have firing timers shorter than 18s and are generally best suited for use on ships with powerful skills that proc on main gun fire. This leaves a select handful of guns that fall into the 18-20s band. These guns have the potential to outdamage the slower guns under the right circumstances, while also still being fast enough to function well on ships with proc-on-fire skills.<br/><br/>In general, battleships used for mob clearing will also prefer a gun with a faster rate of fire due to their damage output coming out more often and the tendency for higher damage guns to overkill mob units.
 
 **~20s** <br/>
 [![406mm Triple Mk7](/resources/Triple-406mm-Mk-7-gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(16%22/50_Mk_7))
-[![406mm Triple Mk6](/resources/406mm%20triple%20mk6%20gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_Mk_6)#Type_3)
+[![406mm Triple Mk6](/resources/Triple-406mm-Mk-6-gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(16%22/45_Mk_6)#Type_3)
 [![406mm Triple (Mle 1938)](/resources/406mm%20triple%20Mle%201938%20gr_s.png)](https://azurlane.koumakan.jp/Triple_406mm_(Mle_1938_Prototype))
 [![406mm Triple Model 1940 Prototype)](/resources/Triple-406-Model-1940-gr_a.png)](https://azurlane.koumakan.jp/Triple_406mm_(Model_1940_Prototype))
-[![pr381mm Triple](/resources/pr381mm%20triple%20gr_a.png)](https://azurlane.koumakan.jp/Triple_381mm_Prototype_(BL_15%22_Mk_III))
-[![380mm Quad](/resources/380mm%20quad%20gr_a.png)](https://azurlane.koumakan.jp/Quadruple_380mm_(Mle_1935)#Type_3)
-[![pr410mm Triple](/resources/pr410mm%20triple%20gr_a.png)](https://azurlane.koumakan.jp/Triple_410mm_Prototype_(10th_Year_Type))
-[![381mm M1934](/resources/381mm%20m1934%20gr_a.png)](https://azurlane.koumakan.jp/Triple_381mm_(Model_1934)#Type_3)
-[![356mm Quad](/resources/356mm%20quad%20gr_b.png)](https://azurlane.koumakan.jp/Quadruple_356mm_(BL_14%22_Mk_VII)#Type_3)
+[![pr381mm Triple](/resources/Triple-381mm-BL-Mk-III-gr_a.png)](https://azurlane.koumakan.jp/Triple_381mm_Prototype_(BL_15%22_Mk_III))
+[![380mm Quad](/resources/Quad-380mm-Mle-1935-gr_a.png)](https://azurlane.koumakan.jp/Quadruple_380mm_(Mle_1935)#Type_3)
+[![pr410mm Triple](/resources/Triple-410mm-10thY-gr_a.png)](https://azurlane.koumakan.jp/Triple_410mm_Prototype_(10th_Year_Type))
+[![381mm M1934](/resources/Triple-381mm-Model-1934-gr_a.png)](https://azurlane.koumakan.jp/Triple_381mm_(Model_1934)#Type_3)
+[![356mm Quad](/resources/Quad-356mm-BL-gr_b.png)](https://azurlane.koumakan.jp/Quadruple_356mm_(BL_14%22_Mk_VII)#Type_3)
 
 
  - **[Triple 406mm Mk7](https://azurlane.koumakan.jp/Triple_406mm_(16%22/50_Mk_7))** | The strongest BB HE gun in the game. If you need to employ the use of BB HE in taking out a Light boss and want to maximise your damage, this is your pick. Confers a larger FP boost than the Mk6 with shells that have a higher alpha while having a negligibly slower reload. 
