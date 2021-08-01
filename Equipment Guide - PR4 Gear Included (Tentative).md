@@ -61,10 +61,10 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![114mm Twin](/resources/114mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))
 [![120mm Twin MkXI](/resources/Twin-120-QF-Mk-XI-gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI)#Type_0)
 [![128mm Twin](/resources/Twin-128mm-gr_a.png)](https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41)
-[![100mm Twin](/resources/100mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)
-[![120mm Twin](/resources/120mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)
-[![127mm Twin](/resources/127mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38)#Type_3)
-[![127mm Single](/resources/127mm%20single%20gr_a.png)](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30)#Type_3)
+[![100mm Twin](/resources/Twin-100mm-Type-98-gr_a.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)
+[![120mm Twin](/resources/Twin-120mm-QF-Mk-XII-gr_a.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)
+[![127mm Twin](/resources/Twin-127mm-Mk-38-gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38)#Type_3)
+[![127mm Single](/resources/Single-127mm-Mk-30-gr_a.png)](https://azurlane.koumakan.jp/Single_127mm_(5%22/38_Mk30)#Type_3)
  
   - **[Single 138.6mm Mle1929](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3)** | Gives the highest FP boost possible from DD guns and has a very high volume of fire despite its long reload time. 
   - **[Twin 130mm B-2LM](https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3)** | Also gives the highest FP boost, has an even higher volume of fire and better shell characteristics despite the longer reload time when compared to the Single 138.6mm Mle1929. Due to its limited availability, there are better ships that might benefit from this gun more than using it as an auxiliary gun depending on the composition of the fleet in question.
