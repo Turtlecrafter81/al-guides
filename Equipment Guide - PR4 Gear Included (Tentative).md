@@ -263,16 +263,17 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![F7F Tigercat](/resources/F7F-Tigercat-gr_s.png)](https://azurlane.koumakan.jp/Grumman_F7F_Tigercat)
 [![Sea Hornet](/resources/Sea-Hornet-gr_s.png)](https://azurlane.koumakan.jp/De_Havilland_Sea_Hornet)
 [![Bf 109G](/resources/Bf-109G-gr_s.png)](https://azurlane.koumakan.jp/Messerschmitt_Bf_109G_(Carrier-based_Prototype))
-[![F4U Corsair (VF-17)](/resources/f4u%20corsair%20vf-17%20gr_s.png)](https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron))
-[![F6F Hellcat](/resources/f6f%20hellcat%20gr_s.png)](https://azurlane.koumakan.jp/Grumman_F6F_Hellcat#Type_3)
+[![F4U Corsair (VF-17)](/resources/jolly-roger-gr_s.png)](https://azurlane.koumakan.jp/Vought_F4U_Corsair_(VF-17_Squadron))
+[![F6F Hellcat](/resources/F6F-Hellcat-gr_s.png)](https://azurlane.koumakan.jp/Grumman_F6F_Hellcat#Type_3)
 [![Shiden Kai Ni](/resources/Shiden%20gr_s.png)](https://azurlane.koumakan.jp/Kawanishi_N1K3-A_Shiden_Kai_2)
-[![Sea Fury](/resources/sea%20fury%20gr_s.png)](https://azurlane.koumakan.jp/Hawker_Sea_Fury)
-[![Reppuu](/resources/reppuu%20gr_a.png)](https://azurlane.koumakan.jp/Mitsubishi_A7M_Reppuu#Type_3)
-[![Seafang](/resources/seafang%20gr_a.png)](https://azurlane.koumakan.jp/Supermarine_Seafang#Type_3)
-[![Me-155](/resources/me-155%20gr_b.png)](https://azurlane.koumakan.jp/Messerschmitt_Me-155A#Type_3)
+[![Sea Fury](/resources/sea-fury-gr_s.png)](https://azurlane.koumakan.jp/Hawker_Sea_Fury)
+[![Reppuu](/resources/Reppuu-gr_a.png)](https://azurlane.koumakan.jp/Mitsubishi_A7M_Reppuu#Type_3)
+[![Seafang](/resources/seafang-gr_a.png)](https://azurlane.koumakan.jp/Supermarine_Seafang#Type_3)
+[![F4U Corsair](/resources/F4U-Corsair-gr_a.png)](https://azurlane.koumakan.jp/Vought_F4U_Corsair#Type_3)
+[![Me-155](/resources/Me-155-gr_b.png)](https://azurlane.koumakan.jp/Messerschmitt_Me-155A#Type_3)
 [![Fw 190](/resources/Fw-190-gr_b.png)](https://azurlane.koumakan.jp/Focke-Wulf_Fw_190_A-5_(Carrier-based_Prototype))
 [![F8F Bearcat](/resources/F8F-Bearcat-gr_b.png)](https://azurlane.koumakan.jp/Grumman_F8F_Bearcat)
-[![Zero M52](/resources/zero%20m52%20gr_b.png)](https://azurlane.koumakan.jp/Mitsubishi_A6M5_Zero#Type_3)
+[![Zero M52](/resources/A6M5-Zero-gr_b.png)](https://azurlane.koumakan.jp/Mitsubishi_A6M5_Zero#Type_3)
 
 **About Fighters:** For fighters, their armaments are split into both their equipped AA guns and any payload that they may have. One will therefore need to look at a given plane's loadout to see what bombs, if any, it is equipped with. For general use, fighters with bomb payloads are preferred due to their ability to contribute surface damage to the fight. The vast majority of preferable fighters are equipped with either 2x 500lb bombs or 2x 1000lb bombs.
  
@@ -284,7 +285,8 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
  - **[Shiden Kai Ni](https://azurlane.koumakan.jp/Kawanishi_N1K3-A_Shiden_Kai_2)** | An upgraded Reppuu with improved anti-aircraft interception capability. So improved in fact, that its burst damage on launch is the highest of any gold fighter. However, it flies much too fast to make good use of its AA armament, causing it to fly off screen without staying long enough to fire its guns as often.
  - **[Hawker Sea Fury](https://azurlane.koumakan.jp/Hawker_Sea_Fury)** | Comparable interception to the Hellcat and reloads slightly faster. Its autocannons have a more narrow firing angle (meaning it might miss enemy planes off to its sides) and longer reload speed than the Hellcat's machine guns, but deal slightly increased burst damage. This, paired with the increased flying speed hamper its AA abilities, but its bomb payload matches any other 2x 500lb fighter. 
  - **[A7M Reppuu](https://azurlane.koumakan.jp/Mitsubishi_A7M_Reppuu#Type_3)** | A very fast (both in terms of flight speed and reload time) fighter. While its bomb loadout makes it perfectly serviceable for PvE, it has certain characteristics that make it predominantly worth using in PvP: its fast speed allows it to bait out enemy anti-air fire, and it deals high crash damage amongst its 2x 500lb payload-bearing peers. 
- - **[Supermarine Seafang](https://azurlane.koumakan.jp/Supermarine_Seafang#Type_3)** | The last gold rarity fighter with a 2x 500lb payload, and effectively a *marginally* weaker Hawker Sea Fury, albeit more accessible. While it's more than strong enough for general use, it falls behind the other listed planes in certain respects, making it only worth upgrading if lacking other gold rarity fighters.
+ - **[Supermarine Seafang](https://azurlane.koumakan.jp/Supermarine_Seafang#Type_3)** | The last gold rarity fighter with a 2x 500lb payload, and effectively a *marginally* weaker Hawker Sea Fury, albeit more accessible. More than capable for general use, albeit lacking in AA capabilities compared to the F6F Hellcat above.
+ - **[F4U Corsair](https://azurlane.koumakan.jp/Vought_F4U_Corsair#Type_3)** | The only purple rarity fighter with the coveted 2x 500lb bomb payload, and also the easiest to acquire of the whole lot. The go-to choice for every new player in need of fighters.
  - **[Me-155a](https://azurlane.koumakan.jp/Messerschmitt_Me-155A#Type_3)** | Has no bombs and therefore deals no surface damage, but is the second fastest fighter overall, the fastest gold rarity fighter, and has superior anti-air guns to the Hellcat. Potentially worth using when fighting enemies with heavy aviation presence, especially on carriers with weak fighter slots, but ill-advised on carriers with strong fighter slots who will generally benefit more from a fighter with a bomb payload.
  - **[Fw 190 A-5 (Carrier-based Prototype)](https://azurlane.koumakan.jp/Focke-Wulf_Fw_190_A-5_(Carrier-based_Prototype))** | A purple plane with the most hefty anti-aircraft gun ensemble found on any fighter. Like the Me-155 above, carries no bomb payload and therefore does no surface damage, and also has a signficantly slower reload time. Worth mentioning due to the relative ease of crafting and enhancing one, albeit that its use cases are still niche at best.
  - **[F8F Bearcat](https://azurlane.koumakan.jp/Grumman_F8F_Bearcat)** | **GEAR LAB EXCLUSIVE EQUIPMENT]** | Despite being an upgrade to the F6F Hellcat in the Gear Lab, this fighter's payload changes to a single 1000lb BC bomb that reduces its surface damage output compared to its predecessor. However, its significantly reduced reload time gives it some use as a reload tuning plane. Ill-advised for most setups due to the material costs involved in its fabrication; most players would be better off simply upgrading their F6F Hellcats to F7F Tigercats instead.
