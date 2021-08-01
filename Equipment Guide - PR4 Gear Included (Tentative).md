@@ -80,11 +80,11 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
  **Main Fleet Secondaries** <br/>
 [![128mm Twin](/resources/Twin-128mm-gr_s.png)](https://azurlane.koumakan.jp/Twin_128mm/45_SK_C/41)
 [![120mm Twin MkXI](/resources/Twin-120-QF-Mk-XI-gr_s.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XI)#Type_0)
- [![120mm Twin](/resources/120mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)
+ [![120mm Twin](/resources/Twin-120mm-QF-Mk-XII-gr_s.png)](https://azurlane.koumakan.jp/Twin_120mm_(QF_Mark_XII)#Type_3)
  [![130mm Twin](/resources/130mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_130mm_(B-2LM)#Type_3)
  [![114mm Twin](/resources/Twin-114mm-gr_a.png)](https://azurlane.koumakan.jp/Twin_114mm_(QF_Mk_IV_Prototype))
- [![127mm Twin](/resources/127mm%20twin%20gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38)#Type_3)
- [![100mm Twin](/resources/100mm%20twin%20gr_b.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)
+ [![127mm Twin](/resources/Twin-127mm-Mk-38-gr_a.png)](https://azurlane.koumakan.jp/Twin_127mm_(5%22/38_Mk38)#Type_3)
+ [![100mm Twin](/resources/Twin-100mm-Type-98-gr_b.png)](https://azurlane.koumakan.jp/Twin_100mm_(Type_98)#Type_3)
  [![138mm Single](/resources/138mm%20single%20gr_b.png)](https://azurlane.koumakan.jp/Single_138.6mm_(Mle_1929)#Type_3)
  
   **Preface about DD guns as Main Fleet Secondaries:** While DD guns can typically deal with solo suicide boats, their interception capability is much lower compared to CL guns - especially when attempting to intercept a high density of suicide boats coming in for your backline. DD guns have an inherently shorter range and lower alpha damage compared to CL guns, and the most valuable stats for interception are range and alpha damage. Consider using battleships that can mount CL secondary guns whenever suicide boats are an active concern.
