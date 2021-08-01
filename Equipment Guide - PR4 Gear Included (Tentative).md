@@ -214,9 +214,9 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
  - **[Twin 410mm (3rd Year Type)](https://azurlane.koumakan.jp/Twin_410mm_(3rd_Year_Type)#Type_3)** | A more readily accessible alternative to the Twin 406mm Drh LC/34. Nearly identical attributes, but a lower FP bonus thanks to its purple rarity and a negligibly slower fire rate.
 
 **<18s** <br/>
-[![pr381mm Twin Kai](/resources/pr381mm%20twin%20kai%20gr_s.png)](https://azurlane.koumakan.jp/Twin_381mm_(BL_15%22_Mk_II))
+[![pr381mm Twin Kai](/resources/Twin-381mm-BL-Mk-II-gr_s.png)](https://azurlane.koumakan.jp/Twin_381mm_(BL_15%22_Mk_II))
 [![305mm triple SKC39](/resources/305mm%20triple%20SKC39%20gr_a.png)](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)#BB_Variant)
-[![283mm Triple](/resources/283mm%20triple%20gr_b.png)](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/34)#Type_3)
+[![283mm Triple](/resources/Triple-283mm-SK-C28-gr_b.png)](https://azurlane.koumakan.jp/Triple_283mm_(SK_C/34)#Type_3)
 
  - **[Twin Prototype 381mm BL MkII](https://azurlane.koumakan.jp/Twin_381mm_(BL_15%22_Mk_II))** | The fastest firing BB HE main gun. It shines on ships with strong proc-on-fire skills but low efficiency and/or baseline FP stats, and in mob clearing fleets where gun damage isn't a concern.
  - **[Triple 305mm (SK C/39 Prototype)](https://azurlane.koumakan.jp/Triple_305mm_(SK_C/39_Prototype)#BB_Variant)** | The middle child between the Twin 381mm Prototype BL  and Twin Prototype 406mm Drh LC/34 in both reload time and alpha damage per volley. It has low alpha damage per shell which makes its burn damage lower than the other two, is slower than the Twin 381mm BL but also doesn’t hit as hard as the Twin 406mm Drh, making it rarely better than either gun. Nevertheless, it has its niche in situations where the increased spread of the triple pattern is desired, in the absence of the other two choices, or on a barrage boat that is not going to be your fire starter.
@@ -229,12 +229,12 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![533mm Quint Mk IX](/resources/Quint-533mm-Mk-IX-gr_s.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_IX)
 [![533mm Quint Mk 17](/resources/Quint-533mm-Mk-17-gr_s.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_17)
 [![610mm Quad Kai](/resources/Quad-610mm-Kai-gr_s.png)](https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount_Kai)
-[![533mm Quint](/resources/533mm%20quint%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3)
-[![610mm Quad](/resources/610mm%20quad%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3)
-[![533mm Quint Homing](/resources/533mm%20quint%20homing%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Homing_Torpedo_Mount#Type_3)
-[![533mm Quad](/resources/533mm%20quad%20torpedoes%20gr_a.png)](https://azurlane.koumakan.jp/533mm_Quadruple_Torpedo_Mount#Type_3)
-[![533mm Quad Homing](/resources/533mm%20quad%20homing%20torpedoes%20gr_a.png)](https://azurlane.koumakan.jp/533mm_Quadruple_Homing_Torpedo_Mount#Type_3)
-[![550mm Triple](/resources/550mm%20triple%20torpedoes%20gr_b.png)](https://azurlane.koumakan.jp/550mm_Triple_Torpedo_Launcher#Type_3)
+[![533mm Quint](/resources/Quad-533mm-gr_a.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount#Type_3)
+[![610mm Quad](/resources/Quad-610mm-gr_a.png)](https://azurlane.koumakan.jp/610mm_Quadruple_Torpedo_Mount#Type_3)
+[![533mm Quint Homing](/resources/Quint-533mm-Homing-gr_s.png)](https://azurlane.koumakan.jp/533mm_Quintuple_Homing_Torpedo_Mount#Type_3)
+[![533mm Quad](/resources/Quad-533mm-gr_a.png)](https://azurlane.koumakan.jp/533mm_Quadruple_Torpedo_Mount#Type_3)
+[![533mm Quad Homing](/resources/Quad-533mm-Homing-gr_a.png)](https://azurlane.koumakan.jp/533mm_Quadruple_Homing_Torpedo_Mount#Type_3)
+[![550mm Triple](/resources/Triple-550mm-gr_b.png)](https://azurlane.koumakan.jp/550mm_Triple_Torpedo_Launcher#Type_3)
 
  - **[533mm Quintuple Torpedo Mount Mk IX](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_IX)** | **[GEAR LAB EXCLUSIVE EQUIPMENT]** By far the best torpedoes for manual play due to its unique linear launch pattern.  This allows for torpedoes to be launched at range and still reliably land on target, a feat no other torpedo launcher can match. It also lays claim to the highest total damage per torpedo spread amongst all torpedoes. Highly recommended.
  - **[533mm Quintuple Torpedo Mount Mk 17](https://azurlane.koumakan.jp/533mm_Quintuple_Torpedo_Mount_Mk_17)** | **[GEAR LAB EXCLUSIVE EQUIPMENT]** A direct upgrade to everything the standard 533mm Quintuple Torpedo offers - slightly more damage per torp and a reload that's a fraction of a second faster. Inexpensive to craft material-wise as well, and is considered an Eagle Union equipment which can prove useful for ships that require factional equipment for skills.
@@ -248,16 +248,14 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 
 **Submarine Torpedoes** <br/>
 [![Mk 20S Bidder Torpedoes](/resources/Mk-20S-Bidder-gr_s.png)](https://azurlane.koumakan.jp/Submarine-mounted_Mark_20S_%22Bidder%22_Torpedo)
-[![G7e Acoustic Torpedoes](/resources/g7e%20acoustic%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/Submarine-mounted_G7e_Acoustic_Homing_Torpedo#Type_3)
-[![Mk16 Torpedoes](/resources/mk16%20torpedoes%20gr_s.png)](https://azurlane.koumakan.jp/Submarine-mounted_Mark_16_Torpedo#Type_3)
-[![T95 Oxygen Torpedoes](/resources/t95%20oxygen%20torpedoes%20gr_a.png)](https://azurlane.koumakan.jp/Submarine-mounted_Type_95_Oxygen_Torpedo#Type_3)
+[![G7e Acoustic Torpedoes](/resources/G7e-SUB-gr_s.png)](https://azurlane.koumakan.jp/Submarine-mounted_G7e_Acoustic_Homing_Torpedo#Type_3)
+[![Mk16 Torpedoes](/resources/Mark-16-SUB-gr_a.png)](https://azurlane.koumakan.jp/Submarine-mounted_Mark_16_Torpedo#Type_3)
 
 **About Submarine Torpedoes:** As all submarine torpedo launchers in this list are the same rarity with the same stat bonus, they contribute the same amount to a submarine's combat power rating which is the primary factor in the potency of roaming submarines' HP reduction effect. As such, the difference between the these torpedoes are only relevant when planning to call submarines into live combat - in which case, the homing effect of Bidder and G7e torpedoes make them much more reliable than alternatives despite the comparatively low alpha damage.
 
  - **[Submarine-mounted Mark 20S "Bidder" Torpedo](https://azurlane.koumakan.jp/Submarine-mounted_Mark_20S_%22Bidder%22_Torpedo)** | **GEAR LAB EXCLUSIVE EQUIPMENT]** These submarine torpedoes fire three torpedoes per reload cycle, and therefore only require 1 reload cycle to match the torpedo output of 2 G7e reload cycles. As such, they have a significantly lower OXY and RLD requirement and come with a homing effect (albeit weaker than the G7e's). Highly recommended, only hampered by the required prerequisite torpedo (Mark VIII) being locked behind SOS Map Drops and Submarine Weekly Missions. 
  - **[G7e Acoustic Homing Torpedoes](https://azurlane.koumakan.jp/Submarine-mounted_G7e_Acoustic_Homing_Torpedo#Type_3)** | Have a similar homing effect to their fellow Iron Blood surface counterparts, but still deal competitive damage while reloading faster than most other viable submarine torpedoes. Given the linear, targeted nature of submarine-launched torpedoes, the homing effect of G7e torpedoes gives them the best overall reliability.
  - **[Submarine Mounted Mk16 Torpedoes](https://azurlane.koumakan.jp/Submarine-mounted_Mark_16_Torpedo#Type_3)** | Have the longest reload speed, but also launch three torpedoes per volley instead of two, and have the highest base torpedo damage. Mk16 torpedoes would be the best choice against stationary targets, but they generally require submarines to have extended combat time in order to offset their long reload time.
- - **[Submarine Type 95 Oxygen Torpedoes](https://azurlane.koumakan.jp/Submarine-mounted_Type_95_Oxygen_Torpedo#Type_3)** | Offer slightly increased damage compared to the G7e, but trade the homing effect for drastically increased torpedo velocity. Overall, this does less to assist torpedo accuracy than the homing effect, and the difference in velocity between T95 torpedoes and other submarine torpedoes can cause issues with torpedo targeting that cut harshly into damage dealt.
 
 ## Carrier (CV/CVL) Aircraft
 
