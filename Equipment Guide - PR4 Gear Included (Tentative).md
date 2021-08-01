@@ -136,15 +136,15 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 **Vanguard Primary Guns** <br/>
 [![pr234mm triple](/resources/234mm%20triple%20gr_s.png)](https://azurlane.koumakan.jp/Triple_234mm_(BL_9.2%22_Mk_XII_Prototype))
 [![pr234mm twin](/resources/234mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/Twin_234mm_(BL_9.2%22_Mk_XII_Prototype))
-[![pr203mm Triple SKC](/resources/pr203mm%20triple%20skc%20gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(SK_C/34))
+[![pr203mm Triple SKC](/resources/Triple-203mm-SK-C34-gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(SK_C/34))
 [![gl203mm Triple SHS](/resources/Triple-203mm-SHS-gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_(8%22/55_Mk_15_SHS))
-[![203mm Twin M1927](/resources/203mm%20m1927%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_(Model_1927)#Type_3)
-[![203mm Twin Mle1924](/resources/203mm%201924%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_(Mle_1924)#Type_3)
+[![203mm Twin M1927](/resources/Twin-203mm-Model-1927-gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_(Model_1927)#Type_3)
+[![203mm Twin Mle1924](/resources/Triple-203mm-Mle-1934-gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_(Mle_1924)#Type_3)
 [![203mm Triple BL Mk IX](/resources/Triple-203mm-BL-Mk-IX-gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_(BL_Mk_IX_Prototype))
 [![pr203mm Triple HE](/resources/pr203mm%20triple%20he%20gr_s.png)](https://azurlane.koumakan.jp/Triple_203mm_Prototype_(Mle_1934))
-[![pr203mm Mounted no.3](/resources/pr203mm%20mounted%20no3%20gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_Prototype_(No._3))
-[![203mm Mounted](/resources/203mm%20mounted%20gr_a.png)](https://azurlane.koumakan.jp/Twin_203mm_(3rd_Year_Type)#Type_3)
-[![203mm Twin SKC](/resources/203mm%20twin%20skc%20gr_a.png)](https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34)#Type_3)
+[![pr203mm Mounted no.3](/resources/Twin-203mm-No-3-gr_s.png)](https://azurlane.koumakan.jp/Twin_203mm_Prototype_(No._3))
+[![203mm Mounted](/resources/Twin-203mm-3rdY-gr_a.png)](https://azurlane.koumakan.jp/Twin_203mm_(3rd_Year_Type)#Type_3)
+[![203mm Twin SKC](/resources/Twin-203mm-SK-C34-gr_a.png)](https://azurlane.koumakan.jp/Twin_203mm_(SK_C/34)#Type_3)
 
 **Preface about CA guns:** Unlike other vanguard calibre guns where no one ammo type is strictly superior (or if one appears to be superior it's due to characteristics aside from ammo type), the armour modifiers on CA guns are drastically different across the various ammo types. Enough to warrant the use of different guns when engaging Light, Medium or Heavy targets, or a mix of all three. Note that evey CA gun in the game has a large deadzone regardless of the ammo type being used - there's a known, significant tendency for shells to despawn before reaching targets at the extremeties of CA guns' acquisition range.
 
