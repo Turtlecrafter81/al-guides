@@ -1,10 +1,10 @@
 # Operation Siren Guide
 
-A massive new game mode has just been introduced, this is a basic beginner guide for people who skimmed through the tutorial along with some quick advices/basic answers from someone who no-lifed this coupled with info from other no-lifers. Please be patient while this gets updated.
+A new game mode different to the usual stage formats found in the game's story (World) and event stages, Operation Siren (OpSi) is the newest addition to Azur Lane in terms of gameplay content. This is a basic guide for players who've skimmed through the tutorial along with some advise and answers that the playerbase has collectively gained with time since the game mode's implementation.
 
 
-## Table of content:
-- [TL;DR and Tips](#faq-and-tldrmost-important-advices)
+## Table of Contents:
+- [FAQ & Tips](#faq-&-tldr)
 - [General Gameplay](#general-gameplay)
 - [Overworld Map](#overworld-map)
 - [Shop Guide](#shop-guide)
@@ -13,9 +13,9 @@ A massive new game mode has just been introduced, this is a basic beginner guide
 - [Treasure Map](#obscured-zonefractured-seatreasure-map-yellow-chests-on-map)
 - [Ashes Showdown](#ashes-showdown)
 
-## FAQ and TL;DR/Most important advices:
-- **READ THE TUTORIAL**. A lot of questions are answered in the tutorial, remember it, the game won't repeat it.
-- **__PAY ATTENTION WHEN SETTING UP YOUR 1ST 2 FLEETS__**. Use your **Strongest** ships AND cats, current equipped gears doesn't matter, you can change after and it will apply.  My personal ideal clear comp is one fleet is Richi JB Percy and a torp front line (Naganami Noshiro Jintsuu) and this will solve almost all your mob fights. And the other is triple CVs, tanky high gun damage CA. This will be with you until you unlock 4 fleets which is about an hour of story maps. Which leads me to my next point.
+## FAQ & TL;DR:
+- **READ THE TUTORIAL**. A lot of questions are answered in the tutorial, remember it, the game won't repeat it. 
+- **__PAY ATTENTION WHEN SETTING UP YOUR 1ST 2 FLEETS__**. Use your **Strongest** ships AND cats, equipped gears don't matter. You can change gear on any ship anytime when they're deployed within OpSi.  My personal ideal clear comp is one fleet is Richi JB Percy and a torp front line (Naganami Noshiro Jintsuu) and this will solve almost all your mob fights. And the other is triple CVs, tanky high gun damage CA. This will be with you until you unlock 4 fleets which is about an hour of story maps. Which leads me to my next point.
 - **__DO STORY UNTIL YOU UNLOCK 4 FLEETS__**: This fleet change is mandatory if you want to exit the port. This is where your 1st free fleet change comes in. Changing fleets and cats cost a lot of AP, up to 100 AP each. The cost get reduced down to 0 over time but it takes roughly 24 hours for it. My personal recommendation is as before, while your fleet 3 and 4 should be mimicking fleet 2 in a sense that it has 2 out of 3 damage type (Shelling/Torp/Plane) to counter the bosses.
 - **"Everything is so confusing, what do?"** This is content that is permanent for the most part (the META ships are seasonal). Don't worry too much. But it will take a lot of time and consistent game time to grind. AP has a soft cap of 200, regen 1 point per 10 mins.
 - **Do story, seriously I'm not joking, do it, a lot of content is gated behind story**. The story marker are the red exclamation mark on the map. Why I say this is because story regions rewards a lot of adaptive stat allowing you to fight on par and above par against higher level enemies. If you are not end-game or fucked up your fleet set up, don't stray from the path cause high AP entry maps are hard, like W12/W13 lethal level of hard and entering cost AP. When you reached end of chapter 1 and the game ask you to clear some more regions, do only low star regions if your fleets aren't strong (the more AP it cost the higher the star level is). Moreover, story unlocks essential daily/weekly rewards such as missions and strongholds as well as a bigger playing area.
