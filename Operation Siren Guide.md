@@ -4,7 +4,7 @@ A new game mode different to the usual stage formats found in the game's story (
 
 
 ## Table of Contents:
-- [FAQ & Tips](#faq-&-tldr)
+- [FAQ & Tips](#faq-and-tips)
 - [General Gameplay](#general-gameplay)
 - [Overworld Map](#overworld-map)
 - [Shop Guide](#shop-guide)
@@ -13,7 +13,7 @@ A new game mode different to the usual stage formats found in the game's story (
 - [Treasure Map](#obscured-zonefractured-seatreasure-map-yellow-chests-on-map)
 - [Ashes Showdown](#ashes-showdown)
 
-## FAQ & TL;DR:
+## FAQ and Tips:
 - **READ THE TUTORIAL**. A lot of questions are answered in the tutorial, remember it, the game won't repeat it. 
 - **__PAY ATTENTION WHEN SETTING UP YOUR 1ST 2 FLEETS__**. Use your **Strongest** ships AND cats, equipped gears don't matter. You can change gear on any ship anytime when they're deployed within OpSi.  My personal ideal clear comp is one fleet is Richi JB Percy and a torp front line (Naganami Noshiro Jintsuu) and this will solve almost all your mob fights. And the other is triple CVs, tanky high gun damage CA. This will be with you until you unlock 4 fleets which is about an hour of story maps. Which leads me to my next point.
 - **__DO STORY UNTIL YOU UNLOCK 4 FLEETS__**: This fleet change is mandatory if you want to exit the port. This is where your 1st free fleet change comes in. Changing fleets and cats cost a lot of AP, up to 100 AP each. The cost get reduced down to 0 over time but it takes roughly 24 hours for it. My personal recommendation is as before, while your fleet 3 and 4 should be mimicking fleet 2 in a sense that it has 2 out of 3 damage type (Shelling/Torp/Plane) to counter the bosses.
