@@ -22,6 +22,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - **Do the story missions. Seriously, I'm not joking. Do it, a lot of content is gated behind clearing the story missions.** The story markers are the **red exclamation marks** on the map. Story regions reward a lot of adaptive stats, allowing you to fight on and above par even against higher level enemies in OpSi. If you are not end-game or messed up your initial fleet set up, don't stray from the path highlighted by the story markers since high AP entry maps are hard, similar to W12/W13 on Lethal. When you reach the end of Chapter 1 and the game asks you to clear some more regions, do only low star regions if your fleets aren't strong (the higher the Corrosion Level/AP cost, the more difficult the region). Moreover, completing story chapters unlocks Daily Missions and Siren Strongholds.
 - **Restart (A.K.A leaving and retrying) battles liberally.** There's no morale or oil cost, meaning that there's no downside to retrying fights. If you missed your preloaded torpedoes on a difficult BB boss and it nearly burns your flagship down, or your vanguard ships start sinking during an Abyssal Zone fight, just restart before your flagship or vanguard sink entirely. Better to live to try again than to sink and have damaged ships you can't make use of.
 - **"How do I get out of a region once I've finished clearing it?"** - Click anywhere outside of the map grid to go to the overworld map view. (The back button is a quick way to get to the overworld map view but won't exit your fleets from the current region.)
+- ***"How do I access a regular region? There's a Stronghold/Abyssal/Hidden Zone on it!"*** - Tap on the region, on the bottom left of the descriptive pop-up is a "Change Zone" button. Use that to access whichever zone you want to.
 - **"How do I change my fleet compositions and meowfficers?"** - You will need to go to Order (on the radar on the right of the screen) -> Fleet Redeployment to change your fleet and meoiwfficers. **You may only do so when your fleets are within an Allied (BLUE) Port.**
 - **"What to buy with Supply Coins, Supply Tokens and Energy Storage Devices?"** - Refer to the [Shop Guide](#Shop-Guide). But TL;DR: Buying anything that costs coins (the yellow currency) is mostly fine. Buy adaptive tuning samples if you are below 188/188/144. Only buy Gold and Rainbow Plates, Gear Designs and Coordinates with Supply Tokens (purple currency). Coins and Tokens will be exchanged for exchange shop vouchers on the 1<sup>st</sup> of every month. **This monthly reset will also reset your Adaptation stat gains, but star rewards for each region will be kept constant.**
 - **"Is {current META ship} permanent?"** - No, she is not. Every META ship is available to obtain for a seasonal time period of about 90 days, after which point she will be replaced by another META ship. The devs have mentioned that every META ship will eventually be made permanently obtainable in some form, but we don't know when or how. 
@@ -38,8 +39,8 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
    - You swap between fleets either by tapping the fleet you want to move, or by using the "FLEET" button in the bottom left. It lets you choose between your 4 fleets simultaneously.
    - Order Button: found on the radar on the right side of the screen. All Orders (Fleet Deployment, Regroup and Rest, Request Recon, Submarine Support) all cost AP. Change fleet costs up to 99 AP, and slowly drains to 0 over 24 hrs. Regroup and Rest costs a static 50 and has a cooldown of 8 hrs between uses. Request Recon costs up to 10 AP and drains to 0 over 30 mins. Submarine Support costs up to 39 AP and reset to 0 over 1 hr.
    - Scanning Mode: A toggleable viewmode crucial to locate hidden caches and scan loot tiles. More details will be given in the Tile section below.
-- Upon Sinking: Any sunk ships will be revived with 10% of their HP and given the "Toll of War" debuff (Red wrench icon on the status bar on the left). This disables **ALL** skills for the sunken ship and can only be removed by using the Regroup and Rest or Fleet Deployment Orders in the Order tab or by repairing your ships in an Allied port. ***Healing a ship to full with repair kits will not remove the debuff.***
-- Losing in combat: Most major boss fights (Abyss and Stronghold) are multi-staged, meaning the damage you dealt will remain. When a fleet loses in combat (via timing out, flagship sinking or all vanguard ships sinking), it is given the "Low Resolve X" debuff (This debuff has 3 stackable levels) indicated by a cracked triangle - the more broken it is the stronger the debuff effect. Low resolve lowers FP, TRP, ASW, AVI, AA and EVA by 10% for Level I, 30% for Level II and 60% for Level III. Low Resolve can be removed by winning battles - **battles won by other fleets it also count** - or by using the Regroup and Rest or Fleet Deployment Orders. These are crucial for Abyssal Zone fights if your fleets are struggling. **Note that "Low Resolve X" debuffs will not be removed by repairing in an Allied port.**
+- **Upon Sinking**: Any sunk ships will be revived with 10% of their HP and given the "Toll of War" debuff (Red wrench icon on the status bar on the left). This disables **ALL** skills for the sunken ship and can only be removed by using the Regroup and Rest or Fleet Deployment Orders in the Order tab or by repairing your ships in an Allied port. ***Healing a ship to full with repair kits will not remove the debuff.***
+- **Losing in combat**: Most major boss fights (Abyss and Stronghold) are multi-staged, meaning the damage you dealt will remain. When a fleet loses in combat (via timing out, flagship sinking or all vanguard ships sinking), it is given the "Low Resolve X" debuff (This debuff has 3 stackable levels) indicated by a cracked triangle - the more broken it is the stronger the debuff effect. Low resolve lowers FP, TRP, ASW, AVI, AA and EVA by 10% for Level I, 30% for Level II and 60% for Level III. Low Resolve can be removed by winning battles - **battles won by other fleets it also count** - or by using the Regroup and Rest or Fleet Deployment Orders. These are crucial for Abyssal Zone fights if your fleets are struggling. **Note that "Low Resolve X" debuffs will not be removed by repairing in an Allied port.**
 - You can change your fleets and meowfficers by tapping on the Order button (on the Radar to the right) then Fleet Deployment. **You can only use this when inside an Allied port map.**
 - Don't be afraid of retreating or restarting, you don't have morale or oil cost to worry about, restart as much as you want to get the outcome that you want. Also **AVOID** allowing your ships to sink in Abyssal Zones - your fleets can still recover from the "Low Resolve III" debuff that's inflicted upon a loss by taking out a generic enemy node inside an Abyssal Zone, but you cannot recover from the "Tolls of War" debuff without using Rest and Regroup lest you want to give up on the boss. Remember, you cannot leave and return to an Abyssal Zone, make your one shot count.
 
@@ -53,59 +54,66 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 
 ## Overworld Map
 
-- Ports: currently 4 ports are important (they are all blue colored: NYC, Liverpool, Gibraltar, St. Pete), they have their own shop that refresh every 3 days and have daily missions **after you finished story**. It is recommended to unlock all of them after you finish story ASAP. 
-- Comprises of regions which cost AP to enter (story regions has red exclamation mark on it cost 0 AP to enter and 0 AP to scan if they allow you). After clearing the story region, the game will force you to enter and clear the region normally and cost AP appropriately.
+- **Ports**: Currently 4 ports are important (they are all Allied, blue coloured ports: NY City, Liverpool, Gibraltar and St. Petersburg). They have their own shops that refresh every 3 days. 2 of the ports will have Daily Missions posted **after you've finished the OpSi story (Chapter 4)**. It is recommended to unlock access to all 4 ports ASAP - you can return to the ports anytime once you've ventured to them at least once, even after a monthly reset. 
+- The overworld map is comprised of regions which cost AP to enter (story regions have red exclamation marks, cost 0 AP to enter and 0 AP to scan if allowed to do so). After clearing a story region, the game will force you to enter and clear the region normally - this comes with the associated AP cost for the region.
 - Explanations of on screen markers:
-   - Red exclamation marks: Main story markers, follow this until you finish the story. Finishing story (4-6) will unlock daily missions and weekly strongholds. More details are in the [Story Guide section](#story-guide)
-   - Green clipboards = Puzzle Portals and Daily Quest markers (any side missions that show up in the Information tab will be marked as such)
-   - Yellow chests = Fracture Sea/Obscured Zone/Treasure Map from blue coordinates in storage (alternate zone that will have you clear some rally points for loot, using the teleporter will move you back to the region b4 you enter)
-   - Gold coin icon = just rewards markers for AP chest/healing boxes/coins (mostly shown as rewards for regions you haven't controlled)
-   - Blue Hexagon icon = respective Adaptive stat boost, click on it to see details on which stat if you aren't familiar with adaptive stat icon(shown as rewards for regions you haven't controlled)
-   - Red boss icon = One time entry Abyssal Zones from Red coordinates. If you leave after unlocking the gate to spawn the boss, the boss will disappear. Can drops high quality loot (up to rainbow mats). Detailed description is in the [Abyss Zone section](#abyssal-zones)
-   - Swirling Abyss = Strongholds (level 128 enemies with 144/144/144 stat) cost 100 AP ONCE to enter and can be retreated freely for repairs. Only spawn after finishing story. Can drops high quality loot (rainbow mats).
+   - Red exclamation marks: Main story markers, follow this until you finish the story. Finishing story (Chapter 4) will unlock Daily Missions and access to Strongholds. More details are in the [Story Guide section](#story-guide)
+   - Green clipboards = Puzzle Portals and Daily Quest markers (any side missions that show up in the Information tab will be marked as such).
+   - Yellow chests = Hidden Zone (A.K.A. Treasure Map, or Fractured Sea) are from activated Coordinate Loggers in your storage. These are alternate zones that will have you clear some rally points (tiles with red sparks) and rewards you with loot. Using the teleporter or EXIT button will move you back to the region your ships were in before you entered the Hidden Zone, but you cannot return upon exiting.
+   - Gold coin icon = Rewards markers for AP chest/repair kits/Supply Coins (shown as rewards for regions you have yet to clear for the first time).
+   - Blue Hexagon icon = Respective Adaptive Tuning stat boost, click on it to see details on which stat if you aren't familiar with adaptive stat icon (shown as rewards for regions you have yet to clear for the first time).
+   - Red boss icon = One-time entry Abyssal Zones from Siren Coordinate Loggers (not to be confused with regular Coordinate Loggers, these Siren ones are red). If you leave after entering the Abyssal Zone, the region disappears entirely regardless of whether you've defeated the Siren boss within. Drops high quality loot (up to Rainbow rarity materials). Detailed description is in the [Abyssal Zone section](#abyssal-zones).
+   - Big Red Swirl = Strongholds (Level 124 - 128 enemies with 144/144/144 stat are found within, a **one-time 200 AP** cost is required to enter, but you can leave and re-enter freely for repairs at an Allied port. Only spawn after finishing story, can drop high quality loot (Rainbow materials).
 
 ## Shop Guide:
-- There are 3 main currency: Supply Coins, Item Tokens and Energy Storage Device (ESDs). Tokens and ESDs are used in some events.
-- Akashi shop (random event in region maps) sells the following:
-   - Tokens packs: for coins. Buy these always.
-   - AP boxes: for coins. Buy these if you want to grind more. Highly recommended but not mandatory since they do not get converted to vouchers.
-   - Healing kits: for coins. Don't buy these if you aren't short on it, mostly not needed since you get more than enough of it from drops. They also don't get converted to vouchers
-   - Tuning samples: increases their respective stat for ESDs. Only buy when below the Adaptive stat break point above (200/200/150)
-- Port shops (refresh every 3 days, all 4 ports share the same 150 items pool that are fixed every cycle):
-   - Plates: Rainbow and Gold plates for Tokens. Buy these always. **(Highest Priority)**
-   - Gold and Rainbow Design blueprints for Tokens. Buy these always. **(Highest Priority)**
-   - Blue and Red Coordinates for Tokens. Blue leads to Obscured Zone/Treasure Maps. Red leads to Abyssal Zone. Buy these always. Rainbow colored Coords leads to C6 Abyss zones which drop high tier quality loot which are **Highest Priority** should the player are able to clear it (the boss is level 128).
-   - Tokens packs: for coins. Buy these if short of tokens. You get more than enough if you do your strongholds consistently.
-   - AP boxes: for coins. Buy these if you want to grind more.
-   - Tuning samples: for Tokens/Coins. Buy only when below 200/200/150.
-   - The 4 META ship enhancement materials: Ignore these are fine. Only buy if you are swimming in Tokens/Coins. It helps for enhancing META ships but you 
-   - ESDs for tokens: buy if you are really short on them to do random events. Bad conversion rate to vouchers so keep about 5-8 in storage is good enough since you will drop more eventually.
-   - Gear materials: Skip blue and purple, you'll be swimming in it soon enough. **Buy gold gear mat boxes are medium-high priority since some mats are heavily used (Gold Electronics)**.
+- There are 3 main currency: Supply Coins, Special Item Tokens and Energy Storage Devices (ESDs). Tokens and ESDs are used in some mini-events.
+- Akashi's Shop (random spawn in region maps) sells the following:
+   - Special Item Token packs: cost Supply Coins. Buy these always - Akashi sells them at a discounted rate compared to the port shops that results in a net gain in voucher value.
+   - AP boxes: cost Supply Coins. Buy these if you want to grind more. Highly recommended but not mandatory since they do not get converted to vouchers.
+   - Repair kits: cost Supply Coins. Don't buy these if you don't need them, mostly not needed since you get more than enough of it from region clear rewards and drops. They also don't get converted to vouchers.
+   - Tuning samples: cost ESDs. Increases their respective stat, buy when you need more Adaptive Tuning stat. Remember: it caps at (188/188/144).
+- Port shops (refresh every 3 days, all 4 ports draw from the same 150 item pool every reset. **Buy whatever you can afford to** - it'll increase the odds of better items rotating into a shop after the 3 day reset period).
+   - Rainbow and Gold plates: cost Tokens. Buy these always. **(Highest Priority)**
+   - Gold and Rainbow Design blueprints: cost Tokens. Buy these always. **(Highest Priority)**
+   - Regular Coordinate Loggers and Siren Coordinate Loggers: cost Tokens. Regular loggers lead to Hidden Zones while the Siren Coordinate Loggers lead to Abyssal Zones. Buy these always. Rainbow rarity Siren Coordinate Loggers lead to C6 Abyss zones which can drop Rainbow rarity loot which are **Highest Priority** should the player are able to clear it (the boss is level 128).
+   - Special Item Token packs: cost Supply Coins. Buy these if short of Tokens. You get more than enough if you do your Strongholds consistently.
+   - AP boxes: cost Supply Coins. Buy these if you want to grind more.
+   - Tuning Samples: cost Tokens/Supply Coins. Buy only when below 188/188/144 Adaptive Tuning stats.
+   - The 4 META ship enhancement materials: cost Tokens. Buy if you are swimming in Tokens, helps for enhancing META ships but you'll gain enough if you're consistent about earning Sync Points for a given META ship's season.
+   - ESDs: buy if you are really short on them to do random events, and to remove items from the pool to allow better items to rotate in.
+   - Gear materials: Skip blue and purple, you'll be swimming in those materials. **Buy gold material boxes, these are medium-high priority since some materials are heavily used in the Gear Lab, e.g. Military-Grade Electronic Components)**.
    
 ## Regional Map
 
-- Think of it as normal maps in every chapter in main campaign (and AP as the 10 oil cost to enter). Region's difficulty is based on star/corrosion level which scale up the AP cost (80 AP region has level 114 mobs and 118 boss, 60 AP has level 103-104, 108 boss. Abyss cost up to 60/80/100 AP and spawn 102/114/120 boss, Stronghold cost 200 AP fixed and have 122 mobs to 128 boss)
-- Every fleet has their movement restricted in turns (much like event maps where you have limited movement tiles). Same concept here but turns actually have an effect on the map. The map is semi-dynamic in that mobs might spawn in over time (like in Obscured Zone), cat salvages overtime (10 turns), discovering elite fleets (enhanced enemies with modules and more drops as well as spawn a random event when defeated) when you meet them on the map.
-- Recon reveal the entire map so scanning mode will reveal hidden cache/read cache descriptions easier.
-- Retreating from a region requires a fleet at the edge of the map if you haven't cleared it. If you have, just click outside.
-- The hardest currently available regions are: Strongholds and High Corrosion 6 Abyss Coordinates.
-- Strongholds reset once a week (likely monday) to a cap of 3, they have level 128 bosses and mobs which can be hard if under adaptive stats.
-- Abyssal zones spawn when using Coordinates Loggers in Storage. Can have multi-stage bosses (ranging from 108 to 120) who will show a weakness after a certain hp threshold.
-- Reinforcements (colored blue rather than red) drops no exp or loot.
+- Think of these regions in OpSi as normal maps in every chapter in the main story campaign (and AP as the 10 oil cost to enter). A region's difficulty is based on its corrosion level, the AP cost for which scales accordingly. 
+	- 80 AP to enter a C6 region with level 114 mobs and 118 boss, 60 AP to enter a C5 region with level 103-104 mobs and level 108 boss. 
+	- Abyssal Zones cost 60/80/100 AP for C4, C5 and C6 respectively and spawn a level 102/114/120 Siren boss.
+	- Strongholds cost 200 AP and have level 122-124 mobs with level 128 boss.
+- Every fleet has their movement restricted in turns of **3 tiles per turn regardless of the fleet's average speed**. This is similar to event maps where you have limited movement tiles per turn - the same concept applies here, but turns actually have an effect on the map. The map is semi-dynamic in that mobs might spawn in over time (for Hidden Zones and when Reinforcement Beacons spawn in some regions on the first clear), meowfficer nodes only advance their salvage process after a turn (up to 10 turns), and some Elite Siren nodes will chase your fleets every 3 turns.
+- The Request Recon Order reveals the entire map and allow Auto-Search to work untethered, and Scanning mode will reveal hidden caches and allow you to read cache descriptions to identify ambushes.
+- Retreating from a region requires you to click outside of the map grid.
+- The hardest currently available regions are Strongholds and Corrosion 6 Abyssal Zones.
+- **2** Strongholds spawn on the monthly reset and **1** spawns once a week (on reset going from Sunday to Monday). Up to 3 are displayed at any one time. They have level 128 bosses and level 124 mobs which can be hard if your fleets are poorly equipped and/or underlevelled, or if you lack Adaptive Tuning stats. 
+	- **Note: While a maximum of 3 Strongholds can be simultaneously shown on the overworld map, each weekly reset brings one additional Stronghold spawn. If the player has 3 Strongholds still left uncleared, this spawn is "stocked". Once there are less than 3 Strongholds active on the map, logging out and back into the game will cause the stocked Stronghold to spawn.** It's unknown if this is intentional, but independent testing has shown that you can stock as many Stronghold spawns in a given month as you want to **within a given month**. On monthly reset, all stocked Strongholds are wiped and 2 Strongholds are spawned as mentioned above.
+- Abyssal Zones spawn when you have activated Siren Coordinate Loggers in your Storage. These zones have multi-stage bosses (ranging from level 108 to 120) who will show a weakness to a specific damage type after being engaged once (e.g. taking 30% increased damage from shelling). Every subsequent engagement has a percentage chance of increasing the percentage of the exploitable weakness.
+- Reinforcements (coloured blue rather than red) drop no EXO nor loot.
 
 ## Map stars
-- Each map has 5 stars you can get. Star 4 and 5 are for now "???" meaning the condition is hidden, you will see what it is when you get stars 3 and 4 respectively.
-- Press information -> exploration progress to show the  objectives for the current area. 3 objectives are revealed on the first time you enter an area.
-- Star rewards can be claimed at ports. (there are 75 regions so dw about rushing this content)
-- Some starring requirement are RNG. Most notable are Promoted Pawns spawn, Logger random event and Anomaly Weather node.
-- [Here's the wiki table of all starring requirements and their respective rewards](https://azurlane.koumakan.jp/Operation_Siren_Exploration)
-- Starring conditions always relates to random events generated on entry and not on Promoted Pawns/boss kills.
-- **Bug workaround for "Take control of 1 region" star requirement"**:
+- From the OpSi overworld screen, tap on "Exploration Progress" on the right side of the screen to see the overall progress across all regions. You may also access this menu when within a region by tapping "INFORMATION" -> "Exploration Progress". 3 objectives are revealed on the first time you enter an area.
+- Each map has 5 stars you can get. Stars 4 and 5 initially have "???" for their requirements - the condition is hidden, it will be revealed once you obtain 3 and 4 total stars respectively, or if you end up completing the requirement inadvertently.
+- Star rewards can be claimed from the Exploration Progress menu. Numerous stars require events that only occur on the first clear of a given region after every reset - these are meant to be long-term goals. No harm in taking it slow, star requirements and achievements stay across all resets, these are all **one-time rewards**.
+- Some starring requirements are RNG and/or only achievable on the first clear after a reset. Most notable are "Defeat X Promoted Pawns" and "Repel Promoted Pawn fleet ambushes".
+	- The "Perform Reconnaissance X times in anomalous zones" requirement refers to hidden tiles near anomalous weather events in a region that give random gains to Adaptive Tuning stats. You can find these tiles by Scanning, and Auto-Search will pick these up if the tile is visible. 
+		- No, none of us have any idea why the name of that requirement is so misleading.
+- [The wiki table of all starring requirements and their respective rewards can be found here.](https://azurlane.koumakan.jp/Operation_Siren_Exploration)
+
+#Can I remove this? Fairly sure this bug's been dealt with actually.
+<- **Bug workaround for "Take control of 1 region" star requirement"**:
    - Requirements: One uncompleted Fractured or Abyssal node. (Those are the treasure chests and red boss icons on the map.)
    - Step 1: Enter the safe zone map you already completed, the one whose "complete this map" star is missing. Clear it again. (The second time around, it will be quite easy cause there will be only two enemies and no hazards.) Make sure TB tells you not to forget to pick up your loot.
    - Step 2: Go directly to the Fractured or Abyssal map. Do not pass GO. Do not collect 200 dollars. Most importantly, do not return to port to heal or dillydally first. Go directly there. Then, of course, clear the Fractured or Abyssal map.
    - Step 3: When you leave the completed fractured map, leave through the teleporter that you get upon successful clear. Do not push "exit" in the lower right. Use the teleporter.
-   - Step 4: It will dump you back out in the bugged map you came from, but this time there will be a spoils of war box in the middle of it. Collect it, and it will award you the completion star you never got.
+   - Step 4: It will dump you back out in the bugged map you came from, but this time there will be a spoils of war box in the middle of it. Collect it, and it will award you the completion star you never got.>
    
 ## List of random event:
 
