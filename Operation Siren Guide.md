@@ -94,7 +94,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - Retreating from a region requires you to click outside of the map grid.
 - The hardest currently available regions are Strongholds and Corrosion 6 Abyssal Zones.
 - **2** Strongholds spawn on the monthly reset and **1** spawns once a week (on reset going from Sunday to Monday). Up to 3 are displayed at any one time. They have level 128 bosses and level 124 mobs which can be hard if your fleets are poorly equipped and/or underlevelled, or if you lack Adaptive Tuning stats. 
-	- **Note: While a maximum of 3 Strongholds can be simultaneously shown on the overworld map, each weekly reset brings one additional Stronghold spawn. If the player has 3 Strongholds still left uncleared, this spawn is "stocked". Once there are less than 3 Strongholds active on the map, logging out and back into the game will cause the stocked Stronghold to spawn.** It's unknown if this is intentional, but independent testing has shown that you can stock as many Stronghold spawns in a given month as you want to **within a given month**. On monthly reset, all stocked Strongholds are wiped and 2 Strongholds are spawned as mentioned above.
+	- **Note: While a maximum of 3 Strongholds can be simultaneously shown on the overworld map, each weekly reset brings one additional Stronghold spawn. If the player has 3 Strongholds still left uncleared, this spawn is "stocked". Once there are less than 3 Strongholds active on the map, logging out and back into the game will cause the stocked Stronghold to spawn.** It's unknown if this is intentional, but independent testing has shown that you can stock as many Stronghold spawns as you want to **within a given month**. On monthly reset, all stocked Strongholds are wiped and 2 Strongholds are spawned as mentioned above.
 - Abyssal Zones spawn when you have activated Siren Coordinate Loggers in your Storage. These zones have multi-stage bosses (ranging from level 108 to 120) who will show a weakness to a specific damage type after being engaged once (e.g. taking 30% increased damage from shelling). Every subsequent engagement has a percentage chance of increasing the percentage of the exploitable weakness.
 - Reinforcements (coloured blue rather than red) drop no EXO nor loot.
 
@@ -107,15 +107,15 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 		- No, none of us have any idea why the name of that requirement is so misleading.
 - [The wiki table of all starring requirements and their respective rewards can be found here.](https://azurlane.koumakan.jp/Operation_Siren_Exploration)
 
-#Can I remove this? Fairly sure this bug's been dealt with actually.
-<- **Bug workaround for "Take control of 1 region" star requirement"**:
+
+- **Bug workaround for "Take control of 1 region" star requirement"**:
    - Requirements: One uncompleted Fractured or Abyssal node. (Those are the treasure chests and red boss icons on the map.)
    - Step 1: Enter the safe zone map you already completed, the one whose "complete this map" star is missing. Clear it again. (The second time around, it will be quite easy cause there will be only two enemies and no hazards.) Make sure TB tells you not to forget to pick up your loot.
    - Step 2: Go directly to the Fractured or Abyssal map. Do not pass GO. Do not collect 200 dollars. Most importantly, do not return to port to heal or dillydally first. Go directly there. Then, of course, clear the Fractured or Abyssal map.
    - Step 3: When you leave the completed fractured map, leave through the teleporter that you get upon successful clear. Do not push "exit" in the lower right. Use the teleporter.
-   - Step 4: It will dump you back out in the bugged map you came from, but this time there will be a spoils of war box in the middle of it. Collect it, and it will award you the completion star you never got.>
+   - Step 4: It will dump you back out in the bugged map you came from, but this time there will be a spoils of war box in the middle of it. Collect it, and it will award you the completion star you never got.
    
-## List of random event:
+## List of random events:
 
 ### Random event that happen on entry:
 #### Anomaly weather zone:
