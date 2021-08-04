@@ -23,7 +23,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - **Restart (A.K.A leaving and retrying) battles liberally.** There's no morale or oil cost, meaning that there's no downside to retrying fights. If you missed your preloaded torpedoes on a difficult BB boss and it nearly burns your flagship down, or your vanguard ships start sinking during an Abyssal Zone fight, just restart before your flagship or vanguard sink entirely. Better to live to try again than to sink and have damaged ships you can't make use of.
 - **"How do I get out of a region once I've finished clearing it?"** - Click anywhere outside of the map grid to go to the overworld map view. (The back button is a quick way to get to the overworld map view but won't exit your fleets from the current region.)
 - ***"How do I access a regular region? There's a Stronghold/Abyssal/Hidden Zone on it!"*** - Tap on the region, on the bottom left of the descriptive pop-up is a "Change Zone" button. Use that to access whichever zone you want to.
-- **"How do I change my fleet compositions and meowfficers?"** - You will need to go to Order (on the radar on the right of the screen) -> Fleet Redeployment to change your fleet and meoiwfficers. **You may only do so when your fleets are within an Allied (BLUE) Port.**
+- **"How do I change my fleet compositions and meowfficers?"** - You will need to go to Order (on the radar on the right of the screen) -> Fleet Redeployment to change your fleet and meowfficers. **You may only do so when your fleets are within an Allied (BLUE) Port.**
 - **"What to buy with Supply Coins, Supply Tokens and Energy Storage Devices?"** - Refer to the [Shop Guide](#Shop-Guide). But TL;DR: Buying anything that costs coins (the yellow currency) is mostly fine. Buy adaptive tuning samples if you are below 188/188/144. Only buy Gold and Rainbow Plates, Gear Designs and Coordinates with Supply Tokens (purple currency). Coins and Tokens will be exchanged for exchange shop vouchers on the 1<sup>st</sup> of every month. **This monthly reset will also reset your Adaptation stat gains, but star rewards for each region will be kept constant.**
 - **"Is {current META ship} permanent?"** - No, she is not. Every META ship is available to obtain for a seasonal time period of about 90 days, after which point she will be replaced by another META ship. The devs have mentioned that every META ship will eventually be made permanently obtainable in some form, but we don't know when or how. 
 - **"I'm not getting any EXP in OpSi, what gives?"** - Nodes in story regions and reinforcement (blue) enemy nodes give no EXP except for bosses (sometimes), and fights in OpSi do not cause any Morale or Affection changes as well. After clearing the story regions, the game will force you to enter and clear the region it was based on normally. This has an appropriate AP cost so don't be alarmed when you run out of AP and the game keeps asking you to refill.
@@ -31,8 +31,8 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - **"AP Refill with Oil? Should I do that?"** -  The Oil:AP ratio is 10:1. You can refill up to 5 times a **WEEK**. Cost per refill requires 1000/1000/2000/2000/4000 oil in that order. You can also buy AP packs in port/Akashi shops with Supply Coins which effectively removes the need to refill with oil.
 - **"What is Meta Lab?"** - It's detailed in the [META Lab/Ashes Showdown section](#Ashes-showdown)
 - **"Why are Corruption 5 and 6 regions so hard?"** -  Likely because your current adaptive stats are low. Your adaptive stats will be compared to the enemy's -  every point difference is roughly 1% in your or the enemy's favour (Offense and Defense ranges from 70% - 130%, Tactics (healing) is 70% -100%). The recommended end-game stat line is 188/188/144. You will not gain any additional advantage against even the strongest enemies beyond those values.
-- **"What are star rewards? What are the 4<sup>th</sup> and 5<sup>th</sup> star requirements for this region, why are they all marked as '???' ?"** -  Because they are hidden requirements and sometimes dependent on RNG based events to boot. They'll eventually show when you repeatedly complete the region. The wiki has a section for starring requirements and rewards which you can search by name [here](https://azurlane.koumakan.jp/Operation_Siren_Exploration)
-- **"What should I do after finishing story?"** - Do at least one Stronghold when your adaptive stat is up to snuff. Refer to the [Stronghold Guide](#Stronghold) below. Simply put, you can go to port mid-stronghold and your progress will be saved. Do your daily port missions, strongholds, Abyss, treasure maps and clear all regions in that order.
+- **"What are star rewards? What are the 4<sup>th</sup> and 5<sup>th</sup> star requirements for this region, why are they all marked as '???' ?"** -  Because they are hidden requirements and sometimes dependent on RNG based events to boot. They'll eventually show when you repeatedly complete the region. The wiki has a section for starring requirements and rewards which you can search by name [here](https://azurlane.koumakan.jp/Operation_Siren_Exploration).
+- **"What should I do after finishing story?"** - Do at least one Stronghold when your adaptive stat is up to snuff. Refer to the [Stronghold Guide](#Stronghold) below. Simply put, you can go to port mid-Stronghold and your progress will be saved. Do your daily port missions, Strongholds, Abyssal Zones, Hidden Zonees and clear all regions in that order.
 
 ## General Gameplay:
 - There's 3 important things to note: 
@@ -40,7 +40,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
    - Order Button: found on the radar on the right side of the screen. All Orders (Fleet Deployment, Regroup and Rest, Request Recon, Submarine Support) all cost AP. Change fleet costs up to 99 AP, and slowly drains to 0 over 24 hrs. Regroup and Rest costs a static 50 and has a cooldown of 8 hrs between uses. Request Recon costs up to 10 AP and drains to 0 over 30 mins. Submarine Support costs up to 39 AP and reset to 0 over 1 hr.
    - Scanning Mode: A toggleable viewmode crucial to locate hidden caches and scan loot tiles. More details will be given in the Tile section below.
 - **Upon Sinking**: Any sunk ships will be revived with 10% of their HP and given the "Toll of War" debuff (Red wrench icon on the status bar on the left). This disables **ALL** skills for the sunken ship and can only be removed by using the Regroup and Rest or Fleet Deployment Orders in the Order tab or by repairing your ships in an Allied port. ***Healing a ship to full with repair kits will not remove the debuff.***
-- **Losing in combat**: Most major boss fights (Abyss and Stronghold) are multi-staged, meaning the damage you dealt will remain. When a fleet loses in combat (via timing out, flagship sinking or all vanguard ships sinking), it is given the "Low Resolve X" debuff (This debuff has 3 stackable levels) indicated by a cracked triangle - the more broken it is the stronger the debuff effect. Low resolve lowers FP, TRP, ASW, AVI, AA and EVA by 10% for Level I, 30% for Level II and 60% for Level III. Low Resolve can be removed by winning battles - **battles won by other fleets it also count** - or by using the Regroup and Rest or Fleet Deployment Orders. These are crucial for Abyssal Zone fights if your fleets are struggling. **Note that "Low Resolve X" debuffs will not be removed by repairing in an Allied port.**
+- **Losing in combat**: Most major boss fights (Abyssal Zones and Strongholds) are multi-staged, meaning the damage you dealt will remain. When a fleet loses in combat (via timing out, flagship sinking or all vanguard ships sinking), it is given the "Low Resolve X" debuff (This debuff has 3 stackable levels) indicated by a cracked triangle - the more broken it is the stronger the debuff effect. Low resolve lowers FP, TRP, ASW, AVI, AA and EVA by 10% for Level I, 30% for Level II and 60% for Level III. Low Resolve can be removed by winning battles - **battles won by other fleets it also count** - or by using the Regroup and Rest or Fleet Deployment Orders. These are crucial for Abyssal Zone fights if your fleets are struggling. **Note that "Low Resolve X" debuffs will not be removed by repairing in an Allied port.**
 - You can change your fleets and meowfficers by tapping on the Order button (on the Radar to the right) then Fleet Deployment. **You can only use this when inside an Allied port map.**
 - Don't be afraid of retreating or restarting, you don't have morale or oil cost to worry about, restart as much as you want to get the outcome that you want. Also **AVOID** allowing your ships to sink in Abyssal Zones - your fleets can still recover from the "Low Resolve III" debuff that's inflicted upon a loss by taking out a generic enemy node inside an Abyssal Zone, but you cannot recover from the "Tolls of War" debuff without using Rest and Regroup lest you want to give up on the boss. Remember, you cannot leave and return to an Abyssal Zone, make your one shot count.
 
@@ -49,7 +49,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - Increase your stats with Tuning Samples (your stat gains are permanent until the monthly reset, so just use them as you get them) or various mini-events that occur on the first clear of any given region.
 - As mentioned, the difference between yours and the enemy's stats will make up the respective modifiers: Offense affects the enemy's damage dealt TO YOUR ships, Survivability affects their HP and Tactics affects YOUR fleets' healing efficacy. Offense and Survivability modifiers range from 70-130% for the enemy's offensive power and HP respectively [you want both of these to be a 70% modifier for the enemy], and Tactics (healing efficacy) ranges from 70-100% [you want this one to be at 100% for YOU]. Generally speaking, both the Offense and Survivability stat are more beneficial than the Tactics stat - it's easier to down an enemy that doesn't hit as hard and has less health, rather than relying on in-battle heals you might not have.
 - C4 and C5 Abyssal Zone Sirens only have 60 and 90 Adaptive Tuning stats respectively, with C6 Abyssal Zone Sirens having 120 stats. 
-- Stronghold Sirens and Promoted Pawns have around 140-144 Adative Tuning stats.
+- Stronghold Sirens and Promoted Pawns have around 140-144 Adaptive Tuning stats.
 - To max out on your Adaptive tuning stat advantage against a given enemy, refer to the equation given [here](https://azurlane.koumakan.jp/Operation_Siren#Stat_modifier). The simple advice is to **aim for 188/188/144**.
 
 ## Overworld Map
@@ -75,7 +75,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - Port shops (refresh every 3 days, all 4 ports draw from the same 150 item pool every reset. **Buy whatever you can afford to** - it'll increase the odds of better items rotating into a shop after the 3 day reset period).
    - Rainbow and Gold plates: cost Tokens. Buy these always. **(Highest Priority)**
    - Gold and Rainbow Design blueprints: cost Tokens. Buy these always. **(Highest Priority)**
-   - Regular Coordinate Loggers and Siren Coordinate Loggers: cost Tokens. Regular loggers lead to Hidden Zones while the Siren Coordinate Loggers lead to Abyssal Zones. Buy these always. Rainbow rarity Siren Coordinate Loggers lead to C6 Abyss zones which can drop Rainbow rarity loot which are **Highest Priority** should the player are able to clear it (the boss is level 128).
+   - Regular Coordinate Loggers and Siren Coordinate Loggers: cost Tokens. Regular loggers lead to Hidden Zones while the Siren Coordinate Loggers lead to Abyssal Zones. Buy these always. Rainbow rarity Siren Coordinate Loggers lead to C6 Abyssal Zones which can drop Rainbow rarity loot which are **Highest Priority** should the player are able to clear it (the boss is level 128).
    - Special Item Token packs: cost Supply Coins. Buy these if short of Tokens. You get more than enough if you do your Strongholds consistently.
    - AP boxes: cost Supply Coins. Buy these if you want to grind more.
    - Tuning Samples: cost Tokens/Supply Coins. Buy only when below 188/188/144 Adaptive Tuning stats.
@@ -109,10 +109,10 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 
 
 - **Bug workaround for "Take control of 1 region" star requirement"**:
-   - Requirements: One uncompleted Fractured or Abyssal node. (Those are the treasure chests and red boss icons on the map.)
-   - Step 1: Enter the safe zone map you already completed, the one whose "complete this map" star is missing. Clear it again. (The second time around, it will be quite easy cause there will be only two enemies and no hazards.) Make sure TB tells you not to forget to pick up your loot.
-   - Step 2: Go directly to the Fractured or Abyssal map. Do not pass GO. Do not collect 200 dollars. Most importantly, do not return to port to heal or dillydally first. Go directly there. Then, of course, clear the Fractured or Abyssal map.
-   - Step 3: When you leave the completed fractured map, leave through the teleporter that you get upon successful clear. Do not push "exit" in the lower right. Use the teleporter.
+   - Requirements: One uncompleted Hidden or Abyssal Zone. (Those are the treasure chests and red boss icons on the map.)
+   - Step 1: Enter the safe zone region you already completed, the one whose "complete this map" star is missing. Clear it again. (The second time around, it will be quite easy cause there will be only two enemies and no hazards.) Make sure TB tells you not to forget to pick up your loot.
+   - Step 2: Go directly to the Hidden or Abyssal map. Do not pass GO. Do not collect 200 dollars. Most importantly, do not return to port to heal or dillydally first. Go directly there. Then, of course, clear the Hidden or Abyssal Zone.
+   - Step 3: When you leave the completed Hidden Zone, leave through the teleporter that you get upon successful clear. Do not push "EXIT" in the lower right. Use the teleporter.
    - Step 4: It will dump you back out in the bugged map you came from, but this time there will be a spoils of war box in the middle of it. Collect it, and it will award you the completion star you never got.
    
 ## List of random events:
@@ -122,13 +122,13 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 RNG Starring condition, there is a hidden loot marker on the map (revealed with scanning mode) coupled with some weather tiles (currents, windstorms, weird towers etc) that reward adaptive stats.
 
 #### Meowfficer Node
-A circular yellow-and-white cat paw tile. Upon stepping onto the tile you will be asked whether or not you want to deploy Meowfficers to gather resources. If you choose yes, your meowfficer skills will be disabled for approx. 10 turns, then they will return with rewards. **Rewards are based on the Command Meowfficcer levels and rarity.**
+A circular yellow-and-white cat paw tile. Upon stepping onto the tile you will be asked whether or not you want to deploy Meowfficers to gather resources. If you choose yes, your meowfficers' skills will be disabled for approx. 10 turns, then they will return with rewards. **Rewards are based on the Command Meowfficer levels and rarity.**
 
 #### Siren Coordinate Logger
 Resembles an oil rig with some cranes. Move onto it and you will be ambushed twice and gain access to the device (usable 2-4 times). You can either spend 1 ESD to spawn a mob fleet (that does not reward Adaptive Tuning) or 2 Tokens to spawn an [Energy Cache event](#energy-cache) or just a "Sparkle" loot which doesn't disappear but doesn't drop anything lucrative either.
 
 #### Akashi's Shop:
-She spawns upon entry to the map, shopping recommendation is in the [Shop Guide](#shop-guide)
+She spawns upon entry to the map, shopping recommendation is in the [Shop Guide](#shop-guide).
 
 #### General Loot:
 Visibly indicated by a blue sparkling tile, hidden loot tiles do exist as well (shown on radar and can be seen through scanning mode).
@@ -169,34 +169,41 @@ What it says on the tin. Go to it to disable whatever weather anomaly is surroun
 
 #### Siren Data Center
 A plus (+) formation of obstacle constructs that spawn with a couple EMP tiles and 2 hidden Meowfficer nodes. If scanning mode doesn't reveal the meowfficer nodes right away, moving into the 5x5 room and (maybe) stepping on all of 3 EMP tiles will spawn them.
+
 ![](https://i.imgur.com/lWk3HpC.png)
 
 #### Paired switches: 
 Putting a fleet on both of the switches automatically will spawn loot and destroy the surrounding rocks.
+
 ![](https://i.imgur.com/EEtQWQq.png)
 ![](https://i.imgur.com/COr0s2Y.png)
 
 #### Chest surrounded by rocks:
 The rocks will be removed after clearing all Siren Rally points. 
+
 ![](https://i.imgur.com/SEGUhsJ.png)
 
 #### Anomaly Chest:
 Inconspicuous chest which MIGHT fill the entire 5x5 area with a random weather event when opened (Flaming Sea, Frigid Waters or Whirlpools) which will also hide scanning mode from other event (e.g 4 Matrix event's hidden matrix tile). So it is recommended to open this chest last. Anomaly chests can be detected using the radar and scanner as there will not be a yellow "loot" tile underneath the chest compared to regular chests.
+
 ![](https://i.imgur.com/jUhDs4v.png)
 ![](https://i.imgur.com/w6krEyF.png)
 
 #### 4 Matrix Cache:
 4 Matrix deposits surround a cache, and moving into the 5x5 zone of the caches will spawn 4 matrixes hidden on the map (revealed with scanning mode and radar as a ?). Gathering and using all matrices in will upgrade the cache content.
+
 ![](https://i.imgur.com/i4DGdgz.png)
 
 #### Blockade
 If a 5x5 room has nothing in it, expect it to be this type of room. Walking into the 5x5 zone will lock your fleet in and either spawn 3 module buffed fleets OR 3 gate devices. Defeating all the module fleets OR choosing the right gate will lift the blockade (the wrong gate will have an ambush fleet). In the gate version, there will also be another gate outside of the 5x5 zone. Moving a fleet to the one spawn outside will destroy the fake gates in the zone. Cannot use scanning mode to bypass the gate holograms.
+
 ![](https://i.imgur.com/mdiH5FQ.png)
 ![](https://i.imgur.com/eyJuggC.png)
 ![](https://i.imgur.com/JOCPghx.png)
 
 #### Light house:
 ONLY spawns on big maps (9 rooms). Using an ESD here will perform a map recon. If one has already used the recon using the Order -> Recon, ignore this tile.
+
 ![](https://i.imgur.com/FIL9rMc.png)
 
 #### Akashi's Shop: same as above
@@ -252,18 +259,18 @@ The first time you enter an area for the story it costs no AP. It will cost AP a
 Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with your fleets. You can also just retreat when they catch up, not much reason to fight them if they are just blue reinforcements that drop no loot.
 
 #### Dangerous enemies (Mixed Recon/Main/Aviation Fleets)
-Boss fleets. Have specialized 'modules' that confer enemy buffs/fleet debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/Operation_Siren#Additional_effects)
+Boss fleets. Have specialized 'modules' that confer enemy buffs/fleet debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/Operation_Siren#Additional_effects).
 
 #### Stat Table for Stronghold/Abyssal/META boss: ![](https://i.imgur.com/pD5XHSI.png)
 
 #### Stronghold (red swirly zones on map):
-On each monthly OpSi reset you start with 2 spawned Strongholds, and one is added the next Monday up to a maximum of 3 on the map at one time. There is no "queue" for strongholds, meaning that when you clear one, you need to wait until the next Monday/Opsi reset to spawn another Stronghold.
+On each monthly OpSi reset you start with 2 spawned Strongholds, and one is added the next Monday up to a maximum of 3 on the map at one time. There is no "queue" for Strongholds, meaning that when you clear one, you need to wait until the next Monday/Opsi reset to spawn another Stronghold.
 
 These maps have a fixed difficulty which will prove troublesome unless you have well-equipped fleets, ~110 levelled ships, and adaptive tuning numbers of approximately 188/188/144 to maximise your damage potential, and even then you can expect some measure of difficulty as enemies range from levels 122-128. Strongholds drop lots of loot so it is recommended to tackle these maps when you feel ready to do so and you want to get as many OpSi materials as possible.
 
-There are 7 zones present in a stronghold. You spawn with 2 'controlled' zones and 5 'siren' zones. The 5 siren zones are walled-off nodes obfuscated with fog and contain a miniboss node inside, as well as 2 'guard' nodes at the entries to the zones (only 1 guard enemy needs to be defeated to access the miniboss node). These zones will generally feature some kind of weather anomaly that clears up upon miniboss defeat or deactivating through a weather control device. There will always be an Invader CL Siren reinforcement that spawns in one of the 2 zones you initially control after you clear 2-3 siren zones, which will steal that zone after 1-5 turns (this reinforcement will spawn a chest upon defeat which gives as much as a regular miniboss zone rewards). 
+There are 7 zones present in a Stronghold. You spawn with 2 'controlled' zones and 5 'siren' zones. The 5 siren zones are walled-off nodes obfuscated with fog and contain a miniboss node inside, as well as 2 'guard' nodes at the entries to the zones (only 1 guard enemy needs to be defeated to access the miniboss node). These zones will generally feature some kind of weather anomaly that clears up upon miniboss defeat or deactivating through a weather control device. There will always be an Invader CL Siren reinforcement that spawns in one of the 2 zones you initially control after you clear 2-3 siren zones, which will steal that zone after 1-5 turns (this reinforcement will spawn a chest upon defeat which gives as much as a regular miniboss zone rewards). 
 
-Defeating these 5 bosses unlocks access to the boss Siren of the stronghold, who will drop loot on defeat and enable you to finish and exit the Stronghold. The final Stronghold Siren bosses are strong, they are not as tanky as Abyssal bosses but they hit very hard even before taking into account their potential module buffs. They are designed to be cleared multiple times to whittle down their health, so don't feel bad if you need to throw your fleets at it more than once or twice. __**Remember that you can always retreat out of strongholds to return to Port to heal.**__ Strongholds aren't as hard in the sense that Abysses are, you will clear it eventually even if it takes a bit of time.
+Defeating these 5 bosses unlocks access to the boss Siren of the Stronghold, who will drop loot on defeat and enable you to finish and exit the Stronghold. The final Stronghold Siren bosses are strong, they are not as tanky as Abyssal bosses but they hit very hard even before taking into account their potential module buffs. They are designed to be cleared multiple times to whittle down their health, so don't feel bad if you need to throw your fleets at it more than once or twice. __**Remember that you can always retreat out of Strongholds to return to Port to heal.**__ Strongholds aren't as hard in the sense that Abysses are, you will clear it eventually even if it takes a bit of time.
 
 #### Abyssal Zones (red enemy zone on map):
 Maps that feature a singular humanoid Siren boss that drops loot upon defeat. These maps have difficulties ranging from Corrosion 4 to Corrosion 6 and are spawned by using a Siren Coordinate Logger. You cannot come back to this map after you leave, so be careful.
@@ -276,7 +283,7 @@ The level of the boss directly corresponds to the R# of the siren coordinate log
 
 Abyssal bosses reveal their weakness after certain HP% thresholds. These weaknesses are fixed per enemy and can be reviewed ahead of time using the Stat Table link above. They do not hit as hard but they are twice to thrice as tanky compared to Stronghold bosses. 
 
-Bringing specialised fleets to capitalise on the weaknesses of the enemy is key to beating Abyss bosses. A sample setup is:
+Bringing specialised fleets to capitalise on the weaknesses of the enemy is key to beating Abyssal Zone bosses. A sample setup is:
 
 - One 'general'/mobbing fleet to fight the boss first to reveal its weakness.
 - One fleet with a triple BB backline.
@@ -285,7 +292,7 @@ Bringing specialised fleets to capitalise on the weaknesses of the enemy is key 
 
 Of course, this is only a sample and should not be taken as rules to follow.
 
-Try to avoid any ships sinking because it will apply the "Damaged" debuff (red wrench on the HP bar) that disables all skills, and can only be removed with the Rest and Regroup order in the Order Tab. Losing/timing out on battles applies a "Low Resolve" debuff (red triangle ) that lowers all stats by 10% up to 3 times. This can be removed by using a fleet to win against the mobs hidden in the fog on the sides of the map which clears this debuff from ALL fleets. To find these mobs, look at the 2 sides of the map and there will be ways to get to the lanes in the side and travel through the fog and fight them.
+Try to avoid any ships sinking because it will apply the "Damaged" debuff (red wrench on the HP bar) that disables all skills, and can only be removed with the Rest and Regroup order in the Order tab. Losing/timing out on battles applies a "Low Resolve" debuff (red triangle ) that lowers all stats by 10% up to 3 times. This can be removed by using a fleet to win against the mobs hidden in the fog on the sides of the map which clears this debuff from ALL fleets. To find these mobs, look at the 2 sides of the map and there will be ways to get to the lanes in the side and travel through the fog and fight them.
 
 ## META Showdown
 
@@ -298,10 +305,10 @@ Doing daily port missions, killing bosses, and collecting chests/loot spawns wil
 
 META bosses start from Level 1 and go up to 15 with each full defeat. In the earlier levels (<10-11) you may find yourself oneshotting the boss or doing it in 2 fights. Higher levels will require multiple fights in the style of Abyss/Stronghold boss fights to whittle down the boss to defeat. You may also call for reinforcements (Friends/Guild/World) to allow other players to assist in defeating the boss, and you can also assist other players in 3 fights per day. If the game pops up an expired coordinate error while you are searching for other players to assist, it means the boss already died.
 
-Each fight last 60s, and the boss does quite a bit of damage. 1st boss fight cost no oil, 2nd costs 40 oil and the 3rd onwards will cost 20 each. It does NOT cost AP, morale nor gives any exp or affection. Treat META enemies as you would any other enemy: outfit your fleet with the proper gear and go ham. 
+Each fight last 80s, and the boss does quite a bit of damage. 1<sup>st</sup> boss fight costs no oil, 2<sup>nd</sup> costs 40 oil and the 3<sup>rd</sup> and 4<sup>th</sup> will cost 20 each. This diminishing pattern continues with each successive fight against the same instance. More information can be found at [this wiki page](https://azurlane.koumakan.jp/META_Lab). It does NOT cost AP, morale nor does it give any EXP or affection. Treat META enemies as you would any other enemy: outfit your fleet with the proper gear and go ham. 
 
-Completely defeating a META boss awards Analysis points, which are used to progress through your personal META ship's reward track and gain materials and copies of the ship. The host gets 135 + 15 per level Analysis points (150 for level 1, 165 for level 2, etc). Supporters gets 27 + 3 per level Analysis Points (30 for level 1, 33 for level 2, etc). **Note for level 15: You get 67 points for doing less than 355k, 71 points for doing 355k and 600k-ish and 73 points for doing more than 600k-ish boss damage)**. 
+Completely defeating a META boss awards Sync Points, which are used to progress through your personal META ship's reward track and gain fortification materials and LB material specific to the current META ship. The host gets 135 + 15 per level Sync points (150 for level 1, 165 for level 2, etc). Supporters gets 27 + 3 per level Sync Points (30 for level 1, 33 for level 2, etc). **Note for level 15: You get 67 points for doing less than 355k, 71 points for doing 355k and 600k-ish and 73 points for doing more than 600k-ish boss damage)**. An exact table of information for Sync Point gains can be found [here](https://azurlane.koumakan.jp/META_Lab#Boss_Levels).
 
-To fully max limit break a META ship, 25k points is mandatory. Any more is up to the player's discretion as enhancement materials can be bought from port shops.
+To fully limit break a META ship, earning 25k Sync Points in a season is mandatory. Any more is up to the player's discretion as fortification (enhancement) materials can be bought from port shops.
 
-Skilling META ships is different to regular ships. Instead of using skill books the whole way, you unlock a META's skills using a handful of gold skill books and level them up by doing tasks such as defeat 1 enemy, complete 1 commission, use that META fleet in OpSi, etc. There is a daily cap on the amount of skill exp that can be earned. In addition, you can level 1 skill from 3 different META ships at once.
+Levelling skills on META ships is different to regular ships. Instead of using skill books the whole way, you unlock a META's skills using 5 T3 (Gold) skill books of their respective type and level them up by doing tasks such as defeat 1 enemy, complete 1 commission, use that META fleet in OpSi, etc. There is a daily cap on the amount of skill exp that can be earned. In addition, you can level 1 skill from 3 different META ships at once. You *cannot*, however, level more than 1 skill per ship at any given time. 
