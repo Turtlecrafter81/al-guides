@@ -29,7 +29,7 @@ Credits:
 
 ~~If you have any questions or comments, feel free to ~~post an issue on github,~~ (I'm bad at github, send help) contact me on discord (Moe#4063). I can be found on the Azur Lane English Community discord server and the Azur Lane Official discord server, just ping me.~~
 
-Moe's retired, you can contact Straws#3361 in the Azur Knights Community Server (AKCS) in #al-help channel instead.
+Moe's retired, you can contact Straws#3361 in the Azur Knights Community Server (AKCS) in #al-help channel instead if you've got any queries.
 
 ```
 CHANGELOG
@@ -37,8 +37,8 @@ CHANGELOG
 2021-08-02
   updated Auxilliary, Core Data and Equipment Guides
     added PR4 equipment 
-	added Gear Lab equipment 
-	added new Core Data equipment (FuMO 25)
+    added Gear Lab equipment 
+    added new Core Data equipment (FuMO 25)
 2020-11-23
   added PR3 research equipments to the Equipment Guide:
   added Universe in Unison and some other misc Auxiliary Equipment to the Auxiliary Guide
