@@ -122,7 +122,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 RNG Starring condition, there is a hidden loot marker on the map (revealed with scanning mode) coupled with some weather tiles (currents, windstorms, weird towers etc) that reward adaptive stats.
 
 #### Meowfficer Node
-A circular yellow-and-white cat paw tile. Upon stepping onto the tile you will be asked whether or not you want to deploy Meowfficers to gather resources. If you choose yes, your meowfficers' skills will be disabled for approx. 10 turns, then they will return with rewards. **Rewards are based on the Command Meowfficer levels and rarity.**
+A circular yellow-and-white cat paw tile. Upon stepping onto the tile you will be asked whether or not you want to deploy Meowfficers to gather resources. If you choose yes, your meowfficers' skills will be disabled for approx. 10 turns, then they will return with rewards. **Rewards are based on the Command meowfficer's levels and rarity.**
 
 #### Siren Coordinate Logger
 Resembles an oil rig with some cranes. Move onto it and you will be ambushed twice and gain access to the device (usable 2-4 times). You can either spend 1 ESD to spawn a mob fleet (that does not reward Adaptive Tuning) or 2 Tokens to spawn an [Energy Cache event](#energy-cache) or just a "Sparkle" loot which doesn't disappear but doesn't drop anything lucrative either.
@@ -168,7 +168,7 @@ Siren rally points (Red Sparkles) will keep spawning reinforcement fleets until 
 What it says on the tin. Go to it to disable whatever weather anomaly is surrounding the Rally Points (water currents, windstorms, ice floes, fog, etc). Does not have any defensive ambush fleet on it.
 
 #### Siren Data Center
-A plus (+) formation of obstacle constructs that spawn with a couple EMP tiles and 2 hidden Meowfficer nodes. If scanning mode doesn't reveal the meowfficer nodes right away, moving into the 5x5 room and (maybe) stepping on all of 3 EMP tiles will spawn them.
+A plus (+) formation of obstacle constructs that spawn with a couple EMP tiles and 2 hidden meowfficer nodes. If scanning mode doesn't reveal the meowfficer nodes right away, moving into the 5x5 room and (maybe) stepping on all of 3 EMP tiles will spawn them.
 
 ![](https://i.imgur.com/lWk3HpC.png)
 
