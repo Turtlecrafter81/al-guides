@@ -117,58 +117,58 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
    
 ## List of random events:
 
-### Random event that happen on entry:
+### Random events that happen on map entry:
 #### Anomaly weather zone:
-RNG Starring condition, there's a hidden loot marker in its vicinity (revealed with scanning mode) coupled with some weather tiles (currents, windstorms, weird towers etc) that rewards adaptive stats.
+RNG Starring condition, there is a hidden loot marker on the map (revealed with scanning mode) coupled with some weather tiles (currents, windstorms, weird towers etc) that reward adaptive stats.
 
-#### Meowficers Node
-Upon entering the tile you will be asked whether or not you want to deploy Meowficers to gather resources. If you choose to, your meowficcer skills will be disabled for 10 turns, then they will return with rewards. **Rewards are based on the Command Meowficcer levels and rarity.**
+#### Meowfficer Node
+A circular yellow-and-white cat paw tile. Upon stepping onto the tile you will be asked whether or not you want to deploy Meowfficers to gather resources. If you choose yes, your meowfficer skills will be disabled for approx. 10 turns, then they will return with rewards. **Rewards are based on the Command Meowfficcer levels and rarity.**
 
 #### Siren Coordinate Logger
-Looks like a oil rig with some cranes, moving on it and you will be ambushed twice and gain access to the device (usable 2-4 times). You can either spend 1 ESD to spawn a mob fleet (that doesn't drop modules) or 2 Tokens to spawn an [Energy Cache event](#energy-cache) or just a "Sparkle" loot which doesn't disappear but doesn't drop anything lucrative either.
+Resembles an oil rig with some cranes. Move onto it and you will be ambushed twice and gain access to the device (usable 2-4 times). You can either spend 1 ESD to spawn a mob fleet (that does not reward Adaptive Tuning) or 2 Tokens to spawn an [Energy Cache event](#energy-cache) or just a "Sparkle" loot which doesn't disappear but doesn't drop anything lucrative either.
 
 #### Akashi's Shop:
 She spawns upon entry to the map, shopping recommendation is in the [Shop Guide](#shop-guide)
 
 #### General Loot:
-Indicated by a "sparkle", a chest or a hidden (shown on radar and can be seen through scanning mode)
+Visibly indicated by a blue sparkling tile, hidden loot tiles do exist as well (shown on radar and can be seen through scanning mode).
 
 ### Random event that happen after killing a boss node:
 #### Siren floating rewards
-Spawn 5 "sparkle" tiles, use scanning mode and click on individual tiles to know what will happen. List of events include: Loot, Ambush and Warning Device. You can only collect up to 3 Loot and the other 2 will disappear, Ambush fleet drops no rewards so skip is fine, Warning Device will deletes all remaining tiles.
+Spawns 5 sparkling loot tiles, use scanning mode and click on individual tiles to know what will happen. List of events include: Loot, Ambush and Warning Device. You can only collect up to 3 Loot and the other 2 will disappear, Ambush fleet drops no rewards so skip is fine, Warning Device will delete all remaining loot tiles.
 
 #### Siren Jamming 
-Box that spawn after defeating a boss. Scanning will show whether it will jam your fleet or not. Either reducing that fleet movement to 1 tile for the next 5 turns or make your fleet move twice in random direction after the next move. 
+Purple loot box that spawns after defeating a boss. Scanning will show whether it will jam your fleet or not. Effects are either reducing fleet movement to 1 tile for the next 5 turns or making your fleet move twice in random direction after the next move. 
 
 #### Energy Matrix:
-Collect the Matrix on the map and deliver it to the platform to get rewards.
+Collect the square Matrix on the map and deliver it to the platform to get rewards.
 
 #### Energy Cache:
-Go there, use the Energy Storage Device and you get some adaptive stat, if it fails, just smash it. Smashing seems to never give adaptive stat.
+Go there, use an ESD and you get some adaptive stat, if it fails, just smash it. Smashing does not reward adaptive tuning.
 
 #### Siren Ambush:
-Straight forward a Siren mob spawn right on top of your fleet. Killing it drop some loot.
+A Siren mob spawns right on top of your fleet, forcing you into combat. Killing it drops some loot.
 
-#### Siren Rally Point:
-Calls in reinforcement every 3 turns. Disabled when stepping on them.
+#### Siren Communication device:
+Pink device. Calls in reinforcement every other turn up to a limit. Disabled when stepping on them.
 
 #### Weather Anomaly:
-Usually fogs or some directional currents spawn around the fleet in a 5x5 square. Look at the radar, go into the fog, destroy the Weather Control Tower marked with a "?" and get some loot.
+Fog or directional currents spawn around the fleet in a 5x5 square. Look at the radar, go into the fog, destroy the Weather Control Tower marked with a "?" and get some loot.
 
 ## Obscured Zone/Fractured Sea/Treasure Map (Yellow Chests on map):
-Treasure maps are generated peusdo-randomly like in roguelites with specific patterns with each "room" is a 5x5 square roughly making up the map dotted with some chests:
-- Small map has only one slightly bigger room which has the rally point. (Sometimes have Akashi too)
+Treasure maps are generated peusdo-randomly with specific patterns. Generally consists of a map divided up into "rooms". Each "room" is a 5x5 square littered with some resource crates. Map size typically corresponds to corrosion number.
+- Small map has only one slightly bigger room which has the siren rally point. (Sometimes has Akashi too)
 - Medium map has 4 rooms: 2 rally points + 0-1 Weather control device + the rest are random events.
 - Big map has 9 rooms: 1 light house + 3 rally points + 0-2 Weather control devices + the rest are random events.
 
 #### Siren Rally Points
-Siren rally points (Red Sparkles) will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which will force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue in color) spawn in infinitely and they don't drop any loot, they do give META ship skill exp however. Clearing all Rally points spawn the Teleporter and some chests (The clearing box usually have high tier loot). In big maps (9 rooms) clearing 2 rally points will spawn a siren fleet which will chase your fleet down but doesn't drop any loot.
+Siren rally points (Red Sparkles) will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which will force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue siren mob nodes) spawn in infinitely and they don't drop any loot, they do give META ship skill exp however. Clearing all Rally points spawns the Teleporter and some chests (the clearing box usually has high tier loot). In big maps (9 rooms) clearing 2 rally points will spawn a humanoid siren which will chase the closest fleet down but doesn't drop any loot upon defeat.
 
 #### Siren Weather Control Device:
-Does what it said on the tin, go to it to disable whatever weather anomaly surrounding the Rally Points (water currents, windstorms, ice floes, fog, etc). Doesn't have any defensive ambush fleet on it.
+What it says on the tin. Go to it to disable whatever weather anomaly is surrounding the Rally Points (water currents, windstorms, ice floes, fog, etc). Does not have any defensive ambush fleet on it.
 
 #### Siren Data Center
-A plus formation of obstacle constructs that spawn with a couple EMP tiles and 2 hidden Meowfficer nodes. If scanning mode doesn't reveal the meowfficer nodes right away, moving into the 5x5 room and (maybe) stepping on all of 3 EMP tiles will spawn them.
+A plus (+) formation of obstacle constructs that spawn with a couple EMP tiles and 2 hidden Meowfficer nodes. If scanning mode doesn't reveal the meowfficer nodes right away, moving into the 5x5 room and (maybe) stepping on all of 3 EMP tiles will spawn them.
 ![](https://i.imgur.com/lWk3HpC.png)
 
 #### Paired switches: 
@@ -181,22 +181,22 @@ The rocks will be removed after clearing all Siren Rally points.
 ![](https://i.imgur.com/SEGUhsJ.png)
 
 #### Anomaly Chest:
-Inconspicuous chest which MIGHT fill the entire 5x5 area with a random weather event when opened (Flaming Sea, Frigid Waters or Whirlpools) which will also hide scanning mode from other event (e.g 4 Matrix event's hidden matrix tile). So it is recommended to open the chest last.
+Inconspicuous chest which MIGHT fill the entire 5x5 area with a random weather event when opened (Flaming Sea, Frigid Waters or Whirlpools) which will also hide scanning mode from other event (e.g 4 Matrix event's hidden matrix tile). So it is recommended to open this chest last. Anomaly chests can be detected using the radar and scanner as there will not be a yellow "loot" tile underneath the chest compared to regular chests.
 ![](https://i.imgur.com/jUhDs4v.png)
 ![](https://i.imgur.com/w6krEyF.png)
 
 #### 4 Matrix Cache:
-4 Matrix deposits surround a cache, move into the 5x5 zone of it will spawn the 4 matrixes hidden on the map (revealed with scanning mode). Putting matrix in will upgrade the cache content.
+4 Matrix deposits surround a cache, and moving into the 5x5 zone of the caches will spawn 4 matrixes hidden on the map (revealed with scanning mode and radar as a ?). Gathering and using all matrices in will upgrade the cache content.
 ![](https://i.imgur.com/i4DGdgz.png)
 
 #### Blockade
-If the 5x5 Square has nothing in it, expect it to be this type of room. Walking into the 5x5 zone will lock your fleet in and either spawn 3 module buffed fleets OR 3 gate typed devices. Defeating all the module fleets OR choosing the right gate will lift the blockade (the wrong gate will have an ambush fleet). In the gate version, there will also be another gate outside of the 5x5 zone. Moving a fleet to the one spawn outside will destroy the fake gates in the zone. Cannot use scanning mode to bypass the gate holograms.
+If a 5x5 room has nothing in it, expect it to be this type of room. Walking into the 5x5 zone will lock your fleet in and either spawn 3 module buffed fleets OR 3 gate devices. Defeating all the module fleets OR choosing the right gate will lift the blockade (the wrong gate will have an ambush fleet). In the gate version, there will also be another gate outside of the 5x5 zone. Moving a fleet to the one spawn outside will destroy the fake gates in the zone. Cannot use scanning mode to bypass the gate holograms.
 ![](https://i.imgur.com/mdiH5FQ.png)
 ![](https://i.imgur.com/eyJuggC.png)
 ![](https://i.imgur.com/JOCPghx.png)
 
 #### Light house:
-ONLY spawn on big maps (9 rooms). Using an ESD here will perform a map recon. If one has already used the recon using the Order -> Recon, ignore this event.
+ONLY spawns on big maps (9 rooms). Using an ESD here will perform a map recon. If one has already used the recon using the Order -> Recon, ignore this tile.
 ![](https://i.imgur.com/FIL9rMc.png)
 
 #### Akashi's Shop: same as above
@@ -211,68 +211,97 @@ Moves your fleet to the next tile following the direction of the arrow when step
 Will launch your fleet a set number of tiles over all obstacles when stepped on. The number of tiles travelled depends on the side of the vortex (1-4 tiles)
 
 #### EMP tiles:
-Cause random movement of your fleet for 1-2 turns when stepped on. Also disable chained movement.
+Causes random movement of your fleet for 1-2 turns when stepped on. Also disables chained movement.
 
 #### Ice pillars and ice floes:
-Ice pillars block movement entirely and sometimes can be removed by destroying the corresponding Siren Control Tower. Ice floes are ice tiles that will continue your fleet momentum till they come in contact with an obstacle or another fleet.
+Ice pillars block movement entirely and sometimes can be removed by destroying the corresponding Siren Control Tower. Ice floes are ice tiles that will continue your fleet momentum until they come into contact with an obstacle or another fleet. Typical ice tile puzzle mechanics.
 
 #### Fog
-Movement in fog is restricted to 1 tile and you can only see up to one tile around you. Stronghold Fog allows 2 tiles of visibility. Sometimes there are Fog control tower that you can go to and remove the fog in the region.
+Movement and vision in fog is restricted to 1 tile. Stronghold Fog allows 2 tiles of visibility. Sometimes there are fog Weather control devices that you can go to and remove the fog in the region.
 
 #### Maelstrom
-Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned, eating your moevement, giving time for potential reinforcements spawns and Siren to move closer. Movement out of the Whirlpool is restricted to 1 tile.
+Entering or moving into a whirlpool will stop you there, and each time you try to move out you might be stunned and unable to move for a turn, giving time for potential reinforcements spawns and Siren to move closer. Movement out of the Whirlpool is restricted to 1 tile.
 
 #### Flaming Sea:
-Stop your movemnt, do a %hp damage to all unit in the fleet and persist for a turn. Can NOT kill off your ships so you can swim through it and heal up with repair kits after if needed.
+Stops your movement, does %HP damage to all units in the fleet and persists for a turn. Can NOT kill off your ships so you can swim through it and heal up with repair kits after if needed.
 
 #### Corrosive Sea:
-Same as Flaming Sea above
+Same as Flaming Sea above, just purple effects.
 
-#### Frigid Sea:
-Decrease combat efficiency of the fleet (unclear on how much, best to avoid combat while affected by the debuff). Last up to 5 turns. Also disable chained movement.
+#### Sheer Cold:
+Decreased combat efficiency of the fleet (unclear on how much, best to avoid combat while affected by the debuff). Last up to 5 turns. Also disables chained movement.
 
 #### Red Fog
-Hazier and redder in color than Fog and also seems to block movement through it entirely, can only be removed by destroying the corresponding Siren Control Tower. (Don't exist outside of story region)
+Denser and redder in color than regular Fog and also blocks movement through it entirely. Can only be removed by destroying the corresponding Siren Control Tower. (Does not exist outside of story regions).
 
 ### Other notable tile type:
 #### Colored blockers:
-Present in Puzzle maps, using the corresponding colored control tower will turn pebbles into movement blocking contructs and vice versa. 
+Present in story puzzle maps, using the corresponding colored control tower will turn pebbles into movement blocking contructs and vice versa. 
 
 ## Story Guide
-First time you enter an area for the story it costs no AP, it will cost AP after that. They also do not give EXP except the boss fight iirc.
-- Chapter 1: Enemy around level 62-68. After finishing all red markers, it will ask you to clear 6 regions in the NW section, just clear whatever lowest star level to unlock Chapter 2, Fleet 3 and 4, Ashes Showdown as well as the next region via Liverpool port. The game also forces you to do a Fleet Redeployment and have a fleet 3 and 4 else you are soft locked at Liverpool and can't leave.
-- Chapter 2: Enemy around 72-78. Same concept, now you need to clear 7-8 region in this Liverpool region to unlock the next region. Unlocks Submarine fleet but doesn't soft lock you to the port.
-- Chapter 3: Enemy around 82-88. Same concept, unlocks the last region and port Dakar (a red port).
-- Chapter 4: Enemy around 92-98. Same concept but unlocks daily missions and Strongholds spawn.
-- **Notable bug, unclear if it's fixed or not but is important to mention:** Finishing chapter 1-6 b4 clearing 6 regions in NW. THEN clearing 6 regions might result in a soft lock that the player will not be able to unlock Liverpool port. It is recommended to stray from the Red marker for a bit to clear 6 regions (some low level regions are fine, don't have to clear star level 6 regions) before continuing the story
+The first time you enter an area for the story it costs no AP. It will cost AP after that. They also do not give EXP except the boss fight (needs to be verified).
+- Chapter 1: Enemy around level 62-68. After finishing all red markers, it will ask you to clear 6 regions in the NW section, just clear whatever lowest star level to unlock Chapter 2, Fleets 3 and 4, Ashes Showdown as well as the next region via Liverpool port. The game also forces you to do a Fleet Redeployment and have a fleet 3 and 4 else you are soft locked at Liverpool and cannot leave.
+- Chapter 2: Enemy around 72-78. Now you need to clear 7-8 region in this Liverpool region to unlock the next region. Unlocks Submarine fleet but doesn't soft lock you to the port.
+- Chapter 3: Enemy around 82-88. Unlocks the last region and port Dakar (a red port).
+- Chapter 4: Enemy around 92-98. Unlocks daily missions and Strongholds spawn.
+- **Notable bug, unclear if it has been fixed or not but is important to mention:** Finishing chapter 1-6 before clearing 6 regions in NW THEN clearing 6 regions might result in a soft lock where the player will not be able to unlock Liverpool port. It is recommended to stray from the red marker for a bit to clear 6 regions (some low level regions are fine, don't have to clear star level 6 regions) before continuing the story.
 
 ## Enemies and Special Zones explanation:
 
 #### Sirens
-Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with your fleets. You can also just retreat when they caught up, not much reason to fight them if they are just blue reinforcement that drop no loot.
+Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with your fleets. You can also just retreat when they catch up, not much reason to fight them if they are just blue reinforcements that drop no loot.
 
 #### Dangerous enemies (Mixed Recon/Main/Aviation Fleets)
-Basically boss fleets. Have specialized modules that buff/debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/Operation_Siren#Additional_effects)
+Boss fleets. Have specialized 'modules' that confer enemy buffs/fleet debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/Operation_Siren#Additional_effects)
 
-#### Stat Table for Stronghold/Abyssal/META boss: ![](https://i.imgur.com/r0YyKLk.png)
+#### Stat Table for Stronghold/Abyssal/META boss: ![](https://i.imgur.com/pD5XHSI.png)
 
-#### Stronghold:
-There are 7 zones present in a stronghold. You spawn with 2 controled zones and siren has 5 zones. There will always be an Invader CL Siren reinforcement that spawn in one of the 2 zones you initially control after you clear 2-3 zones which will steal that zone after 1-5 turns (This reinforcement will spawn chest spawn afterwards which total up to a zone rewards). The final Stronghold Siren boss are strong, they are not as tanky as Abyssal bosses but they hit very hard even before taking account of their module buffs. They are supposedly multi-staged boss. __**Remember that you can always retreat out of strongholds to return to Port to heal.**__ So stronghold isn't as hard in the sense that Abyss are, you will clear it eventually even if it takes a bit of time.
+#### Stronghold (red swirly zones on map):
+On each monthly OpSi reset you start with 2 spawned Strongholds, and one is added the next Monday up to a maximum of 3 on the map at one time. There is no "queue" for strongholds, meaning that when you clear one, you need to wait until the next Monday/Opsi reset to spawn another Stronghold.
 
-#### Abyssal Zones:
-Currently only have 3 types of bosses: DD, CA and BB. Abyssal bosses reveal their weakness after certain hp thresholds. They all have below average AA stat making them susceptible to CV damage. CA and BB also have an uncanny weakness to Airstrikes while DD has weakness to shellings. They hit not as hard but they are twice to thrice as tanky compared to Stronghold bosses. The key to beating these Abyss bosses are to bring one well-equipped CV and BB fleet each. Also try to avoid any ship sinking because it will apply the "Damaged" debuff (red wrench on the hp bar) that disable skills to the ship that sunk which can only be removed with the Rest and Regroup in the Order Tab. Failing battle apply a "Low Resolve" debuff (triangle on the fleet chibi) that debuff all stats by 10% up to 3 times which can be removed by using a fleet to win against the mobs hidden in the fog which clear this debuff from ALL fleets. To get to them look at the 2 side of the map, there will be ways to get to the lanes in the side and travel to the fog and fight them.
+These maps have a fixed difficulty which will prove troublesome unless you have well-equipped fleets, ~110 levelled ships, and adaptive tuning numbers of approximately 188/188/144 to maximise your damage potential, and even then you can expect some measure of difficulty as enemies range from levels 122-128. Strongholds drop lots of loot so it is recommended to tackle these maps when you feel ready to do so and you want to get as many OpSi materials as possible.
 
-## Ashes Showdown
+There are 7 zones present in a stronghold. You spawn with 2 'controlled' zones and 5 'siren' zones. The 5 siren zones are walled-off nodes obfuscated with fog and contain a miniboss node inside, as well as 2 'guard' nodes at the entries to the zones (only 1 guard enemy needs to be defeated to access the miniboss node). These zones will generally feature some kind of weather anomaly that clears up upon miniboss defeat or deactivating through a weather control device. There will always be an Invader CL Siren reinforcement that spawns in one of the 2 zones you initially control after you clear 2-3 siren zones, which will steal that zone after 1-5 turns (this reinforcement will spawn a chest upon defeat which gives as much as a regular miniboss zone rewards). 
 
-#### TL;DR:
-- Only unlocks after clearing chapter 1 of the OpSi story
-- Doing daily missions, kill bosses, collect chests/loot spawns and you will accumulate coordinate points.
-- You can enter the Ashes Showdown interface via the bottom right button in the overworld view (
-- Get 100 coordinate points and you can host/summon your META boss up to twice a day. Level up your META boss by defeating it, the cap is level 15.
-- Host gets 135 + 15 per level Analysis points (150 for level 1, 165 or level 2, etc). Supporters gets 27 + 3 per level Analysis Points (30 for level 1, 33 for level 2, etc). **Note for level 15: You get 67 points for doing less than 355k, 71 points for doing 355k and 600k-ish and 73 points for doing more than 600k-ish boss damage)**. 
-- The fight last 60s, the boss does quite a bit of damage. 1st entry cost no oil, 2nd cost 40 and from the 3rd onwards will cost 20 each. It does NOT cost AP, morale nor gives any exp or affection.
-- If the game pops up an expired coordinate error, it means the boss already died.
-- You get 2 host per day and 3 support per day. Host counter is above your Analysis point count, if it's greyed out, you will stop accumulating coordinate points (you will start at 0 the next day). Support counter is on the top right of the Ashes Showdown interface.
-- The strat for now is: 
-   - Host: Invite everyone and hope they do some damage if any. You can change your fleet with ships in your 4 fleets presently in Operation Siren (the Change button is on the bottom left). Go in and do as much damage as possible to kill it and claim your rewards.
-   - Support: Go to boss list or scroll in your chat room for level 15 invites. Join in and do your part.
+Defeating these 5 bosses unlocks access to the boss Siren of the stronghold, who will drop loot on defeat and enable you to finish and exit the Stronghold. The final Stronghold Siren bosses are strong, they are not as tanky as Abyssal bosses but they hit very hard even before taking into account their potential module buffs. They are designed to be cleared multiple times to whittle down their health, so don't feel bad if you need to throw your fleets at it more than once or twice. __**Remember that you can always retreat out of strongholds to return to Port to heal.**__ Strongholds aren't as hard in the sense that Abysses are, you will clear it eventually even if it takes a bit of time.
+
+#### Abyssal Zones (red enemy zone on map):
+Maps that feature a singular humanoid Siren boss that drops loot upon defeat. These maps have difficulties ranging from Corrosion 4 to Corrosion 6 and are spawned by using a Siren Coordinate Logger. You cannot come back to this map after you leave, so be careful.
+
+The level of the boss directly corresponds to the R# of the siren coordinate logger. Much like Strongholds, having a well-equipped fleet, ships that can reach level parity or outlevel the bosses, and a healthy amount of adaptive tuning numbers will be key to defeating these bosses.
+
+- R4 logger: level 106 boss. Recommended adaptive numbers are 79/79/60.
+- R5 logger: level 114 boss. Recommended adaptive numbers are 117/117/90.
+- R6 logger: level 128 boss. Recommended adaptive numbers are 176/176/135.
+
+Abyssal bosses reveal their weakness after certain HP% thresholds. These weaknesses are fixed per enemy and can be reviewed ahead of time using the Stat Table link above. They do not hit as hard but they are twice to thrice as tanky compared to Stronghold bosses. 
+
+Bringing specialised fleets to capitalise on the weaknesses of the enemy is key to beating Abyss bosses. A sample setup is:
+
+- One 'general'/mobbing fleet to fight the boss first to reveal its weakness.
+- One fleet with a triple BB backline.
+- One fleet with a triple CV backline.
+- One fleet with strong torpedo vanguard ships.
+
+Of course, this is only a sample and should not be taken as rules to follow.
+
+Try to avoid any ships sinking because it will apply the "Damaged" debuff (red wrench on the HP bar) that disables all skills, and can only be removed with the Rest and Regroup order in the Order Tab. Losing/timing out on battles applies a "Low Resolve" debuff (red triangle ) that lowers all stats by 10% up to 3 times. This can be removed by using a fleet to win against the mobs hidden in the fog on the sides of the map which clears this debuff from ALL fleets. To find these mobs, look at the 2 sides of the map and there will be ways to get to the lanes in the side and travel through the fog and fight them.
+
+## META Showdown
+
+#### Acquisition of seasonal META ships
+META ships are Azur Lane's take on "alter" versions of ships, that are available for ~4 months of the year before they are cycled out for a new META ship, and as of writing there have been 3 META ships introduced (Hiryuu, Ark Royal, and Helena). These ships are distinct from their existing counterparts, have different skills, do not belong to their counterpart's faction, and have similar stats/weapon loadouts. Acquisition and enhancement of these ships is tied to OpSi gameplay. 
+
+META Showdown only unlocks after clearing chapter 1 of the OpSi story. After the initial story fight, you access META fights by collecting coordinate points to unlock a fight with the META ship of the season. The current META ship is Helena META (June 10 - September 9).
+
+Doing daily port missions, killing bosses, and collecting chests/loot spawns will reward coordinate points. Daily missions and collecting chests from secured zones are quick ways to accumulate points, but secured zones must be completely cleared in order to ensure they spawn a fresh set of enemies and chests the next time you enter. Accumulate 100 META Coordinate points to unlock your personal META fight, up to twice a day. You then enter the META Showdown interface via the bottom right button in the overworld view. 
+
+META bosses start from Level 1 and go up to 15 with each full defeat. In the earlier levels (<10-11) you may find yourself oneshotting the boss or doing it in 2 fights. Higher levels will require multiple fights in the style of Abyss/Stronghold boss fights to whittle down the boss to defeat. You may also call for reinforcements (Friends/Guild/World) to allow other players to assist in defeating the boss, and you can also assist other players in 3 fights per day. If the game pops up an expired coordinate error while you are searching for other players to assist, it means the boss already died.
+
+Each fight last 60s, and the boss does quite a bit of damage. 1st boss fight cost no oil, 2nd costs 40 oil and the 3rd onwards will cost 20 each. It does NOT cost AP, morale nor gives any exp or affection. Treat META enemies as you would any other enemy: outfit your fleet with the proper gear and go ham. 
+
+Completely defeating a META boss awards Analysis points, which are used to progress through your personal META ship's reward track and gain materials and copies of the ship. The host gets 135 + 15 per level Analysis points (150 for level 1, 165 for level 2, etc). Supporters gets 27 + 3 per level Analysis Points (30 for level 1, 33 for level 2, etc). **Note for level 15: You get 67 points for doing less than 355k, 71 points for doing 355k and 600k-ish and 73 points for doing more than 600k-ish boss damage)**. 
+
+To fully max limit break a META ship, 25k points is mandatory. Any more is up to the player's discretion as enhancement materials can be bought from port shops.
+
+Skilling META ships is different to regular ships. Instead of using skill books the whole way, you unlock a META's skills using a handful of gold skill books and level them up by doing tasks such as defeat 1 enemy, complete 1 commission, use that META fleet in OpSi, etc. There is a daily cap on the amount of skill exp that can be earned. In addition, you can level 1 skill from 3 different META ships at once.
