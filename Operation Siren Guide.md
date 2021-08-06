@@ -161,6 +161,9 @@ Treasure maps are generated peusdo-randomly with specific patterns. Generally co
 - Medium map has 4 rooms: 2 rally points + 0-1 Weather control device + the rest are random events.
 - Big map has 9 rooms: 1 light house + 3 rally points + 0-2 Weather control devices + the rest are random events.
 
+Example of a treasure map room:
+![](https://i.imgur.com/AOwiU6k.png)
+
 #### Siren Rally Points
 Siren rally points (Red Sparkles) will keep spawning reinforcement fleets until all of them are destroyed. You can destroy them by moving onto them, which will force you into a fight with a siren defense fleet. Defeating the fleet will remove the rally point. Reinforcement fleets (blue siren mob nodes) spawn in infinitely and they don't drop any loot, they do give META ship skill exp however. Clearing all Rally points spawns the Teleporter and some chests (the clearing box usually has high tier loot). In big maps (9 rooms) clearing 2 rally points will spawn a humanoid siren which will chase the closest fleet down but doesn't drop any loot upon defeat.
 
