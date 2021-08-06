@@ -10,26 +10,26 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - [Overworld Map](#overworld-map)
 - [Shop Guide](#shop-guide)
 - [Region Map](#regional-map)
-- [List Of Random Event](#list-of-random-event)
+- [List Of Random Event](#list-of-random-events)
 - [Treasure Map](#obscured-zonefractured-seatreasure-map-yellow-chests-on-map)
-- [Ashes Showdown](#ashes-showdown)
+- [META Showdown](#meta-showdown)
 
 ## FAQ and Tips:
 - **READ THE TUTORIAL**. A lot of questions are answered in the tutorial, remember it, the game won't repeat it. 
-- ***PAY ATTENTION WHEN SETTING UP YOUR 1<sup>st</sup> 2 FLEETS_***. Use your **strongest** ships AND meowfficers, initial equipment doesn't matter. You can change gear on any ship anytime when they're deployed within OpSi.  The generally ideal fleet for clearing generic nodes in OpSi would use ships with preloads (i.e. Richelieu, Jean Bart, Perseus) with tanky, high gun damage capable CA(s) in the vanguard. This fleet will be with you until you unlock the ability to sortie 4 fleets simultaneously in OpSi, which comes upon completing Chapter 1. This ties into the next point below.
+- ***PAY ATTENTION WHEN SETTING UP YOUR 1<sup>st</sup> 2 FLEETS***. Use your **strongest** ships AND meowfficers, initial equipment doesn't matter. You can change gear on any ship anytime when they're deployed within OpSi.  The generally ideal fleet for clearing generic nodes in OpSi would use ships with preloads (i.e. Richelieu, Jean Bart, Perseus) with tanky, high gun damage capable CA(s) in the vanguard. This fleet will be with you until you unlock the ability to sortie 4 fleets simultaneously in OpSi, which comes upon completing Chapter 1. This ties into the next point below.
 - ***COMPLETE THE OPSI STORY UNTIL YOU UNLOCK 4 FLEETS***. This fleet change is mandatory if you want to exit the port, and where your 1<sup>st</sup> free fleet change comes in. Normally, changing fleets and meowfficers with the Fleet Deployment Order costs a lot of AP - up to 99 AP to use the order immediately after using it once. The cost of this order is reduced down to 0 over time but it takes 24 hours to do so. It is recommended to have 2 specialised fleets - Fleets 2, 3 and 4 should be *specialised* in 1 of 3 damage types (Shelling/Torpedoes/Aviation) to counter Sirens and Promoted Pawns with specific damage debuffs. For example, a fleet filled with 3 BBs, a fleet with 3 CVs and another with 3 Vanguard ships capable of high torpedo damage.
 - **"Everything is so confusing, what do?"** - This is permanent content for the most part (META ships are seasonal). Don't worry too much. It will take a lot of consistent playtime to become familiar with the mechanisms and enemies. Just spend your AP where you can - AP has a soft cap of 200 and regenerates at a rate of 1 point per 10 mins.
 - **Do the story missions. Seriously, I'm not joking. Do it, a lot of content is gated behind clearing the story missions.** The story markers are the **red exclamation marks** on the map. Story regions reward a lot of adaptive stats, allowing you to fight on and above par even against higher level enemies in OpSi. If you are not end-game or messed up your initial fleet set up, don't stray from the path highlighted by the story markers since high AP entry maps are hard, similar to W12/W13 on Lethal. When you reach the end of Chapter 1 and the game asks you to clear some more regions, do only low star regions if your fleets aren't strong (the higher the Corrosion Level/AP cost, the more difficult the region). Moreover, completing story chapters unlocks Daily Missions and Siren Strongholds.
 - **Restart (A.K.A leaving and retrying) battles liberally.** There's no morale or oil cost, meaning that there's no downside to retrying fights. If you missed your preloaded torpedoes on a difficult BB boss and it nearly burns your flagship down, or your vanguard ships start sinking during an Abyssal Zone fight, just restart before your flagship or vanguard sink entirely. Better to live to try again than to sink and have damaged ships you can't make use of.
 - **"How do I get out of a region once I've finished clearing it?"** - Click anywhere outside of the map grid to go to the overworld map view. (The back button is a quick way to get to the overworld map view but won't exit your fleets from the current region.)
-- ***"How do I access a regular region? There's a Stronghold/Abyssal/Hidden Zone on it!"*** - Tap on the region, on the bottom left of the descriptive pop-up is a "Change Zone" button. Use that to access whichever zone you want to.
+- **"How do I access a regular region? There's a Stronghold/Abyssal/Hidden Zone on it!"** - Tap on the region, on the bottom left of the descriptive pop-up is a "Change Zone" button. Use that to access whichever zone you want to.
 - **"How do I change my fleet compositions and meowfficers?"** - You will need to go to Order (on the radar on the right of the screen) -> Fleet Redeployment to change your fleet and meowfficers. **You may only do so when your fleets are within an Allied (BLUE) Port.**
 - **"What to buy with Supply Coins, Supply Tokens and Energy Storage Devices?"** - Refer to the [Shop Guide](#Shop-Guide). But TL;DR: Buying anything that costs coins (the yellow currency) is mostly fine. Buy adaptive tuning samples if you are below 188/188/144. Only buy Gold and Rainbow Plates, Gear Designs and Coordinates with Supply Tokens (purple currency). Coins and Tokens will be exchanged for exchange shop vouchers on the 1<sup>st</sup> of every month. **This monthly reset will also reset your Adaptation stat gains, but star rewards for each region will be kept constant.**
 - **"Is {current META ship} permanent?"** - No, she is not. Every META ship is available to obtain for a seasonal time period of about 90 days, after which point she will be replaced by another META ship. The devs have mentioned that every META ship will eventually be made permanently obtainable in some form, but we don't know when or how. 
 - **"I'm not getting any EXP in OpSi, what gives?"** - Nodes in story regions and reinforcement (blue) enemy nodes give no EXP except for bosses (sometimes), and fights in OpSi do not cause any Morale or Affection changes as well. After clearing the story regions, the game will force you to enter and clear the region it was based on normally. This has an appropriate AP cost so don't be alarmed when you run out of AP and the game keeps asking you to refill.
 - **"What do the icons on bosses here mean, why does the game keep showing me a warning screen?"** - That warning screen just means you are fighting a boss fleet, it's a typical one but do take note of the buffs they get (A -50% shelling damage taken buff for the enemy means you will need torpedoes or planes to do effective damage to the boss, for example). Do be careful if the warning page shows that the enemy has an advantage in the first two adaptive stats - they'll hit MUCH harder while being insanely tanky.
 - **"AP Refill with Oil? Should I do that?"** -  The Oil:AP ratio is 10:1. You can refill up to 5 times a **WEEK**. Cost per refill requires 1000/1000/2000/2000/4000 oil in that order. You can also buy AP packs in port/Akashi shops with Supply Coins which effectively removes the need to refill with oil.
-- **"What is Meta Lab?"** - It's detailed in the [META Lab/Ashes Showdown section](#Ashes-showdown)
+- **"What is Meta Lab?"** - It's detailed in the [META Showdown section](#meta-showdown)
 - **"Why are Corruption 5 and 6 regions so hard?"** -  Likely because your current adaptive stats are low. Your adaptive stats will be compared to the enemy's -  every point difference is roughly 1% in your or the enemy's favour (Offense and Defense ranges from 70% - 130%, Tactics (healing) is 70% -100%). The recommended end-game stat line is 188/188/144. You will not gain any additional advantage against even the strongest enemies beyond those values.
 - **"What are star rewards? What are the 4<sup>th</sup> and 5<sup>th</sup> star requirements for this region, why are they all marked as '???' ?"** -  Because they are hidden requirements and sometimes dependent on RNG based events to boot. They'll eventually show when you repeatedly complete the region. The wiki has a section for starring requirements and rewards which you can search by name [here](https://azurlane.koumakan.jp/Operation_Siren_Exploration).
 - **"What should I do after finishing story?"** - Do at least one Stronghold when your adaptive stat is up to snuff. Refer to the [Stronghold Guide](#Stronghold) below. Simply put, you can go to port mid-Stronghold and your progress will be saved. Do your daily port missions, Strongholds, Abyssal Zones, Hidden Zonees and clear all regions in that order.
@@ -243,7 +243,7 @@ Denser and redder in color than regular Fog and also blocks movement through it 
 
 ### Other notable tile type:
 #### Colored blockers:
-Present in story puzzle maps, using the corresponding colored control tower will turn pebbles into movement blocking contructs and vice versa. 
+Present in story puzzle maps, using the corresponding colored control tower will turn pebbles into movement blocking constructs and vice versa. 
 
 ## Story Guide
 The first time you enter an area for the story it costs no AP. It will cost AP after that. They also do not give EXP except the boss fight (needs to be verified).
@@ -261,19 +261,19 @@ Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with you
 #### Dangerous enemies (Mixed Recon/Main/Aviation Fleets)
 Boss fleets. Have specialized 'modules' that confer enemy buffs/fleet debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/Operation_Siren#Additional_effects).
 
-#### Stat Table for Stronghold/Abyssal/META boss: ![](https://i.imgur.com/pD5XHSI.png)
+#### Stat Table for Stronghold/Abyssal/META boss: [Open this link in a new tab](https://i.imgur.com/pD5XHSI.png)
 
-#### Stronghold (red swirly zones on map):
-On each monthly OpSi reset you start with 2 spawned Strongholds, and one is added the next Monday up to a maximum of 3 on the map at one time. There is no "queue" for Strongholds, meaning that when you clear one, you need to wait until the next Monday/Opsi reset to spawn another Stronghold.
+#### Stronghold:
+As detailed above, on each monthly OpSi reset you start with 2 spawned Strongholds, and one is added the next Monday up to a maximum of 3 on the map at one time. 
 
-These maps have a fixed difficulty which will prove troublesome unless you have well-equipped fleets, ~110 levelled ships, and adaptive tuning numbers of approximately 188/188/144 to maximise your damage potential, and even then you can expect some measure of difficulty as enemies range from levels 122-128. Strongholds drop lots of loot so it is recommended to tackle these maps when you feel ready to do so and you want to get as many OpSi materials as possible.
+These maps have a fixed difficulty which will prove troublesome unless you have well-equipped fleets, ~110 levelled ships, and the maximum effective adaptive tuning numbers of **188/188/144** to maximise your damage potential, and even then you can expect some measure of difficulty as enemies range from levels 122-128. Strongholds drop lots of loot so it is recommended to tackle these maps when you feel ready to do so and you want to get as many OpSi materials as possible.
 
 There are 7 zones present in a Stronghold. You spawn with 2 'controlled' zones and 5 'siren' zones. The 5 siren zones are walled-off nodes obfuscated with fog and contain a miniboss node inside, as well as 2 'guard' nodes at the entries to the zones (only 1 guard enemy needs to be defeated to access the miniboss node). These zones will generally feature some kind of weather anomaly that clears up upon miniboss defeat or deactivating through a weather control device. There will always be an Invader CL Siren reinforcement that spawns in one of the 2 zones you initially control after you clear 2-3 siren zones, which will steal that zone after 1-5 turns (this reinforcement will spawn a chest upon defeat which gives as much as a regular miniboss zone rewards). 
 
 Defeating these 5 bosses unlocks access to the boss Siren of the Stronghold, who will drop loot on defeat and enable you to finish and exit the Stronghold. The final Stronghold Siren bosses are strong, they are not as tanky as Abyssal bosses but they hit very hard even before taking into account their potential module buffs. They are designed to be cleared multiple times to whittle down their health, so don't feel bad if you need to throw your fleets at it more than once or twice. __**Remember that you can always retreat out of Strongholds to return to Port to heal.**__ Strongholds aren't as hard in the sense that Abyssal Zones are, you will clear it eventually even if it takes a bit of time.
 
-#### Abyssal Zones (red enemy zone on map):
-Maps that feature a singular humanoid Siren boss that drops loot upon defeat. These maps have difficulties ranging from Corrosion 4 to Corrosion 6 and are spawned by using a Siren Coordinate Logger. You cannot come back to this map after you leave, so be careful.
+#### Abyssal zones:
+Abyssal zones are maps that feature a singular humanoid Siren boss that drops loot upon defeat. These maps have difficulties ranging from Corrosion 4 to Corrosion 6 and are spawned by using a Siren Coordinate Logger. You cannot come back to this map after you leave, so be careful.
 
 The level of the boss directly corresponds to the R# of the siren coordinate logger. Much like Strongholds, having a well-equipped fleet, ships that can reach level parity or outlevel the bosses, and a healthy amount of adaptive tuning numbers will be key to defeating these bosses.
 
@@ -296,7 +296,7 @@ Try to avoid any ships sinking because it will apply the "Damaged" debuff (red w
 
 ## META Showdown
 
-#### Acquisition of seasonal META ships
+#### How to get your META ships
 META ships are Azur Lane's take on "alter" versions of ships, that are available for ~4 months of the year before they are cycled out for a new META ship, and as of writing there have been 3 META ships introduced (Hiryuu, Ark Royal, and Helena). These ships are distinct from their existing counterparts, have different skills, do not belong to their counterpart's faction, and have similar stats/weapon loadouts. Acquisition and enhancement of these ships is tied to OpSi gameplay. 
 
 META Showdown only unlocks after clearing chapter 1 of the OpSi story. After the initial story fight, you access META fights by collecting coordinate points to unlock a fight with the META ship of the season. The current META ship is Helena META (June 10 - September 9).
