@@ -300,7 +300,8 @@ Defeating these 5 bosses unlocks access to the boss Siren of the Stronghold, who
 Abyssal zones are maps that feature a large map with a singular humanoid Siren boss that drops loot upon defeat. These maps have difficulties ranging from Corrosion 4 to Corrosion 6 and are spawned by using a Siren Coordinate Logger. **__You cannot come back to this map after you leave even to check overworld, so be careful.__**
 
 *One of the possible Abyssal zone bosses: Enforcer IX - Concealment.*
-~[](https://i.imgur.com/eAdtrqv.png)
+
+![](https://i.imgur.com/eAdtrqv.png)
 
 The level of the boss directly corresponds to the R# of the siren coordinate logger. Much like Strongholds, having well-equipped fleets, ships that can reach level parity or outlevel the bosses, and a healthy amount of adaptive tuning numbers will be key to defeating these bosses.
 
