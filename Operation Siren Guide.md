@@ -361,7 +361,7 @@ Levelling skills on META ships is different to regular ships. Instead of using s
 *Helena META's skill page, showing the tasks required to earn EXP.*
 ![](https://i.imgur.com/pum9GNo.png)
 
-Similarly, fortifying (enhancing) META ships requires unique materials that can only be obtained from META reward tracks or OpSi blue port shops. There are 4 material types corresponding to the regular stats of FP, TRP, AVI, and RLD. These materials are then fed to the META ship to enhance her stats. 
+Similarly, fortifying (enhancing) META ships is different to regular ships. The process uses unique fortification materials that can only be obtained from META reward tracks or OpSi blue port shops. There are 4 material types corresponding to the regular stats of FP, TRP, AVI, and RLD. These materials are then fed to the META ship to enhance her stats. 
 
-*The upgrade page to fortify a META ship.*
+*The upgrade page to fortify Helena META.*
 ![](https://i.imgur.com/Xj6hCVq.png)
