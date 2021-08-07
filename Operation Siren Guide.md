@@ -311,6 +311,7 @@ The level of the boss directly corresponds to the R# of the siren coordinate log
 Abyssal bosses reveal their weakness after the first fight. These weaknesses are fixed per enemy and can be reviewed ahead of time using the Stat Table link above. They do not hit as hard but they are twice to thrice as tanky compared to Stronghold bosses. 
 
 *Enforcer IX's shelling weakness revealed.*
+
 ![](https://i.imgur.com/0E2Rrqg.png)
 
 Bringing specialised fleets to capitalise on the weaknesses of the enemy is key to beating Abyssal Zone bosses. A sample setup is:
@@ -335,6 +336,7 @@ META Showdown only unlocks after clearing chapter 1 of the OpSi story. After the
 Doing daily port missions, killing bosses, and collecting chests/loot spawns will reward coordinate points. Daily missions and collecting chests from secured zones are quick ways to accumulate points, but secured zones must be completely cleared in order to ensure they spawn a fresh set of enemies and chests the next time you enter. Accumulate 100 META Coordinate points to unlock your personal META fight, up to twice a day for a total of 200 points daily. 
 
 *The META coordinate counter.*
+
 ![](https://i.imgur.com/IzXusDe.png)
 
 You then enter the META Showdown interface via the bottom right button in the overworld view. 
