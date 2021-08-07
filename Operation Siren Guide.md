@@ -288,6 +288,7 @@ There will always be an Invader CL Siren reinforcement that spawns in one of the
 ![](https://i.imgur.com/hmBLj2c.png)
 
 *A captured node.*
+
 ![ ](https://i.imgur.com/MwC4c6J.png)
 
 Defeating these 5 bosses unlocks access to the boss Siren of the Stronghold, who will drop loot on defeat and enable you to finish and exit the Stronghold. The final Stronghold Siren bosses are strong, they are not as tanky as Abyssal bosses but they hit very hard even before taking into account their potential module buffs. They are designed to be cleared multiple times to whittle down their health, so don't feel bad if you need to throw your fleets at it more than once or twice. __**Remember that you can always retreat out of Strongholds to return to Port to heal.**__ Strongholds aren't as hard in the sense that Abyssal Zones are, you will clear it eventually even if it takes a bit of time.
