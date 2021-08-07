@@ -12,6 +12,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - [Region Map](#regional-map)
 - [List Of Random Event](#list-of-random-events)
 - [Treasure Map](#obscured-zonefractured-seatreasure-map-yellow-chests-on-map)
+- [Enemies and Special Zones](#enemies-and-special-zones-explanation)
 - [META Showdown](#meta-showdown)
 
 ## FAQ and Tips:
@@ -256,7 +257,7 @@ The first time you enter an area for the story it costs no AP. It will cost AP a
 - Chapter 4: Enemy around 92-98. Unlocks daily missions and Strongholds spawn.
 - **Notable bug, unclear if it has been fixed or not but is important to mention:** Finishing chapter 1-6 before clearing 6 regions in NW THEN clearing 6 regions might result in a soft lock where the player will not be able to unlock Liverpool port. It is recommended to stray from the red marker for a bit to clear 6 regions (some low level regions are fine, don't have to clear star level 6 regions) before continuing the story.
 
-## Enemies and Special Zones explanation:
+## Enemies and Special Zones explanation
 
 #### Sirens
 Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with your fleets. You can also just retreat when they catch up, not much reason to fight them if they are just blue reinforcements that drop no loot.
