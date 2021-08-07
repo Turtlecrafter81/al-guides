@@ -270,7 +270,7 @@ Boss fleets. Have specialized 'modules' that confer enemy buffs/fleet debuff sta
 #### Stronghold:
 As detailed above, on each monthly OpSi reset you start with 2 spawned Strongholds, and one is added the next Monday up to a maximum of 3 on the map at one time. 
 
-These maps have a fixed difficulty which will prove troublesome unless you have well-equipped fleets, ~110 levelled ships, and the maximum effective adaptive tuning numbers of **188/188/144** to maximise your damage potential, and even then you can expect some measure of difficulty as enemies range from levels 122-128. Strongholds drop lots of loot so it is recommended to tackle these maps when you feel ready to do so and you want to get as many OpSi materials as possible.
+These maps have a fixed difficulty which will prove troublesome unless you have well-equipped fleets, ~115 levelled ships, and the maximum effective adaptive tuning numbers of **188/188/144** to maximise your damage potential, and even then you can expect some measure of difficulty as enemies range from levels 122-128. . Strongholds drop lots of loot so it is recommended to tackle these maps when you feel ready to do so and you want to get as many OpSi materials as possible.
 
 There are 7 nodes present in a Stronghold. You spawn with 2 'controlled' nodes and 5 'siren' nodes. The 5 siren nodes are walled-off rooms and contain a miniboss inside with 2 entrances to the interior of the node, and there wil always be at least 1 'guard' mob blockading these entrances. These nodes will also sometimes feature some kind of weather anomaly that clears up upon miniboss defeat or deactivation through a weather control device inside the node. 
 
@@ -283,7 +283,7 @@ There are 7 nodes present in a Stronghold. You spawn with 2 'controlled' nodes a
 *Another siren-controlled zone with fog weather and 2 guard mobs.*
 ![](https://i.imgur.com/XfKGAa7.png)
 
-There will always be an Invader CL Siren reinforcement that spawns in one of the 2 zones you initially control after you clear 3 siren zones, which will capture that zone after 1-5 turns if not defeated. This reinforcement will spawn a chest upon defeat which gives 100+ Tokens. 
+There will always be an Invader CL Siren reinforcement that spawns in one of the 2 zones you initially control after you clear 3 siren zones, which will capture that zone after 1-5 turns if not defeated. This reinforcement will spawn a chest upon defeat which gives a large amount of Tokens. 
 
 ![](https://i.imgur.com/hmBLj2c.png)
 
@@ -292,19 +292,25 @@ There will always be an Invader CL Siren reinforcement that spawns in one of the
 
 Defeating these 5 bosses unlocks access to the boss Siren of the Stronghold, who will drop loot on defeat and enable you to finish and exit the Stronghold. The final Stronghold Siren bosses are strong, they are not as tanky as Abyssal bosses but they hit very hard even before taking into account their potential module buffs. They are designed to be cleared multiple times to whittle down their health, so don't feel bad if you need to throw your fleets at it more than once or twice. __**Remember that you can always retreat out of Strongholds to return to Port to heal.**__ Strongholds aren't as hard in the sense that Abyssal Zones are, you will clear it eventually even if it takes a bit of time.
 
-*The boss of the Stronghold. Beware the modular de/buffs. Stats can be checked with the link above.*
+*The boss of the Stronghold. Beware the modular de/buffs. Stats can be checked with the link above.* 
 ![](https://i.imgur.com/5zuZklW.png)
 
 #### Abyssal zones:
-Abyssal zones are maps that feature a singular humanoid Siren boss that drops loot upon defeat. These maps have difficulties ranging from Corrosion 4 to Corrosion 6 and are spawned by using a Siren Coordinate Logger. You cannot come back to this map after you leave, so be careful.
+Abyssal zones are maps that feature a large map with a singular humanoid Siren boss that drops loot upon defeat. These maps have difficulties ranging from Corrosion 4 to Corrosion 6 and are spawned by using a Siren Coordinate Logger. **__You cannot come back to this map after you leave even to check overworld, so be careful.__**
 
-The level of the boss directly corresponds to the R# of the siren coordinate logger. Much like Strongholds, having a well-equipped fleet, ships that can reach level parity or outlevel the bosses, and a healthy amount of adaptive tuning numbers will be key to defeating these bosses.
+*One of the possible Abyssal zone bosses: Enforcer IX - Concealment.*
+~[](https://i.imgur.com/eAdtrqv.png)
+
+The level of the boss directly corresponds to the R# of the siren coordinate logger. Much like Strongholds, having well-equipped fleets, ships that can reach level parity or outlevel the bosses, and a healthy amount of adaptive tuning numbers will be key to defeating these bosses.
 
 - R4 logger: level 106 boss. Recommended adaptive numbers are 79/79/60.
 - R5 logger: level 114 boss. Recommended adaptive numbers are 117/117/90.
 - R6 logger: level 128 boss. Recommended adaptive numbers are 176/176/135.
 
-Abyssal bosses reveal their weakness after certain HP% thresholds. These weaknesses are fixed per enemy and can be reviewed ahead of time using the Stat Table link above. They do not hit as hard but they are twice to thrice as tanky compared to Stronghold bosses. 
+Abyssal bosses reveal their weakness after the first fight. These weaknesses are fixed per enemy and can be reviewed ahead of time using the Stat Table link above. They do not hit as hard but they are twice to thrice as tanky compared to Stronghold bosses. 
+
+*Enforcer IX's shelling weakness revealed.*
+![](https://i.imgur.com/0E2Rrqg.png)
 
 Bringing specialised fleets to capitalise on the weaknesses of the enemy is key to beating Abyssal Zone bosses. A sample setup is:
 
@@ -313,9 +319,10 @@ Bringing specialised fleets to capitalise on the weaknesses of the enemy is key 
 - One fleet with a triple CV backline.
 - One fleet with strong torpedo vanguard ships.
 
-Of course, this is only a sample and should not be taken as rules to follow.
-
 Try to avoid any ships sinking because it will apply the "Damaged" debuff (red wrench on the HP bar) that disables all skills, and can only be removed with the Rest and Regroup order in the Order tab. Losing/timing out on battles applies a "Low Resolve" debuff (red triangle ) that lowers all stats by 10% up to 3 times. This can be removed by using a fleet to win against the mobs hidden in the fog on the sides of the map which clears this debuff from ALL fleets. To find these mobs, look at the 2 sides of the map and there will be ways to get to the lanes in the side and travel through the fog and fight them.
+
+*One of the 2 hidden mob nodes. This map had air currents to access the sides of the map and travel down to these enemies.*
+![](https://i.imgur.com/zJYALIP.png)
 
 ## META Showdown
 
@@ -324,9 +331,17 @@ META ships are Azur Lane's take on "alter" versions of ships, that are available
 
 META Showdown only unlocks after clearing chapter 1 of the OpSi story. After the initial story fight, you access META fights by collecting coordinate points to unlock a fight with the META ship of the season. The current META ship is Helena META (June 10 - September 9).
 
-Doing daily port missions, killing bosses, and collecting chests/loot spawns will reward coordinate points. Daily missions and collecting chests from secured zones are quick ways to accumulate points, but secured zones must be completely cleared in order to ensure they spawn a fresh set of enemies and chests the next time you enter. Accumulate 100 META Coordinate points to unlock your personal META fight, up to twice a day. You then enter the META Showdown interface via the bottom right button in the overworld view. 
+Doing daily port missions, killing bosses, and collecting chests/loot spawns will reward coordinate points. Daily missions and collecting chests from secured zones are quick ways to accumulate points, but secured zones must be completely cleared in order to ensure they spawn a fresh set of enemies and chests the next time you enter. Accumulate 100 META Coordinate points to unlock your personal META fight, up to twice a day for a total of 200 points daily. 
 
-META bosses start from Level 1 and go up to 15 with each full defeat. In the earlier levels (<10-11) you may find yourself oneshotting the boss or doing it in 2 fights. Higher levels will require multiple fights in the style of Abyss/Stronghold boss fights to whittle down the boss to defeat. You may also call for reinforcements (Friends/Guild/World) to allow other players to assist in defeating the boss, and you can also assist other players in 3 fights per day. If the game pops up an expired coordinate error while you are searching for other players to assist, it means the boss already died.
+*The META coordinate counter.*
+![](https://i.imgur.com/IzXusDe.png)
+
+You then enter the META Showdown interface via the bottom right button in the overworld view. 
+
+META bosses start from Level 1 and go up to 15 with each full defeat. In the earlier levels (<10-11) you may find yourself oneshotting the boss or doing it in 2 fights. Higher levels will require multiple fights in the style of Abyss/Stronghold boss fights to whittle down the boss to defeat. You may also request support (Friends/Guild/World) to allow other players to assist in defeating the boss, and you can also assist other players in 3 fights per day. If the game pops up an expired coordinate error while you are searching for other players to assist, it means the boss already died.
+
+*A level 15 Helena META boss. 'Boss List' allows you to access other peoples' META fights. 'Data Sync' allows you to access the reward track for your initial META copy and subsequently the point reward track, as well as the unique interface for META ships for limit breaking, upgrading, and skills.*
+![](https://i.imgur.com/Gt32eVC.png)
 
 Each fight last 80s, and the boss does quite a bit of damage. 1<sup>st</sup> boss fight costs no oil, 2<sup>nd</sup> costs 40 oil and the 3<sup>rd</sup> and 4<sup>th</sup> will cost 20 each. This diminishing pattern continues with each successive fight against the same instance. More information can be found at [this wiki page](https://azurlane.koumakan.jp/META_Lab). It does NOT cost AP, morale nor does it give any EXP or affection. Treat META enemies as you would any other enemy: outfit your fleet with the proper gear and go ham. 
 
@@ -334,4 +349,15 @@ Completely defeating a META boss awards Sync Points, which are used to progress 
 
 To fully limit break a META ship, earning 25k Sync Points in a season is mandatory. Any more is up to the player's discretion as fortification (enhancement) materials can be bought from port shops.
 
+*Helena META with 28k Sync Points.*
+![](https://i.imgur.com/duCLONb.png)
+
 Levelling skills on META ships is different to regular ships. Instead of using skill books the whole way, you unlock a META's skills using 5 T3 (Gold) skill books of their respective type and level them up by doing tasks such as defeat 1 enemy, complete 1 commission, use that META fleet in OpSi, etc. There is a daily cap on the amount of skill exp that can be earned. In addition, you can level 1 skill from 3 different META ships at once. You *cannot*, however, level more than 1 skill per ship at any given time. 
+
+*Helena META's skill page, showing the tasks required to earn EXP.*
+![](https://i.imgur.com/pum9GNo.png)
+
+Similarly, fortifying (enhancing) META ships requires unique materials that can only be obtained from META reward tracks or OpSi blue port shops. There are 4 material types corresponding to the regular stats of FP, TRP, AVI, and RLD. These materials are then fed to the META ship to enhance her stats. 
+
+*The upgrade page to fortify a META ship.*
+![](https://i.imgur.com/Xj6hCVq.png)
