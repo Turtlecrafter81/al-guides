@@ -27,9 +27,8 @@ Credits:
  - Various source images exported from the game files from: [Dimbreath](https://github.com/Dimbreath) 
  - Various opinions and support from the ALEC and ALO discord. Most notably: ʝimmy#8049, Bluerendar#2640 and monchables#3352
 
-~~If you have any questions or comments, feel free to ~~post an issue on github,~~ (I'm bad at github, send help) contact me on discord (Moe#4063). I can be found on the Azur Lane English Community discord server and the Azur Lane Official discord server, just ping me.~~
+If you have any questions or comments, feel free to ~~post an issue on github,~~ (I'm bad at github, send help) contact me on discord (Moe#4063). I can be found on the Azur Lane English Community discord server and the Azur Lane Official discord server, just ping me.
 
-Moe's retired, you can contact Straws#3361 in the Azur Knights Community Server (AKCS) in #al-help channel instead if you've got any queries.
 
 ```
 CHANGELOG
