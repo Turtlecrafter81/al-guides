@@ -272,7 +272,16 @@ As detailed above, on each monthly OpSi reset you start with 2 spawned Stronghol
 
 These maps have a fixed difficulty which will prove troublesome unless you have well-equipped fleets, ~110 levelled ships, and the maximum effective adaptive tuning numbers of **188/188/144** to maximise your damage potential, and even then you can expect some measure of difficulty as enemies range from levels 122-128. Strongholds drop lots of loot so it is recommended to tackle these maps when you feel ready to do so and you want to get as many OpSi materials as possible.
 
-There are 7 zones present in a Stronghold. You spawn with 2 'controlled' zones and 5 'siren' zones. The 5 siren zones are walled-off nodes obfuscated with fog and contain a miniboss node inside, as well as 2 'guard' nodes at the entries to the zones (only 1 guard enemy needs to be defeated to access the miniboss node). These zones will generally feature some kind of weather anomaly that clears up upon miniboss defeat or deactivating through a weather control device. There will always be an Invader CL Siren reinforcement that spawns in one of the 2 zones you initially control after you clear 2-3 siren zones, which will steal that zone after 1-5 turns (this reinforcement will spawn a chest upon defeat which gives as much as a regular miniboss zone rewards). 
+There are 7 zones present in a Stronghold. You spawn with 2 'controlled' zones and 5 'siren' zones. The 5 siren zones are walled-off nodes and contain a miniboss node inside with 2 entrances to the interior of the node, and there wil always be at least 1 'guard' mob blockading these entrances. These zones will also sometimes feature some kind of weather anomaly that clears up upon miniboss defeat or deactivation through a weather control device inside the zone. There will always be an Invader CL Siren reinforcement that spawns in one of the 2 zones you initially control after you clear 2-3 siren zones, which will steal that zone after 1-5 turns (this reinforcement will spawn a chest upon defeat which gives as much as a regular miniboss zone rewards). 
+
+The 2 friendly-controlled zones.
+![](https://i.imgur.com/EemIG03.png)
+
+One of the 5 siren-controlled zones with only 1 guard mob. 
+![](https://i.imgur.com/Wsv9TMc.png)
+
+Another siren-controlled zone with fog weather and 2 guard mobs.
+![](https://i.imgur.com/XfKGAa7.png)
 
 Defeating these 5 bosses unlocks access to the boss Siren of the Stronghold, who will drop loot on defeat and enable you to finish and exit the Stronghold. The final Stronghold Siren bosses are strong, they are not as tanky as Abyssal bosses but they hit very hard even before taking into account their potential module buffs. They are designed to be cleared multiple times to whittle down their health, so don't feel bad if you need to throw your fleets at it more than once or twice. __**Remember that you can always retreat out of Strongholds to return to Port to heal.**__ Strongholds aren't as hard in the sense that Abyssal Zones are, you will clear it eventually even if it takes a bit of time.
 
