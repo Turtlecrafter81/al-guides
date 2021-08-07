@@ -11,8 +11,8 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - [Shop Guide](#shop-guide)
 - [Region Map](#regional-map)
 - [List Of Random Event](#list-of-random-events)
-- [Treasure Map](#obscured-zonefractured-seatreasure-map-yellow-chests-on-map)
-- [Enemies and Special Zones](#enemies-and-special-zones-explanation)
+- [Treasure Map](#hidden-zonefractured-seatreasure-map-yellow-chests-on-map)
+- [Enemies and Special Zones](#enemies-and-special-zones)
 - [META Showdown](#meta-showdown)
 
 ## FAQ and Tips:
@@ -45,7 +45,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - You can change your fleets and meowfficers by tapping on the Order button (on the Radar to the right) then Fleet Deployment. **You can only use this when inside an Allied port map.**
 - Don't be afraid of retreating or restarting, you don't have morale or oil cost to worry about, restart as much as you want to get the outcome that you want. Also **AVOID** allowing your ships to sink in Abyssal Zones - your fleets can still recover from the "Low Resolve III" debuff that's inflicted upon a loss by taking out a generic enemy node inside an Abyssal Zone, but you cannot recover from the "Tolls of War" debuff without using Rest and Regroup lest you want to give up on the boss. Remember, you cannot leave and return to an Abyssal Zone, make your one shot count.
 
-#### Adaptability Stat:
+#### Adaptive Tuning Stat:
 - Offense, Survivability and Tactics Adaptive Tuning stats all either buff or debuff the enemy depending on the enemy's Adaptative Tuning stats compared your own. Shown on the top left when within a region map OR to the right when in the overworld map under "Operation Info".
 - Increase your stats with Tuning Samples (your stat gains are permanent until the monthly reset, so just use them as you get them) or various mini-events that occur on the first clear of any given region.
 - As mentioned, the difference between yours and the enemy's stats will make up the respective modifiers: Offense affects the enemy's damage dealt TO YOUR ships, Survivability affects their HP and Tactics affects YOUR fleets' healing efficacy. Offense and Survivability modifiers range from 70-130% for the enemy's offensive power and HP respectively [you want both of these to be a 70% modifier for the enemy], and Tactics (healing efficacy) ranges from 70-100% [you want this one to be at 100% for YOU]. Generally speaking, both the Offense and Survivability stat are more beneficial than the Tactics stat - it's easier to down an enemy that doesn't hit as hard and has less health, rather than relying on in-battle heals you might not have.
@@ -156,13 +156,14 @@ Pink device. Calls in reinforcement every other turn up to a limit. Disabled whe
 #### Weather Anomaly:
 Fog or directional currents spawn around the fleet in a 5x5 square. Look at the radar, go into the fog, destroy the Weather Control Tower marked with a "?" and get some loot.
 
-## Obscured Zone/Fractured Sea/Treasure Map (Yellow Chests on map):
+## Hidden Zone/Fractured Sea/Treasure Map (Yellow Chests on map):
 Treasure maps are generated peusdo-randomly with specific patterns. Generally consists of a map divided up into "rooms". Each "room" is a 5x5 square littered with some resource crates. Map size typically corresponds to corrosion number.
 - Small map has only one slightly bigger room which has the siren rally point. (Sometimes has Akashi too)
 - Medium map has 4 rooms: 2 rally points + 0-1 Weather control device + the rest are random events.
 - Big map has 9 rooms: 1 light house + 3 rally points + 0-2 Weather control devices + the rest are random events.
 
 Example of a treasure map room:
+
 ![](https://i.imgur.com/AOwiU6k.png)
 
 #### Siren Rally Points
@@ -257,7 +258,7 @@ The first time you enter an area for the story it costs no AP. It will cost AP a
 - Chapter 4: Enemy around 92-98. Unlocks daily missions and Strongholds spawn.
 - **Notable bug, unclear if it has been fixed or not but is important to mention:** Finishing chapter 1-6 before clearing 6 regions in NW THEN clearing 6 regions might result in a soft lock where the player will not be able to unlock Liverpool port. It is recommended to stray from the red marker for a bit to clear 6 regions (some low level regions are fine, don't have to clear star level 6 regions) before continuing the story.
 
-## Enemies and Special Zones explanation
+## Enemies and Special Zones
 
 #### Sirens
 Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with your fleets. You can also just retreat when they catch up, not much reason to fight them if they are just blue reinforcements that drop no loot.
@@ -296,7 +297,7 @@ Defeating these 5 bosses unlocks access to the boss Siren of the Stronghold, who
 *The boss of the Stronghold. Beware the modular de/buffs. Stats can be checked with the link above.* 
 ![](https://i.imgur.com/5zuZklW.png)
 
-#### Abyssal zones:
+#### Abyssal Zones:
 Abyssal zones are maps that feature a large map with a singular humanoid Siren boss that drops loot upon defeat. These maps have difficulties ranging from Corrosion 4 to Corrosion 6 and are spawned by using a Siren Coordinate Logger. **__You cannot come back to this map after you leave even to check overworld, so be careful.__**
 
 *One of the possible Abyssal zone bosses: Enforcer IX - Concealment.*
