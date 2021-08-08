@@ -2,7 +2,7 @@
 
 This repository contains a number of guides aimed at breaking down certain conceptual aspects in order to teach players how to make informed decisions about how to tackle content within the game Azur Lane. All guide content is intended to be viewed in your browser. Downloading the repository can give you access to offline, plain-text copies, but all images, links, and formatting will fail to render.
 
-Here's my favorite reading music to help you read through these: [Cafe de Touhou albums 1-8](https://youtu.be/Aq6I6LK01Q0)
+Here's my favourite reading music to help you read through these: [Cafe de Touhou albums 1-8](https://youtu.be/Aq6I6LK01Q0)
 
 Current recommended reading order for newbies:
  - [Beginner Equipment Guide](/Beginner%20Equipment.md)
@@ -29,9 +29,15 @@ Credits:
 
 If you have any questions or comments, feel free to ~~post an issue on github,~~ (I'm bad at github, send help) contact me on discord (Moe#4063). I can be found on the Azur Lane English Community discord server and the Azur Lane Official discord server, just ping me.
 
+
 ```
 CHANGELOG
 ---------
+2021-08-02
+  updated Auxilliary, Core Data and Equipment Guides
+    added PR4 equipment 
+    added Gear Lab equipment 
+    added new Core Data equipment (FuMO 25)
 2020-11-23
   added PR3 research equipments to the Equipment Guide:
   added Universe in Unison and some other misc Auxiliary Equipment to the Auxiliary Guide
