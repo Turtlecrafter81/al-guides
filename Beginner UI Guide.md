@@ -139,7 +139,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 ### Middle of the screen (element 13-18 and 27-30)
 - **Element 13:** Lists of banners, events generally have 3-5 banners all running concurrently, including but not limited to ongoing event, time-limited skins, packs, dorm sets, construction rate-up.
 - **Element 14:** Formation page, change your fleets and Meowfficers here. Note: Hard mode from story or event maps has specific requirements and need to be setup on the interface itself.
-- **Element 15:** Battle/Sortie. Please refer to section [Sortie](#sortie)
+- **Element 15:** Battle/Sortie. Please refer to section [Sortie](#sortie-element-15)
 - **Element 16:** Event page. Although the poster girl change from time to time, this button is static and will always direct you to the Event page which has all the current events on the left side that you can scroll through and some on the bottom part instead so do pay attention to the bottom bar too.
 - **Element 17:** Event Maps, a shortcut to the event map instead of going to the story map then click on the event map icon.
 - **Element 18:** Event "festival ground?", some events have their own festival ground that has varying facilities. Do go here everyday since these festival ground have either beneficial buffs or event mini-games.
@@ -382,7 +382,7 @@ Basics: Creating a guild cost 300 gems, changing the guild name cost 100 gems. Y
     - Part 2 (Guild Boss): TL;DR: Use your strongest combat fleet to do damage to the boss once a day. You need to finish the fight once to get the rewards. The more often and higher you score, the faster it dies.
 
 ## Sortie (Element 15):
-Split into: [Main Campaign](#Main-Campaign), [Event Banner](#Event-Banner), [Operation Siren](Operation-Siren-Guide.md), [Challenge Mode](Challenge-Mode), [Daily Challenges](#Daily-Challenges), [Commission]() and [Exercise]().
+Split into: [Main Campaign](#Main-Campaign), [Event Banner](#Event-Banner), [Operation Siren](Operation%20Siren%20Guide.md), [Challenge Mode](Challenge-Mode), [Daily Challenges](#Daily-Challenges), [Commission]() and [Exercise]().
 
 ## Main Campaign:
 Has a Normal Mode, a Hard Mode and SoS Maps.
@@ -397,22 +397,19 @@ Has a Normal Mode, a Hard Mode and SoS Maps.
   * SoS Maps: (X-5 Maps, 3-5 to 10-5)
     - Unlocks when you clear 3-4. Signal strength depends on the highest X-5 map you have done, max is 8 when you clear 9-5. Drop table improves with Signal Strength.
     - Boss is always a submarine so be sure to have DDs and CLs on your boss fleet to kill them before losing S rank.
+    - Higher maps don't necessary have a better drop table with the sole exception of 10-5 which doesn't drop grey gears. On the contrary, 3-5 has only 3 fight before boss spawn and is really easy.
  
 ## Event Banner:
 Usually events have their own maps with Normal Mode (has 3x currency 1st clear daily), Hard Mode (has 2x currency 1st clear daily **ON RERUN EVENTS**), SP map (drop 800 currency daily), EX map (Bullet Hell flex map).
 
 ## Operation Siren:
-Please refer to the Operation Siren Guide [here](Operation Siren Guide.md)
+Please refer to the Operation Siren Guide [here](Operation%20Siren%20Guide.md)
 
 ## Challenge Mode:
 3 months cycle semi-EX mode that gives a unique frame.
 
 ## Daily Challenges:
-
-
-
-
-
-
-
-
+The [wiki](https://azurlane.koumakan.jp/Daily_Raid) sums this up really nicely but TL;DR:
+  * The main 3 (Escort Mission, Advance Mission, Fierce Assault) gives a lot of gold.
+  * Once you S rank a given raid, you will have the option to skip 1 or all attempts, getting items and gold you'd normally get per run but spending no oil or time. Only downsides to this are: No experience, not counting towards "enemy shot down" tasks, and no possible affection gain.
+  * Schedule is as followed: ![](https://i.imgur.com/SlejfXD.png)
