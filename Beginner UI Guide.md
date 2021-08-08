@@ -106,7 +106,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   * Top right "Style" is where you can customize your profile and chat border as well as medallion showcase. 
   * Bottom left is where you can change your greetings. 
   * Bottom right is where you can change your secretary as well as set your main secretary (left most, who gains 1 affection every 300-320 mins up to 90 without shrine buff*). You unlock more secretary slots for cosmetic purposes after clearing the specified story maps. (\*Shrine is explained in element 18)
-- **Element 2:** Your quick access sidebar. You can collect Oil from your Canteen and Coins from your Merchant (both are your passive generation for each resource) here without going to the Academy page, check on Commission teams, Tactical Classroom (NOT the Lecture Hall) and your Research Academy. This sidebar is One of the places you will check the most in the game.
+- **Element 2:** Your quick access sidebar. You can collect Oil from your Canteen and Coins from your Merchant (both are your passive generator for each resource) without going to the Academy page, check on Commission teams, Tactical Classroom (NOT the Lecture Hall) and your Research Academy. This sidebar is one of the places you will check the most in the game.
 - **Element 3:** Your "Beginner Missions" that give a lot of resources and an SSR ship at the end (all 4 ships are also permanent available, general guidelines for which ship to pick are as follows: Hood if you don't have a BB/BC, Enterprise if you need a CV and Sandy is nice once retrofitted but not as needed early on.). Also at the bottom right of this mission screen are the Research Catch Up missions that you can do to get EXP Packs that can be used to either fulfill your PR ships' EXP requirements or be converted into Protocores (more information under Shops below) and 30 universal PR BPs. 
 - **Element 4:** Your current Oil and associated soft cap, this cap is raised by 100 per HQ level. You can still gain more oil from buying oil with gems, commission, event/mission rewards or redeeming mail rewards but will **NOT** be able to take oil from the Canteen if above the soft cap. The absolute oil **hard cap is 25,000 oil**. You cannot gain oil in any way if you hit this hard cap.
 - **Element 5:** Your current coins and coin soft cap, this cap is raised by 600 per HQ level. Same deal as oil, where you can still gain more coins from buying coins with gems, commissions, event/mission rewards or redeeming mail rewards but will **NOT** be able to take coins from the Merchant. The absolute gold **hard cap is 600,000 gold**. You cannot gain gold in any way if you hit this hard cap.
@@ -139,7 +139,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 ### Middle of the screen (element 13-18 and 27-30)
 - **Element 13:** Lists of banners, events generally have 3-5 banners all running concurrently, including but not limited to ongoing event, time-limited skins, packs, dorm sets, construction rate-up.
 - **Element 14:** Formation page, change your fleets and Meowfficers here. Note: Hard mode from story or event maps has specific requirements and need to be setup on the interface itself.
-- **Element 15:** Battle/Sortie. Please refer to section [Sortie](#sortie-element-15)
+- **Element 15:** Battle/Sortie. Please refer to section [Sortie](#sortie-----element-15)
 - **Element 16:** Event page. Although the poster girl change from time to time, this button is static and will always direct you to the Event page which has all the current events on the left side that you can scroll through and some on the bottom part instead so do pay attention to the bottom bar too.
 - **Element 17:** Event Maps, a shortcut to the event map instead of going to the story map then click on the event map icon.
 - **Element 18:** Event "festival ground?", some events have their own festival ground that has varying facilities. Do go here everyday since these festival ground have either beneficial buffs or event mini-games.
@@ -381,7 +381,7 @@ Basics: Creating a guild cost 300 gems, changing the guild name cost 100 gems. Y
     - Part 1 (Operations): TL;DR: Click on Event, press Recommend and Confirm and wait. You need to send out at least 1 "fleet" to get the operation rewards so be sure to log on at least once a day to do that. Hint: it gives a lot of Guild Coins
     - Part 2 (Guild Boss): TL;DR: Use your strongest combat fleet to do damage to the boss once a day. You need to finish the fight once to get the rewards. The more often and higher you score, the faster it dies.
 
-## Sortie (Element 15):
+## Sortie --- Element 15:
 Split into: [Main Campaign](#Main-Campaign), [Event Banner](#Event-Banner), [Operation Siren](Operation%20Siren%20Guide.md), [Challenge Mode](Challenge-Mode), [Daily Challenges](#Daily-Challenges), [Commission]() and [Exercise]().
 
 ## Main Campaign:
@@ -413,3 +413,12 @@ The [wiki](https://azurlane.koumakan.jp/Daily_Raid) sums this up really nicely b
   * The main 3 (Escort Mission, Advance Mission, Fierce Assault) gives a lot of gold.
   * Once you S rank a given raid, you will have the option to skip 1 or all attempts, getting items and gold you'd normally get per run but spending no oil or time. Only downsides to this are: No experience, not counting towards "enemy shot down" tasks, and no possible affection gain.
   * Schedule is as followed: ![](https://i.imgur.com/SlejfXD.png)
+
+## Commissions: 
+As mentioned in the Side-bar (Element 2), you can send out unused ships on commissions here. Only ships that isn't in a fleet or sortie is able to go on comissions. Recommended to always use all 6 slots to not waste exp.
+
+## Exercise:
+PvP place. This is mainly a PvE guide and PvP is very contentious. Instead, here's the [wiki for how scoring works](https://azurlane.koumakan.jp/Exercise) and a cultivated [PvP tier list](https://docs.google.com/spreadsheets/d/1BglmSOaD1ec8zc6bKwiItf2OcQueoRNxF3UGzlQnHBU/edit#gid=2106096274)
+
+## Battle Interface:
+**To be Added** (TL;DR: click on the icons on the top left corner)
