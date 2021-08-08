@@ -1,8 +1,8 @@
 # Beginner 101
 
-So you just downloaded this waifu collector gacha game called Azur Lane, you went through the starting tutorial and now met with a UI that makes no sense and guides that uses shorthand that makes no sense. Well let me explain the UI in a straight forward manner but before we begin here's a guide to [**BIND YOUR FOOKING ACCOUNT**](https://i.imgur.com/roy6tih.jpg), because you do not need to reroll in Azur Lane like most other gacha games, here's a short list of reasons why:
+So you just downloaded this waifu collector gacha game called Azur Lane, you went through the starting tutorial and now you're met with a UI that makes no sense and guides that use shorthand terms that make no sense. Well, allow me to explain the UI in an understandable manner for you. But before we begin, here's a guide to [**BINDING YOUR FOOKING ACCOUNT**](https://i.imgur.com/roy6tih.jpg), because you do not need to reroll in Azur Lane unlike most other gacha games, here's a short list of reasons why:
 
-- Cubes and Gold are given in abundance when you are starting out. You'll get the ships you want eventually.
+- Cubes and Coins are given in abundance when you are starting out. You'll get the ships you want eventually.
 - A large majority of high value ships are not SSR rarity.
 - Several of the most cost-effective, progression-friendly ships are drops, not builds.
 - The tutorial can take 15 minutes or longer.
@@ -20,11 +20,12 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   * Common: N (Grey/White)
   * Rare: R (Blue)
   * Elite: SR (Purple)
-  * Super Rare: SSR (Yellow)
+  * Super Rare: SSR (Gold)
   * Ultra Rare: UR (Rainbow)
-  * Prototype Rare: PR (Yellow)
+  * Prototype Rare: PR (Gold)
   * Decisive Rare: DR (Rainbow)
-  * Why is this like this? Don't ask me, idk, JP/FGO stuffs. It makes more sense to say it like that, EN do have a tendency to call Super Rare as SR but then get stumped on what to call purple cause Elite just sounds strange, what kind of rarity is Elite? Can someone please enlighten me on this?
+  
+  * Most times, we don't use EN's rarity grades. It's significantly easier to differentiate the rarities when typed when following JP's rarity grades. EN players do have a tendency to call Super Rare as SR but then get stumped on what to call purple cause Elite just sounds strange amongst all the others. When participating in discussions, do make sure to specify what you mean by "SR" though. 
 </details>
 <details>
   <summary> Factions </summary>
@@ -38,7 +39,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   * Iris Libre: FFNF
   * Vichya Dominion: MNF
   * Sardegna Empire: RN
-  * There's also 2 common names for gears: SKC for German equipment and MLE for France equipment. Because these are present in the name so it's a bit more intuitive like that.
+  * There's also 2 common names for gears: SKC for German equipment and MLE for France equipment. Because these are present in the name, it's a bit more intuitive to use those terms. They also happen to have historical leanings.
 </details>
 
 <details>
@@ -60,16 +61,16 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 - Submarines
   * Submarines: SS ![SS](/resources/45px-SS_img40.png)
   * Submarine Carriers: SSV ![SSV](/resources/45px-SSV_img40.png)
-- The ship hull class can be intuited through their icons but some just have downright the same icon therefore the only way to know what ship is in what hull class is in their ship profile in the dock. Explained later in the Dock section.
+- An enemy ship's hull class can be perceived through their class icons. Some share the same icon however (BB/BC), therefore the only way to know what hull class a ship belongs to is through their ship profile in the dock. Explained later in the Dock section.
 - What does all this even mean? 
      1. Vanguard ships including: DD, CL, CA and CB are your "frontline" ships, the ones that you actually control with your joystick. 
      2. Main fleet ships including: BB, BC, BBV, BM, CV, CVL and AR are your "backline" ships, who provide Artillery support fire and/or Airstrikes (BBVs provide both). 
-     3. Submarine fleet including SS and SSV is another can of worm, unlocked after you clear chapter 3 map 4. A detailed guide about Submarines, Anti-submarine Warfare (ASW) and Rescue Missions can be found [here made by pootatoast](https://azurlane.koumakan.jp/User:Itsfyh/Submarines) (also in the helpful resources section of the readme)
+     3. Submarine fleet including SS and SSV is another can of worm, unlocked after you clear chapter 3 map 4. A detailed guide about Submarines, Anti-submarine Warfare (ASW) and Rescue Missions can be found [here made by pootatoast](https://azurlane.koumakan.jp/User:Itsfyh/Submarines) (also in the helpful resources section of the readme).
 </details>
 <details>
   <summary> Miscellaneous acronyms and tips </summary>
   
-  * **EXP from sorties means any fight that cost oil to do (daily challenges, Hard Mode, Story Map, Event maps, etc) and NOT Exercises, Dorm or Lecture Hall**
+  * **EXP from sorties means any fight that cost oil to do (Daily Challenges [without Quick Battles], Hard Mode, Story Chapters, Event Maps, etc) and NOT Exercises, Dorm, commissions or Lecture Hall.**
   * Equipment:
     - Class guns such as DD, CL, CA, BB are named accordingly: DD gun, CL gun, CA gun, BB gun
     - Torpedo/Submarine Torpedo: Torps/Sub torps
@@ -77,18 +78,19 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
     - Torpedo Bombers: TB
     - Anti-air Gun: AA
     - Auxiliary Equipment: Aux Gears
-  * Limit Break: LB (all ships have 3 LB level: LB1, LB2 and LB3 or Max LB = MLB)
-  * All __vanguard__ ships EXCEPT Collab ships have a skill, that is unlocked and upgraded by Limit Breaking, called All-out Assault: AOA for short.
-  * Blueprints: as there are many type of blueprints in the game, from PR ship blueprints to equipment blueprints, they are all collectively called BPs
-  * Research ships and blueprints are collectively called PR (prototype) so PR BPs generally refers to PR ship BP (the currency to enhance PR ships) or PR gears to refer to gears only obtainable from researches.
+  * Limit Break: LB (all ships have 4 LB level: 0LB, 1LB, 2LB and 3LB, though 3LB is more commonly called Max LB, or simply MLB)
+  * All __vanguard__ ships EXCEPT Collab ships have a barrage skill, that is unlocked and upgraded by Limit Breaking, called All-out Assault: AOA for short.
+  * Blueprints: as there are many type of blueprints in the game, from PR ship blueprints to equipment blueprints, they are all collectively called BPs. Make sure to distinct which one you're talking about.
+  * Research ships and blueprints are collectively called PR. PR BPs generally refer to PR ship BPs (the currency to enhance PR ships). Similarly, PR gears refers to equipment only obtainable from PR research.
   * Cognitive Chips (Mental Units): are often shorthanded to Chips or Cog Chips. ~~what I'd like to call Mindbreaker Juice~~ 
-  * Upgrade Parts are generally called Plates instead, e.g Torp Plates instead of Torpedo Parts, AA Plates instead of Anti-Air Gun Part,  Aux Plates instead of General Parts. Why is General Parts called Aux Plates? Because Auxiliary Equipment, the 2 slots that all ships have (3 for ARs), are upgraded with General Parts so it becomes Aux Plates.
-  * BB/BC/gunbotes secondary is called Auxiliary Gun so Aux gun for short
-  * Bombing Ships, the ships that is fast and make a beeline for your backline, are colloquially referred to as jihads.
-  * This is how I refer to bulins and not reflective of how others do it: (they both say purin so it's hard to separate them based on the verbal tick)
-    * Prototype Bulin MKII are gold bulins or just bulins
-    * Universal Bulin are purins instead because B change to P means purple
-  * OpSi: Operation Siren, a bundle of mess that has T4 plates to upgrade equipment past +10, Materials to builds Gear Lab equipments and META showdown.
+  * Upgrade Parts are generally called Plates instead, e.g Torp Plates instead of Torpedo Parts, AA Plates instead of Anti-Air Gun Part,  Aux Plates instead of General Parts. 
+	* Why is General Parts called Aux Plates? Because Auxiliary Equipment, the 2 slots that all ships have (3 for ARs), are upgraded with General Parts. Therefore, Aux Plates.
+  * BB/BC/certain gun cruisers' Secondary guns are sometimes called Auxiliary guns, so Aux gun for short.
+  * Bombing Ships, the ships that move fast and make a beeline for your backline, are colloquially referred to as fireboats, or suicide ships. Some may find other creative names to describe their suicidal nature - you can probably understand what they're referring to.
+  * This is how I refer to bulins and not reflective of how others do it: (they both say purin so it's hard to separate them based on the verbal tick of their voicelines.)
+    * Prototype Bulin MKII are gold bulins or gold purins 
+    * Universal Bulin are simply bulins or purins
+  * OpSi: Operation Siren, a gamemode where players can obtain has T4 plates to upgrade equipment past +10, as well as Materials necessary to build Gear Lab equipment and also contains access to META Showdowns.
 </details>
 
 ## Main UI Explanation:
@@ -99,23 +101,21 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 
 ![I, Bucky](https://i.imgur.com/eeepxkL.jpg)
 
-<sup> I, Bucky </sup>
-
 ### Top bar (element 1-6)
-- **Element 1:** **the LV. is your HQ or Commander level**, leveling up while grants little to no immediate benefits but is quintessential to your progression ([details here](https://azurlane.koumakan.jp/Experience#Commander_XP)). Clicking on your secretary portrait takes you to your profile page. The profile page show you some basic data with some customization options. 
+- **Element 1:** **The LV. shown here is your HQ or Commander level**. Leveling this up grants little to no immediate benefits, but is quintessential to your progression ([details here](https://azurlane.koumakan.jp/Experience#Commander_XP)). Clicking on your secretary portrait takes you to your profile page. The profile page shows you some basic data with some customization options. 
   * Top right "Style" is where you can customize your profile and chat border as well as medallion showcase. 
   * Bottom left is where you can change your greetings. 
-  * Bottom right is where you can change your secretary as well as set your main secretary (left most, who gains 1 affection every 300-320 mins up to 90 without shrine buff*). You unlock more secretary slots for cosmetics after clearing the specified story maps. (Shrine is explained in element 18)
-- **Element 2:** is your quick access side bar. You can collect Canteen Oil and Merchant Coins passive generation here without going to the Academy page, check on Commission teams, Tactical Classroom (NOT the Lecture Hall) and your Research Academy. One of the places you will check the most in the game.
-- **Element 3:** Your "Beginner Missions" that gives a lot of resources and an SSR ship at the end (all 4 ship is also permanent available, recommendation for the ship is Hood if you don't have a BB/BC or Enterprise if you need a CV, Sandy is nice with retro but not that needed). Also at the bottom right of this mission screen have the research catch up missions that you can do to get EXP cards to fulfill your PR ships exp requirements (and 30 universal BPs to convert). 
-- **Element 4:** is your current oil and oil soft cap, this cap is raised by 100 per HQ level. You can still gain more oil from buying oil with gems, commission, event/mission rewards or redeeming mails but will **NOT** be able to take oil from the canteen. The absolute oil **hard cap is 25,000 oil**. You cannot gain oil in any way if you hit this hard cap.
-- **Element 5:** is your current gold and gold soft cap, this cap is raised by 600 per HQ level. Same deal as oil, still can gain more gold from buying gold with gems, commission, event/mission rewards or redeeming mails but will **NOT** be able to take gold from the merchant. The absolute gold **hard cap is 600,000 gold**. You cannot gain gold in any way if you hit this hard cap.
-- **Element 6:** is your current gems stock, the premium currency so to speak, you can gain more by buying in the gems shop, some packs, 3 starring story map missions and some lucky urgent commissions (a minimal amount if any). Therefore as a F2P player, gems is a luxury and should always go into permanent upgrades instead of consumables. Recommended gem expenditure would be the following: 
-  * **Dormitory slots: The 3rd dorm slot cost 300 gems, 4th cost 500 gems, 5th cost 800 gems and 6th cost 1200 gems.** The 2nd floor, which can be unlocked after you have fully expanded using furniture coins, cost **500 gems** and only provide morale regeneration and no exp gains. The 6th slot cost a lot and could be optionally skipped.
-  * **Dock space expansion:** cost 200 gems per 10 slots until the 2000 dock space, after which it will cost 300 gems per 10 slots up to the cap of 3000 dock space.
-  * Academy 3rd and 4th slot unlock: cost 500 gems and not that needed since you *eventually* don't need to raise so many skills as the main bottleneck is skill books.
+  * Bottom right is where you can change your secretary as well as set your main secretary (left most, who gains 1 affection every 300-320 mins up to 90 without shrine buff*). You unlock more secretary slots for cosmetic purposes after clearing the specified story maps. (\*Shrine is explained in element 18)
+- **Element 2:** Your quick access sidebar. You can collect Oil from your Canteen and Coins from your Merchant (both are your passive generation for each resource) here without going to the Academy page, check on Commission teams, Tactical Classroom (NOT the Lecture Hall) and your Research Academy. This sidebar is One of the places you will check the most in the game.
+- **Element 3:** Your "Beginner Missions" that give a lot of resources and an SSR ship at the end (all 4 ships are also permanent available, general guidelines for which ship to pick are as follows: Hood if you don't have a BB/BC, Enterprise if you need a CV and Sandy is nice once retrofitted but not as needed early on.). Also at the bottom right of this mission screen are the Research Catch Up missions that you can do to get EXP Packs that can be used to either fulfill your PR ships' EXP requirements or be converted into Protocores (more information under Shops below) and 30 universal PR BPs. 
+- **Element 4:** Your current Oil and associated soft cap, this cap is raised by 100 per HQ level. You can still gain more oil from buying oil with gems, commission, event/mission rewards or redeeming mail rewards but will **NOT** be able to take oil from the Canteen if above the soft cap. The absolute oil **hard cap is 25,000 oil**. You cannot gain oil in any way if you hit this hard cap.
+- **Element 5:** Your current coins and coin soft cap, this cap is raised by 600 per HQ level. Same deal as oil, where you can still gain more coins from buying coins with gems, commissions, event/mission rewards or redeeming mail rewards but will **NOT** be able to take coins from the Merchant. The absolute gold **hard cap is 600,000 gold**. You cannot gain gold in any way if you hit this hard cap.
+- **Element 6:** Your current gem stock, the premium currency of the game. You can gain more by purchasing them for real currency in the gem shop, through purchase of certain item packs, or by 3 starring story map missions and some lucky urgent commissions (where you stand a small chance of obtaining a minimal amount, if any). Therefore as a F2P player, gems are a luxury and should always go into permanent upgrades instead of consumables. Recommended gem expenditure would be the following: 
+  * **Dormitory slots: The 3<sup>rd</sup> dorm slot costs 300 gems, 4<sup>th</sup> costs 500 gems, 5<sup>th</sup> costs 800 gems and 6<sup>th</sup> costs 1200 gems.** The 2<sup>nd</sup> floor, which can be unlocked after you have fully expanded the first using furniture coins, costs **500 gems** and only provides morale regeneration, with no EXP gain. The 6<sup>th</sup> slot costs a lot and could be optionally skipped.
+  * **Dock space expansion:** Costs 200 gems per 10 slots until the player has 2000 dock space, after which it will cost 300 gems per 10 slots up to the cap of 3000 dock space.
+  * Academy 3<sup>rd</sup> and 4<sup>th</sup> slot unlocks cost 500 gems each and are not that needed since you *eventually* don't need to raise as many skills at any given time - the main bottleneck is skill books.
   * Skins and Rings are luxury items afterwards.
-  * Consumables come last such as oil refills, cubes, gold, ~~quick finishers~~, premium food, etc. (Premium food sometimes appear in Coin Shop and Medal Exchange so do pick them up as they are really valuable)
+  * Consumables come last such as oil refills, cubes, gold, ~~quick finishers~~, premium food, etc. (Dorm food that requires gems for purchase sometimes appear in the Coin Shop and Medal Exchange, so do pick them up if you can afford to as they are really valuable.)
 
 ### Right side bar (element 7-12)
 - **Element 7:** This is the memento section, including the following ordered from top to bottom: ![](https://i.imgur.com/xZ1nmjz.png)
