@@ -384,6 +384,8 @@ Basics: Creating a guild cost 300 gems, changing the guild name cost 100 gems. Y
 ## Sortie (Element 15):
 Split into: [Main Campaign](#Main-Campaign), [Event Banner](#Event-Banner), [Operation Siren](Operation%20Siren%20Guide.md), [Challenge Mode](Challenge-Mode), [Daily Challenges](#Daily-Challenges), [Commission](#Commission) and [Exercise](#Exercise).
 
+![](https://i.imgur.com/daLfIli.png)
+
 ## Main Campaign:
 Normal Mode, Hard Mode and SoS Maps.
   * Normal Mode:
@@ -404,6 +406,8 @@ Major events have their own maps with Normal Mode (has 3x currency 1st clear dai
 
 Some minor events, but not all, also include their own maps. These have only 3 nodes, all named SP1-3, and drop no currency but feature a 'complete SP3 60 times' milestone in order to gain a certain ship.
 
+When there is no current event with a map, the Event Banner is simply replaced by "No Active Event".
+
 ## Operation Siren:
 Please refer to the Operation Siren Guide [here](Operation%20Siren%20Guide.md)
 
@@ -414,8 +418,15 @@ Please refer to the Operation Siren Guide [here](Operation%20Siren%20Guide.md)
 The [wiki](https://azurlane.koumakan.jp/Daily_Raid) explains in a bit more depth but TL;DR:
   * The main 3 dailies (Escort Mission, Advance Mission, Fierce Assault) give a lot of gold, and the highest tier is unlocked at Commander level 70.
   * Once you S rank a given raid, you will have the option to skip 1 or all attempts, getting items and gold you'd normally get per run but spending no oil or time. Only downsides to this are: No experience, not counting towards "enemy shot down" tasks, and no possible affection gain.
-  * Schedule is as follows: ![](https://i.imgur.com/SlejfXD.png)
+  * Schedule is as follows: 
+
+![](https://i.imgur.com/SlejfXD.png)
 
 ## Commission:
+Likewise, the [wiki](https://azurlane.koumakan.jp/Commissions) goes into detail. TL;DR i as as follows:
+  * Unlocked at Commander level 10, they are 'set and forget' missions where you send ships away and earn resources (such as Coins, Oil, Wisdom Cubes, etc.) once the timer is up.
+  * Commissions have some requirements that must be satisfied by the ships you send before the commission can be launched.
+
+These can also be viewed through the 'quick access' tab in the home screen.
 
 ## Exercise: 
