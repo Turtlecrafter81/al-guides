@@ -382,12 +382,11 @@ Basics: Creating a guild cost 300 gems, changing the guild name cost 100 gems. Y
     - Part 2 (Guild Boss): TL;DR: Use your strongest combat fleet to do damage to the boss once a day. You need to finish the fight once to get the rewards. The more often and higher you score, the faster it dies.
 
 ## Sortie (Element 15):
-Split into: [Main Campaign](#Main-Campaign), [Event Banner](#Event-Banner), [Operation Siren](Operation%20Siren%20Guide.md), [Challenge Mode](Challenge-Mode), [Daily Challenges](#Daily-Challenges), [Commission](#Commission) and [Exercise](#Exercise).
+Split into: [Main Campaign](#Main-Campaign), [Event Banner](#Event-Banner), [Operation Siren](Operation%20Siren%20Guide.md), [Challenge Mode](Challenge-Mode), [War Archives](War-Archives), [Daily Challenges](#Daily-Challenges), [Commissions](#Commissions) and [Exercises](#Exercises).
 
 ![](https://i.imgur.com/daLfIli.png)
 
 ## Main Campaign:
-Normal Mode, Hard Mode and SoS Maps.
   * Normal Mode:
     - Also sometimes referred to 'progression' or simply 'campaign', this is where you will farm for most of the game.
     - Here's a [Chapter Walkthrough Guide](https://slaimuda.github.io/ectl/#/newbguide).
@@ -397,9 +396,12 @@ Normal Mode, Hard Mode and SoS Maps.
     - Has a stat requirement: Meet the stats to sortie your fleet. When ships alone don't suffice, throwing on some auxiliary gear to help meet requirements can be useful.
     - Rewards: Retrofits Blueprints and Core Data. More information on [retrofits](https://azurlane.koumakan.jp/Dockyard#Retrofit) and [core data](https://azurlane.koumakan.jp/Shops#Core_Exchange), including a Core Data [buying guide](Core%20Data%20Guide.md).
   * SoS Maps: (X-5 Maps, 3-5 to 10-5)
-    - Unlocks when you clear 3-4. Signal strength depends on the highest X-5 map you have done, max is 8 when you clear 9-5. Drop table improves with Signal Strength.
-    - Boss is always a submarine so be sure to have DDs and CLs on your boss fleet to kill them before losing S rank.
-    - Higher maps don't necessary have a better drop table with the sole exception of 10-5 which doesn't drop grey gears. On the contrary, 3-5 has only 3 fight before boss spawn and is really easy.
+    - [Wiki page](https://azurlane.koumakan.jp/Anti-Submarine_Warfare).
+    - One of the 2 permanent sources for submarine torpedoes, aside from the submarine Daily Raid. Unlocked upon completion of 3-4.
+    - The map tiles and its ship drops are based off the X-4 node for that stage, e.g. 3-5 is based off the map tiles of 3-4 and also has chances to drop Akagi and Kaga.
+    - Signal strength refers to your currently available X-5 nodes, which depends on the highest X-5 map you have done. Max is 8 when you clear 9-5. 
+    - Equipment drop tables are shared across all X-5 maps and it improves with Signal Strength. As such, it is typically recommended to start seriously farming once you have reached at least Signal Strength 5.
+    - The boss is always a submarine so be sure to have at least 1 destroyer or light cruiser on your boss fleet to kill them before losing S rank. Acquisition of the [Hedgehog](https://azurlane.koumakan.jp/Hedgehog) hilariously trivialises submarine bosses.
  
 ## Event Banner:
 Major events have their own maps with Normal Mode (has 3x currency 1st clear daily), Hard Mode (has 2x currency 1st clear daily **ON RERUN EVENTS**), SP map (drop 800 currency daily), EX map (Bullet Hell flex map).
@@ -412,7 +414,13 @@ When there is no current event with a map, the Event Banner is simply replaced b
 Please refer to the Operation Siren Guide [here](Operation%20Siren%20Guide.md)
 
 ## Challenge Mode:
-3 months cycle semi-EX mode that gives a unique frame per season.
+Unlocked at Commander level 80, this is a 3 months cycle semi-EX mode that gives a unique frame per season. [Wiki page here](https://azurlane.koumakan.jp/Challenge_Mode).
+
+## War Archives:
+Players can access old event maps to obtain special shop drops and equipment.
+  * To enter any map, players must use 'Data Keys'. There is a cap on 60 Keys with 2 awarded daily.
+  * Note that there is no point to 3* old maps as there is no tangible reward aside from your own personal satisfaction.
+  * More information on the [wiki page](https://azurlane.koumakan.jp/War_Archives).
 
 ## Daily Challenges:
 The [wiki](https://azurlane.koumakan.jp/Daily_Raid) explains in a bit more depth but TL;DR:
@@ -422,11 +430,15 @@ The [wiki](https://azurlane.koumakan.jp/Daily_Raid) explains in a bit more depth
 
 ![](https://i.imgur.com/SlejfXD.png)
 
-## Commission:
+## Commissions:
 Likewise, the [wiki](https://azurlane.koumakan.jp/Commissions) goes into detail. TL;DR i as as follows:
   * Unlocked at Commander level 10, they are 'set and forget' missions where you send ships away and earn resources (such as Coins, Oil, Wisdom Cubes, etc.) once the timer is up.
   * Commissions have some requirements that must be satisfied by the ships you send before the commission can be launched.
 
 These can also be viewed through the 'quick access' tab in the home screen.
 
-## Exercise: 
+## Exercises: 
+Also referred to as 'PvP', this game mode pits you against other players with the goal of accumulating the unique currency "Merit" and to progress in rankings.
+  * For new players, Exercises are best treated as a free source of experience, as losses against other players will still reward Merit and experience.
+  * Merit can be spent to purchase items in the [Merit Shop](https://azurlane.koumakan.jp/Shops#Merit_Shop), the most valuable being Universal Bulins and Prototype Bulins.
+  * Further information can be found [here](https://azurlane.koumakan.jp/Exercise).
