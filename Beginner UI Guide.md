@@ -382,34 +382,40 @@ Basics: Creating a guild cost 300 gems, changing the guild name cost 100 gems. Y
     - Part 2 (Guild Boss): TL;DR: Use your strongest combat fleet to do damage to the boss once a day. You need to finish the fight once to get the rewards. The more often and higher you score, the faster it dies.
 
 ## Sortie (Element 15):
-Split into: [Main Campaign](#Main-Campaign), [Event Banner](#Event-Banner), [Operation Siren](Operation%20Siren%20Guide.md), [Challenge Mode](Challenge-Mode), [Daily Challenges](#Daily-Challenges), [Commission]() and [Exercise]().
+Split into: [Main Campaign](#Main-Campaign), [Event Banner](#Event-Banner), [Operation Siren](Operation%20Siren%20Guide.md), [Challenge Mode](Challenge-Mode), [Daily Challenges](#Daily-Challenges), [Commission](#Commission) and [Exercise](#Exercise).
 
 ## Main Campaign:
-Has a Normal Mode, a Hard Mode and SoS Maps.
+Normal Mode, Hard Mode and SoS Maps.
   * Normal Mode:
-    - Nothing much to say besides, this is where you will farm for most of the game.
-    - Here's a [Chapter Walkthrough Guide](https://slaimuda.github.io/ectl/#/newbguide)
+    - Also sometimes referred to 'progression' or simply 'campaign', this is where you will farm for most of the game.
+    - Here's a [Chapter Walkthrough Guide](https://slaimuda.github.io/ectl/#/newbguide).
   * Hard Mode:
     - Unlocks when you 3* all of the corresponding chapter's maps (X-1 to X-4)
-    - Has a fleet requirement. Needs to have ONE of each required Main FLeet and Vanguard ship to make the fleet a valid fleet to sortie (and contribute to the stat req).
-    - Has a stat requirement: Meet the stats to sortie your fleet.
-    - Rewards: Retrofits Blueprints and Core Data.
+    - Has specific hull class requirements. Needs to have ONE of each required Main FLeet and Vanguard ship to make the fleet a valid fleet to sortie (and contribute to the stat req). 
+    - Has a stat requirement: Meet the stats to sortie your fleet. When ships alone don't suffice, throwing on some auxiliary gear to help meet requirements can be useful.
+    - Rewards: Retrofits Blueprints and Core Data. More information on [retrofits](https://azurlane.koumakan.jp/Dockyard#Retrofit) and [core data](https://azurlane.koumakan.jp/Shops#Core_Exchange), including a Core Data [buying guide](Core%20Data%20Guide.md).
   * SoS Maps: (X-5 Maps, 3-5 to 10-5)
     - Unlocks when you clear 3-4. Signal strength depends on the highest X-5 map you have done, max is 8 when you clear 9-5. Drop table improves with Signal Strength.
     - Boss is always a submarine so be sure to have DDs and CLs on your boss fleet to kill them before losing S rank.
     - Higher maps don't necessary have a better drop table with the sole exception of 10-5 which doesn't drop grey gears. On the contrary, 3-5 has only 3 fight before boss spawn and is really easy.
  
 ## Event Banner:
-Usually events have their own maps with Normal Mode (has 3x currency 1st clear daily), Hard Mode (has 2x currency 1st clear daily **ON RERUN EVENTS**), SP map (drop 800 currency daily), EX map (Bullet Hell flex map).
+Major events have their own maps with Normal Mode (has 3x currency 1st clear daily), Hard Mode (has 2x currency 1st clear daily **ON RERUN EVENTS**), SP map (drop 800 currency daily), EX map (Bullet Hell flex map).
+
+Some minor events, but not all, also include their own maps. These have only 3 nodes, all named SP1-3, and drop no currency but feature a 'complete SP3 60 times' milestone in order to gain a certain ship.
 
 ## Operation Siren:
 Please refer to the Operation Siren Guide [here](Operation%20Siren%20Guide.md)
 
 ## Challenge Mode:
-3 months cycle semi-EX mode that gives a unique frame.
+3 months cycle semi-EX mode that gives a unique frame per season.
 
 ## Daily Challenges:
-The [wiki](https://azurlane.koumakan.jp/Daily_Raid) sums this up really nicely but TL;DR:
-  * The main 3 (Escort Mission, Advance Mission, Fierce Assault) gives a lot of gold.
+The [wiki](https://azurlane.koumakan.jp/Daily_Raid) explains in a bit more depth but TL;DR:
+  * The main 3 dailies (Escort Mission, Advance Mission, Fierce Assault) give a lot of gold, and the highest tier is unlocked at Commander level 70.
   * Once you S rank a given raid, you will have the option to skip 1 or all attempts, getting items and gold you'd normally get per run but spending no oil or time. Only downsides to this are: No experience, not counting towards "enemy shot down" tasks, and no possible affection gain.
-  * Schedule is as followed: ![](https://i.imgur.com/SlejfXD.png)
+  * Schedule is as follows: ![](https://i.imgur.com/SlejfXD.png)
+
+## Commission:
+
+## Exercise: 
