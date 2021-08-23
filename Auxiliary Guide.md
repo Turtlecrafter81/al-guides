@@ -83,7 +83,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  
  - **[FuMO 25](https://azurlane.koumakan.jp/Funkmess-Ortung_25_Radar)** similar to the Fire Control Radar above, but provides more FP and HIT while also being equippable by Light Cruisers. The premier damage boosting aux for any gun-focused vanguard unit.
 
- - **[Arctic Report/FP Report](https://azurlane.koumakan.jp/Intel_Report-Arctic_Stronghold)** provides moderate boosts to FP and HP. Useful for FP stacking on Destroyers/Light Cruisers due to their lack of access to Fire Control Radar
+ - **[Arctic Report/FP Report](https://azurlane.koumakan.jp/Intel_Report-Arctic_Stronghold)** provides moderate boosts to FP and HP. Useful for FP stacking primarily on Destroyers due to their lack of access to both the Fire Control Radar and Fumo 25.
 
 **Gunnery Main Fleet Auxiliaries**<br/>
 [![T1 Shell](/resources/t1%20shell%20no_gr.png)](https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell)
