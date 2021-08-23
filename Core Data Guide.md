@@ -33,6 +33,7 @@ Cognition chips are a well-justified value proposition. Their core data cost is 
 [![Seal of the Four Gods](/resources/seal%20of%20four%20gods%20no_gr.png)](https://azurlane.koumakan.jp/Seal_of_the_Four_Gods)
 [![Homing Beacon](/resources/homing%20beacon%20no_gr.png)](https://azurlane.koumakan.jp/Homing_Beacon)
 [![Pressure-Resistant Hull Design](/resources/Sub%20Hull%20no_gr.png)](https://azurlane.koumakan.jp/Pressure-Resistant_Hull_Design)
+[![FuMO 25](/resources/FuMO.png)](https://azurlane.koumakan.jp/Funkmess-Ortung_25_Radar)
 
  - **[Type 93 Oxygen Torpedo](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)** - The strongest offensive aux for nearly every vanguard unit equipped with torpedoes. Its high-rarity makes upgrading it relatively difficult and as such, treat it as a long-term commitment. Long-term oxytorp goals are 4 or so for vanguard usage and between 3-6 for submarine fleets.
  - **[Type 1 Armour-Piercing Shell](https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell)** - The strongest offensive aux combo for main fleet artillery support is a T1 shell alongside a SHS. Given the existence of other especially useful auxiliary equips for these ships, T1 shell represents a weaker value prospect than SH shells and can be subsitute for a T91 purple shell from IJN T3/T4 boxes for a while.
@@ -41,6 +42,7 @@ Cognition chips are a well-justified value proposition. Their core data cost is 
  - **[Seal of the Four Gods](https://azurlane.koumakan.jp/Seal_of_the_Four_Gods)** - Boosts main gun and barrage damage when equipped to the An Shan class DDs. Given their weak torpedoes, this auxiliary equip easily overtakes the oxytorp as the strongest offensive aux for them specifically. Obviously required for them but other perk of this auxiliary equipment is that it provides 550 hp to DDs. Therefore that makes it better than a second toolbox for DDs that might benefit from a double toolbox setup since the heal doesn't stack.
  - **[Homing Beacon](https://azurlane.koumakan.jp/Homing_Beacon)** - Incredibly useful aux for carriers. Should be considered default equipment for trash clearing fleets, PVP and reload tuning carriers. Purchase accordingly.
   - **[Pressure-Resistant Hull Design](https://azurlane.koumakan.jp/Pressure-Resistant_Hull_Design)** - A deceptively useful offensive aux for calling submarines into combat as its effects make firing slower torpedo types accurately easier for the side subs.
+  - **[FuMO 25](https://azurlane.koumakan.jp/Funkmess-Ortung_25_Radar)** - A better Fire Control Radar that's also uniquely equippable by Light Cruisers, compared to the Fire COntrol Radar (FCR) that isn't. However, since it offers little over the easily obtainable FCR this item has the lowest priority among all other auxes on this list.
 
 ## Questionable Equipment
 [![Seafury](/resources/Seafury%20no_gr.png)](https://azurlane.koumakan.jp/Hawker_Sea_Fury)
