@@ -70,7 +70,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![533mm Magnetic Torpedo](/resources/533mm%20Magnetic%20Torpedo%20no_gr.png)](https://azurlane.koumakan.jp/533mm_Magnetic_Torpedo)
 [![Autoloader](/resources/autoloader%20no_gr.png)](https://azurlane.koumakan.jp/Autoloader#Type_3)
 [![FCR](/resources/fcr%20no_gr.png)](https://azurlane.koumakan.jp/Fire_Control_Radar#Type_3)
-[![FuMO 25]()](https://azurlane.koumakan.jp/Funkmess-Ortung_25_Radar)
+[![FuMO 25](/resources/FuMO.png)](https://azurlane.koumakan.jp/Funkmess-Ortung_25_Radar)
 [![FP Report](/resources/FP%20Report.png)](https://azurlane.koumakan.jp/Intel_Report-Arctic_Stronghold)
 
  - **[Type 93 Oxygen Torpedo](https://azurlane.koumakan.jp/Type_93_Pure_Oxygen_Torpedo)** has the highest TRP stat boost with a moderate RLD boost. For most ships equipped with torpedoes, it will provide a higher boost to their effective damage than any other aux. However, as this is reliant on your torpedoes actively hitting targets, other auxiliaries may provide a superior effective boost to their DPS.
@@ -81,9 +81,9 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  
  - **[Fire Control Radar](https://azurlane.koumakan.jp/Fire_Control_Radar#Type_3)** provides moderate boosts to FP and HIT. Of the vanguard units, it can only be equipped to Heavy Cruisers. It generally pulls ahead of the reloader if the accuracy boost is valuable or the equipped ship has strong firepower boosts.
  
- - **[FuMO 25](https://azurlane.koumakan.jp/Funkmess-Ortung_25_Radar]** similar to the Fire Control Radar above, but provides more FP and HIT while also being equippable by Light Cruisers. The premier damage boosting aux for any gun-focused vanguard unit.
+ - **[FuMO 25](https://azurlane.koumakan.jp/Funkmess-Ortung_25_Radar)** similar to the Fire Control Radar above, but provides more FP and HIT while also being equippable by Light Cruisers. The premier damage boosting aux for any gun-focused vanguard unit.
 
- - **[Arctic Report/FP Report](https://azurlane.koumakan.jp/Intel_Report-Arctic_Stronghold)** provides moderate boosts to FP and HP. Useful for FP stacking on Destroyers/Light Cruisers due to their lack of access to Fire Control Radar
+ - **[Arctic Report/FP Report](https://azurlane.koumakan.jp/Intel_Report-Arctic_Stronghold)** provides moderate boosts to FP and HP. Useful for FP stacking primarily on Destroyers due to their lack of access to both the Fire Control Radar and Fumo 25.
 
 **Gunnery Main Fleet Auxiliaries**<br/>
 [![T1 Shell](/resources/t1%20shell%20no_gr.png)](https://azurlane.koumakan.jp/Type_1_Armor_Piercing_Shell)

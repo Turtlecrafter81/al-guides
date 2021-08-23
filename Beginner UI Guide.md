@@ -382,44 +382,65 @@ Basics: Creating a guild cost 300 gems, changing the guild name cost 100 gems. Y
     - Part 1 (Operations): TL;DR: Click on Event, press Recommend and Confirm and wait. You need to send out at least 1 "fleet" to get the operation rewards so be sure to log on at least once a day to do that. Hint: it gives a lot of Guild Coins
     - Part 2 (Guild Boss): TL;DR: Use your strongest combat fleet to do damage to the boss once a day. You need to finish the fight once to get the rewards. The more often and higher you score, the faster it dies.
 
-## Sortie --- Element 15:
-Split into: [Main Campaign](#Main-Campaign), [Event Banner](#Event-Banner), [Operation Siren](Operation%20Siren%20Guide.md), [Challenge Mode](Challenge-Mode), [Daily Challenges](#Daily-Challenges), [Commission]() and [Exercise]().
+## Sortie (Element 15):
+Split into: [Main Campaign](#Main-Campaign), [Event Banner](#Event-Banner), [Operation Siren](Operation%20Siren%20Guide.md), [Challenge Mode](Challenge-Mode), [War Archives](War-Archives), [Daily Challenges](#Daily-Challenges), [Commissions](#Commissions) and [Exercises](#Exercises).
+![](https://i.imgur.com/daLfIli.png)
 
 ## Main Campaign:
-Has a Normal Mode, a Hard Mode and SoS Maps.
   * Normal Mode:
-    - Nothing much to say besides, this is where you will farm for most of the game.
-    - Here's a [Chapter Walkthrough Guide](https://slaimuda.github.io/ectl/#/newbguide)
+    - Also sometimes referred to 'progression' or simply 'campaign', this is where you will farm for most of the game.
+    - Here's a [Chapter Walkthrough Guide](https://slaimuda.github.io/ectl/#/newbguide).
   * Hard Mode:
     - Unlocks when you 3* all of the corresponding chapter's maps (X-1 to X-4)
-    - Has a fleet requirement. Needs to have ONE of each required Main FLeet and Vanguard ship to make the fleet a valid fleet to sortie (and contribute to the stat req).
-    - Has a stat requirement: Meet the stats to sortie your fleet.
-    - Rewards: Retrofits Blueprints and Core Data.
+    - Has specific hull class requirements. Needs to have ONE of each required Main FLeet and Vanguard ship to make the fleet a valid fleet to sortie (and contribute to the stat req). 
+    - Has a stat requirement: Meet the stats to sortie your fleet. When ships alone don't suffice, throwing on some auxiliary gear to help meet requirements can be useful.
+    - Rewards: Retrofits Blueprints and Core Data. More information on [retrofits](https://azurlane.koumakan.jp/Dockyard#Retrofit) and [core data](https://azurlane.koumakan.jp/Shops#Core_Exchange), including a Core Data [buying guide](Core%20Data%20Guide.md).
   * SoS Maps: (X-5 Maps, 3-5 to 10-5)
-    - Unlocks when you clear 3-4. Signal strength depends on the highest X-5 map you have done, max is 8 when you clear 9-5. Drop table improves with Signal Strength.
-    - Boss is always a submarine so be sure to have DDs and CLs on your boss fleet to kill them before losing S rank.
-    - Higher maps don't necessary have a better drop table with the sole exception of 10-5 which doesn't drop grey gears. On the contrary, 3-5 has only 3 fight before boss spawn and is really easy.
+    - [Wiki page](https://azurlane.koumakan.jp/Anti-Submarine_Warfare).
+    - One of the 2 permanent sources for submarine torpedoes, aside from the submarine Daily Raid. Unlocked upon completion of 3-4.
+    - The map tiles and its ship drops are based off the X-4 node for that stage, e.g. 3-5 is based off the map tiles of 3-4 and also has chances to drop Akagi and Kaga.
+    - Signal strength refers to your currently available X-5 nodes, which depends on the highest X-5 map you have done. Max is 8 when you clear 9-5. 
+    - Equipment drop tables are shared across all X-5 maps and it improves with Signal Strength. As such, it is typically recommended to start seriously farming once you have reached at least Signal Strength 5.
+    - The boss is always a submarine so be sure to have at least 1 destroyer or light cruiser on your boss fleet to kill them before losing S rank. Acquisition of the [Hedgehog](https://azurlane.koumakan.jp/Hedgehog) hilariously trivialises submarine bosses.
  
 ## Event Banner:
-Usually events have their own maps with Normal Mode (has 3x currency 1st clear daily), Hard Mode (has 2x currency 1st clear daily **ON RERUN EVENTS**), SP map (drop 800 currency daily), EX map (Bullet Hell flex map).
+Major events have their own maps with Normal Mode (has 3x currency 1st clear daily), Hard Mode (has 2x currency 1st clear daily **ON RERUN EVENTS**), SP map (drop 800 currency daily), EX map (Bullet Hell flex map).
+
+Some minor events, but not all, also include their own maps. These have only 3 nodes, all named SP1-3, and drop no currency but feature a 'complete SP3 60 times' milestone in order to gain a certain ship.
+
+When there is no current event with a map, the Event Banner is simply replaced by "No Active Event".
 
 ## Operation Siren:
 Please refer to the Operation Siren Guide [here](Operation%20Siren%20Guide.md)
 
 ## Challenge Mode:
-3 months cycle semi-EX mode that gives a unique frame.
+Unlocked at Commander level 80, this is a 3 months cycle semi-EX mode that gives a unique frame per season. [Wiki page here](https://azurlane.koumakan.jp/Challenge_Mode).
+
+## War Archives:
+Players can access old event maps to obtain special shop drops and equipment.
+  * To enter any map, players must use 'Data Keys'. There is a cap on 60 Keys with 2 awarded daily.
+  * Note that there is no point to 3* old maps as there is no tangible reward aside from your own personal satisfaction.
+  * More information on the [wiki page](https://azurlane.koumakan.jp/War_Archives).
 
 ## Daily Challenges:
-The [wiki](https://azurlane.koumakan.jp/Daily_Raid) sums this up really nicely but TL;DR:
-  * The main 3 (Escort Mission, Advance Mission, Fierce Assault) gives a lot of gold.
+The [wiki](https://azurlane.koumakan.jp/Daily_Raid) explains in a bit more depth but TL;DR:
+  * The main 3 dailies (Escort Mission, Advance Mission, Fierce Assault) give a lot of gold, and the highest tier is unlocked at Commander level 70.
   * Once you S rank a given raid, you will have the option to skip 1 or all attempts, getting items and gold you'd normally get per run but spending no oil or time. Only downsides to this are: No experience, not counting towards "enemy shot down" tasks, and no possible affection gain.
+  * Schedule is as follows: ![](https://i.imgur.com/SlejfXD.png)
+
+## Commissions:
+Likewise, the [wiki](https://azurlane.koumakan.jp/Commissions) goes into detail. TL;DR i as as follows:
+  * Unlocked at Commander level 10, they are 'set and forget' missions where you send ships away and earn resources (such as Coins, Oil, Wisdom Cubes, etc.) once the timer is up.
+  * Commissions have some requirements that must be satisfied by the ships you send before the commission can be launched.
+  * These can also be viewed through the 'quick access' tab (Element 2) in the home screen.
+
+## Exercises: 
+Also referred to as 'PvP', this game mode pits you against other players with the goal of accumulating the unique currency "Merit" and to progress in rankings.
+  * For new players, Exercises are best treated as a free source of experience, as losses against other players will still reward Merit and experience.
+  * Merit can be spent to purchase items in the [Merit Shop](https://azurlane.koumakan.jp/Shops#Merit_Shop), the most valuable being Universal Bulins and Prototype Bulins.
+  * Further information can be found [here](https://azurlane.koumakan.jp/Exercise).
+  * Here's a curated [PvP tier list](https://docs.google.com/spreadsheets/d/1BglmSOaD1ec8zc6bKwiItf2OcQueoRNxF3UGzlQnHBU/edit#gid=2106096274) made by knowledgeable members of the community.
   * Schedule is as followed: ![](https://i.imgur.com/SlejfXD.png)
-
-## Commissions: 
-As mentioned in the Side-bar (Element 2), you can send out unused ships on commissions here. Only ships that isn't in a fleet or sortie is able to go on comissions. Recommended to always use all 6 slots to not waste exp.
-
-## Exercise:
-PvP place. This is mainly a PvE guide and PvP is very contentious. Instead, here's the [wiki for how scoring works](https://azurlane.koumakan.jp/Exercise) and a cultivated [PvP tier list](https://docs.google.com/spreadsheets/d/1BglmSOaD1ec8zc6bKwiItf2OcQueoRNxF3UGzlQnHBU/edit#gid=2106096274)
 
 ## Battle Interface:
 **To be Added** (TL;DR: click on the icons on the top left corner)
