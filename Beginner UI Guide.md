@@ -106,7 +106,7 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
   * Top right "Style" is where you can customize your profile and chat border as well as medallion showcase. 
   * Bottom left is where you can change your greetings. 
   * Bottom right is where you can change your secretary as well as set your main secretary (left most, who gains 1 affection every 300-320 mins up to 90 without shrine buff*). You unlock more secretary slots for cosmetic purposes after clearing the specified story maps. (\*Shrine is explained in element 18)
-- **Element 2:** Your quick access sidebar. You can collect Oil from your Canteen and Coins from your Merchant (both are your passive generation for each resource) here without going to the Academy page, check on Commission teams, Tactical Classroom (NOT the Lecture Hall) and your Research Academy. This sidebar is One of the places you will check the most in the game.
+- **Element 2:** Your quick access sidebar. You can collect Oil from your Canteen and Coins from your Merchant (both are your passive generator for each resource) without going to the Academy page, check on Commission teams, Tactical Classroom (NOT the Lecture Hall) and your Research Academy. This sidebar is one of the places you will check the most in the game.
 - **Element 3:** Your "Beginner Missions" that give a lot of resources and an SSR ship at the end (all 4 ships are also permanent available, general guidelines for which ship to pick are as follows: Hood if you don't have a BB/BC, Enterprise if you need a CV and Sandy is nice once retrofitted but not as needed early on.). Also at the bottom right of this mission screen are the Research Catch Up missions that you can do to get EXP Packs that can be used to either fulfill your PR ships' EXP requirements or be converted into Protocores (more information under Shops below) and 30 universal PR BPs. 
 - **Element 4:** Your current Oil and associated soft cap, this cap is raised by 100 per HQ level. You can still gain more oil from buying oil with gems, commission, event/mission rewards or redeeming mail rewards but will **NOT** be able to take oil from the Canteen if above the soft cap. The absolute oil **hard cap is 25,000 oil**. You cannot gain oil in any way if you hit this hard cap.
 - **Element 5:** Your current coins and coin soft cap, this cap is raised by 600 per HQ level. Same deal as oil, where you can still gain more coins from buying coins with gems, commissions, event/mission rewards or redeeming mail rewards but will **NOT** be able to take coins from the Merchant. The absolute gold **hard cap is 600,000 gold**. You cannot gain gold in any way if you hit this hard cap.
@@ -123,9 +123,10 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
     * **Retrofit** contains all retrofitted version of ships, also has a filter on the top right.
     * Note: Collection ratio includes all archives and retrofits *EXCEPT* collab ships
     * [**Bands (also known as Collection)**](https://azurlane.koumakan.jp/List_of_Collections) is a particular collection goal that rewards gems, dorm furniture, unique equipment or unlock exclusive ships. It is recommended to finish the Beaver Squad collection ASAP (LB2 at minimum level 30, all 5 ships is enough stars) because it gives one of the best evasion boosting auxiliary equipment in the game.
+    * **Comics: (Replaced Memories in the screenshot)** Free to access collection of one-panel comics that are very wholesome and cute.
     * **Gallery:** Artwork collection. Some Loading screens and Intro artwork can be found here. No requirement to unlock them, you just need to download them individually to view them.
     * **Jukebox:** Music collection. Listen to the BGM here if you haven't gotten tired of it already.
-- Old Archive Element not included in Screenshot but is now a separated element: [**Memories:**](https://azurlane.koumakan.jp/Memories) Cutscenes collection, you can rewatch all previously seen cutscenes here. You can use the Ships filter on the top right to find all the ships that has secretary questlines unique to them, to start it, set them as secretary in any slot and click on them. Except Akashi who has a longer questline to unlock her, details can be found [here](https://azurlane.koumakan.jp/Akashi/Questline)
+- [**Memories**](https://azurlane.koumakan.jp/Memories) (Moved from Memento to its own section): Cutscenes collection, you can rewatch all previously seen cutscenes here. You can use the Ships filter on the top right to find all the ships that has secretary questlines unique to them, to start it, set them as secretary in any slot and click on them. Except Akashi who has a longer questline to unlock her, details can be found [here](https://azurlane.koumakan.jp/Akashi/Questline)
 - **Element 8:** Ranking a.k.a tryhard flexing zone: Fleet power, Collection ratio, Exercise, Total event currency, Challenge Mode and event EX map all have rankings here.
 - **Element 9:** Friends interface, rarely useful, add friend to slide into their DMs or visit their dorm. (Can also invite them to META fights, an OpSi end-game content)
 - **Element 10:** Mail box, maintenance compensation, Exercise (PvP) promotion rewards, monthly pass are sent here. Mails do **NOT** have an expiration date and you can save the resources here for a rainy day when you need it. 
@@ -139,10 +140,10 @@ So you just downloaded this waifu collector gacha game called Azur Lane, you wen
 ### Middle of the screen (element 13-18 and 27-30)
 - **Element 13:** Lists of banners, events generally have 3-5 banners all running concurrently, including but not limited to ongoing event, time-limited skins, packs, dorm sets, construction rate-up.
 - **Element 14:** Formation page, change your fleets and Meowfficers here. Note: Hard mode from story or event maps has specific requirements and need to be setup on the interface itself.
-- **Element 15:** Battle/Sortie. Please refer to section [Sortie](#sortie-element-15)
+- **Element 15:** Battle/Sortie. Please refer to section [Sortie](#sortie-----element-15)
 - **Element 16:** Event page. Although the poster girl change from time to time, this button is static and will always direct you to the Event page which has all the current events on the left side that you can scroll through and some on the bottom part instead so do pay attention to the bottom bar too.
 - **Element 17:** Event Maps, a shortcut to the event map instead of going to the story map then click on the event map icon.
-- **Element 18:** Event "festival ground?", some events have their own festival ground that has varying facilities. Do go here everyday since these festival ground have either beneficial buffs or event mini-games.
+- **Element 18:** Event "festival ground?", some events have their own festival ground that has varying facilities. Do go here everyday since these festival ground have either beneficial buffs or event mini-games. Shrine buffs, secretary affection buff in particular removes the 90 affection cap from passive generation and can go all the way to 200 affection. 
 - **Element 27:** Chat box. To turn it off, click on the red button at the bottom left. Alternatively click anywhere else on it to expand it: filter messages at the top, change room by clicking on the red Room button, change where you send your messages by clicking on the Bottom bar World/Guild button, send stickers by clicking the emoji face.
 - **Element 28:** Inspect your secretary, as well as zoom-in/out, move around to view their artwork
 - **Element 29:** AR camera interface, take a picture IRL and you can set your waifus fittingly in
@@ -383,7 +384,6 @@ Basics: Creating a guild cost 300 gems, changing the guild name cost 100 gems. Y
 
 ## Sortie (Element 15):
 Split into: [Main Campaign](#Main-Campaign), [Event Banner](#Event-Banner), [Operation Siren](Operation%20Siren%20Guide.md), [Challenge Mode](Challenge-Mode), [War Archives](War-Archives), [Daily Challenges](#Daily-Challenges), [Commissions](#Commissions) and [Exercises](#Exercises).
-
 ![](https://i.imgur.com/daLfIli.png)
 
 ## Main Campaign:
@@ -426,19 +426,21 @@ Players can access old event maps to obtain special shop drops and equipment.
 The [wiki](https://azurlane.koumakan.jp/Daily_Raid) explains in a bit more depth but TL;DR:
   * The main 3 dailies (Escort Mission, Advance Mission, Fierce Assault) give a lot of gold, and the highest tier is unlocked at Commander level 70.
   * Once you S rank a given raid, you will have the option to skip 1 or all attempts, getting items and gold you'd normally get per run but spending no oil or time. Only downsides to this are: No experience, not counting towards "enemy shot down" tasks, and no possible affection gain.
-  * Schedule is as follows: 
-
-![](https://i.imgur.com/SlejfXD.png)
+  * Schedule is as follows: ![](https://i.imgur.com/SlejfXD.png)
 
 ## Commissions:
 Likewise, the [wiki](https://azurlane.koumakan.jp/Commissions) goes into detail. TL;DR i as as follows:
   * Unlocked at Commander level 10, they are 'set and forget' missions where you send ships away and earn resources (such as Coins, Oil, Wisdom Cubes, etc.) once the timer is up.
   * Commissions have some requirements that must be satisfied by the ships you send before the commission can be launched.
-
-These can also be viewed through the 'quick access' tab in the home screen.
+  * These can also be viewed through the 'quick access' tab (Element 2) in the home screen.
 
 ## Exercises: 
 Also referred to as 'PvP', this game mode pits you against other players with the goal of accumulating the unique currency "Merit" and to progress in rankings.
   * For new players, Exercises are best treated as a free source of experience, as losses against other players will still reward Merit and experience.
   * Merit can be spent to purchase items in the [Merit Shop](https://azurlane.koumakan.jp/Shops#Merit_Shop), the most valuable being Universal Bulins and Prototype Bulins.
   * Further information can be found [here](https://azurlane.koumakan.jp/Exercise).
+  * Here's a curated [PvP tier list](https://docs.google.com/spreadsheets/d/1BglmSOaD1ec8zc6bKwiItf2OcQueoRNxF3UGzlQnHBU/edit#gid=2106096274) made by knowledgeable members of the community.
+  * Schedule is as followed: ![](https://i.imgur.com/SlejfXD.png)
+
+## Battle Interface:
+**To be Added** (TL;DR: click on the icons on the top left corner)
