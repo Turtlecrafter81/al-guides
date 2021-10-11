@@ -45,6 +45,7 @@ Cognition chips are a well-justified value proposition. Their core data cost is 
   - **[FuMO 25](https://azurlane.koumakan.jp/Funkmess-Ortung_25_Radar)** - A better Fire Control Radar (FCR) that's also equippable by Light Cruisers, giving them access to a sorely needed FP boosting aux. Owing to that very same CL FP boosting niche, this item has the lowest priority among all other auxes on this list. 
 
 ## Questionable Equipment
+[![Triple 381mm Model 1934](/resources/Triple-381mm-Model-1934.png)](https://azurlane.koumakan.jp/Triple_381mm_(Model_1934)#Type_3)
 [![Seafury](/resources/Seafury%20no_gr.png)](https://azurlane.koumakan.jp/Hawker_Sea_Fury)
 [![SBD Dauntless (McClusky)](/resources/dauntless%20mcclusky%20no_gr.png)](https://azurlane.koumakan.jp/Douglas_SBD_Dauntless_(McClusky))
 [![Barracuda (831 Squadron)](/resources/barracuda%20831%20no_gr.png)](https://azurlane.koumakan.jp/Fairey_Barracuda_(831_Squadron))
@@ -53,6 +54,8 @@ Cognition chips are a well-justified value proposition. Their core data cost is 
 [![100/150 AV Gas](/resources/av%20gas%20no_gr.png)](https://azurlane.koumakan.jp/100/150_Aviation_Gasoline)
 [![Type 98 FDD](/resources/t98%20fdd%20no_gr.png)](https://azurlane.koumakan.jp/Type_98_Delayed_Firing_Device)
 [![TBM Avenger (ASW)](/resources/tbm%20avenger%20asw%20no_gr.png)](https://azurlane.koumakan.jp/General_Motors_TBM-3_Avenger_(ASW))
+
+ - **[Triple 381mm Model 1934](https://azurlane.koumakan.jp/Triple_381mm_(Model_1934)#Type_3)** - Only truly finds use on Littorio in order to trigger her improved barrage. Outperformed as a triple barrelled BB AP gun by the [Triple 406mm MLE 1938](https://azurlane.koumakan.jp/Triple_406mm_(Mle_1938_Prototype)), plus its gimmick forces it to desync its timing windows on every 3rd shot.
  - **[Seafury](https://azurlane.koumakan.jp/Hawker_Sea_Fury)** - Think F6F Hellcat but with a slightly less dps AA gun (roughly same burst AA) but a slightly faster reload. While it's clearly a good equipment, it is also be easily replaced with a more easily obtainable Hellcat or a VF-17 which cost the same in the shop.
  - **[SBD Dauntless (McClusky)](https://azurlane.koumakan.jp/Douglas_SBD_Dauntless_(McClusky))** - While the base damage is laughably low compared to a more damage-focused bomber like the SB2C Helldiver, the damage buff against carriers itself applies to the ship equipped with the plane rather than just the plane itself.
  - **[Fairey Barracuda (831 Squadron)](https://azurlane.koumakan.jp/Fairey_Barracuda_(831_Squadron))** - What if you took a Suisei, made it deal half damage, and gave its bombs an abysmally low 24% chance to inflict a debuff that increases all gunnery damage dealt to the target by 8% for 6s. While almost entirely useless for PVE, it happens to deal the same base crash damage as the torpedo bomber Barracuda, making it useful for PVP.
