@@ -2,7 +2,7 @@
 
 A new game mode different to the usual stage formats found in the game's story (World) and event stages, Operation Siren (OpSi) is the newest addition to Azur Lane in terms of gameplay content. This is a basic guide for players who've skimmed through the tutorial along with some advise and answers that the playerbase has collectively gained with time since the game mode's implementation.
 
-The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/Operation_Siren) that you should also be reading. It contains information that will be helpful to both new players and those familiar with OpSi mechanics.
+The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/wiki/Operation_Siren) that you should also be reading. It contains information that will be helpful to both new players and those familiar with OpSi mechanics.
 
 ## Table of Contents:
 - [FAQ & Tips](#faq-and-tips)
@@ -32,7 +32,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - **"AP Refill with Oil? Should I do that?"** -  The Oil:AP ratio is 10:1. You can refill up to 5 times a **WEEK**. Cost per refill requires 1000/1000/2000/2000/4000 oil in that order. You can also buy AP packs in port/Akashi shops with Supply Coins which effectively removes the need to refill with oil.
 - **"What is Meta Lab?"** - It's detailed in the [META Showdown section](#meta-showdown)
 - **"Why are Corruption 5 and 6 regions so hard?"** -  Likely because your current adaptive stats are low. Your adaptive stats will be compared to the enemy's -  every point difference is roughly 1% in your or the enemy's favour (Offense and Defense ranges from 70% - 130%, Tactics (healing) is 70% -100%). The recommended end-game stat line is 188/188/144. You will not gain any additional advantage against even the strongest enemies beyond those values.
-- **"What are star rewards? What are the 4<sup>th</sup> and 5<sup>th</sup> star requirements for this region, why are they all marked as '???' ?"** -  Because they are hidden requirements and sometimes dependent on RNG based events to boot. They'll eventually show when you repeatedly complete the region. The wiki has a section for starring requirements and rewards which you can search by name [here](https://azurlane.koumakan.jp/Operation_Siren_Exploration).
+- **"What are star rewards? What are the 4<sup>th</sup> and 5<sup>th</sup> star requirements for this region, why are they all marked as '???' ?"** -  Because they are hidden requirements and sometimes dependent on RNG based events to boot. They'll eventually show when you repeatedly complete the region. The wiki has a section for starring requirements and rewards which you can search by name [here](https://azurlane.koumakan.jp/wiki/Operation_Siren_Exploration).
 - **"What should I do after finishing story?"** - Do at least one Stronghold when your adaptive stat is up to snuff. Refer to the [Stronghold Guide](#Stronghold) below. Simply put, you can go to port mid-Stronghold and your progress will be saved. Do your daily port missions, Strongholds, Abyssal Zones, Hidden Zonees and clear all regions in that order.
 
 ## General Gameplay:
@@ -51,7 +51,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - As mentioned, the difference between yours and the enemy's stats will make up the respective modifiers: Offense affects the enemy's damage dealt TO YOUR ships, Survivability affects their HP and Tactics affects YOUR fleets' healing efficacy. Offense and Survivability modifiers range from 70-130% for the enemy's offensive power and HP respectively [you want both of these to be a 70% modifier for the enemy], and Tactics (healing efficacy) ranges from 70-100% [you want this one to be at 100% for YOU]. Generally speaking, both the Offense and Survivability stat are more beneficial than the Tactics stat - it's easier to down an enemy that doesn't hit as hard and has less health, rather than relying on in-battle heals you might not have.
 - C4 and C5 Abyssal Zone Sirens only have 60 and 90 Adaptive Tuning stats respectively, with C6 Abyssal Zone Sirens having 120 stats. 
 - Stronghold Sirens and Promoted Pawns have around 140-144 Adaptive Tuning stats.
-- To max out on your Adaptive tuning stat advantage against a given enemy, refer to the equation given [here](https://azurlane.koumakan.jp/Operation_Siren#Stat_modifier). The simple advice is to **aim for 188/188/144**.
+- To max out on your Adaptive tuning stat advantage against a given enemy, refer to the equation given [here](https://azurlane.koumakan.jp/wiki/Operation_Siren#Stat_modifier). The simple advice is to **aim for 188/188/144**.
 
 ## Overworld Map
 
@@ -106,7 +106,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/O
 - Some starring requirements are RNG and/or only achievable on the first clear after a reset. Most notable are "Defeat X Promoted Pawns" and "Repel Promoted Pawn fleet ambushes".
 	- The "Perform Reconnaissance X times in anomalous zones" requirement refers to hidden tiles near anomalous weather events in a region that give random gains to Adaptive Tuning stats. You can find these tiles by Scanning, and Auto-Search will pick these up if the tile is visible. 
 		- No, none of us have any idea why the name of that requirement is so misleading.
-- [The wiki table of all starring requirements and their respective rewards can be found here.](https://azurlane.koumakan.jp/Operation_Siren_Exploration)
+- [The wiki table of all starring requirements and their respective rewards can be found here.](https://azurlane.koumakan.jp/wiki/Operation_Siren_Exploration)
 
 
 - **Bug workaround for "Take control of 1 region" star requirement"**:
@@ -264,7 +264,7 @@ The first time you enter an area for the story it costs no AP. It will cost AP a
 Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with your fleets. You can also just retreat when they catch up, not much reason to fight them if they are just blue reinforcements that drop no loot.
 
 #### Dangerous enemies (Mixed Recon/Main/Aviation Fleets)
-Boss fleets. Have specialized 'modules' that confer enemy buffs/fleet debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/Operation_Siren#Additional_effects).
+Boss fleets. Have specialized 'modules' that confer enemy buffs/fleet debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/wiki/Operation_Siren#Additional_effects).
 
 #### Stat Table for Stronghold/Abyssal/META boss: [Open this link in a new tab](https://i.imgur.com/pD5XHSI.png)
 
@@ -348,9 +348,9 @@ META bosses start from Level 1 and go up to 15 with each full defeat. In the ear
 *A level 15 Helena META boss. 'Boss List' allows you to access other peoples' META fights. 'Data Sync' allows you to access the reward track for your initial META copy and subsequently the point reward track, as well as the unique interface for META ships for limit breaking, upgrading, and skills.*
 ![](https://i.imgur.com/Gt32eVC.png)
 
-Each fight last 80s, and the boss does quite a bit of damage. 1<sup>st</sup> boss fight costs no oil, 2<sup>nd</sup> costs 40 oil and the 3<sup>rd</sup> and 4<sup>th</sup> will cost 20 each. This diminishing pattern continues with each successive fight against the same instance. More information can be found at [this wiki page](https://azurlane.koumakan.jp/META_Lab). It does NOT cost AP, morale nor does it give any EXP or affection. Treat META enemies as you would any other enemy: outfit your fleet with the proper gear and go ham. 
+Each fight last 80s, and the boss does quite a bit of damage. 1<sup>st</sup> boss fight costs no oil, 2<sup>nd</sup> costs 40 oil and the 3<sup>rd</sup> and 4<sup>th</sup> will cost 20 each. This diminishing pattern continues with each successive fight against the same instance. More information can be found at [this wiki page](https://azurlane.koumakan.jp/wiki/META_Lab). It does NOT cost AP, morale nor does it give any EXP or affection. Treat META enemies as you would any other enemy: outfit your fleet with the proper gear and go ham. 
 
-Completely defeating a META boss awards Sync Points, which are used to progress through your personal META ship's reward track and gain fortification materials and LB material specific to the current META ship. The host gets 135 + 15 per level Sync points (150 for level 1, 165 for level 2, etc). Supporters gets 27 + 3 per level Sync Points (30 for level 1, 33 for level 2, etc). **Note for level 15: You get 67 points for doing less than 355k, 71 points for doing 355k and 600k-ish and 73 points for doing more than 600k-ish boss damage)**. An exact table of information for Sync Point gains can be found [here](https://azurlane.koumakan.jp/META_Lab#Boss_Levels).
+Completely defeating a META boss awards Sync Points, which are used to progress through your personal META ship's reward track and gain fortification materials and LB material specific to the current META ship. The host gets 135 + 15 per level Sync points (150 for level 1, 165 for level 2, etc). Supporters gets 27 + 3 per level Sync Points (30 for level 1, 33 for level 2, etc). **Note for level 15: You get 67 points for doing less than 355k, 71 points for doing 355k and 600k-ish and 73 points for doing more than 600k-ish boss damage)**. An exact table of information for Sync Point gains can be found [here](https://azurlane.koumakan.jp/wiki/META_Lab#Boss_Levels).
 
 To fully limit break a META ship, earning 25k Sync Points in a season is mandatory. Any more is up to the player's discretion as fortification (enhancement) materials can be bought from port shops.
 
