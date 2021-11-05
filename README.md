@@ -35,8 +35,8 @@ CHANGELOG
 ---------
 2021-10-11
   updated Core Data and Equipment Guides
-	added Shimakaze Torpedoes (Quintuple 610mm Torpedoes)
-	added new addition to Core Data shop (Triple 381mm Model 1934)
+    added Shimakaze Torpedoes (Quintuple 610mm Torpedoes)
+    added new addition to Core Data shop (Triple 381mm Model 1934)
 2021-08-02
   updated Auxilliary, Core Data and Equipment Guides
     added PR4 equipment 
