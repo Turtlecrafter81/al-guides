@@ -12,13 +12,13 @@ Current recommended reading order for newbies:
  
 Other useful resources:
  - [Kawaii Five-O's ship tier guide](https://github.com/YourWaifuIsShip/Azur-Lane-Guides)
- - [pootatoast's dedicated submarine and ASW guide](https://azurlane.koumakan.jp/User:Itsfyh/Submarines)
+ - [pootatoast's dedicated submarine and ASW guide](https://azurlane.koumakan.jp/wiki/User:Itsfyh/Submarines)
  - [MajorProcrastinator's eHP calculator](https://github.com/MajorProcrastinator/Auto-eHP-Calc)
  - [Bazzra's airstrike cooldown calculator](https://bazzra.github.io/)
  - [Enbayft's AL Repository](https://github.com/Enbayft/Random-AL-Stuff)
  - [Dimbreath's decompiled AL client source code](https://github.com/Dimbreath/AzurLaneScripts)
  - [Meowrin's Commonly used Nickname album](https://imgur.com/a/4wEvTQo)
- - [Azur Lane Wiki](https://azurlane.koumakan.jp/Azur_Lane_Wiki)
+ - [Azur Lane Wiki](https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki)
  - [Azur Lane Enemy Data](https://al-data.github.io/enemies)
  
 Credits:
