@@ -2,7 +2,7 @@
 
 This repository contains a number of guides aimed at breaking down certain conceptual aspects in order to teach players how to make informed decisions about how to tackle content within the game Azur Lane. All guide content is intended to be viewed in your browser. Downloading the repository can give you access to offline, plain-text copies, but all images, links, and formatting will fail to render.
 
-Here's my favourite reading music to help you read through these: [Cafe de Touhou albums 1-8](https://youtu.be/Aq6I6LK01Q0)
+Here's my favourite reading music to help you read through these: [Cafe de Touhou albums 1-8](https://www.youtube.com/watch?v=RY7FpB9BZH4)
 
 Current recommended reading order for newbies:
  - [Beginner Equipment Guide](/Beginner%20Equipment.md)
