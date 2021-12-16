@@ -25,15 +25,15 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/w
 - **"How do I get out of a region once I've finished clearing it?"** - Click anywhere outside of the map grid to go to the overworld map view. (The back button is a quick way to get to the overworld map view but won't exit your fleets from the current region.)
 - **"How do I access a regular region? There's a Stronghold/Abyssal/Hidden Zone on it!"** - Tap on the region, on the bottom left of the descriptive pop-up is a "Change Zone" button. Use that to access whichever zone you want to.
 - **"How do I change my fleet compositions and meowfficers?"** - You will need to go to Order (on the radar on the right of the screen) -> Fleet Redeployment to change your fleet and meowfficers. **You may only do so when your fleets are within an Allied (BLUE) Port.**
-- **"What to buy with Supply Coins, Supply Tokens and Energy Storage Devices?"** - Refer to the [Shop Guide](#Shop-Guide). But TL;DR: Buying anything that costs coins (the yellow currency) is mostly fine. Buy adaptive tuning samples if you are below 188/188/144. Only buy Gold and Rainbow Plates, Gear Designs and Coordinates with Supply Tokens (purple currency). Coins and Tokens will be exchanged for exchange shop vouchers on the 1<sup>st</sup> of every month. **This monthly reset will also reset your Adaptation stat gains, but star rewards for each region will be kept constant.**
+- **"What to buy with Supply Coins, Supply Tokens and Energy Storage Devices?"** - Refer to the [Shop Guide](#Shop-Guide). But TL;DR: Buying anything that costs coins (the yellow currency) is mostly fine. Buy adaptive tuning samples if you are below 203/203/156. Only buy Gold and Rainbow Plates, Gear Designs and Coordinates with Supply Tokens (purple currency). Coins and Tokens will be exchanged for exchange shop vouchers on the 1<sup>st</sup> of every month. **This monthly reset will also reset your Adaptation stat gains, but star rewards for each region will be kept constant.**
 - **"Is {current META ship} permanent?"** - No, she is not. Every META ship is available to obtain for a seasonal time period of about 90 days, after which point she will be replaced by another META ship. The devs have mentioned that every META ship will eventually be made permanently obtainable in some form, but we don't know when or how. 
 - **"I'm not getting any EXP in OpSi, what gives?"** - Nodes in story regions and reinforcement (blue) enemy nodes give no EXP except for bosses (sometimes), and fights in OpSi do not cause any Morale or Affection changes as well. After clearing the story regions, the game will force you to enter and clear the region it was based on normally. This has an appropriate AP cost so don't be alarmed when you run out of AP and the game keeps asking you to refill.
 - **"What do the icons on bosses here mean, why does the game keep showing me a warning screen?"** - That warning screen just means you are fighting a boss fleet, it's a typical one but do take note of the buffs they get (A -50% shelling damage taken buff for the enemy means you will need torpedoes or planes to do effective damage to the boss, for example). Do be careful if the warning page shows that the enemy has an advantage in the first two adaptive stats - they'll hit MUCH harder while being insanely tanky.
 - **"AP Refill with Oil? Should I do that?"** -  The Oil:AP ratio is 10:1. You can refill up to 5 times a **WEEK**. Cost per refill requires 1000/1000/2000/2000/4000 oil in that order. You can also buy AP packs in port/Akashi shops with Supply Coins which effectively removes the need to refill with oil.
 - **"What is Meta Lab?"** - It's detailed in the [META Showdown section](#meta-showdown)
-- **"Why are Corruption 5 and 6 regions so hard?"** -  Likely because your current adaptive stats are low. Your adaptive stats will be compared to the enemy's -  every point difference is roughly 1% in your or the enemy's favour (Offense and Defense ranges from 70% - 130%, Tactics (healing) is 70% -100%). The recommended end-game stat line is 188/188/144. You will not gain any additional advantage against even the strongest enemies beyond those values.
+- **"Why are Corruption 5 and 6 regions so hard?"** -  Likely because your current adaptive stats are low. Your adaptive stats will be compared to the enemy's -  every point difference is roughly 1% in your or the enemy's favour (Offense and Defense ranges from 70% - 130%, Tactics (healing) is 70% -100%). The recommended end-game stat line is  188/188/144, or 203/203/156 if you're looking to take on Arbiter battles. You will not gain any additional advantage against even the strongest enemies beyond the latter values.
 - **"What are star rewards? What are the 4<sup>th</sup> and 5<sup>th</sup> star requirements for this region, why are they all marked as '???' ?"** -  Because they are hidden requirements and sometimes dependent on RNG based events to boot. They'll eventually show when you repeatedly complete the region. The wiki has a section for starring requirements and rewards which you can search by name [here](https://azurlane.koumakan.jp/wiki/Operation_Siren_Exploration).
-- **"What should I do after finishing story?"** - Do at least one Stronghold when your adaptive stat is up to snuff. Refer to the [Stronghold Guide](#Stronghold) below. Simply put, you can go to port mid-Stronghold and your progress will be saved. Do your daily port missions, Strongholds, Abyssal Zones, Hidden Zonees and clear all regions in that order.
+- **"What should I do after finishing story?"** - Do at least one Stronghold when your adaptive stat is up to snuff. Refer to the [Stronghold Guide](#Stronghold) below. Simply put, you can go to port mid-Stronghold and your progress will be saved. Do your daily port missions, Strongholds, Abyssal Zones, Hidden Zones and clear all regions in that order.
 
 ## General Gameplay:
 - There's 3 important things to note: 
@@ -256,6 +256,7 @@ The first time you enter an area for the story it costs no AP. It will cost AP a
 - Chapter 2: Enemy around 72-78. Now you need to clear 7-8 region in this Liverpool region to unlock the next region. Unlocks Submarine fleet but doesn't soft lock you to the port.
 - Chapter 3: Enemy around 82-88. Unlocks the last region and port Dakar (a red port).
 - Chapter 4: Enemy around 92-98. Unlocks daily missions and Strongholds spawn.
+- Chapter 5: Enemy around 100-114. Unlocks access to Arbiter Battle (Normal) and (Hard).
 - **Notable bug, unclear if it has been fixed or not but is important to mention:** Finishing chapter 1-6 before clearing 6 regions in NW THEN clearing 6 regions might result in a soft lock where the player will not be able to unlock Liverpool port. It is recommended to stray from the red marker for a bit to clear 6 regions (some low level regions are fine, don't have to clear star level 6 regions) before continuing the story.
 
 ## Enemies and Special Zones
@@ -327,6 +328,34 @@ Try to avoid any ships sinking because it will apply the "Damaged" debuff (red w
 
 *One of the 2 hidden mob nodes. This map had air currents to access the sides of the map and travel down to these enemies.*
 ![](https://i.imgur.com/zJYALIP.png)
+
+#### Arbiter Battle
+Arbiter battles are the hardest content available to be challenged in Operation Siren. Upon completing Chapter 5 of OpSi, 3 practice battles against Enforcers will spawn around the map. After clearing these three fights, the player gains access to the NA Ocean Core Forward Base located in the centre of the map.
+ 
+*The NA Ocean Core Forward Base on the Overview Map.*
+![](https://i.imgur.com/6NPA0fs.jpeg)
+
+*NA Ocean Core map. Note the white structure on the left - this is the Forward Base and serves as a port where you can heal your ships. No missions or shop items will be available through this base.*
+![](https://i.imgur.com/yHO5RCq.jpeg)
+
+Initially, the Transference Device at the top of the area will be yellow, rather than the red ring shown in the image above. This indicates that the Arbiter Battle is currently at Normal difficulty. Upon defeating Arbiter Battle at Normal, the ring will turn red and the player will only have access to the Arbiter Battle at Hard difficulty. It does not cost the player any AP to access the Forward Base or the Transference Device. The differences between the two Arbiter Battle difficulties are listed below.
+
+Normal: Damage done to Arbiter is permanent. The player may leave the battle region via the EXIT button in the bottom right of the screen to repair your ships at a port or change fleet compositions. On re-entering the battle, Arbiter's HP Pool will remain at the level the player had brought her down to previously. The player has unlimited attempts to bring her HP down to zero.
+
+Hard: Damage done to Arbiter is only kept for the one instance that the player begins. This means that the player *must* sink Arbiter within a maximum of 4 battles by using all 4 of the fleets available to them. If the player fails to sink Arbiter with the 4 fleets available to them, they are forced to leave the battle region and Arbiter's HP will be restored to full when they next engage her.
+
+For each given month, the Arbiter the players face will remain constant. The possible buffs the Arbiter can have, therefore, remain constant. Players may use this information to plan their fleet compositions accordingly. It is worth noting that every player across EN, JP and CN servers face off against the same Arbiter with the same buffs. Mutual discussion can therefore prove beneficial to the players in overcoming these battles. 
+
+*Arbiter IX's buffs as shown for the month of December 2021.*
+![](https://i.imgur.com/mrwAgC0.jpeg) 
+
+*Arbiter IX pre-fight intel screen. Note that adaptation values of 203/203/156 will be required to maximise the respective boosts against her.*
+![](https://i.imgur.com/MAkYd2Q.jpeg)
+
+Arbiter Battles feature a *single* Arbiter type enemy at Level 130, akin to how Abyssal Zones feature a single Siren Boss. Arbiter battles similarly reward the player at set HP thresholds: 75%, 50%, 25% and 0% HP remaining on the Arbiter. Rewards include R3 Gear Lab Materials, T4 Parts, and SR Gear Design Plans. The Arbiter will also drop unique Reward Crates that will be converted to OpSi Vouchers on reset. There is no additional use for these Reward Crates as of December 2021.
+
+*Arbiter Battle Reward Crates. From left to right, these give 100, 200 and 500 Vouchers each.*
+![](https://i.imgur.com/g5y7uRj.png)
 
 ## META Showdown
 
