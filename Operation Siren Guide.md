@@ -331,6 +331,7 @@ Try to avoid any ships sinking because it will apply the "Damaged" debuff (red w
 
 #### Arbiter Battle
 Arbiter battles are the hardest content available to be challenged in Operation Siren. Upon completing Chapter 5 of OpSi, 3 practice battles against Enforcers will spawn around the map. After clearing these three fights, the player gains access to the NA Ocean Core Forward Base located in the centre of the map.
+
  
 *The NA Ocean Core Forward Base on the Overview Map.*
 ![](https://i.imgur.com/6NPA0fs.jpeg)
@@ -344,7 +345,10 @@ Initially, the Transference Device at the top of the area will be yellow, rather
 
 **Hard:** Damage done to Arbiter is only kept for the one instance that the player begins. This means that the player *must* sink Arbiter within a maximum of 4 battles by using all 4 of the fleets available to them. If the player fails to sink Arbiter with the 4 fleets available to them, they are forced to leave the battle region and Arbiter's HP will be restored to full when they next engage her.
 
+It is worth noting that unlike in Abyssal Zones, there are no Pawn Fleets available to battle to restore morale. Moreover, ***the Regroup and Rest command will NOT be available to use***. Players therefore cannot gain "additional attempts" at taking on Arbiter on Hard difficulty by using either option to restore Morale.
+
 For each given month, the Arbiter the players face will remain constant. The possible buffs the Arbiter can have, therefore, remain constant. Players may use this information to plan their fleet compositions accordingly. It is worth noting that every player across EN, JP and CN servers face off against the same Arbiter with the same buffs. Mutual discussion can therefore prove beneficial to the players in overcoming these battles. 
+
 
 *Arbiter IX's buffs as shown for the month of December 2021.*
 ![](https://i.imgur.com/mrwAgC0.jpeg) 
@@ -352,7 +356,9 @@ For each given month, the Arbiter the players face will remain constant. The pos
 *Arbiter IX pre-fight intel screen. Note that adaptation values of 203/203/156 will be required to maximise the respective boosts against her.*
 ![](https://i.imgur.com/MAkYd2Q.jpeg)
 
-Arbiter Battles feature a *single* Arbiter type enemy at Level 130, akin to how Abyssal Zones feature a single Siren Boss. Arbiter battles similarly reward the player at set HP thresholds: 75%, 50%, 25% and 0% HP remaining on the Arbiter. Rewards include R3 Gear Lab Materials, T4 Parts, and SR Gear Design Plans. The Arbiter will also drop unique Reward Crates that will be converted to OpSi Vouchers on reset. There is no additional use for these Reward Crates as of December 2021.
+Arbiter Battles feature a *single* Arbiter type enemy at Level 130, akin to how Abyssal Zones feature a single Siren Boss. Arbiter battles similarly reward the player at set HP thresholds: 75%, 50%, 25% and 0% HP remaining on the Arbiter. Rewards include R3 Gear Lab Materials, T4 Parts, and SR Gear Design Plans. The Arbiter will also drop unique Reward Crates that will be converted to OpSi Vouchers on reset. There is no additional use for these Reward Crates as of December 2021. 
+
+
 
 *Arbiter Battle Reward Crates. From left to right, these give 100, 200 and 500 Vouchers each.*
 ![](https://i.imgur.com/g5y7uRj.png)
