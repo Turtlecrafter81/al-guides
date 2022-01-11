@@ -33,7 +33,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  
  - **[Gamer's Mark](https://azurlane.koumakan.jp/wiki/Gamers_Mark)** and **[Celestial Body](https://azurlane.koumakan.jp/wiki/Celestial_Body)** provides the same raw HP boost as Seal of the Four Gods but is not limited to only Destroyers. Meaning, ships that may value the HP boost (e.g Ryuuhou, CL/CAs in specific situations, 0LB ships) can also make good use of it.
  
-  - **[Goldburn](https://azurlane.koumakan.jp/wiki/Goldburn#Type_0)** similar to the Gamer's Mark and Celestial Body above but with the added bonus of giving 38 RLD if equipped by a Vanguard or SSSS Collab ship, making it a dual purpose auxiliary that boosts survivability and offensive output.
+  - **[Goldburn](https://azurlane.koumakan.jp/wiki/Goldburn#Type_0)** is similar to the Gamer's Mark and Celestial Body above but with the added bonus of giving 38 RLD if equipped by a Vanguard or SSSS Collab ship, making it a dual purpose auxiliary that boosts survivability and offensive output.
  
  - **[Fuel Filter](https://azurlane.koumakan.jp/wiki/Fuel_Filter#Type_3)** gives a moderate boost to HP and a small boost to EVA, while also having no bonus skill effect. While it is suboptimal in nearly every situation, it is still useful as transitional equipment.
  
@@ -74,7 +74,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![Autoloader](/resources/autoloader%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Autoloader#Type_3)
 [![FCR](/resources/fcr%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Fire_Control_Radar#Type_3)
 [![FuMO 25](/resources/FuMO.png)](https://azurlane.koumakan.jp/wiki/Funkmess-Ortung_25_Radar)
-[![Battle Tractro Max](/resources/BattleTractoMax.png)[https://azurlane.koumakan.jp/wiki/Battle_Tracto_Max#Type_0]
+[![Battle Tractro Max](/resources/BattleTractoMax.png)](https://azurlane.koumakan.jp/wiki/Battle_Tracto_Max#Type_0)
 [![FP Report](/resources/FP%20Report.png)](https://azurlane.koumakan.jp/wiki/Intel_Report-Arctic_Stronghold)
 
  - **[Type 93 Oxygen Torpedo](https://azurlane.koumakan.jp/wiki/Type_93_Pure_Oxygen_Torpedo)** has the highest TRP stat boost with a moderate RLD boost. For most ships equipped with torpedoes, it will provide a higher boost to their effective damage than any other aux. However, as this is reliant on your torpedoes actively hitting targets, other auxiliaries may provide a superior effective boost to their DPS.
