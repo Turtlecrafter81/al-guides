@@ -35,11 +35,11 @@ CHANGELOG
 ---------
 2022-01-11
   updated Auxiliary and Equipment Guides
-	added Battle Tracto Max and Goldburn
-	added Gear Lab exclusive guns
-		Twin 150mm SK C/26 Prototype
-		Triple 155mm Kai
-		Twin 406mm Mk 4 Prototype
+    added Battle Tracto Max and Goldburn
+    added Gear Lab exclusive guns
+      Twin 150mm SK C/26 Prototype
+      Triple 155mm Kai
+      Twin 406mm Mk 4 Prototype
 2021-10-11
   updated Core Data and Equipment Guides
     added Shimakaze Torpedoes (Quintuple 610mm Torpedoes)
