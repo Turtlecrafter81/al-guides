@@ -13,6 +13,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![Seal of the Four Gods](/resources/Seal%20of%20the%20Four%20Gods.png)](https://azurlane.koumakan.jp/wiki/Seal_of_the_Four_Gods)
 [![Gamer's Mark](/resources/Gamers%20Mark.png)](https://azurlane.koumakan.jp/wiki/Gamers_Mark)
 [![Celestial Body](/resources/Celestial%20Body%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Celestial_Body)
+[![Goldburn](/resources/Goldburn.png)](https://azurlane.koumakan.jp/wiki/Goldburn#Type_0)
 [![Fuel Filter](/resources/fuel%20filter%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Fuel_Filter#Type_3)
 [![Naval Camo](/resources/naval%20camo%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Naval_Camouflage)
 [![Hydraulic Rudder](/resources/hydraulic%20rudder%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Hydraulic_Steering_Gear)
@@ -31,6 +32,8 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  - **[Seal of the Four Gods](https://azurlane.koumakan.jp/wiki/Seal_of_the_Four_Gods)** has the highest raw HP boost for Destroyers in the game and increases the barrage damage of the four ROC DDs by 50% as well as changing the barrage's colour. Limited to only Destroyers. While the HP difference is small, it is relevant nonetheless for the same reasons as the Pyoko-Pyoko above.
  
  - **[Gamer's Mark](https://azurlane.koumakan.jp/wiki/Gamers_Mark)** and **[Celestial Body](https://azurlane.koumakan.jp/wiki/Celestial_Body)** provides the same raw HP boost as Seal of the Four Gods but is not limited to only Destroyers. Meaning, ships that may value the HP boost (e.g Ryuuhou, CL/CAs in specific situations, 0LB ships) can also make good use of it.
+ 
+  - **[Goldburn](https://azurlane.koumakan.jp/wiki/Goldburn#Type_0)** similar to the Gamer's Mark and Celestial Body above but with the added bonus of giving 38 RLD if equipped by a Vanguard or SSSS Collab ship, making it a dual purpose auxiliary that boosts survivability and offensive output.
  
  - **[Fuel Filter](https://azurlane.koumakan.jp/wiki/Fuel_Filter#Type_3)** gives a moderate boost to HP and a small boost to EVA, while also having no bonus skill effect. While it is suboptimal in nearly every situation, it is still useful as transitional equipment.
  
@@ -71,6 +74,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![Autoloader](/resources/autoloader%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Autoloader#Type_3)
 [![FCR](/resources/fcr%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Fire_Control_Radar#Type_3)
 [![FuMO 25](/resources/FuMO.png)](https://azurlane.koumakan.jp/wiki/Funkmess-Ortung_25_Radar)
+[![Battle Tractro Max](/resources/BattleTractoMax.png)[https://azurlane.koumakan.jp/wiki/Battle_Tracto_Max#Type_0]
 [![FP Report](/resources/FP%20Report.png)](https://azurlane.koumakan.jp/wiki/Intel_Report-Arctic_Stronghold)
 
  - **[Type 93 Oxygen Torpedo](https://azurlane.koumakan.jp/wiki/Type_93_Pure_Oxygen_Torpedo)** has the highest TRP stat boost with a moderate RLD boost. For most ships equipped with torpedoes, it will provide a higher boost to their effective damage than any other aux. However, as this is reliant on your torpedoes actively hitting targets, other auxiliaries may provide a superior effective boost to their DPS.
@@ -82,8 +86,10 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  - **[Fire Control Radar](https://azurlane.koumakan.jp/wiki/Fire_Control_Radar#Type_3)** provides moderate boosts to FP and HIT. Of the vanguard units, it can only be equipped to Heavy Cruisers. It generally pulls ahead of the reloader if the accuracy boost is valuable or the equipped ship has strong firepower boosts.
  
  - **[FuMO 25](https://azurlane.koumakan.jp/wiki/Funkmess-Ortung_25_Radar)** similar to the Fire Control Radar above, but provides more FP and HIT while also being equippable by Light Cruisers. The premier damage boosting aux for any gun-focused vanguard unit.
+ 
+ - **[Battle Tracto Max](https://azurlane.koumakan.jp/wiki/Battle_Tracto_Max#Type_0)** provides FP and EVA, and is the premier FP boosting auxiliary for gun-focused Destroyers due to their lack of access to both the Fire Control Radar and Fumo 25. 
 
- - **[Arctic Report/FP Report](https://azurlane.koumakan.jp/wiki/Intel_Report-Arctic_Stronghold)** provides moderate boosts to FP and HP. Useful for FP stacking primarily on Destroyers due to their lack of access to both the Fire Control Radar and Fumo 25.
+ - **[Arctic Report/FP Report](https://azurlane.koumakan.jp/wiki/Intel_Report-Arctic_Stronghold)** provides moderate boosts to FP and HP. Useful for FP stacking on Destroyers, and damage reduction from Siren enemies in Operation Siren.
 
 **Gunnery Main Fleet Auxiliaries**<br/>
 [![T1 Shell](/resources/t1%20shell%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Type_1_Armor_Piercing_Shell)
