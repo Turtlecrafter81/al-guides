@@ -25,7 +25,7 @@ Credits:
  - Current manager: Moe#4063 and Straws#3361
  - The original creator of the guide: [guroteske](https://github.com/guroteske/al-guides)
  - Various source images exported from the game files from: [Dimbreath](https://github.com/Dimbreath) 
- - Various opinions and support from the ALEC and ALO discord. Most notably: ʝimmy#8049, Bluerendar#2640 and monchables#3352
+ - Various opinions and support from the AKCS and ALO discord. Most notably: ʝimmy#8049, Bluerendar#2640 and monchables#3352
 
 If you have any questions or comments, feel free to ~~post an issue on github,~~ (I'm bad at github, send help) contact me on discord (Moe#4063). I can be found on the Azur Lane English Community discord server and the Azur Lane Official discord server, just ping me.
 
@@ -33,12 +33,19 @@ If you have any questions or comments, feel free to ~~post an issue on github,~~
 ```
 CHANGELOG
 ---------
+2022-01-11
+  updated Auxiliary and Equipment Guides
+	added Battle Tracto Max and Goldburn
+	added Gear Lab exclusive guns
+		Twin 150mm SK C/26 Prototype
+		Triple 155mm Kai
+		Twin 406mm Mk 4 Prototype
 2021-10-11
   updated Core Data and Equipment Guides
     added Shimakaze Torpedoes (Quintuple 610mm Torpedoes)
     added new addition to Core Data shop (Triple 381mm Model 1934)
 2021-08-02
-  updated Auxilliary, Core Data and Equipment Guides
+  updated Auxiliary, Core Data and Equipment Guides
     added PR4 equipment 
     added Gear Lab equipment 
     added new Core Data equipment (FuMO 25)
