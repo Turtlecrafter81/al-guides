@@ -4,7 +4,7 @@ This guide is meant to serve as both an in-depth guide to end-game equipment and
  - **A-rank** equipment is either easier to acquire than S-rank equipment and good enough for general use, or is more difficult to obtain while not providing enough of an appreciable difference in performance to be worth recommending in all cases
  - **B-rank** equipment might not be strong enough to warrant a recommendation for general use, but occupies a specific niche that might make it best-in-slot for select scenarios or when equipped to certain ships
 
-A blue **GL** icon indicates that an equipment is exclusively obtainable through use of the Gear Lab. Click on the icon to view the corresponding page on the wiki for further details.
+A blue **GL** icon indicates that an equipment is *exclusively* obtainable through use of the Gear Lab. Click on the icon to view the corresponding page on the wiki for further details on both methods of acquirement as well as in-depth stats.
 
 ### Table of Contents
  - [Destroyer Guns](Equipment%20Guide.md#destroyer-dd-guns)
@@ -166,14 +166,14 @@ As it was for vanguard interception, this gun's high alpha allows it to intercep
 [![152mm Twin AP](/resources/Twin-152mm-BL-Mk-XXII-gr_a.png)](https://azurlane.koumakan.jp/wiki/Twin_152mm_(BL_6%22_Mk_XXIII)#Type_3)
 [![150mm Twin TbtsK](/resources/Twin-150mm-TbtsK-gr_b.png)](https://azurlane.koumakan.jp/wiki/Twin_150mm_(TbtsK_C/36)#Type_3)
 
- **Preface about CL guns as Mainfleet Secondaries:** The primary purpose of a backline ship's secondaries is for interception of fast moving (but fragile) suicide ships rather than slow moving ships that slip past the vanguard. The equipment here are ranked accordingly, while factoring in stat boosts.
+ **Preface about CL guns as Main Fleet Secondaries:** The primary purpose of a backline ship's secondaries is for interception of fast moving (but fragile) suicide ships rather than slow moving ships that slip past the vanguard. The equipment here are ranked accordingly, while factoring in stat boosts.
 
  - **[Triple 152mm BL Mark XXV Prototype](https://azurlane.koumakan.jp/wiki/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** <br/>
  Has the longest range of any CL gun, coupled with a high firepower bonus that makes it the best auxiliary gun for general use.  
+  - **[Triple 155mm (3rd Year Type) Kai](https://azurlane.koumakan.jp/wiki/Triple_155mm_(3rd_Year_Type)_Kai)** | **[GEAR LAB EXCLUSIVE]** <br/>
+A solid choice for all of the same reasons as the MK-5 below, with improved shell range for reliably engaging slower moving targets as they enter a backline unit's secondary range.
  - **[Triple 152mm (MK-5)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(MK-5)#Type_3)** <br/>
  While this gun has a non-zero volley time, its high shell density and damage per volley coupled with the high FP bonus makes it one of the better non-zero volley time interception guns.
-  - **[Triple 155mm (3rd Year Type) Kai](https://azurlane.koumakan.jp/wiki/Triple_155mm_(3rd_Year_Type)_Kai)** | **[GEAR LAB EXCLUSIVE]** <br/>
-A solid choice for all of the same reasons as the MK-5 above, with improved shell range for reliably engaging slower moving targets as they enter a backline unit's secondary range.
  - **[Triple 155mm (3rd Year Type)](https://azurlane.koumakan.jp/wiki/Triple_155mm_(3rd_Year_Type)#Type_3)** <br/>
  Relatively weak at interception, thanks to its short range, non-zero volley time, and low shell density. However, it's a very accessible gun with a high FP boost, making it a useful gun in any situation where interception is non-concern, or the gun itself is capable of handling any incoming threats. In most situations, it is.
  - **[Twin 150mm SK C/26 Prototype](https://azurlane.koumakan.jp/wiki/Twin_150mm_(SK_C/28_Prototype))** | **[GEAR LAB EXCLUSIVE]** <br/>
