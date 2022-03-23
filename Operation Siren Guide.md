@@ -55,7 +55,11 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/w
 
 ## Overworld Map
 
-- **Ports**: Currently 4 ports are important (they are all Allied, blue coloured ports: NY City, Liverpool, Gibraltar and St. Petersburg). They have their own shops that refresh every 3 days. 2 of the ports will have Daily Missions posted **after you've finished the OpSi story (Chapter 4)**. It is recommended to unlock access to all 4 ports ASAP - you can return to the ports anytime once you've ventured to them at least once, even after a monthly reset. 
+*The overworld map.*
+![](https://i.imgur.com/1USikbu.jpeg)
+
+- **Ports**: Currently 4 ports are important (they are all Allied, blue coloured ports: NY City, Liverpool, Gibraltar and St. Petersburg). They have their own shops that refresh every 3 days. It is recommended to unlock access to all 4 ports ASAP - you can return to the ports anytime once you've ventured to them at least once, even after a monthly reset. 
+- **Daily Missions**: Every day, a set of Daily Missions are posted on the Daily Missions tab on the bottom right. Up to 12 missions can be accepted at any one time.
 - The overworld map is comprised of regions which cost AP to enter (story regions have red exclamation marks, cost 0 AP to enter and 0 AP to scan if allowed to do so). After clearing a story region, the game will force you to enter and clear the region normally - this comes with the associated AP cost for the region.
 - Explanations of on screen markers:
    - Red exclamation marks: Main story markers, follow this until you finish the story. Finishing story (Chapter 4) will unlock Daily Missions and access to Strongholds. More details are in the [Story Guide section](#story-guide).
@@ -267,14 +271,14 @@ Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with you
 #### Dangerous enemies (Mixed Recon/Main/Aviation Fleets)
 Boss fleets. Have specialized 'modules' that confer enemy buffs/fleet debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/wiki/Operation_Siren#Additional_effects).
 
-#### Stat Table for Stronghold/Abyssal/META boss: [Open this link in a new tab](https://i.imgur.com/pD5XHSI.png)
+#### Stat Table for Stronghold/Abyssal/META boss: [Open this link in a new tab](https://i.imgur.com/9SvzvKo.png).
 
 #### Stronghold:
 As detailed above, on each monthly OpSi reset you start with 2 spawned Strongholds, and one is added the next Monday up to a maximum of 3 on the map at one time. 
 
 These maps have a fixed difficulty which will prove troublesome unless you have well-equipped fleets, ~115 levelled ships, and the maximum effective adaptive tuning numbers of **188/188/144** to maximise your damage potential, and even then you can expect some measure of difficulty as enemies range from levels 122-128. . Strongholds drop lots of loot so it is recommended to tackle these maps when you feel ready to do so and you want to get as many OpSi materials as possible.
 
-There are 7 nodes present in a Stronghold. You spawn with 2 'controlled' nodes and 5 'siren' nodes. The 5 siren nodes are walled-off rooms and contain a miniboss inside with 2 entrances to the interior of the node, and there wil always be at least 1 'guard' mob blockading these entrances. These nodes will also sometimes feature some kind of weather anomaly that clears up upon miniboss defeat or deactivation through a weather control device inside the node. 
+There are 7 nodes present in a Stronghold. You spawn with 2 'controlled' nodes and 5 'siren' nodes. The 5 siren nodes are walled-off rooms and contain a miniboss inside with 2 entrances to the interior of the node, and there will always be at least 1 'guard' mob blockading these entrances. These nodes will also sometimes feature some kind of weather anomaly that clears up upon miniboss defeat or deactivation through a weather control device inside the node. 
 
 *The 2 friendly-controlled zones.*
 ![](https://i.imgur.com/EemIG03.png)
