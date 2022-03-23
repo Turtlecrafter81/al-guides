@@ -33,6 +33,13 @@ If you have any questions or comments, feel free to ~~post an issue on github,~~
 ```
 CHANGELOG
 ---------
+2022-03-23
+  updated Equipment and OpSi Guide
+    added Triple 305mm B-50
+	fixed links to wiki pages
+	updated CB section to reflect addition of Kronshtadt to the game
+	updated OpSi guide to reflect new Daily Missions
+	grammar fixes
 2022-01-11
   updated Auxiliary and Equipment Guides
     added Battle Tracto Max and Goldburn

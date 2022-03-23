@@ -30,7 +30,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/w
 - **"I'm not getting any EXP in OpSi, what gives?"** - Nodes in story regions and reinforcement (blue) enemy nodes give no EXP except for bosses (sometimes), and fights in OpSi do not cause any Morale or Affection changes as well. After clearing the story regions, the game will force you to enter and clear the region it was based on normally. This has an appropriate AP cost so don't be alarmed when you run out of AP and the game keeps asking you to refill.
 - **"What do the icons on bosses here mean, why does the game keep showing me a warning screen?"** - That warning screen just means you are fighting a boss fleet, it's a typical one but do take note of the buffs they get (A -50% shelling damage taken buff for the enemy means you will need torpedoes or planes to do effective damage to the boss, for example). Do be careful if the warning page shows that the enemy has an advantage in the first two adaptive stats - they'll hit MUCH harder while being insanely tanky.
 - **"AP Refill with Oil? Should I do that?"** -  The Oil:AP ratio is 10:1. You can refill up to 5 times a **WEEK**. Cost per refill requires 1000/1000/2000/2000/4000 oil in that order. You can also buy AP packs in port/Akashi shops with Supply Coins which effectively removes the need to refill with oil.
-- **"What is Meta Lab?"** - It's detailed in the [META Showdown section](#meta-showdown)
+- **"What is Meta Lab?"** - It's detailed in the [META Showdown section](#meta-showdown).
 - **"Why are Corruption 5 and 6 regions so hard?"** -  Likely because your current adaptive stats are low. Your adaptive stats will be compared to the enemy's -  every point difference is roughly 1% in your or the enemy's favour (Offense and Defense ranges from 70% - 130%, Tactics (healing) is 70% -100%). The recommended end-game stat line is  188/188/144, or 203/203/156 if you're looking to take on Arbiter battles. You will not gain any additional advantage against even the strongest enemies beyond the latter values.
 - **"What are star rewards? What are the 4<sup>th</sup> and 5<sup>th</sup> star requirements for this region, why are they all marked as '???' ?"** -  Because they are hidden requirements and sometimes dependent on RNG based events to boot. They'll eventually show when you repeatedly complete the region. The wiki has a section for starring requirements and rewards which you can search by name [here](https://azurlane.koumakan.jp/wiki/Operation_Siren_Exploration).
 - **"What should I do after finishing story?"** - Do at least one Stronghold when your adaptive stat is up to snuff. Refer to the [Stronghold Guide](#Stronghold) below. Simply put, you can go to port mid-Stronghold and your progress will be saved. Do your daily port missions, Strongholds, Abyssal Zones, Hidden Zones and clear all regions in that order.
@@ -41,7 +41,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/w
    - Order Button: found on the radar on the right side of the screen. All Orders (Fleet Deployment, Regroup and Rest, Request Recon, Submarine Support) all cost AP. Change fleet costs up to 99 AP, and slowly drains to 0 over 24 hrs. Regroup and Rest costs a static 50 and has a cooldown of 8 hrs between uses. Request Recon costs up to 10 AP and drains to 0 over 30 mins. Submarine Support costs up to 39 AP and reset to 0 over 1 hr.
    - Scanning Mode: A toggleable viewmode crucial to locate hidden caches and scan loot tiles. More details will be given in the Tile section below.
 - **Upon Sinking**: Any sunk ships will be revived with 10% of their HP and given the "Toll of War" debuff (Red wrench icon on the status bar on the left). This disables **ALL** skills for the sunken ship and can only be removed by using the Regroup and Rest or Fleet Deployment Orders in the Order tab or by repairing your ships in an Allied port. ***Healing a ship to full with repair kits will not remove the debuff.***
-- **Losing in combat**: Most major boss fights (Abyssal Zones and Strongholds) are multi-staged, meaning the damage you dealt will remain. When a fleet loses in combat (via timing out, flagship sinking or all vanguard ships sinking), it is given the "Low Resolve X" debuff (This debuff has 3 stackable levels) indicated by a cracked triangle - the more broken it is the stronger the debuff effect. Low resolve lowers FP, TRP, ASW, AVI, AA and EVA by 10% for Level I, 30% for Level II and 60% for Level III. Low Resolve can be removed by winning battles - **battles won by other fleets it also count** - or by using the Regroup and Rest or Fleet Deployment Orders. These are crucial for Abyssal Zone fights if your fleets are struggling. **Note that "Low Resolve X" debuffs will not be removed by repairing in an Allied port.**
+- **Losing in combat**: Most major boss fights (Abyssal Zones and Strongholds) are multi-staged, meaning the damage you dealt will remain. When a fleet loses in combat (via timing out, flagship sinking or all vanguard ships sinking), it is given the "Low Resolve X" debuff (This debuff has 3 stackable levels) indicated by a cracked triangle - the more broken it is the stronger the debuff effect. Low resolve lowers FP, TRP, ASW, AVI, AA and EVA by 10% for Level I, 30% for Level II and 60% for Level III. Low Resolve can be removed by winning battles - **battles won by other fleets also count** - or by using the Regroup and Rest or Fleet Deployment Orders. These are crucial for Abyssal Zone fights if your fleets are struggling. **Note that "Low Resolve X" debuffs will not be removed by repairing in an Allied port.**
 - You can change your fleets and meowfficers by tapping on the Order button (on the Radar to the right) then Fleet Deployment. **You can only use this when inside an Allied port map.**
 - Don't be afraid of retreating or restarting, you don't have morale or oil cost to worry about, restart as much as you want to get the outcome that you want. Also **AVOID** allowing your ships to sink in Abyssal Zones - your fleets can still recover from the "Low Resolve III" debuff that's inflicted upon a loss by taking out a generic enemy node inside an Abyssal Zone, but you cannot recover from the "Tolls of War" debuff without using Rest and Regroup lest you want to give up on the boss. Remember, you cannot leave and return to an Abyssal Zone, make your one shot count.
 
@@ -51,14 +51,18 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/w
 - As mentioned, the difference between yours and the enemy's stats will make up the respective modifiers: Offense affects the enemy's damage dealt TO YOUR ships, Survivability affects their HP and Tactics affects YOUR fleets' healing efficacy. Offense and Survivability modifiers range from 70-130% for the enemy's offensive power and HP respectively [you want both of these to be a 70% modifier for the enemy], and Tactics (healing efficacy) ranges from 70-100% [you want this one to be at 100% for YOU]. Generally speaking, both the Offense and Survivability stat are more beneficial than the Tactics stat - it's easier to down an enemy that doesn't hit as hard and has less health, rather than relying on in-battle heals you might not have.
 - C4 and C5 Abyssal Zone Sirens only have 60 and 90 Adaptive Tuning stats respectively, with C6 Abyssal Zone Sirens having 120 stats. 
 - Stronghold Sirens and Promoted Pawns have around 140-144 Adaptive Tuning stats.
-- To max out on your Adaptive tuning stat advantage against a given enemy, refer to the equation given [here](https://azurlane.koumakan.jp/wiki/Operation_Siren#Stat_modifier). The simple advice is to **aim for 188/188/144**.
+- To max out on your Adaptive tuning stat advantage against a given enemy, refer to the equation given [here](https://azurlane.koumakan.jp/wiki/Operation_Siren#Stat_modifier). The simple advice is to **aim for 188/188/144**, or **203/203/156** if taking on the Arbiter Battle.
 
 ## Overworld Map
 
-- **Ports**: Currently 4 ports are important (they are all Allied, blue coloured ports: NY City, Liverpool, Gibraltar and St. Petersburg). They have their own shops that refresh every 3 days. 2 of the ports will have Daily Missions posted **after you've finished the OpSi story (Chapter 4)**. It is recommended to unlock access to all 4 ports ASAP - you can return to the ports anytime once you've ventured to them at least once, even after a monthly reset. 
+*The overworld map.*
+![](https://i.imgur.com/1USikbu.jpeg)
+
+- **Ports**: Currently 4 ports are important (they are all Allied, blue coloured ports: NY City, Liverpool, Gibraltar and St. Petersburg). They have their own shops that refresh every 3 days. It is recommended to unlock access to all 4 ports ASAP - you can return to the ports anytime once you've ventured to them at least once, even after a monthly reset. 
+- **Daily Missions**: Every day, a set of Daily Missions are posted on the Daily Missions tab on the bottom right. Up to 12 missions can be accepted at any one time.
 - The overworld map is comprised of regions which cost AP to enter (story regions have red exclamation marks, cost 0 AP to enter and 0 AP to scan if allowed to do so). After clearing a story region, the game will force you to enter and clear the region normally - this comes with the associated AP cost for the region.
 - Explanations of on screen markers:
-   - Red exclamation marks: Main story markers, follow this until you finish the story. Finishing story (Chapter 4) will unlock Daily Missions and access to Strongholds. More details are in the [Story Guide section](#story-guide)
+   - Red exclamation marks: Main story markers, follow this until you finish the story. Finishing story (Chapter 4) will unlock Daily Missions and access to Strongholds. More details are in the [Story Guide section](#story-guide).
    - Green clipboards = Puzzle Portals and Daily Quest markers (any side missions that show up in the Information tab will be marked as such).
    - Yellow chests = Hidden Zone (A.K.A. Treasure Map, or Fractured Sea) are from activated Coordinate Loggers in your storage. These are alternate zones that will have you clear some rally points (tiles with red sparks) and rewards you with loot. Using the teleporter or EXIT button will move you back to the region your ships were in before you entered the Hidden Zone, but you cannot return upon exiting.
    - Gold coin icon = Rewards markers for AP chest/repair kits/Supply Coins (shown as rewards for regions you have yet to clear for the first time).
@@ -67,7 +71,7 @@ The Azur Lane EN Wiki has a [dedicated OpSi page](https://azurlane.koumakan.jp/w
    - Big Red Swirl = Strongholds (Level 124 - 128 enemies with 144/144/144 stat are found within, a **one-time 200 AP** cost is required to enter, but you can leave and re-enter freely for repairs at an Allied port. Only spawn after finishing story, can drop high quality loot (Rainbow materials).
 
 ## Shop Guide:
-- There are 3 main currency: Supply Coins, Special Item Tokens and Energy Storage Devices (ESDs). Tokens and ESDs are used in some mini-events.
+- There are 3 main currencies: Supply Coins, Special Item Tokens and Energy Storage Devices (ESDs). Tokens and ESDs are used in some mini-events.
 - Akashi's Shop (random spawn in region maps) sells the following:
    - Special Item Token packs: cost Supply Coins. Buy these always - Akashi sells them at a discounted rate compared to the port shops that results in a net gain in voucher value.
    - AP boxes: cost Supply Coins. Buy these if you want to grind more. Highly recommended but not mandatory since they do not get converted to vouchers.
@@ -189,7 +193,7 @@ The rocks will be removed after clearing all Siren Rally points.
 ![](https://i.imgur.com/SEGUhsJ.png)
 
 #### Anomaly Chest:
-Inconspicuous chest which MIGHT fill the entire 5x5 area with a random weather event when opened (Flaming Sea, Frigid Waters or Whirlpools) which will also hide scanning mode from other event (e.g 4 Matrix event's hidden matrix tile). So it is recommended to open this chest last. Anomaly chests can be detected using the radar and scanner as there will not be a yellow "loot" tile underneath the chest compared to regular chests.
+Inconspicuous chest which MIGHT fill the entire 5x5 area with a random weather event when opened (Flaming Sea, Frigid Waters or Whirlpools) if opened before Rally Points are cleared. However, opening the chest after clearing all Rally Points disables the trap entirely. It is therefore recommended to open this chest prior to leaving the Hidden Zone. Anomaly chests can be detected using the radar and scanner as there will not be a yellow "loot" tile underneath the chest compared to regular chests.
 
 ![](https://i.imgur.com/jUhDs4v.png)
 ![](https://i.imgur.com/w6krEyF.png)
@@ -267,14 +271,14 @@ Sirens move 5 tiles every 3 turns, plan ahead if you want to avoid them with you
 #### Dangerous enemies (Mixed Recon/Main/Aviation Fleets)
 Boss fleets. Have specialized 'modules' that confer enemy buffs/fleet debuff stats/defense making them harder or easier to kill with/without the proper damage type. The list of possible module buffs are [here](https://azurlane.koumakan.jp/wiki/Operation_Siren#Additional_effects).
 
-#### Stat Table for Stronghold/Abyssal/META boss: [Open this link in a new tab](https://i.imgur.com/pD5XHSI.png)
+#### Stat Table for Stronghold/Abyssal/META boss: [Open this link in a new tab](https://i.imgur.com/9SvzvKo.png).
 
 #### Stronghold:
 As detailed above, on each monthly OpSi reset you start with 2 spawned Strongholds, and one is added the next Monday up to a maximum of 3 on the map at one time. 
 
 These maps have a fixed difficulty which will prove troublesome unless you have well-equipped fleets, ~115 levelled ships, and the maximum effective adaptive tuning numbers of **188/188/144** to maximise your damage potential, and even then you can expect some measure of difficulty as enemies range from levels 122-128. . Strongholds drop lots of loot so it is recommended to tackle these maps when you feel ready to do so and you want to get as many OpSi materials as possible.
 
-There are 7 nodes present in a Stronghold. You spawn with 2 'controlled' nodes and 5 'siren' nodes. The 5 siren nodes are walled-off rooms and contain a miniboss inside with 2 entrances to the interior of the node, and there wil always be at least 1 'guard' mob blockading these entrances. These nodes will also sometimes feature some kind of weather anomaly that clears up upon miniboss defeat or deactivation through a weather control device inside the node. 
+There are 7 nodes present in a Stronghold. You spawn with 2 'controlled' nodes and 5 'siren' nodes. The 5 siren nodes are walled-off rooms and contain a miniboss inside with 2 entrances to the interior of the node, and there will always be at least 1 'guard' mob blockading these entrances. These nodes will also sometimes feature some kind of weather anomaly that clears up upon miniboss defeat or deactivation through a weather control device inside the node. 
 
 *The 2 friendly-controlled zones.*
 ![](https://i.imgur.com/EemIG03.png)
@@ -285,7 +289,7 @@ There are 7 nodes present in a Stronghold. You spawn with 2 'controlled' nodes a
 *Another siren-controlled zone with fog weather and 2 guard mobs.*
 ![](https://i.imgur.com/XfKGAa7.png)
 
-There will always be an Invader CL Siren reinforcement that spawns in one of the 2 zones you initially control after you clear 3 siren zones, which will capture that zone after 1-5 turns if not defeated. This reinforcement will spawn a chest upon defeat which gives a large amount of Tokens. 
+There will always be an Invader CL Siren reinforcement that spawns in one of the 2 zones you initially control after you clear 3 siren zones, which will capture the zone it spawns in after 1-5 turns if not defeated. This reinforcement will spawn a chest upon defeat which gives a large amount of Tokens. Note that failing to defeat the Siren before it captures the zone has no effect on the reward.
 
 ![](https://i.imgur.com/hmBLj2c.png)
 
@@ -334,12 +338,12 @@ Arbiter battles are the hardest content available to be challenged in Operation 
 
  
 *The NA Ocean Core Forward Base on the Overview Map.*
-![](https://i.imgur.com/6NPA0fs.jpeg)
+![](https://i.imgur.com/Bm1woCK.jpeg)
 
 *NA Ocean Core map. Note the white structure on the left - this is the Forward Base and serves as a port where you can heal your ships. No missions or shop items will be available through this base.*
 ![](https://i.imgur.com/yHO5RCq.jpeg)
 
-Initially, the Transference Device at the top of the area will be yellow, rather than the red ring shown in the image above. This indicates that the Arbiter Battle is currently at Normal difficulty. Upon defeating Arbiter Battle at Normal, the ring will turn red and the player will only have access to the Arbiter Battle at Hard difficulty. It does not cost the player any AP to access the Forward Base or the Transference Device. The differences between the two Arbiter Battle difficulties are listed below.
+Initially, the Transference Device at the top of the area will feature a yellow portal, rather than the red portal shown in the image above. This indicates that the Arbiter Battle is currently at Normal difficulty. Upon defeating Arbiter Battle at Normal, the ring will turn red and the player will only have access to the Arbiter Battle at Hard difficulty. It does not cost the player any AP to access the Forward Base or the Transference Device. The differences between the two Arbiter Battle difficulties are listed below.
 
 **Normal:** Damage done to Arbiter is permanent. The player may leave the battle region via the EXIT button in the bottom right of the screen to repair your ships at a port or change fleet compositions. On re-entering the battle, Arbiter's HP Pool will remain at the level the player had brought her down to previously. The player has unlimited attempts to bring her HP down to zero.
 
@@ -368,7 +372,7 @@ Arbiter Battles feature a *single* Arbiter type enemy at Level 130, akin to how 
 #### How to get your META ships
 META ships are Azur Lane's take on "alter" versions of ships, that are available for ~4 months of the year before they are cycled out for a new META ship, and as of writing there have been 3 META ships introduced (Hiryuu, Ark Royal, and Helena). These ships are distinct from their existing counterparts, have different skills, do not belong to their counterpart's faction, and have similar stats/weapon loadouts. Acquisition and enhancement of these ships is tied to OpSi gameplay. 
 
-META Showdown only unlocks after clearing chapter 1 of the OpSi story. After the initial story fight, you access META fights by collecting coordinate points to unlock a fight with the META ship of the season. The current META ship is Helena META (June 10 - September 9).
+META Showdown only unlocks after clearing chapter 1 of the OpSi story. After the initial story fight, you access META fights by collecting coordinate points to unlock a fight with the META ship of the season. You can see a list of META ships made available through META Showdown [here](https://azurlane.koumakan.jp/wiki/META_Lab#Synchronization_Rewards).
 
 Doing daily port missions, killing bosses, and collecting chests/loot spawns will reward coordinate points. Daily missions and collecting chests from secured zones are quick ways to accumulate points, but secured zones must be completely cleared in order to ensure they spawn a fresh set of enemies and chests the next time you enter. Accumulate 100 META Coordinate points to unlock your personal META fight, up to twice a day for a total of 200 points daily. 
 
@@ -392,12 +396,12 @@ To fully limit break a META ship, earning 25k Sync Points in a season is mandato
 *Helena META with 28k Sync Points.*
 ![](https://i.imgur.com/duCLONb.png)
 
-Levelling skills on META ships is different to regular ships. Instead of using skill books the whole way, you unlock a META's skills using 5 T3 (Gold) skill books of their respective type and level them up by doing tasks such as defeat 1 enemy, complete 1 commission, use that META fleet in OpSi, etc. There is a daily cap on the amount of skill exp that can be earned. In addition, you can level 1 skill from 3 different META ships at once. You *cannot*, however, level more than 1 skill per ship at any given time. 
+Levelling skills on META ships is different to regular ships. Instead of using skill books the whole way, you unlock a META's skills using 5 T3 (Gold) skill books of their respective type and level them up by doing tasks such as defeat 1 enemy, complete 1 commission, use that META fleet in OpSi, etc. There is a daily cap on the amount of skill exp that can be earned. In addition, you can level 1 skill from multiple different META ships at once. You *cannot*, however, level more than 1 skill per ship at any given time. 
 
 *Helena META's skill page, showing the tasks required to earn EXP.*
 ![](https://i.imgur.com/pum9GNo.png)
 
-Similarly, fortifying (enhancing) META ships is different to regular ships. The process uses unique fortification materials that can only be obtained from META reward tracks or OpSi blue port shops. There are 4 material types corresponding to the regular stats of FP, TRP, AVI, and RLD. These materials are then fed to the META ship to enhance her stats. 
+Similarly, fortifying (enhancing) META ships is different to regular ships. The process uses unique fortification materials that can only be obtained from META reward tracks or OpSi blue port shops. There are 4 material types corresponding to the regular stats of FP, TRP, AVI, and RLD. These materials are then consumed by the META ship to enhance her stats. 
 
 *The upgrade page to fortify Helena META.*
 ![](https://i.imgur.com/Xj6hCVq.png)
