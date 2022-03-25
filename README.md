@@ -35,6 +35,11 @@ If you have any questions or comments, feel free to ~~post an issue on github,~~
 ```
 CHANGELOG
 ---------
+2022-03-25
+  updated Equipment Guide
+    added Twin 135mm Model 1938
+	updated description for Twin 128mm/45 
+	grammar fixes
 2022-03-23
   updated Equipment and OpSi Guide
     added Triple 305mm B-50
