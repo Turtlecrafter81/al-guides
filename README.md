@@ -38,8 +38,8 @@ CHANGELOG
 2022-03-25
   updated Equipment Guide
     added Twin 135mm Model 1938
-	updated description for Twin 128mm/45 
-	grammar fixes
+    updated description for Twin 128mm/45 
+    grammar fixes
   updated Core Data Guide
     added VH Plate
 2022-03-23
