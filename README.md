@@ -13,11 +13,13 @@ Current recommended reading order for newbies:
 Other useful resources:
  - [Kawaii Five-O's ship tier guide](https://github.com/YourWaifuIsShip/Azur-Lane-Guides)
  - [pootatoast's dedicated submarine and ASW guide](https://azurlane.koumakan.jp/wiki/User:Itsfyh/Submarines)
- - [MajorProcrastinator's eHP calculator](https://github.com/MajorProcrastinator/Auto-eHP-Calc)
+ - (Outdated)[MajorProcrastinator's eHP calculator](https://github.com/MajorProcrastinator/Auto-eHP-Calc)
+ - [Mebot's eHP Charts](https://docs.google.com/spreadsheets/d/1HF6_hLEB8m_v0stp4DLGnIoDjgojvo7fjYz-cysjTMc/edit#gid=0)
  - [Bazzra's airstrike cooldown calculator](https://bazzra.github.io/)
  - [Enbayft's AL Repository](https://github.com/Enbayft/Random-AL-Stuff)
  - [Dimbreath's decompiled AL client source code](https://github.com/Dimbreath/AzurLaneScripts)
  - [Meowrin's Commonly used Nickname album](https://imgur.com/a/4wEvTQo)
+ - [Nerezza's Equipment Nickname Guide](https://docs.google.com/spreadsheets/d/e/2PACX-1vRi32cJUxFgwwSk9EmJ40TPJITLnMD4rFlzODCMtK0XVl7pTGaEy21RRGLWGOtq2Qkb3qRmUa4YTtxS/pubhtml#)
  - [Azur Lane Wiki](https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki)
  - [Azur Lane Enemy Data](https://al-data.github.io/enemies)
  
@@ -33,6 +35,13 @@ If you have any questions or comments, feel free to ~~post an issue on github,~~
 ```
 CHANGELOG
 ---------
+2022-03-25
+  updated Equipment Guide
+    added Twin 135mm Model 1938
+	updated description for Twin 128mm/45 
+	grammar fixes
+  updated Core Data Guide
+    added VH Plate
 2022-03-23
   updated Equipment and OpSi Guide
     added Triple 305mm B-50
