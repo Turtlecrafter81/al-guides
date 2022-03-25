@@ -35,7 +35,7 @@ This guide makes extensive use of the [Azur Lane Koumakan Wiki](https://azurlane
 [![138mm Single HE](/resources/138mm%20single%20gr_s.png)](https://azurlane.koumakan.jp/wiki/Single_138.6mm_(Mle_1929)#Type_3-0)
 [![130mm Twin](/resources/130mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/wiki/Twin_130mm_(B-2LM)#Type_3-0)
 [![114mm Twin](/resources/114mm%20twin%20gr_s.png)](https://azurlane.koumakan.jp/wiki/Twin_114mm_(QF_Mk_IV_Prototype))
-[![135mm Twin](/resources/Twin-135mm-Model-1938-gr_s.png)(https://azurlane.koumakan.jp/wiki/Twin_135mm_(Model_1938)#Type_3-0)
+[![135mm Twin](/resources/Twin-135mm-Model-1938-gr_s.png)](https://azurlane.koumakan.jp/wiki/Twin_135mm_(Model_1938)#Type_3-0)
 [![120mm Twin MkXI](/resources/Twin-120-QF-Mk-XI-gr_a.png)](https://azurlane.koumakan.jp/wiki/Twin_120mm_(QF_Mark_XI)#Type_0)
 [![128mm Twin GL](/resources/Twin-128mm-41-gr_a.png)](https://azurlane.koumakan.jp/wiki/Twin_128mm/45_SK_C/41)
 [![120mm Twin](/resources/Twin-120mm-QF-Mk-XII-gr_a.png)](https://azurlane.koumakan.jp/wiki/Twin_120mm_(QF_Mark_XII)#Type_3-0)
