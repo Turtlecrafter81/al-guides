@@ -35,6 +35,11 @@ If you have any questions or comments, feel free to ~~post an issue on github,~~
 ```
 CHANGELOG
 ---------
+2022-03-29
+  updated Equipment Guide
+    added Triple 152mm Model 1934
+    revised mainfleet CL gun ranks
+
 2022-03-25
   updated Equipment Guide
     added Twin 135mm Model 1938
