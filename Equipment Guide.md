@@ -138,6 +138,7 @@ As it was for vanguard interception, this gun's high alpha allows it to intercep
 [![150mm Twin TbtsK](/resources/Twin-150mm-TbtsK-gr_a.png)](https://azurlane.koumakan.jp/wiki/Twin_150mm_(TbtsK_C/36)#Type_3-0)
 [![Twin 150mm SK C/26 Prototype](/resources/Twin-150mm-C-28-proto-gr_b.png)](https://azurlane.koumakan.jp/wiki/Twin_150mm_(SK_C/28_Prototype)) 
 [![pr152mm Triple AP](/resources/Triple-152mm-BL-Mk-XXV-gr_b.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
+[![Triple 152mm Model 1934](/resources/Triple-152mm-Model-1934-gr_b.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(Model_1934)#Type_3-0)
 [![150mm Single SKC](/resources/Single-150mm-SK-C28-gr_b.png)](https://azurlane.koumakan.jp/wiki/Single_150mm_(SK_C/28)#Type_3-0)
 
   **Preface about CL guns as Vanguard Primaries:** For any vanguard ship that can choose between equipping a DD or CL gun, always equip them with a DD gun. DD calibre guns have higher damage per second, and their faster fire rate leads to faster barrages and/or skill procs. Refer to the DD section above.
@@ -154,16 +155,20 @@ As it was for vanguard interception, this gun's high alpha allows it to intercep
  The strongest CL AP gun in the game, at the cost of having a significantly slower reload speed compared to its competition. Does not have the perfect aim of the TbtsK above, but is an accurate gun nonetheless. Chiefly employed by CL AP specialists (Neptune, Edinburgh).
  - **[Triple 152mm BL Mark XXV Prototype](https://azurlane.koumakan.jp/wiki/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** <br/>
  Has an incredibly fast fire rate, the longest range of any CL gun and high base damage. However, its relatively wide spread for an AP gun may give it slight accuracy issues at the extremities of its target acquisition range. Chiefly employed by CL AP specialists (Neptune, Edinburgh). 
+ - **[Triple 152mm (Model 1934)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(Model_1934)#Type_3-0)** <br/>
+ The last of the three gold rarity CL AP guns. An event limited gun that doesn't bring anything remarkable to the table - it can, however, be used as a substitute to the other 2 CL AP guns listed above if the player happens to have copies on hand. Chiefly employed by CL AP specialists (Neptune, Edinburgh). 
  - **[Single 150 SK C/28](https://azurlane.koumakan.jp/wiki/Single_150mm_(SK_C/28)#Type_3-0)** <br/>
  The fastest firing CL gun. Only sees use on CLs who have exceptionally strong barrages when manual play is involved - however, said CLs would perform similarly (and more reliably) by selecting from the damage focused guns above.
 
 
 **Main Fleet Secondaries** <br/>
-[![pr152mm Triple AP](/resources/Triple-152mm-BL-Mk-XXV-gr_s.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
+
 [![Triple 155mm Kai](/resources/Triple-155mm-Kai-gr_s.png)](https://azurlane.koumakan.jp/wiki/Triple_155mm_(3rd_Year_Type)_Kai)
 [![152mm Triple (MK-5)](/resources/152mm%20triple%20MK-5%20gr_s.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(MK-5)#Type_3-0)
 [![155mm Triple](/resources/Triple-155mm-gr_s.png)](https://azurlane.koumakan.jp/wiki/Triple_155mm_(3rd_Year_Type)#Type_3-0)
 [![Twin 150mm SK C/26 Prototype](/resources/Twin-150mm-C-28-proto-gr_a.png)](https://azurlane.koumakan.jp/wiki/Twin_150mm_(SK_C/28_Prototype)) 
+[![pr152mm Triple AP](/resources/Triple-152mm-BL-Mk-XXV-gr_s.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
+[![Triple 152mm Model 1934](/resources/Triple-152mm-Model-1934-gr_a.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(Model_1934)#Type_3-0)
 [![pr152mm Triple HE](/resources/Triple-152mm-Mk-17-DP-gr_a.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
 [![152mm Triple HE](/resources/Triple-152mm-Mk-16-gr_a.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(6%22/47_Mk_16)#Type_3-0)
 [![152mm Twin AP](/resources/Twin-152mm-BL-Mk-XXII-gr_a.png)](https://azurlane.koumakan.jp/wiki/Twin_152mm_(BL_6%22_Mk_XXIII)#Type_3-0)
@@ -171,8 +176,7 @@ As it was for vanguard interception, this gun's high alpha allows it to intercep
 
  **Preface about CL guns as Main Fleet Secondaries:** The primary purpose of a backline ship's secondaries is for interception of fast moving (but fragile) suicide ships rather than slow moving ships that slip past the vanguard. The equipment here are ranked accordingly, while factoring in stat boosts.
 
- - **[Triple 152mm BL Mark XXV Prototype](https://azurlane.koumakan.jp/wiki/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** <br/>
- Has the longest range of any CL gun, coupled with a high firepower bonus that makes it the best auxiliary gun for general use.  
+
   - **[Triple 155mm (3rd Year Type) Kai](https://azurlane.koumakan.jp/wiki/Triple_155mm_(3rd_Year_Type)_Kai)** | **[GEAR LAB EXCLUSIVE]** <br/>
 A solid choice for all of the same reasons as the MK-5 below, with improved shell range for reliably engaging slower moving targets as they enter a backline unit's secondary range.
  - **[Triple 152mm (MK-5)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(MK-5)#Type_3-0)** <br/>
@@ -181,6 +185,10 @@ A solid choice for all of the same reasons as the MK-5 below, with improved shel
  Relatively weak at interception, thanks to its short range, non-zero volley time, and low shell density. However, it's a very accessible gun with a high FP boost, making it a useful gun in any situation where interception is non-concern, or the gun itself is capable of handling any incoming threats. In most situations, it is.
  - **[Twin 150mm SK C/26 Prototype](https://azurlane.koumakan.jp/wiki/Twin_150mm_(SK_C/28_Prototype))** | **[GEAR LAB EXCLUSIVE]** <br/>
 Confers the sought-after 45 FP boost while performing well enough as an interceptor under most situations. 
+  - **[Triple 152mm BL Mark XXV Prototype](https://azurlane.koumakan.jp/wiki/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))** <br/>
+ Has the longest range of any CL gun, coupled with a high firepower bonus that makes it a capable auxiliary gun for general use.  However, this gun's single volley alpha damage pales in comparison to its competition. While a non-factor for most situations where suicide ships are involved, it's worth noting if high alpha interception is a necessity - such as in W14.
+- **[Triple 152mm (Model 1934)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(Model_1934)#Type_3-0)** <br/>
+While a lacklustre main gun option, this gun is best employed as a reliable secondary gun capable of handling most situations while providing the standard 45 FP boost of most gold CL guns. 
  - **[Triple 152mm Mk 17 DP Prototype](https://azurlane.koumakan.jp/wiki/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))** <br/>
  Another gun with non-zero volley time which impacts its interception capabilities. Gives a split of FP and AA as well, further hampering its ability to contribute to FP which is often the more important stat for main fleet ships. Given its rarity and relatively weak interception qualities, it is better suited to its role as a quality CL main gun instead.
  - **[Triple 152mm Mk 16](https://azurlane.koumakan.jp/wiki/Triple_152mm_(6%22/47_Mk_16)#Type_3-0)** <br/>
