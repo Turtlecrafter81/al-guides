@@ -167,7 +167,7 @@ As it was for vanguard interception, this gun's high alpha allows it to intercep
 [![152mm Triple (MK-5)](/resources/152mm%20triple%20MK-5%20gr_s.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(MK-5)#Type_3-0)
 [![155mm Triple](/resources/Triple-155mm-gr_s.png)](https://azurlane.koumakan.jp/wiki/Triple_155mm_(3rd_Year_Type)#Type_3-0)
 [![Twin 150mm SK C/26 Prototype](/resources/Twin-150mm-C-28-proto-gr_a.png)](https://azurlane.koumakan.jp/wiki/Twin_150mm_(SK_C/28_Prototype)) 
-[![pr152mm Triple AP](/resources/Triple-152mm-BL-Mk-XXV-gr_s.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
+[![pr152mm Triple AP](/resources/Triple-152mm-BL-Mk-XXV-gr_a.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_Prototype_(BL_6%22_Mk_XXV))
 [![Triple 152mm Model 1934](/resources/Triple-152mm-Model-1934-gr_a.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(Model_1934)#Type_3-0)
 [![pr152mm Triple HE](/resources/Triple-152mm-Mk-17-DP-gr_a.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(Mark_17_Dual-Purpose_Prototype))
 [![152mm Triple HE](/resources/Triple-152mm-Mk-16-gr_a.png)](https://azurlane.koumakan.jp/wiki/Triple_152mm_(6%22/47_Mk_16)#Type_3-0)
