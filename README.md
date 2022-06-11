@@ -31,10 +31,18 @@ Credits:
 
 If you have any questions or comments, feel free to ~~post an issue on github,~~ (I'm bad at github, send help) contact me on discord (Moe#4063). I can be found on the Azur Lane English Community discord server and the Azur Lane Official discord server, just ping me.
 
+Alternatively, you can contact Straws#3361 instead. Can be found on similar channels.
+
 
 ```
 CHANGELOG
 ---------
+2022-06-11
+  updated Auxiliary Guide
+    added AFCT
+    revised submarine equipment section
+    added Hedgehog
+
 2022-03-29
   updated Equipment Guide
     added Triple 152mm Model 1934
