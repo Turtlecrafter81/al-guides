@@ -92,7 +92,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
  - **[Arctic Report/FP Report](https://azurlane.koumakan.jp/wiki/Intel_Report-Arctic_Stronghold)** provides moderate boosts to FP and HP. Useful for FP stacking on Destroyers, and damage reduction from Siren enemies in Operation Siren.
 
 **Gunnery Main Fleet Auxiliaries**<br/>
-[![AFCT](/resources/AFCT.png](https://azurlane.koumakan.jp/wiki/Admiralty_Fire_Control_Table)
+[![AFCT](/resources/AFCT.png)](https://azurlane.koumakan.jp/wiki/Admiralty_Fire_Control_Table)
 [![T1 Shell](/resources/t1%20shell%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Type_1_Armor_Piercing_Shell)
 [![SH Shell](/resources/sh%20shell%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Super_Heavy_Shell)
 [![HPFCR](/resources/hpfcr%20no_gr.png)](https://azurlane.koumakan.jp/wiki/High_Performance_Fire_Control_Radar)
@@ -201,7 +201,7 @@ As a general rule of thumb, for standard maps, your fleet will always contain at
 
  - **[Hedgehog](https://azurlane.koumakan.jp/wiki/Hedgehog)** provides the highest ASW boost amongst all offensive ASW gear, and also the highest possible damage in a single reload cycle. Limited to one copy per account.
 
-~~-**[Improved Sonar](https://azurlane.koumakan.jp/wiki/Improved_Sonar#Type_3)** provides a small accuracy boost,test the highest ASW stat boost as well as the fastest ping rate of the sonar line. Only one is needed to spot submarines. Only equippable on Destroyers and Light Cruisers (DDs and CLs).~~ *Note: An update to the ASW system in 2021 removed the need for DDs and CLs to equip Sonars in order to detect submarines. DDs and CLs now come with an inherent sonar that scales proportionally with the ships' ASW stat. There is no longer any real reason to use this equipment.
+ - ~~**[Improved Sonar](https://azurlane.koumakan.jp/wiki/Improved_Sonar#Type_3)** provides a small accuracy boost,test the highest ASW stat boost as well as the fastest ping rate of the sonar line. Only one is needed to spot submarines. Only equippable on Destroyers and Light Cruisers (DDs and CLs).~~ *Note: An update to the ASW system in 2021 removed the need for DDs and CLs to equip Sonars in order to detect submarines. DDs and CLs now come with an inherent sonar that scales proportionally with the ships' ASW stat. There is no longer any real reason to use this equipment.
 
  - **[Depth Charge](https://azurlane.koumakan.jp/wiki/Improved_Depth_Charge#Type_3)**  the only other ASW equip for vanguard ships. Essential to combat submarines effectively when submarines are a large threat (notably in W14). Only equippable on Destroyers and Light Cruisers (DDs and CLs).
 
