@@ -99,7 +99,7 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![T98 FDD](/resources/t98%20fdd%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Type_98_Delayed_Firing_Device)
 [![T91 Shell](/resources/t91%20shell%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Type_91_Armor_Piercing_Shell)
 
- - **[Admiralty Fire Control Table](https://azurlane.koumakan.jp/wiki/Admiralty_Fire_Control_Table)** an improved variant of the HPFCR below. Has identical first shelling cooldown reduction, also has significantly improved HIT boost, and additional reduction of main gun spread by 2 for the BB that has it equipped. *Note that only one AFCT or HPFCR can be equipped on a ship at any one time. They cannot both be equipped simultaneously.
+ - **[Admiralty Fire Control Table](https://azurlane.koumakan.jp/wiki/Admiralty_Fire_Control_Table)** is an improved variant of the HPFCR below. Has identical first shelling cooldown reduction, also has significantly improved HIT boost, and additional reduction of main gun spread by 2 for the BB that has it equipped. *Note that only one AFCT or HPFCR can be equipped on a ship at any one time. They cannot both be equipped simultaneously.
 
  - **[Type 1 Armour-Piercing Shell](https://azurlane.koumakan.jp/wiki/Type_1_Armor_Piercing_Shell)** provides a high FP boost and mild HIT boost. Additionally, it increases the damage dealt by any critical hit by a flat 25% value. The accuracy boost gives it a strong advantage over other FP-boosting auxiliaries.
  
