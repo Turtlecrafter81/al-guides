@@ -99,13 +99,15 @@ This guide for auxiliary equipment is split off from the rest due to the relativ
 [![T98 FDD](/resources/t98%20fdd%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Type_98_Delayed_Firing_Device)
 [![T91 Shell](/resources/t91%20shell%20no_gr.png)](https://azurlane.koumakan.jp/wiki/Type_91_Armor_Piercing_Shell)
 
- - **[Admiralty Fire Control Table](https://azurlane.koumakan.jp/wiki/Admiralty_Fire_Control_Table)** is an improved variant of the HPFCR below. Has identical first shelling cooldown reduction, also has significantly improved HIT boost, and additional reduction of main gun spread by 2 for the BB that has it equipped. *Note that only one AFCT or HPFCR can be equipped on a ship at any one time. They cannot both be equipped simultaneously.
+ - **[Admiralty Fire Control Table](https://azurlane.koumakan.jp/wiki/Admiralty_Fire_Control_Table)** is an improved variant of the HPFCR below. Has identical first shelling cooldown reduction, also has significantly improved HIT boost, and additional reduction of main gun spread by 2 for the BB that has it equipped. 
+ *Note that only one AFCT or HPFCR can be equipped on a ship at any one time. They cannot both be equipped simultaneously.*
 
  - **[Type 1 Armour-Piercing Shell](https://azurlane.koumakan.jp/wiki/Type_1_Armor_Piercing_Shell)** provides a high FP boost and mild HIT boost. Additionally, it increases the damage dealt by any critical hit by a flat 25% value. The accuracy boost gives it a strong advantage over other FP-boosting auxiliaries.
  
  - **[Super-Heavy Shell](https://azurlane.koumakan.jp/wiki/Super_Heavy_Shell)** has a very high FP boost and increases shelling critical chance by 8%. While the lack of an HIT boost makes it weaker overall than the Type 1 Armour-Piercing Shell, not being able to stack equipment skill effects means both shells used in a pair will generally be the highest damage boost for a battleship. 
  
- - **[High-Performance Fire Control Radar](https://azurlane.koumakan.jp/wiki/High_Performance_Fire_Control_Radar)** has stats similar but slightly superior to the standard FCR. It also reduces the reload time of the first round of shelling by 15%. Unlike the standard FCR, HPFCR cannot be equipped to heavy cruisers. Used on BBs for the reload reduction and appreciable FP and HIT stats. *Note that only one AFCT or HPFCR can be equipped on a ship at any one time. They cannot both be equipped simultaneously.
+ - **[High-Performance Fire Control Radar](https://azurlane.koumakan.jp/wiki/High_Performance_Fire_Control_Radar)** has stats similar but slightly superior to the standard FCR. It also reduces the reload time of the first round of shelling by 15%. Unlike the standard FCR, HPFCR cannot be equipped to heavy cruisers. Used on BBs for the reload reduction and appreciable FP and HIT stats. 
+ *Note that only one AFCT or HPFCR can be equipped on a ship at any one time. They cannot both be equipped simultaneously.*
  
  - **[Type 98 Firing Delay Device](https://azurlane.koumakan.jp/wiki/Type_98_Delayed_Firing_Device)** provides a moderate firepower boost and reduces the main gun's spread. It's similar in function to a fire control radar, trading the stat-based HIT boost for a physical accuracy boost to shells' spread radius in-game. Generally not worth using over other offensive aux.
  
