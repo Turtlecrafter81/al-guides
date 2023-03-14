@@ -26,7 +26,7 @@ For any given limit break, a ship will gain one or two perks and a boost to weap
  - **Fleet Ammo Capacity** - Increases the ammo capacity of a fleet with a repair ship. Will not stack. Unlike emergency repairs, this bonus is not lost if the repair ship sinks.
 
 ## When and Who to Limit Break
-As limit breaks increase fuel consumption, rationing limit breaks early game is well-advised, which begs the question who should you limit break? In terms of raw power increases, the strongest limit break perks are typically going to be main gun and plane increases, followed by preloaded strikes. Other limit break perks are going to be more utility focused rather than providing direct damage increases.
+In terms of raw power increases, the strongest limit break perks are typically going to be main gun and plane increases, followed by preloaded strikes. Other limit break perks are going to be more utility focused rather than providing direct damage increases.
 
 In general, your early game priorities should be limit breaking any active-use battleship once for the first increased main gun mount. Similarly, USN cruisers should be limit broken twice for their main gun mount. Other nations' cruisers can be left at low limit break levels for extended periods of time. Destroyers, similarly, can also be left at low limit break levels, but due to their generally strong torpedoes, limit breaking them twice for preloaded torpedoes can provide a substantial increase in fleet clearing capabilities.
 
